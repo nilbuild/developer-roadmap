@@ -5,6 +5,7 @@
   "private": true,
   "description": "Roadmap content for roadmap.sh",
   "scripts": {
+    "typecheck": "tsc --noEmit",
     "format": "prettier --write .",
     "sync:content-to-repo": "tsx ./scripts/sync-content-to-repo.ts",
     "sync:repo-to-database": "tsx ./scripts/sync-repo-to-database.ts",
