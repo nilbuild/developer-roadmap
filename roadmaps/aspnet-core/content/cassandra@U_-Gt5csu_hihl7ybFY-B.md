@@ -1,8 +1,6 @@
 # Cassandra
 
-Apache Cassandra is a free and open-source, NoSQL, distributed, wide-column store, and high-performance database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure. It is designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure.
-
-Cassandra is a column-family store and it stores data in a structured format, using tables and columns. It is based on a data model that is similar to that of Google's Bigtable, and it provides a query language that is similar to SQL.
+Apache Cassandra is a distributed NoSQL database designed to handle large amounts of data across many commodity servers while providing high availability with no single point of failure. In an ASP.NET Core environment, it is typically accessed using the DataStax C# Driver, which allows developers to execute CQL (Cassandra Query Language) statements to read and write data. This database structure is particularly effective for managing massive datasets that require fast write speeds and horizontal scalability across multiple data centers.
 
 Visit the following resources to learn more:
 

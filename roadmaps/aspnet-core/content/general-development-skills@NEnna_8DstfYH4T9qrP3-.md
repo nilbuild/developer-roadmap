@@ -1,20 +1,6 @@
-# General development skills
+# General Development Skills
 
-There are several skills that are generally considered to be important for working with .NET and C#:
-
-*   Object-oriented programming: Understanding the concepts of classes, objects, inheritance, and polymorphism is essential for working with C# and the .NET Framework.
-    
-*   C# language: A strong understanding of the C# language, including its syntax, keywords, and built-in classes and types, is necessary for writing efficient and maintainable code.
-    
-*   .NET Framework: Familiarity with the .NET Framework, including the Common Language Runtime (CLR) and the Base Class Library (BCL), is important for understanding how C# code is executed and for utilizing the framework's many built-in features.
-    
-*   Web & Software development: Knowledge of web development technologies such as HTML, CSS, JavaScript, and [ASP.NET](http://ASP.NET) is important for creating web applications using C# and the .NET Framework and knowledge of software development methodologies such as Agile, Scrum, or Waterfall is also useful.
-    
-*   Database: Familiarity with database concepts and technologies, such as SQL and [ADO.NET](http://ADO.NET), is important for working with data in C# applications.
-    
-*   Cloud computing: Familiarity with cloud computing concepts and technologies, such as Azure, is becoming increasingly important for deploying and scaling C# applications.
-    
-*   DevOps: Understanding of DevOps concepts and practices, such as continuous integration and continuous deployment, is necessary for automating and streamlining the software development process.
+General development skills represent the foundational knowledge and practices that enable a programmer to write, maintain, and troubleshoot software effectively. These skills include proficiency in version control systems like Git, a solid understanding of data structures and algorithms, and the ability to apply clean coding principles such as SOLID and DRY. Mastery of these fundamentals allows developers to work efficiently within team environments, manage complex codebases, and bridge the gap between architectural concepts and functional code.
 
 Visit the following resources to learn more:
 

@@ -1,8 +1,6 @@
-# Autofac
+# AutoFac
 
-Autofac is an open-source dependency injection framework for .NET. It is designed to make it easier to manage the dependencies of an application by automatically resolving and managing the lifetime of objects and their dependencies.
-
-Autofac uses a technique called "component registration" to define the objects and dependencies of an application. This is done by creating instances of the `ContainerBuilder` class and using its methods to register types, instances and factories. Then, the `Build()` method is called to create an instance of the `IContainer` interface, which can be used to resolve dependencies throughout the application.
+AutoFac is an inversion of control container for .NET applications that manages the dependencies between classes. It facilitates the loose coupling of components by automatically resolving and injecting required services into constructors or properties. Developers use AutoFac to configure complex object lifetimes, scan assemblies for registrations, and manage modular application structures more efficiently than the built-in ASP.NET Core container.
 
 Visit the following resources to learn more:
 

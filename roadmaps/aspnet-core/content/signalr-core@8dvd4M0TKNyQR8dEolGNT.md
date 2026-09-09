@@ -1,6 +1,6 @@
 # SignalR Core
 
-SignalR is a real-time communication library for .NET that allows for the creation of real-time web applications. SignalR Core is the latest version of SignalR, which has been rebuilt from the ground up to be cross-platform and lightweight. It allows for bidirectional communication between a client (such as a web page) and a server, enabling real-time updates, notifications, and other interactions. SignalR Core can be used in a variety of scenarios such as chat applications, gaming, and real-time dashboards. It supports multiple transports like WebSockets, Server-Sent Events and Long polling. It also supports for authentication and authorization.
+SignalR Core is a library that simplifies the process of adding real-time web functionality to applications by allowing server-side code to push content to connected clients instantly. It automatically manages connection management, such as handling sockets, while falling back to other compatible technologies like Server-Sent Events or Long Polling when necessary. This tool enables developers to create interactive features like live chat, dashboards, and real-time notifications by maintaining persistent connections between the server and the browser.
 
 Visit the following resources to learn more:
 

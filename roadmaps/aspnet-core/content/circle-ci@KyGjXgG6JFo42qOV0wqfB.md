@@ -1,8 +1,6 @@
 # CircleCI
 
-CircleCI is a cloud-based continuous integration and continuous delivery (CI/CD) platform that allows developers to automate the process of building, testing, and deploying code. It is a popular platform that supports a wide range of languages and frameworks, including [ASP.NET](http://ASP.NET).
-
-In [ASP.NET](http://ASP.NET), CircleCI can be used to automate various tasks related to the development, testing, and deployment of [ASP.NET](http://ASP.NET) applications. For example, you can use CircleCI to automatically build, test, and deploy an [ASP.NET](http://ASP.NET) application to a hosting provider, such as Azure or AWS, every time you push code to your source control repository.
+CircleCI is a cloud-based continuous integration and continuous delivery platform that automates the building, testing, and deployment processes for software applications. It utilizes configuration files defined in YAML to manage workflows, allowing developers to execute automated tests and push builds to various environments whenever code changes are committed to a repository. The platform integrates directly with version control systems like GitHub or GitLab to provide feedback loops and streamline the delivery pipeline for ASP.NET Core projects.
 
 Visit the following resources to learn more:
 

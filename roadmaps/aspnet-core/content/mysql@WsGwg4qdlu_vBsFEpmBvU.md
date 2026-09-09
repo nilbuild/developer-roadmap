@@ -1,8 +1,6 @@
 # MySQL
 
-MySQL is an open-source relational database management system (RDBMS) that is widely used in web and enterprise applications. It is developed, distributed, and supported by Oracle Corporation. MySQL provides a rich set of features to handle high-performance, high-availability, and high-scalability requirements of modern web applications.
-
-In an [ASP.NET](http://ASP.NET) application, MySQL can be used as the underlying database for storing and retrieving data. There are several libraries available for integrating MySQL with an [ASP.NET](http://ASP.NET) application, such as MySql.Data, Dapper and EF Core. These libraries provide a .NET client for MySQL, which can be used to interact with the MySQL database from within an [ASP.NET](http://ASP.NET) application.
+MySQL is an open-source relational database management system that organizes data into tables with predefined relationships. In an ASP.NET Core environment, it serves as a robust backend storage solution accessed through Entity Framework Core or direct database drivers. It uses Structured Query Language to manage, retrieve, and manipulate data efficiently while ensuring consistency and reliability for web applications.
 
 Visit the following resources to learn more:
 

@@ -1,8 +1,6 @@
 # Dapper
 
-Dapper is a lightweight object-relational mapper (ORM) for the .NET framework. It is designed to provide fast and simple access to data stored in a database, by mapping the data to objects in the application.
-
-Dapper helps you to write efficient and concise code for interacting with databases, without the need for a full-featured ORM like Entity Framework. It provides a set of extension methods for the IDbConnection interface, which you can use to execute SQL queries and map the results to strongly-typed objects.
+Dapper is a lightweight, open-source object-relational mapper for .NET that acts as a thin wrapper over the ADO.NET `IDbConnection` interface. It maps database query results directly to plain old CLR objects by executing raw SQL statements provided by the developer. This tool focuses on high performance and minimal overhead by avoiding the complex abstraction layers found in full-featured ORMs.
 
 Visit the following resources to learn more:
 

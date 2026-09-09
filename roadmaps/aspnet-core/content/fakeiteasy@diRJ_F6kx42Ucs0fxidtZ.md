@@ -1,6 +1,6 @@
-# FakeitEasy
+# FakeItEasy
 
-FakeItEasy is an open-source library for .NET that allows developers to create fake objects for use in unit testing, it is a powerful and easy-to-use mocking framework that provides a simple and intuitive syntax for creating fake objects and setting up fake behavior. In the context of [ASP.NET](http://ASP.NET), FakeItEasy can be used to create fake objects for testing web applications built using the [ASP.NET](http://ASP.NET) framework, it provides a simple and expressive syntax for creating fake objects and setting up fake behavior. FakeItEasy supports a wide range of testing frameworks, including MSTest, NUnit, and xUnit. FakeItEasy is lightweight and easy to use, making it a good choice for developers who are new to mocking and unit testing, it also provides a rich set of features, such as support for setting up fake behavior, making assertions on calls made to the fake objects, and more. It also has a wide range of extension points for customizing the fakes to suit different needs.
+FakeItEasy is a popular mocking library for .NET that allows developers to create fake objects for unit tests with a simple and readable syntax. It simplifies the process of stubbing methods, properties, and events, enabling you to isolate the code being tested from its dependencies. By providing a fluent API, it helps in defining the behavior of objects that are not yet implemented or are difficult to instantiate in a test environment.
 
 Visit the following resources to learn more:
 

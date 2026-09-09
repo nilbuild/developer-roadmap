@@ -1,8 +1,6 @@
 # Razor Pages
 
-Razor Pages is a feature of the [ASP.NET](http://ASP.NET) Core framework that allows developers to build web applications using a combination of Razor markup (a markup syntax for defining dynamic HTML) and C# code. Razor Pages is built on top of the [ASP.NET](http://ASP.NET) Core MVC (Model-View-Controller) framework, and provides a simpler, more intuitive way to build web pages and handle user input.
-
-Razor Pages are useful for building simple, self-contained web pages that do not require a complex navigation or layout structure, and are often used for building small to medium-size web applications.
+Razor Pages is a page-focused framework within ASP.NET Core that simplifies the process of building dynamic web interfaces by combining HTML with C# code. It uses a file-based routing system where each page consists of a `.cshtml` file for the view and a `.cshtml.cs` file for the page model, which handles the logic for handling requests and processing data. This approach keeps the code associated with a specific UI component bundled together, making it easier to manage and develop individual pages compared to the traditional Model-View-Controller pattern.
 
 Visit the following resources to learn more:
 

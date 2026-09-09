@@ -1,8 +1,6 @@
 # GitHub Actions
 
-GitHub Actions is a powerful and flexible automation platform that enables developers to create custom workflows for their software development lifecycle (SDLC) directly in their GitHub repository. It allows developers to automate various tasks, such as building, testing, and deploying code, directly from their GitHub repository.
-
-In [ASP.NET](http://ASP.NET), GitHub Actions can be used to automate various tasks related to the development, testing, and deployment of [ASP.NET](http://ASP.NET) applications. For example, you can use GitHub Actions to automatically build, test, and deploy an [ASP.NET](http://ASP.NET) application to a hosting provider, such as Azure or AWS, every time you push code to your GitHub repository.
+GitHub Actions is a continuous integration and continuous deployment platform that allows developers to automate their software workflows directly within a GitHub repository. It enables the creation of automated pipelines that build, test, and deploy ASP.NET Core applications whenever code changes are pushed. These workflows are defined using YAML files, which trigger specific tasks such as compiling the source code, running unit tests, and publishing artifacts to cloud environments like Azure or AWS.
 
 Visit the following resources to learn more:
 

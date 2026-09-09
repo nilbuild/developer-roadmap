@@ -1,8 +1,6 @@
 # Razor Components
 
-Razor Components is a feature of [ASP.NET](http://ASP.NET) Core that allows developers to build reusable, self-contained components that can be used across multiple pages or even multiple applications. Razor Components is built on top of the Razor view engine, which allows developers to define components using a combination of Razor markup and C# code.
-
-Razor Components are useful for building complex, dynamic, and reusable UI elements, such as forms, tables, or dialogs, and can be used to build both small and large-scale web applications.
+Razor Components are the fundamental building blocks of user interfaces in Blazor applications. They are reusable units that combine HTML markup with C# code to define how a part of a webpage should render and behave. These components are stored as files with a .razor extension and use a syntax that allows developers to integrate logic directly within the UI layout, enabling dynamic updates and event handling within the browser.
 
 Visit the following resources to learn more:
 

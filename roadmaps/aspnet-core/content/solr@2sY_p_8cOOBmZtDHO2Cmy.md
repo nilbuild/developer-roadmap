@@ -1,8 +1,6 @@
 # Solr
 
-Apache Solr is a search engine platform based on the Apache Lucene library. It is a standalone enterprise search server that provides a REST-like API for indexing, searching, and updating documents. Solr can be used to perform full-text search, faceted search, and geospatial search, among other things.
-
-Solr can be useful in [ASP.NET](http://ASP.NET) application to provide advanced search capabilities, such as full-text search, faceted search and geospatial search, which can be useful in e-commerce, content management systems, and logging and monitoring applications. It is known for its scalability, performance and its ability to handle large volumes of data with complex queries.
+Solr is an open-source, enterprise-level search platform built on top of the Apache Lucene library. It provides high-performance, full-text search capabilities, hit highlighting, and faceted search features for large-scale applications. Within an ASP.NET Core environment, developers interact with Solr to index and retrieve structured or unstructured data, enabling fast and complex query operations that go beyond the limitations of traditional relational database search functions.
 
 Visit the following resources to learn more:
 

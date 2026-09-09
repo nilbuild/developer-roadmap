@@ -1,8 +1,6 @@
-# Cloud
+# Cloud Databases in ASP.NET Core
 
-Cloud in the context of [ASP.NET](http://ASP.NET) refers to the use of cloud computing services to host and run [ASP.NET](http://ASP.NET) web applications. Cloud computing is a model of delivering computing resources (such as servers, storage, and applications) over the internet on a pay-per-use basis.
-
-In the case of [ASP.NET](http://ASP.NET), cloud providers such as Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP) offer services specifically tailored to host and run [ASP.NET](http://ASP.NET) web applications. These services include virtual machines, web roles, and serverless computing, which can be used to deploy and run [ASP.NET](http://ASP.NET) web applications in the cloud.
+Cloud databases are managed database services hosted on platforms like Azure, AWS, or Google Cloud that allow ASP.NET Core applications to store, retrieve, and manage data without maintaining on-premises physical servers. These services provide features such as automated backups, high availability, and horizontal scaling to handle varying workloads. Developers integrate these databases into their applications using connection strings and Entity Framework Core, which acts as an abstraction layer to communicate with cloud-based providers like Azure SQL Database, Cosmos DB, or PostgreSQL.
 
 Visit the following resources to learn more:
 

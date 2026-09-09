@@ -1,8 +1,6 @@
 # Object Mapping
 
-Object mapping in [ASP.NET](http://ASP.NET) refers to the process of converting an object of one type to an object of another type. This can be useful in a number of scenarios, such as when working with domain models and data transfer objects (DTOs) in a layered architecture, or when mapping between different versions of an object or different formats such as JSON and XML.
-
-There are several libraries available for object mapping in [ASP.NET](http://ASP.NET), such as AutoMapper, ExpressMapper, AgileMapper, AgileMapster and Mapster. These libraries provide a convenient and flexible way to map between objects, using a convention-based approach or a fluent API to configure more complex mappings. They also support for a wide range of mapping scenarios, including nested and circular object graphs, collections, and different types of inheritance.
+Object mapping is the process of automatically converting data from one object type to another, typically between domain models and data transfer objects (DTOs). It streamlines the development process by eliminating the need to write repetitive manual assignment code when moving data between different layers of an application. Libraries like AutoMapper are frequently integrated into ASP.NET Core projects to handle these transformations efficiently, ensuring that complex object structures remain synchronized across various parts of the system.
 
 Visit the following resources to learn more:
 

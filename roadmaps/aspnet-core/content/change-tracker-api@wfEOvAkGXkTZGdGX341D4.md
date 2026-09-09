@@ -1,8 +1,6 @@
 # Change Tracker API
 
-The Change Tracker API is a feature of ORM (Object-Relational Mapping) frameworks, such as Entity Framework Core, that allows developers to track changes to entities and automatically persist them to the database.
-
-The Change Tracker API is typically exposed through the context class, which is the main class that manages the connection to the database and provides access to the entities.
+The Change Tracker API is a feature within Entity Framework Core that monitors the state of entities loaded into the application's memory. It automatically detects modifications, additions, and deletions made to objects, keeping track of their current values compared to their original state. This mechanism allows the framework to determine which specific updates need to be synchronized with the database when the SaveChanges method is invoked.
 
 Visit the following resources to learn more:
 

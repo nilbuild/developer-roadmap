@@ -1,8 +1,6 @@
 # LiteDB
 
-LiteDB is a lightweight, open-source, NoSQL embedded document-oriented database engine for .NET and .NET Core. It uses a file-based storage system, meaning that the entire database is stored in a single file on disk. It uses a similar syntax to MongoDB, but it is designed to be simple and easy to use, and it does not require a separate server or installation.
-
-LiteDB supports data types like string, int, decimal, DateTime, and also supports binary data and serialized objects. It also supports LINQ, transactions, indexes and collections.
+LiteDB is a serverless, single-file NoSQL database engine written in .NET C#. It stores data in a BSON format, making it easy to manage document-based collections directly within an application without needing to install or configure an external database server. It provides a lightweight solution for small-scale projects, desktop applications, or mobile apps that require local data persistence with a simple API.
 
 Visit the following resources to learn more:
 

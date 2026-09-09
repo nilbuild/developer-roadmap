@@ -1,8 +1,6 @@
-# Relational
+# Relational Databases
 
-A relational database is a type of database that stores data in a structured format, using tables and relationships between them. It is based on the relational model, which organizes data into one or more tables, with each table consisting of a set of rows and columns.
-
-The main feature of a relational database is the ability to establish relationships between tables, using a feature called a foreign key. A foreign key is a column or set of columns in one table that is used to link to the primary key of another table. This allows data to be spread across multiple tables, but still be connected and easily accessed through these relationships.
+Relational databases are structured data storage systems that organize information into tables with rows and columns. They use a schema to define the relationship between data points and typically rely on Structured Query Language (SQL) to manage, query, and retrieve that data. In the ASP.NET Core ecosystem, developers frequently interact with these systems using Object-Relational Mapping tools like Entity Framework Core to bridge the gap between relational tables and object-oriented code.
 
 Visit the following resources to learn more:
 

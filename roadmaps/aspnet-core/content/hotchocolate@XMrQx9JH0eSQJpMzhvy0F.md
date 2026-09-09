@@ -1,8 +1,6 @@
-# Hot Chocolate
+# HotChocolate
 
-Hot Chocolate is a GraphQL server implementation for .NET and .NET Core. It is an open-source library that provides a simple and flexible way to build GraphQL APIs in [ASP.NET](http://ASP.NET).
-
-Hot Chocolate provides a set of classes and methods that make it easy to create a GraphQL schema, handle requests, and generate responses. It also provides a number of features to help with things such as validation, authorization, caching, and more.
+HotChocolate is a feature-rich, open-source GraphQL server framework for .NET that enables developers to build flexible APIs. It provides tools to define schemas, resolve data, and execute queries by sitting between your client applications and your underlying data sources. The framework integrates seamlessly with the ASP.NET Core ecosystem, allowing you to expose existing business logic as a strongly typed graph while supporting advanced capabilities like subscriptions, data loaders, and schema stitching.
 
 Visit the following resources to learn more:
 

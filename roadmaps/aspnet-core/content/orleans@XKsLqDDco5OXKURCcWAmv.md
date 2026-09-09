@@ -1,8 +1,6 @@
 # Orleans
 
-Orleans is an open-source virtual actor model framework for building distributed, high-scale, and low-latency applications in .NET. It is designed to make it easy to build and operate large-scale, distributed systems, such as cloud services, IoT applications, and gaming servers.
-
-One of the key features of Orleans is its use of the virtual actor model, which is a programming model that allows developers to write concurrent and parallel code in a way that is similar to writing single-threaded code. Orleans provides a set of abstractions for building stateful actors, which are similar to objects in object-oriented programming, that can be distributed across multiple machines. These actors can communicate with each other using message passing, and can be accessed remotely using a transparent proxy
+Orleans is a cross-platform framework for building robust, scalable distributed applications in .NET. It simplifies the development process by using a virtual actor model that allows developers to create stateful, distributed objects without needing to manage complex concurrency, persistence, or messaging concerns manually. The runtime automatically handles the lifecycle, placement, and activation of these objects across a cluster of servers, making it well-suited for high-throughput systems like gaming backends, real-time analytics, and chat applications.
 
 Visit the following resources to learn more:
 

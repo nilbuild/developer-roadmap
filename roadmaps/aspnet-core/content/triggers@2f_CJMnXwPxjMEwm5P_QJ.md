@@ -1,10 +1,6 @@
 # Triggers
 
-Triggers are special type of stored procedures that are automatically executed in response to specific events that occur within a database. These events can include:
-
-*   Data modification events (INSERT, UPDATE, DELETE) on a specific table or view.
-*   Data definition events (CREATE, ALTER, DROP) on specific database objects such as tables or views.
-*   Logon events (CONNECT, DISCONNECT) that occur when a user connects to or disconnects from the database.
+A trigger is a specialized type of stored procedure in a database that automatically executes in response to specific events on a particular table or view. These events typically include data modification actions such as inserting, updating, or deleting records. Database administrators and developers use triggers to enforce complex business rules, maintain audit trails, or ensure referential integrity across related data sets within the storage layer.
 
 Visit the following resources to learn more:
 

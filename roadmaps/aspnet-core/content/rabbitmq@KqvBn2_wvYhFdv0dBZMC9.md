@@ -1,8 +1,6 @@
 # RabbitMQ
 
-RabbitMQ is an open-source message broker software that implements the Advanced Message Queuing Protocol (AMQP). It is written in Erlang and can be used to send and receive messages between different applications in a loosely coupled, asynchronous manner. RabbitMQ supports a variety of messaging patterns, including point-to-point, publish-subscribe, and request-response.
-
-In the context of an [ASP.NET](http://ASP.NET) application, RabbitMQ can be used to send and receive messages to and from other systems. For example, it can be used to send messages from a web application to a background service, or to send messages between different microservices.
+RabbitMQ is an open-source message broker that acts as a middleware for services to communicate asynchronously by sending and receiving messages. In an ASP.NET Core microservices architecture, it enables decoupled communication by allowing one service to place a message into a queue without needing an immediate response from the receiver. It supports various messaging patterns, including publish/subscribe and request/reply, which helps ensure system reliability and scalability during periods of high traffic.
 
 Visit the following resources to learn more:
 

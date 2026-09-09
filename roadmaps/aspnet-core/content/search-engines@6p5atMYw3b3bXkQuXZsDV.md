@@ -1,8 +1,6 @@
 # Search Engines
 
-A search engine in an [ASP.NET](http://ASP.NET) application is a tool or module that allows users to search for and retrieve specific information from the application's database or other data sources. Search engines can be used to perform full-text search, faceted search, and geospatial search, among other things.
-
-Search engines can be integrated into an [ASP.NET](http://ASP.NET) application by using libraries or frameworks that provide a .NET client for interacting with the search engine. Some popular search engines that can be integrated with an [ASP.NET](http://ASP.NET) application include Elasticsearch, Apache Solr, Sphinx, and Microsoft Azure Search.
+Search engines in ASP.NET Core are specialized tools integrated into applications to provide fast, full-text search capabilities over large datasets. Unlike standard relational databases that primarily focus on structured data retrieval, these engines use indexing techniques to perform complex queries, rank results by relevance, and handle fuzzy matching. Developers typically connect ASP.NET Core applications to dedicated search platforms like Elasticsearch, Azure AI Search, or Meilisearch to improve the speed and efficiency of data discovery for end users.
 
 Visit the following resources to learn more:
 

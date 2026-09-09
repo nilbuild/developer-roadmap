@@ -1,6 +1,6 @@
 # xUnit
 
-xUnit is a unit testing framework for the .NET framework, it's an open-source testing framework that provides a set of attributes and classes that can be used to create unit tests. In the context of [ASP.NET](http://ASP.NET), xUnit can be used to write unit tests for web applications built using the [ASP.NET](http://ASP.NET) framework. xUnit provides features such as support for data-driven tests, support for parallel test execution, and support for test discovery and execution, it also provides support for test isolation which allows developers to run tests in isolation from each other. xUnit is a popular alternative to other testing frameworks like MSTest and it does not rely on a test runner, instead relies on a console runner that can be run from the command line.
+xUnit is a free, open-source, community-focused unit testing tool for the .NET framework. It follows a clean and developer-friendly design that isolates tests into individual methods, ensuring that each test run is independent and predictable. It provides a robust set of assertions and attributes that help developers verify that specific portions of code behave as expected during the development process.
 
 Visit the following resources to learn more:
 

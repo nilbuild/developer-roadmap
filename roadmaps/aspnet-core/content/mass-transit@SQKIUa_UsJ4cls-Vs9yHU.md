@@ -1,8 +1,6 @@
 # MassTransit
 
-MassTransit is an open-source, highly configurable service bus framework for building distributed systems using the .NET framework. It allows developers to easily create message-based, loosely-coupled applications by providing a simple and fluent API for defining message contracts, handling messages, and managing message routing.
-
-It supports multiple messaging transports such as RabbitMQ, Azure Service Bus, Amazon SQS and others, automatic serialization and deserialization of messages, automatic retries and exception handling for failed message deliveries, and support for advanced messaging patterns like publish-subscribe, request-response, and event-driven architectures.
+MassTransit is a free, open-source distributed application framework for .NET that simplifies the process of creating message-based applications. It acts as an abstraction layer over various message brokers, such as RabbitMQ or Azure Service Bus, allowing developers to focus on application logic rather than the underlying infrastructure. By providing built-in patterns for messaging, such as publish/subscribe, request/response, and routing, it helps manage complex communication between services in a distributed system.
 
 Visit the following resources to learn more:
 

@@ -1,10 +1,6 @@
-# API Clients
+# API Clients and Communication
 
-API clients in [ASP.NET](http://ASP.NET) are software libraries that allow applications to interact with external APIs. They provide a set of methods and classes that make it easy to send requests to an API and process the responses.
-
-API clients can be used to access a wide variety of services, such as web services, cloud services, and social media platforms. They can be used to perform tasks such as fetching data, posting updates, and deleting resources.
-
-API clients in [ASP.NET](http://ASP.NET) are typically built using the HttpClient class, which is part of the System.Net.Http namespace. This class provides a set of methods for sending HTTP requests and receiving HTTP responses.
+API clients in ASP.NET Core are components used to send HTTP requests to external web services and receive responses. The framework provides the `IHttpClientFactory` to manage the lifetime and configuration of `HttpClient` instances, which helps prevent socket exhaustion and DNS issues. Developers use these tools to consume RESTful endpoints, handle serialization of JSON data, and manage cross-service communication within a distributed application architecture.
 
 Visit the following resources to learn more:
 

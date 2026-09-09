@@ -1,6 +1,6 @@
 # Constraints
 
-Database constraints are rules that are used to limit the data that can be stored in a database table. These constraints can be used to ensure the integrity and accuracy of the data in the table, and they can be used to enforce business rules or other requirements. For example, a constraint might be used to ensure that a column only contains positive numbers, or to ensure that a column always has a unique value. Constraints can be specified at the time a table is created, or they can be added to an existing table. Some common types of constraints include primary keys, foreign keys, and NOT NULL constraints.
+Constraints are rules applied to columns in a database table to limit the type of data that can be inserted, ensuring accuracy and reliability. Common examples include Primary Keys, which uniquely identify each record, Foreign Keys, which maintain relationships between tables, and Unique constraints, which prevent duplicate values in a column. Additionally, Not Null constraints ensure that a field must contain a value, while Check constraints enforce specific logical conditions on the data. These rules are managed within the database schema to maintain the integrity of the information stored in the application.
 
 Visit the following resources to learn more:
 

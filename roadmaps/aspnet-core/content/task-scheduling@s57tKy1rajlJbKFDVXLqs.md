@@ -1,8 +1,6 @@
 # Task Scheduling
 
-Task scheduling in [ASP.NET](http://ASP.NET) refers to the process of scheduling and executing background tasks in an application. This can include tasks such as sending emails, processing data, generating reports, or performing maintenance tasks.
-
-In [ASP.NET](http://ASP.NET), task scheduling can be implemented using a variety of libraries and frameworks such as [Quartz.NET](http://Quartz.NET), Hangfire, Coravel and Microsoft's built-in IHostedService interface. These libraries and frameworks provide a way to schedule tasks to run at specific times or intervals, and also provide APIs for managing and monitoring the progress of scheduled tasks.
+Task scheduling in ASP.NET Core involves executing background operations at specific intervals or at designated times without requiring direct user interaction. This functionality is typically implemented using the `IHostedService` interface or the `BackgroundService` base class, which allow developers to run long-running processes within the application's lifecycle. These background tasks are useful for performing recurring operations such as sending automated emails, cleaning up databases, or synchronizing external data sources.
 
 Visit the following resources to learn more:
 

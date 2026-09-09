@@ -1,6 +1,6 @@
 # Testing
 
-Testing in [ASP.NET](http://ASP.NET) is the process of evaluating the performance, functionality, and overall correctness of an application developed using the [ASP.NET](http://ASP.NET) framework. There are several types of testing that can be performed on an [ASP.NET](http://ASP.NET) application, including unit testing, integration testing, acceptance testing and E2E testing. Each type of testing has a different focus and is used at a different stage of the development process. Common testing frameworks for [ASP.NET](http://ASP.NET) include MSTest, XUnit, NUnit, Selenium, Playwright, Puppeteer, Cypress, Specflow, Cucumber, and LightBDD.
+Testing in ASP.NET Core involves verifying that your application components function correctly and meet the specified requirements. Developers use various approaches such as unit testing to validate individual methods or classes, integration testing to ensure different modules work together seamlessly, and functional testing to evaluate the application from the user's perspective. These processes utilize testing frameworks like xUnit, NUnit, or MSTest along with built-in tools to automate the validation of business logic, database interactions, and API endpoints to maintain code reliability.
 
 Visit the following resources to learn more:
 

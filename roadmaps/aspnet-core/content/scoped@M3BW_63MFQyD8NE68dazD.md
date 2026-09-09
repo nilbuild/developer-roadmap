@@ -1,8 +1,6 @@
-# Scoped
+# Scoped Service Lifetime
 
-Scoped lifetime is a type of dependency injection that creates a new instance of an object for each unique request, but reuses the same instance for the same request. This means that if multiple components within the same request depend on the same service, they will all receive the same instance. However, if another request is made, a new instance of the service will be created for that request.
-
-Scoped lifetime is useful when you have services that are specific to a given request, such as a request-scoped database context. This allows you to have a separate and isolated instance of a service for each unique request, which can help to prevent cross-request contamination of data and improve performance.
+Scoped services are created once per client request within an ASP.NET Core application. When you register a service with a scoped lifetime, the framework generates a new instance for every individual HTTP request and shares that same instance across all components that process that specific request. This ensures that data remains consistent throughout the entire lifecycle of a single user interaction while preventing the service from persisting across different, unrelated requests.
 
 Visit the following resources to learn more:
 

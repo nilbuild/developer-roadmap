@@ -1,14 +1,6 @@
-# Lazy Eager Explicit Loading
+# Lazy, Eager, and Explicit Loading
 
-Eager Loading
--------------
-
-Eager Loading helps you to load all your needed entities at once; i.e., all your child entities will be loaded at single database call. This can be achieved, using the Include method, which returns the related entities as a part of the query and a large amount of data is loaded at once.
-
-Lazy Loading
-------------
-
-It is the default behavior of an Entity Framework, where a child entity is loaded only when it is accessed for the first time. It simply delays the loading of the related data, until you ask for it.
+Loading patterns in Entity Framework Core determine how and when related data is retrieved from the database when querying a primary entity. Eager loading fetches related data immediately as part of the initial query using the `Include` method. Lazy loading automatically retrieves related data from the database only at the moment a navigation property is accessed in the code. Explicit loading allows developers to manually trigger the retrieval of related data for an entity that has already been loaded, typically using the `Entry` API. Each approach offers a different trade-off between database round-trips and the amount of data transferred, allowing developers to optimize application performance based on specific data access requirements.
 
 Visit the following resources to learn more:
 

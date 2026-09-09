@@ -1,8 +1,6 @@
-# CI CD
+# CI/CD
 
-CI/CD (Continuous Integration/Continuous Deployment) is a software development practice that involves automating the process of building, testing, and deploying code changes. It is a popular practice among software development teams, as it helps to ensure that code changes are integrated, tested, and deployed quickly and reliably.
-
-In the context of [ASP.NET](http://ASP.NET), CI/CD can be used to automate various tasks related to the development, testing, and deployment of [ASP.NET](http://ASP.NET) applications. For example, you can use CI/CD to automatically build, test, and deploy an [ASP.NET](http://ASP.NET) application to a hosting provider, such as Azure or AWS, every time you push code to your source control repository.
+CI/CD stands for Continuous Integration and Continuous Deployment, representing a set of practices that automate the process of building, testing, and delivering software. Continuous Integration involves developers frequently merging their code changes into a central repository where automated builds and tests are executed to detect errors early. Continuous Deployment automates the release of these validated changes directly to production environments, allowing teams to deliver new features and bug fixes to users rapidly and reliably.
 
 Visit the following resources to learn more:
 

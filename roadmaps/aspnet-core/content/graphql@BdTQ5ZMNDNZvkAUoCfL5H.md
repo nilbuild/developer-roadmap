@@ -1,12 +1,10 @@
 # GraphQL
 
-GraphQL is a query language for your API that allows clients to define the structure of the data they need, and the server will return only the requested data. It is an alternative to RESTful web services, and it is gaining popularity because of its flexibility and efficiency.
-
-In [ASP.NET](http://ASP.NET), GraphQL can be used to create web services that expose data in a more flexible and efficient way. There are several libraries available to implement GraphQL in an [ASP.NET](http://ASP.NET) application, such as [GraphQL.NET](http://GraphQL.NET), Hot Chocolate, and others. These libraries provide a set of classes and methods that make it easy to create a GraphQL schema, handle requests, and generate responses.
+GraphQL is a query language for APIs that allows clients to request exactly the data they need from a server. It provides a structured approach to data fetching by using a single endpoint and a strongly-typed schema to define the available capabilities. This technology enables developers to combine multiple data sources into a unified interface, which prevents the problems of over-fetching or under-fetching information.
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated GraphQL Roadmap](https://roadmap.sh/graphql)
 - [@article@How to implement GraphQL in ASP.Net](https://blog.christian-schou.dk/how-to-implement-graphql-in-asp-net-core/)
 - [@article@Intro to GraphQL](https://graphql-dotnet.github.io/docs/getting-started/introduction/)
 - [@article@Developing API In .NET Core With GraphQL](https://www.c-sharpcorner.com/article/building-api-in-net-core-with-graphql2/)
-- [@feed@Explore top posts about GraphQL](https://app.daily.dev/tags/graphql?ref=roadmapsh)

@@ -1,6 +1,6 @@
 # Stored Procedures
 
-A stored procedure is a pre-compiled collection of SQL statements that can be executed on a database server. Stored procedures are typically used to perform specific tasks, such as retrieving data from a database, inserting or updating data, or performing complex calculations. They are stored on the database server and can be called or executed from a client application or other stored procedures. Stored procedures can improve database performance by reducing the amount of SQL code needed to be executed and allowing developers to reuse common pieces of code. They can also provide security by allowing database administrators to control which users have access to specific stored procedures.
+Stored procedures are prepared collections of SQL statements that are stored within a database to be executed as a single unit. When working with ASP.NET Core, these procedures allow developers to encapsulate complex logic and multiple queries on the database server side, which helps reduce the amount of data transferred between the application and the database. They are invoked by the application using command objects or Object-Relational Mapping tools like Entity Framework Core, providing a way to handle data operations securely and efficiently.
 
 Visit the following resources to learn more:
 

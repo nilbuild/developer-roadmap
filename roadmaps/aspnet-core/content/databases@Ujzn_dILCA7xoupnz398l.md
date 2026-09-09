@@ -1,14 +1,6 @@
 # Databases
 
-In an [ASP.NET](http://ASP.NET) application, there are several types of databases that can be used to store and retrieve data. Some of the most commonly used databases include:
-
-*   Relational databases
-*   NoSQL databases
-*   In-memory databases
-*   Embedded databases
-*   Cloud-based databases
-
-Each database type has its own set of features and use cases, and the choice of which database to use will depend on the specific requirements of the application.
+Databases in ASP.NET Core serve as persistent storage systems that allow applications to save, retrieve, and manage structured data. Developers typically interact with these systems using Entity Framework Core, an object-relational mapper that bridges the gap between database tables and C# objects. This setup enables applications to perform complex queries and transactions while maintaining a clear separation between the data access layer and the business logic of the application.
 
 Visit the following resources to learn more:
 

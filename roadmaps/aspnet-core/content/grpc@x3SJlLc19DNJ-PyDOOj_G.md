@@ -1,8 +1,6 @@
 # gRPC
 
-gRPC is a high-performance, open-source framework for building remote procedure call (RPC) APIs. It uses the Protocol Buffers data serialization format and the HTTP/2 protocol to create highly efficient and scalable APIs. gRPC supports a variety of programming languages, including C# and [ASP.NET](http://ASP.NET).
-
-In [ASP.NET](http://ASP.NET), gRPC can be used to create high-performance, low-latency APIs for a variety of use cases. gRPC allows for bi-directional streaming of data, which can be useful for real-time applications such as gaming, financial trading, and more.
+gRPC is a high-performance, open-source framework that uses HTTP/2 for transport and Protocol Buffers as a message format to enable communication between services. It allows a client application to directly call a method on a server application located on a different machine as if it were a local object. This technology is designed for low-latency, high-throughput communication, making it suitable for internal microservices and real-time streaming data.
 
 Visit the following resources to learn more:
 

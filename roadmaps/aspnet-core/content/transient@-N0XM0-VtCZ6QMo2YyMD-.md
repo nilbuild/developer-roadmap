@@ -1,8 +1,6 @@
 # Transient
 
-Transient lifetime is a type of dependency injection that creates a new instance of an object each time it is requested. This means that if multiple components within the same request or across different requests depend on the same service, they will each receive a new instance of the service.
-
-Transient lifetime is useful when you have services that are stateless and do not need to maintain any data between requests, such as a service that performs a simple calculation or returns data from a database.
+Transient services are created every time they are requested from the service container. This lifecycle is ideal for lightweight, stateless services because a new instance is provided for every controller or service that requires it. Since these objects are not shared across different parts of the application, they avoid issues related to shared state.
 
 Visit the following resources to learn more:
 

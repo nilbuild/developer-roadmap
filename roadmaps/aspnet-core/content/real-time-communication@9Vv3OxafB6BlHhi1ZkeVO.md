@@ -1,8 +1,6 @@
-# Real Time Communication
+# Real-Time Communication
 
-Real-time communication in [ASP.NET](http://ASP.NET) refers to the ability to send and receive data between a client and a server in real-time, typically with low latency. It allows the server to push updates to the client as they happen, instead of the client having to continuously poll the server for updates.
-
-There are several technologies and libraries available for implementing real-time communication in [ASP.NET](http://ASP.NET), such as WebSockets, SignalR, gRPC, and more.
+Real-time communication in ASP.NET Core is primarily handled through SignalR, a library that allows server-side code to push content to connected clients instantly. It facilitates bi-directional communication between the server and the browser, enabling features like live notifications, chat applications, and real-time data dashboards without requiring the client to constantly request updates.
 
 Visit the following resources to learn more:
 

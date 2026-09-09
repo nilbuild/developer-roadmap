@@ -1,12 +1,10 @@
 # PostgreSQL
 
-PostgreSQL, often simply "Postgres", is an open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance. It was originally developed at the University of California, Berkeley in the 1980s and is now maintained by the PostgreSQL Global Development Group.
-
-Postgres is known for its robustness and reliability, as well as its support for advanced features such as concurrency control, full-text search, and geospatial data. It is also highly extensible, allowing developers to create custom functions and operators in a variety of programming languages, including C, Python, and JavaScript.
+PostgreSQL is an open-source, object-relational database management system known for its reliability, feature robustness, and performance. Within the ASP.NET Core ecosystem, it serves as a powerful storage backend that integrates seamlessly with Entity Framework Core to handle complex data relationships and transactions. Developers often utilize the Npgsql provider to establish a direct connection between their applications and the database, allowing for efficient data querying, schema management, and persistent storage of structured information.
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated PostgreSQL DBA Roadmap](https://roadmap.sh/postgresql-dba)
 - [@official@Postgresql - Open Source Relational Database](https://www.postgresql.org/)
 - [@article@What is Postgresql?](https://postgresqltutorial.com/postgresql-getting-started/what-is-postgresql/)
 - [@article@Introduction, Advantages & Disadvantages of PostgreSQL](https://www.guru99.com/introduction-postgresql.html)
-- [@feed@Explore top posts about PostgreSQL](https://app.daily.dev/tags/postgresql?ref=roadmapsh)

@@ -1,6 +1,6 @@
 # Shouldly
 
-Shouldly is a .NET library that provides a set of extension methods for writing expressive and readable assertions in unit tests, it's designed to be an alternative to traditional assertion libraries. In the context of [ASP.NET](http://ASP.NET), Shouldly can be used in conjunction with test frameworks such as MSTest, xUnit, and NUnit to write more expressive and readable unit tests for the application. It provides advanced features such as support for collection-specific assertions, support for asynchronous code, and support for custom types, also includes options to customize the error message.
+Shouldly is an assertion library for .NET that focuses on providing human-readable error messages when tests fail. It replaces traditional assertion syntax with a fluent, natural language style, making it easier to understand exactly why a test did not meet your expectations. Instead of generic messages, it generates descriptive output based on the code being tested, which simplifies the debugging process for developers.
 
 Visit the following resources to learn more:
 

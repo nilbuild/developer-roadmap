@@ -1,8 +1,6 @@
 # Middlewares
 
-Middleware is software that sits between an operating system and application software, and facilitates communication and data exchange between them. In the context of web development, middleware refers to software components that handle requests and responses in a web application. These components are typically executed in a pipeline, with each component performing a specific task, such as authentication, logging, or routing.
-
-In the [ASP.NET](http://ASP.NET) Core framework, middleware is a key concept that is used to build web applications. Middleware components are added to the application pipeline using the `IApplicationBuilder` interface, and are executed in the order in which they are added. For example, an application might have middleware components for handling authentication, logging, and routing, in that order.
+Middleware is a component that is assembled into an application pipeline to handle HTTP requests and responses. Each component in the pipeline decides whether to pass the request to the next component or perform actions before and after the next component is invoked. These components are executed in the order they are added to the pipeline, allowing developers to manage tasks such as authentication, logging, and routing efficiently.
 
 Visit the following resources to learn more:
 

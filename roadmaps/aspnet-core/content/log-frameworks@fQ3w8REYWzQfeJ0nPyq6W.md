@@ -1,14 +1,6 @@
 # Log Frameworks
 
-In [ASP.NET](http://ASP.NET), log frameworks are libraries that provide a way to log and analyze data in an application. Some popular log frameworks for [ASP.NET](http://ASP.NET) include:
-
-*   Serilog
-*   NLog
-*   Log4Net
-*   ELMAH
-*   Microsoft.Extensions.Logging
-
-These are some of the most popular log frameworks in [ASP.NET](http://ASP.NET), each of them has its own set of features and use cases, and the choice of which log framework to use will depend on the specific requirements of the application.
+Log frameworks in ASP.NET Core provide a structured way to record application events, errors, and diagnostic information to various destinations such as the console, files, or cloud-based monitoring services. They integrate with the built-in `ILogger` abstraction, allowing developers to capture runtime data and filter messages based on severity levels like Information, Warning, or Error. These tools help maintain application health by ensuring developers can track execution flows and troubleshoot issues efficiently in production environments.
 
 Visit the following resources to learn more:
 

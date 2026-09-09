@@ -1,8 +1,6 @@
-# NUKE
+# Nuke
 
-NUKE (Build Automation for .NET) is an open-source build automation tool for .NET projects. It is designed to be simple, flexible, and extensible, making it easy to automate the build, test, and deployment process of your .NET projects.
-
-NUKE allows you to define your build process using a simple, declarative syntax, making it easy to understand and maintain. It provides a set of built-in tasks for common build actions, such as compiling, testing, and publishing, as well as a powerful extensibility model that allows you to add custom tasks and scripts.
+Nuke is a cross-platform build automation system that allows you to define your build processes using C#. It leverages the power of the .NET ecosystem to provide strongly typed build scripts, enabling you to manage complex tasks like compilation, testing, and deployment directly within your IDE. By treating your build configuration as code, it offers full IntelliSense support, easy debugging, and simple integration with various CI/CD pipelines.
 
 Visit the following resources to learn more:
 

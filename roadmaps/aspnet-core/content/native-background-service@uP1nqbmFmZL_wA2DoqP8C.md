@@ -1,8 +1,6 @@
 # Native Background Service
 
-A Native Background Service in [ASP.NET](http://ASP.NET) is a type of service that can run in the background on a device, without the need for an active user session. These services are typically used for tasks that need to run continuously, such as sending notifications, polling for updates, or processing data.
-
-In [ASP.NET](http://ASP.NET), a Native Background Service can be implemented using the IHostedService interface, which is part of the Microsoft.Extensions.Hosting namespace. This interface allows you to create a background service that can run continuously, even when the main application is not running.
+A Native Background Service is a class in ASP.NET Core that implements the `IHostedService` interface or inherits from the `BackgroundService` base class to execute long-running tasks in the background. These services run independently of the request-response cycle, allowing the application to perform periodic operations like data cleanup, message queue processing, or scheduled report generation. The framework manages the lifecycle of these services, ensuring they start when the application host begins and shut down gracefully when the host stops.
 
 Visit the following resources to learn more:
 

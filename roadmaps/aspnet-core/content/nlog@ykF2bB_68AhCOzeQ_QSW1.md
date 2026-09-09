@@ -1,8 +1,6 @@
 # NLog
 
-NLog is an open-source logging library for .NET applications, including [ASP.NET](http://ASP.NET). It is designed to be easy to use, highly configurable, and extensible, and it provides a number of features that help developers to log and analyze data in their applications.
-
-NLog is a powerful, flexible, and easy-to-use logging library that can be used in [ASP.NET](http://ASP.NET) applications to provide detailed log data. It allows developers to easily configure their logging pipeline, and to write log data to a variety of destinations, making it easier to analyze and troubleshoot issues in the application.
+NLog is a flexible and free logging platform for various .NET platforms, including ASP.NET Core. It allows developers to route log messages to multiple destinations, such as files, databases, or cloud services, based on configurable rules. By using a centralized configuration file, it enables fine-grained control over log levels and output formats without requiring changes to the application code.
 
 Visit the following resources to learn more:
 

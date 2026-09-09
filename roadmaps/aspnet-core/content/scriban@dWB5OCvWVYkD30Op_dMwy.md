@@ -1,6 +1,6 @@
 # Scriban
 
-Scriban is an open-source, lightweight template engine for .NET that is based on the Lua programming language. It is designed to be simple and easy to use, while still providing a powerful set of features for creating and manipulating templates. It provides a simple and easy-to-use API for parsing and rendering templates, and supports a wide range of features such as variables, loops, conditionals, and functions. It also provides a wide range of built-in functions for working with strings, numbers, dates, and other types of data, and also supports advanced features such as scripting and metaprogramming.
+Scriban is a fast, powerful, and safe text templating language and engine for .NET. It allows developers to define dynamic templates that can be parsed and rendered with custom data objects. Because it focuses on security and performance, it is often used for generating emails, reports, or dynamic HTML content within server-side applications.
 
 Visit the following resources to learn more:
 

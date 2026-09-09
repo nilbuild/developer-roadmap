@@ -1,12 +1,8 @@
-# Sql basics
+# SQL Basics
 
-SQL stands for Structured Query Language. SQL lets you access and manipulate databases SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987.
-
-Although SQL is an ANSI/ISO standard, there are different versions of the SQL language.
-
-However, to be compliant with the ANSI standard, they all support at least the major commands (such as SELECT, UPDATE, DELETE, INSERT, WHERE) in a similar manner.
+SQL (Structured Query Language) is a standard programming language designed for managing and manipulating data held in relational databases. It allows developers to perform essential operations such as retrieving data with queries, inserting new records, updating existing information, and deleting entries from database tables. By using SQL, applications can interact with database management systems to ensure data is stored, organized, and accessed efficiently.
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated SQL Roadmap](https://roadmap.sh/sql)
 - [@video@SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-- [@feed@Explore top posts about SQL](https://app.daily.dev/tags/sql?ref=roadmapsh)

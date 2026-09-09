@@ -1,8 +1,6 @@
-# Entity Framework Cache
+# Entity Framework 2nd Level Cache
 
-Entity Framework Core(EF Core) is a cross-platform version of the popular Entity Framework data access technology that is lightweight, extendable, and open source. It can be used as an object-relational mapper (O/RM), which can Allow .NET developers to use .NET objects to interact with a database and Removes the requirement for most of the data-access code that is generally required.
-
-However, during peak loads, high-transaction .NET Core apps using EF Core have performance and scalability problems in the database tier. This is because, although you can scale the application layer by adding more application servers, you can't scale the database tier by adding more database servers.
+Entity Framework 2nd Level Cache is a caching mechanism that stores the results of database queries in memory to reduce the number of redundant trips to the database. When an application requests data, the system first checks the cache; if the data is already stored there, it retrieves it directly, bypassing the database execution. This process significantly improves application performance and minimizes database load for frequently accessed, read-heavy data.
 
 Visit the following resources to learn more:
 

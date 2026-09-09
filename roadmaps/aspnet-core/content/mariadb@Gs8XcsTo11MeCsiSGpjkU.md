@@ -1,8 +1,6 @@
 # MariaDB
 
-MariaDB is an open-source relational database management system (RDBMS) that is a fork of the MySQL database. It is fully compatible with MySQL, but it also includes additional features and improvements. MariaDB is developed and maintained by the MariaDB Corporation and the MariaDB community, and it is widely used as a replacement for MySQL in many web and enterprise applications.
-
-In an [ASP.NET](http://ASP.NET) application, MariaDB can be used as the underlying database for storing and retrieving data. There are several libraries available for integrating MariaDB with an [ASP.NET](http://ASP.NET) application, such as MariaDB.Data, MySql.Data, and Dapper. These libraries provide a .NET client for MariaDB, which can be used to interact with the MariaDB database from within an [ASP.NET](http://ASP.NET) application.
+MariaDB is a community-developed, open-source relational database management system that serves as a binary-compatible drop-in replacement for MySQL. It uses structured query language to store, manage, and retrieve data within tables, maintaining a high level of performance and reliability. ASP.NET Core applications interact with MariaDB using connectors or Object-Relational Mappers like Entity Framework Core to execute database operations and manage data persistence.
 
 Visit the following resources to learn more:
 

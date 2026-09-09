@@ -1,8 +1,6 @@
-# Apache Kafka
+# Kafka
 
-Apache Kafka is an open-source, distributed event streaming platform that is used for building real-time data pipelines and streaming applications. It is designed to handle high volumes of data and to support real-time data processing.
-
-Kafka is based on a publish-subscribe model, where producers write data to topics, and consumers read data from those topics. Data is stored in topics in a log-based format, which allows for efficient storage and retrieval of data.
+Kafka is a distributed event streaming platform used to handle high-throughput data feeds and enable communication between decoupled services. It functions as a publish-subscribe messaging system where producers send records to topics and consumers read those records asynchronously. In an ASP.NET Core environment, it serves as a robust backbone for event-driven architectures, allowing different microservices to exchange messages reliably without being directly connected to one another.
 
 Visit the following resources to learn more:
 

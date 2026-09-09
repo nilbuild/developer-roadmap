@@ -1,8 +1,6 @@
 # Coravel
 
-Coravel is an open-source, lightweight library for .NET that allows you to easily perform background processing and scheduling in your [ASP.NET](http://ASP.NET) Core application. It provides a simple and elegant way to schedule tasks, run background jobs, and manage queues in your application.
-
-Coravel is inspired by Laravel's task scheduler and it's built on top of the .NET Core built-in Dependency Injection. It uses a fluent API to schedule tasks, allowing you to easily specify the frequency, start time, and end time of the task. It also provides a simple way to queue and process background jobs, allowing you to easily process large amounts of data or perform long-running tasks.
+Coravel is a library that provides a fluent and easy-to-use syntax for handling common application tasks within ASP.NET Core, such as task scheduling, queuing, and background processing. It acts as a lightweight wrapper around native .NET features, allowing developers to manage complex background operations without needing to configure external dependencies or complex infrastructure. By using its built-in service provider, you can define recurring tasks and event-driven processes directly within your application code.
 
 Visit the following resources to learn more:
 

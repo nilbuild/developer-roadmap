@@ -1,8 +1,6 @@
 # Dependency Injection
 
-Dependency injection (DI) is a software design pattern that is used to manage the dependencies of an application. It is a technique that allows developers to write loosely-coupled code, by separating the responsibility of creating and managing objects from the objects themselves.
-
-In a typical implementation, a DI container is used to manage the dependencies of the application. The container is responsible for creating and managing instances of objects and their dependencies, and providing them to other objects as needed.
+Dependency Injection is a software design pattern that allows a class to receive its dependencies from an external source rather than creating them internally. In ASP.NET Core, this pattern is built directly into the framework to manage the lifetime and instantiation of services throughout an application. By using this approach, components remain decoupled, making the codebase easier to test, maintain, and scale.
 
 Visit the following resources to learn more:
 

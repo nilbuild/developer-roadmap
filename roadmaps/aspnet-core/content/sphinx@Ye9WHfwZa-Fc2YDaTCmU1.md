@@ -1,8 +1,6 @@
 # Sphinx
 
-Sphinx is an open-source full-text search engine that can be used to index, search and analyze large volumes of data quickly and in near real-time. It is designed to handle high-traffic websites and large data sets and can be used for full-text search, faceted search, and geospatial search.
-
-In an [ASP.NET](http://ASP.NET) application, Sphinx can be integrated as a search engine to provide advanced search functionality to the application. There are several libraries available for integrating Sphinx with an [ASP.NET](http://ASP.NET) application, such as [SphinxQL.NET](http://SphinxQL.NET) and SphinxClient. These libraries provide a .NET client for Sphinx, which can be used to interact with the Sphinx engine from within an [ASP.NET](http://ASP.NET) application.
+Sphinx is an open-source, full-text search server designed to provide fast and relevant search results for large datasets. It functions as an external indexing engine that allows developers to perform complex searches across databases, XML files, or other data sources without overloading the primary database. By integrating Sphinx into an ASP.NET Core application, developers can implement advanced features like Boolean queries, ranking, and highlighting to handle high-performance search requirements.
 
 Visit the following resources to learn more:
 

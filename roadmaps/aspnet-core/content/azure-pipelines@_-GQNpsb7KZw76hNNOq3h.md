@@ -1,8 +1,6 @@
 # Azure Pipelines
 
-Azure Pipelines is a continuous integration and continuous delivery (CI/CD) platform that allows developers to automate the process of building, testing, and deploying code. It is a part of the Azure DevOps suite of tools and can be used to automate the software development process for various languages and platforms, including [ASP.NET](http://ASP.NET).
-
-In [ASP.NET](http://ASP.NET), Azure Pipelines can be used to automate various tasks related to the development, testing, and deployment of [ASP.NET](http://ASP.NET) applications. For example, you can use Azure Pipelines to automatically build, test, and deploy an [ASP.NET](http://ASP.NET) application to a hosting provider, such as Azure or AWS, every time you push code to your source control repository.
+Azure Pipelines is a cloud-based service that allows you to automatically build, test, and deploy your ASP.NET Core applications to any platform or cloud provider. It uses YAML configuration files to define continuous integration and continuous deployment workflows, which trigger automatically whenever you push code to your repository. This process automates the steps of compiling your code, running unit tests, and packaging your application into artifacts ready for deployment.
 
 Visit the following resources to learn more:
 
