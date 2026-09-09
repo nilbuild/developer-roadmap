@@ -1,12 +1,6 @@
 # Exception Handling
 
-Exception Handling in Java is one of the effective means to handle the runtime errors so that the regular flow of the application can be preserved. Java Exception Handling is a mechanism to handle runtime errors such as ClassNotFoundException, IOException, SQLException, RemoteException, etc.
-
-There are three types of exceptions -
-
-1.  Checked Exception - exceptions checked at compile time. Example - IOException
-2.  Unchecked Exception - exceptions checked at run time. Example - NullPointerException
-3.  Error - It is irrecoverable. Example - OutOfMemoryError
+Exception handling is a mechanism in Java used to manage runtime errors that disrupt the normal flow of an application. It utilizes a structured approach involving try, catch, and finally blocks to catch unexpected events, such as invalid user input or network failures, and respond to them gracefully. By separating error-handling code from regular business logic, it allows programs to maintain stability and continue execution or exit safely when a problem occurs.
 
 Visit the following resources to learn more:
 

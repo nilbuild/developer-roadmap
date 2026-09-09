@@ -1,11 +1,6 @@
-# Data Types and Variables
+# Data Types
 
-Variable in Java is a data container that stores the data values during Java program execution. Every variable is assigned a data type, which designates the type and quantity of values it can hold. Variable is a memory location name of the data. The Java variables have mainly three types: Local, Instance and Static.
-
-Data Types are divided into two group -
-
-*   Primitive - byte,short,int,long,float,double,boolean and char
-*   Non-Primitive - String, Arrays, Classes, Enums and Records
+Data types in Java specify the different sizes and values that can be stored in a variable. They are categorized into two main groups: primitive types, which include basic building blocks like integers, characters, and booleans, and non-primitive types, which include objects and arrays. Every variable in Java must have a declared data type to determine the kind of data it can hold and the operations that can be performed on it.
 
 Visit the following resources to learn more:
 

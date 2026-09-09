@@ -1,12 +1,6 @@
 # Conditionals
 
-Java has the following conditional statements:
-
-*   Use `if` to specify a block of code to be executed, if a specified condition is true
-*   Use `else` to specify a block of code to be executed if the same condition is false
-*   Use `else if` to specify a new condition to test; if the first condition is false
-*   Use `switch` to specify many alternative blocks of code to be executed
-*   Use `?,:` operator to specify one line condition
+Conditionals are programming constructs that allow a Java program to execute specific blocks of code based on whether a given boolean condition evaluates to true or false. These statements, such as `if`, `else if`, `else`, and `switch`, enable developers to control the flow of execution and make decisions within an application. By evaluating expressions at runtime, conditionals determine which path the program follows to handle different data scenarios or user inputs.
 
 Visit the following resources to learn more:
 
