@@ -6,4 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@GitHub Copilot Docs](https://docs.github.com/en/copilot)
 - [@official@Tutorials](https://docs.github.com/en/copilot/tutorials)
+- [@article@Claude Code vs GitHub Copilot: Which Should You Pick?](https://roadmap.sh/claude-code/vs-github-copilot)
 - [@video@Getting started with GitHub Copilot | Tutorial](https://www.youtube.com/watch?v=n0NlxUyA7FI)
