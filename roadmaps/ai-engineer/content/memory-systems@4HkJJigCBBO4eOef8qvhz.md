@@ -1,5 +1,5 @@
 # Memory Systems
- 
+
 Memory systems let an AI agent retain information across interactions instead of starting fresh every time. Short-term memory usually covers the current session, while long-term memory stores facts, preferences, or past decisions that persist across sessions. Common implementations combine a vector store for semantic recall with structured storage for facts that need to be retrieved exactly. Designing memory well involves deciding what to keep, how long to keep it, and how to summarize or discard information that is no longer useful.
 
 Visit the following resources to learn more:

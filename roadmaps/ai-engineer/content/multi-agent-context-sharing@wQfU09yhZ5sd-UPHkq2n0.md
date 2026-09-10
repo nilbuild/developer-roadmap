@@ -1,5 +1,5 @@
 # Multi-agent Context Sharing
- 
+
 Multi-agent context sharing covers how separate AI agents working on related tasks exchange the information each one needs. When one agent hands off a task to another, it has to pass along enough history and data for the second agent to continue without repeating work or losing important details. Poorly designed sharing can lead to agents working with outdated or incomplete pictures of the task, while passing too much context can waste tokens and slow the system down. Common approaches include shared memory stores, structured message passing between agents, and a coordinating agent that filters what each sub-agent receives.
 
 Visit the following resources to learn more:

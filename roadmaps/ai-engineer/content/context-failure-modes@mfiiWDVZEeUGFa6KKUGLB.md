@@ -1,5 +1,5 @@
 # Context Failure Modes
- 
+
 Context failure modes are the common ways a context pipeline can go wrong and degrade an agent's performance. These include context poisoning, where incorrect information gets included and treated as fact, context distraction, where too much irrelevant content pulls the model's attention away from what matters, and context rot, where accuracy drops as the amount of content grows even within the model's stated limits. Other failures include stale data that no longer reflects reality and conflicting information from different sources that the model cannot reconcile.
 
 Visit the following resources to learn more:

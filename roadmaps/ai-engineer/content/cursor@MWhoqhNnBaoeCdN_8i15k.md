@@ -6,4 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Cursor Docs](https://cursor.com/docs)
 - [@official@Cursor Learn](https://cursor.com/learn)
+- [@article@Claude Code vs Cursor: Which AI Coding Tool To Choose](https://roadmap.sh/claude-code/vs-cursor)
 - [@video@Cursor AI Tutorial for Beginners](https://www.youtube.com/watch?v=3289vhOUdKA)

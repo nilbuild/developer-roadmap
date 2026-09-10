@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Claude Code Roadmap](https://roadmap.sh/claude-code)
 - [@course@Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
-- [@official@Claude Code Overview](https://code.claude.com/docs/en/overview)
-- [@video@Introducing Claude Code](https://www.youtube.com/watch?v=AJpK3YTTKZ4)
+- [@article@Claude Cowork vs. Code vs. Chat: When to use each](https://roadmap.sh/claude-code/vs-cowork-vs-chat)
+- [@article@Vibe coding tutorial: Build your first app with Claude Code](https://roadmap.sh/vibe-coding/tutorial)

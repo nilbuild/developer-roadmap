@@ -4,6 +4,6 @@ Security and privacy concerns in AI revolve around the protection of data and th
 
 Visit the following resources to learn more:
 
-- [@article@Examining Privacy Risks in AI Systems](https://transcend.io/blog/ai-and-privacy)
 - [@course@AI Security Labs: OWASP LLM, Agentic and MCP Top 10](https://ransomleak.com/catalogue/ai-security/)
+- [@article@Examining Privacy Risks in AI Systems](https://transcend.io/blog/ai-and-privacy)
 - [@video@AI Is Dangerous, but Not for the Reasons You Think | Sasha Luccioni | TED](https://www.youtube.com/watch?v=eXdVDhOGqoE)
