@@ -177,7 +177,8 @@ cd developer-roadmap
 - Spread the word
 
 ## Thanks to all contributors ❤
-
+ - [Salik Hussain](https://github.com/salikhussain71-code) - Pakistan
+ 
  <a href = "https://github.com/nilbuild/developer-roadmap/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=nilbuild/developer-roadmap"/>
  </a>
