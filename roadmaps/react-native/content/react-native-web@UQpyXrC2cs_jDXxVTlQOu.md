@@ -1,8 +1,6 @@
-# React Native Web
+# React Native for Web
 
-React Native Web is an extension of React Native which allows you to run your React Native apps not only on iOS and Android devices, but also on the web. It uses the same components and APIs you're familiar with in React Native, but renders them into the DOM of a webpage instead of native UI elements.
-
-The main goal of React Native Web is to provide a consistent developer experience across platforms, reducing the effort needed to build and maintain multi-platform apps.
+React Native for Web is a library that allows developers to run React Native components and APIs on the web using React DOM. It maps React Native components, such as Views and Text, to their equivalent HTML elements, enabling the reuse of a single codebase across mobile and browser platforms. This integration ensures that styles and interactions defined in React Native are translated effectively into standard web technologies.
 
 Visit the following resources to learn more:
 

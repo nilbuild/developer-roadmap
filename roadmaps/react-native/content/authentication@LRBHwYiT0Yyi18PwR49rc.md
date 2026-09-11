@@ -1,10 +1,6 @@
 # Authentication
 
-Authentication is a crucial aspect of securing your React Native application. It enables you to verify the identity of users and give access to protected resources and features. Here are the common methods used for authentication in React Native:
-
-*   JWT Authentication
-*   OAuth
-*   Simple Token Authentication
+Authentication is the process of verifying the identity of a user before granting them access to specific features or data within a mobile application. In React Native, this typically involves managing secure user sessions through methods like OAuth, JWT (JSON Web Tokens), or biometric authentication. Developers integrate these systems to ensure that sensitive user information remains protected and that only authorized individuals can interact with private parts of the application.
 
 Visit the following resources to learn more:
 

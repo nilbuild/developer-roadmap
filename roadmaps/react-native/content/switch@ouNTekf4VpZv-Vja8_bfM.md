@@ -1,8 +1,6 @@
 # Switch
 
-A `Switch` is a core component in React Native used to implement a "toggle" or "on-off" input. It provides a UI for the user to switch between two different states, typically true or false. The primary use case is to enable or disable a feature or setting within an application.
-
-`Switch` component has a boolean `value` prop (true for on, false for off) and an `onValueChange` event handler, which is triggered whenever the user toggles the switch.
+A Switch is a visual component in React Native that provides a toggle interface for users to switch between two states, typically on and off. It functions as a controlled component, meaning it relies on a boolean value passed through properties to determine its current state and a callback function to handle changes when the user interacts with it. This component is commonly used in settings menus or forms where a binary selection is required.
 
 Visit the following resources to learn more:
 

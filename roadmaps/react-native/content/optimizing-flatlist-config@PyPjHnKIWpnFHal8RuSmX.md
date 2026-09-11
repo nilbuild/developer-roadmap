@@ -1,16 +1,6 @@
-# Optimizing FlatList Config
+# Optimizing Flatlist Config
 
-In React Native, the FlatList component is essential for efficiently displaying large lists of items, and optimizing its configuration is crucial for enhancing performance. Here are key tips for optimizing FlatList:
-
-1.  **Set `windowSize`**: Adjust the `windowSize` prop, which determines the number of pages rendered above and below the current view. Reducing this value from the default of 21 can decrease off-screen component rendering.
-    
-2.  **Enable `removeClippedSubviews`**: This prop unmounts components that are off-screen, helping to free up resources.
-    
-3.  **Adjust `maxToRenderPerBatch`**: Control the number of items rendered per batch with this prop, which defaults to 10. Tailor this value to fit your list's needs.
-    
-4.  **Set `initialNumToRender`**: This prop defines how many items to render initially, helping to prevent blank screens during loading.
-    
-5.  **Use `getItemLayout`**: By specifying the exact dimensions of each item with this prop, you can avoid dynamic measurements, leading to better performance.
+Optimizing Flatlist configuration involves fine-tuning the properties of the Flatlist component to improve scrolling performance and memory usage in large data lists. By leveraging props such as `initialNumToRender`, `maxToRenderPerBatch`, `windowSize`, and `removeClippedSubviews`, developers can control how many items are rendered at once and how off-screen elements are handled. Adjusting these settings reduces the workload on the JavaScript bridge and helps maintain a smooth frame rate during complex list interactions.
 
 Visit the following resources to learn more:
 

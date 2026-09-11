@@ -1,8 +1,6 @@
-# Styling
+# Styling in React Native
 
-Styling in React Native is accomplished through JavaScript and uses a subset of CSS properties. Unlike CSS in web development, React Native has its own set of components and styling rules. The main components used for styling are `StyleSheet`, `View`, and `Text`.
-
-`StyleSheet` is a module provided by React Native to manage and optimize styles. It is similar to a CSS stylesheet and helps in creating and working with multiple styles efficiently.
+Styling in React Native is handled using a system that closely resembles CSS but is implemented through JavaScript objects. Developers define styles using the `StyleSheet.create` method, which organizes layout properties such as flexbox, colors, and spacing to determine how components appear on the screen. Because React Native uses a subset of standard CSS properties, it relies heavily on the Flexbox layout engine to manage the positioning and alignment of elements within a mobile interface.
 
 Visit the following resources to learn more:
 

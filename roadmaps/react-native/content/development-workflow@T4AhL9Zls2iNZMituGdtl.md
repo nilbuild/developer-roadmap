@@ -1,6 +1,6 @@
 # Development Workflow
 
-React native has a decent guide on how to get started with development workflow.
+The development workflow in React Native involves a continuous cycle of writing code, testing components, and refining the user interface across both iOS and Android platforms. Developers typically utilize tools like Metro Bundler to compile JavaScript code in real-time, allowing for immediate feedback through features like Fast Refresh. This process integrates version control systems, debugging
 
 Visit the following resources to learn more:
 

@@ -1,8 +1,6 @@
-# Layouts in React Native
+# Layouts & Flexbox
 
-In React Native, layouts are primarily managed using the Flexbox styling system. Flexbox is a powerful and flexible layout system that allows you to create responsive and complex UIs using a set of simple rules.
-
-You can use these styles in various combinations to create flexible layouts in React Native. Flexbox makes it easy to create responsive UIs that adapt to changes in screen size or orientation. Note that some of these styles might not work as expected in React Native compared to in CSS for the web, but the overall concepts remain the same.
+Layouts and Flexbox in React Native provide a system for arranging elements on the screen. It is based on the CSS Flexbox algorithm, which allows you to define how components are positioned, spaced, and sized within a container. By using properties like `flexDirection`, `justifyContent`, and `alignItems`, you can create responsive designs that adapt to different screen sizes and orientations.
 
 Visit the following resources to learn more:
 
