@@ -4,4 +4,5 @@ C and C++ are both programming languages, with C++ evolving from C. C is a proce
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated C Programming Roadmap](https://roadmap.sh/c)
 - [@article@C++ vs. C: When (and when not) to use each language](https://roadmap.sh/cpp/vs-c)

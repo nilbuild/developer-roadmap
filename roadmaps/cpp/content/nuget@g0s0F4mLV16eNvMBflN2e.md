@@ -5,4 +5,4 @@ NuGet is a package manager initially designed for the .NET ecosystem, but it als
 Visit the following resources to learn more:
 
 - [@article@Creating Cross-Platform NuGet Package To Wrap Native C++ Libraries](https://medium.com/@yooonatan/creating-cross-platform-nuget-package-to-wrap-native-c-libraries-b2ee71c34164)
-- [@video@What is NuGet? | Nuget 101 [1 of 5]](https://www.youtube.com/watch?v=WW3bO1lNDmo)
+- [@video@What is NuGet? | Nuget 101 \[1 of 5\]](https://www.youtube.com/watch?v=WW3bO1lNDmo)

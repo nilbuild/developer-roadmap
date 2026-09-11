@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Learn C++](https://www.learncpp.com/)
 - [@video@C++ Tutorial for Beginners - Full Course](https://youtu.be/vLnPwxZdW4Y)
-- [@feed@Explore top posts about C++](https://app.daily.dev/tags/c++?ref=roadmapsh)

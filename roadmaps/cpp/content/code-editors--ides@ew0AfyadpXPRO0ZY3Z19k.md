@@ -5,4 +5,3 @@ Choosing the right code editor or IDE is a crucial first step for any C++ develo
 Visit the following resources to learn more:
 
 - [@article@Using C++ on Linux in VSCode](https://code.visualstudio.com/docs/cpp/config-linux)
-- [@feed@Explore top posts about General Programming](https://app.daily.dev/tags/general-programming?ref=roadmapsh)
