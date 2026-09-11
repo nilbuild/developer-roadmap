@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Spring Data](https://spring.io/projects/spring-data)
 - [@article@Spring Data – One API To Rule Them All?](https://www.infoq.com/articles/spring-data-intro/)
 - [@article@What is JPA, Spring Data and Spring Data JPA](https://www.amitph.com/jpa-and-spring-data-jpa/)
-- [@feed@Explore top posts about Spring Framework](https://app.daily.dev/tags/spring?ref=roadmapsh)

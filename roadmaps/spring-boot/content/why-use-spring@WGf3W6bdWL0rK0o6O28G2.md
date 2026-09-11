@@ -1,14 +1,6 @@
 # Why Spring
 
-Spring Boot provides a number of features that make it easier to create a Spring-based application, including:
-
-*   Embedded Application Server
-*   Automatic Configuration
-*   Pre-configured Starters
-*   Ease of Packaging and Distribution
-*   Ease of monitoring through built-in health check endpoint and the ability to customize the management endpoint.
-
-Additionally, it's come with a lot of best practices and conventions baked in, which reduces the amount of work and boiler plate code developers need to write.
+Spring reduces the complexity of building Java applications by handling object creation, dependency wiring, and configuration through its container. It offers a consistent programming model across web, data access, security, and messaging, so teams do not need to combine unrelated libraries by hand. Companies use it because it scales from small services to large enterprise systems while keeping code testable and loosely coupled.
 
 Visit the following resources to learn more:
 
@@ -16,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@Spring vs Spring Boot: Know The Difference](https://www.interviewbit.com/blog/spring-vs-spring-boot)
 - [@article@A Comparison Between Spring and Spring Boot](https://www.baeldung.com/spring-vs-spring-boot)
 - [@article@Advantages of Spring Boot](https://www.adservio.fr/post/advantages-of-spring-boot)
-- [@feed@Explore top posts about Spring Framework](https://app.daily.dev/tags/spring?ref=roadmapsh)

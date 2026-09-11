@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Spring Cloud](https://spring.io/projects/spring-cloud)
 - [@article@Spring Cloud – Bootstrapping](https://www.baeldung.com/spring-cloud-bootstrapping)
-- [@feed@Explore top posts about Cloud](https://app.daily.dev/tags/cloud?ref=roadmapsh)

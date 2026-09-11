@@ -5,6 +5,4 @@ Spring Security is a framework for securing Java-based applications. It is a pow
 Visit the following resources to learn more:
 
 - [@official@Spring Security](https://spring.io/projects/spring-security)
-- [@article@What is Spring security](https://www.javadevjournal.com/spring/what-is-spring-security/)
 - [@article@Spring Security: Authentication and Authorization In-Depth](https://www.marcobehler.com/guides/spring-security)
-- [@feed@Explore top posts about Security](https://app.daily.dev/tags/security?ref=roadmapsh)

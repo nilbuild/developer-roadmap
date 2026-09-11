@@ -1,6 +1,6 @@
 # Servlet
 
-A Spring servlet is a Java class that serves as the central point for handling requests and managing the lifecycle of the Spring IoC container. The Spring Framework provides a class called DispatcherServlet, which acts as the front controller in a Spring-based web application. When a user makes a request to a Spring web application, the DispatcherServlet is responsible for handling the request, delegating responsibility to other components, and ultimately returning a response to the user. The DispatcherServlet also manages the lifecycle of the Spring IoC container, including creating and initializing the container and making its beans available for use by other components in the application.
+A servlet is a Java class that handles requests and generates responses within a web server, following the Java Servlet API. It works by receiving an HTTP request from a servlet container, such as Tomcat, processing it through a `service` method, and writing back a response. Spring MVC builds on top of servlets, using a single central servlet, `DispatcherServlet`, to route requests to application code instead of requiring developers to write servlets directly.
 
 Visit the following resources to learn more:
 

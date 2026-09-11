@@ -1,18 +1,6 @@
 # Annotations
 
-One of the key features of Spring Boot is its use of annotations, which are used to configure various aspects of the application and to enable certain features.
-
-Some of the most commonly used annotations in Spring Boot include:
-
-*   `@SpringBootApplication`
-*   `@RestController`
-*   `@Autowired`
-*   `@Value`
-*   `@Enable`
-*   `@Configuration`
-*   `@Bean`
-
-These are just a few examples of the many annotations that are available in Spring Boot. There are many other annotations that you can use to configure various aspects of your application, such as security, caching, and data access.
+OAnnotations are metadata markers placed on classes, methods, or fields that tell Spring how to treat a piece of code, such as `@Component` to register a bean or `@Autowired` to inject a dependency. Spring Boot relies heavily on annotations to reduce configuration files, using ones like `@SpringBootApplication` to bootstrap an entire application with sensible defaults. They are processed at startup to wire beans, map requests, and configure behavior without extra boilerplate.
 
 Visit the following resources to learn more:
 
