@@ -1,12 +1,6 @@
-# SOLID
+# SOLID Principles
 
-SOLID is an acronym that stands for five principles of object-oriented software development, which were first introduced by Robert C. Martin in the early 2000s. These principles are:
-
-*   Single Responsibility Principle (SRP)
-*   Open/Closed Principle (OCP)
-*   Liskov Substitution Principle (LSP)
-*   Interface Segregation Principle (ISP)
-*   Dependency Inversion Principle (DIP)
+SOLID is a set of five design guidelines intended to make software designs more understandable, flexible, and maintainable. These principles include the Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle. Adopting these standards helps developers reduce code complexity, minimize tight coupling between components, and facilitate easier testing and future modifications. By applying these concepts, software systems become more robust and adaptable to evolving requirements.
 
 Visit the following resources to learn more:
 

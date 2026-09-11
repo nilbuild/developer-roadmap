@@ -1,11 +1,6 @@
 # Abstraction
 
-Abstraction is a concept in object-oriented programming (OOP) that refers to the process of hiding the implementation details of an object and exposing only its essential features. It enables the use of objects without the need to understand the underlying complexity of their internal structure and behavior.
-
-There are two types of abstraction:
-
-*   Data abstraction: refers to hiding the internal representation of data and providing a simplified view of the data through a set of well-defined interfaces.
-*   Behavioral abstraction: refers to hiding the internal behavior of an object and providing a simplified view of its capabilities through a set of well-defined interfaces.
+Abstraction is the process of hiding complex implementation details and showing only the essential features of an object to the user. It allows developers to interact with a simplified interface while the underlying logic remains encapsulated and separate. By focusing on what an object does rather than how it achieves its tasks, abstraction reduces programming complexity and prevents unnecessary exposure of internal operations.
 
 Visit the following resources to learn more:
 

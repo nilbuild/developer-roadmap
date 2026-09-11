@@ -1,8 +1,6 @@
 # Commands Queries
 
-The Command and Query Responsibility Segregation (CQRS) pattern is a technique used in enterprise application development to separate the responsibilities of handling command (write) operations and query (read) operations for performing actions that change the state of the system, such as creating, updating, or deleting data. These operations are handled by Command Handlers, which are responsible for validating the data and executing the appropriate business logic.
-
-Queries are used for retrieving data from the system, such as reading data from a database or a cache. These operations are handled by Query Handlers, which are responsible for executing the appropriate query and returning the data to the caller.
+The Command and Query Responsibility Segregation (CQRS) pattern separates operations that change a system's state, called commands, from operations that read data, called queries. A command performs an action such as creating or updating a record and returns no data, while a query returns data without producing any side effects. Keeping these two categories distinct clarifies the intent of each operation and makes it easier to scale or cache reads independently of writes.
 
 Visit the following resources to learn more:
 

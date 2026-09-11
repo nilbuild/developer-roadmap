@@ -1,8 +1,6 @@
 # Hollywood Principle
 
-The Hollywood Principle is a software development principle that states: "Don't call us, we'll call you." It suggests that high-level components should dictate the flow of control in an application, rather than low-level components.
-
-This principle is often used in the context of inversion of control (IoC) and dependency injection. In traditional software development, low-level components are responsible for creating and managing the high-level components that they depend on. With IoC, the high-level components dictate the flow of control, and the low-level components are created and managed by a separate mechanism.
+The Hollywood Principle is a design strategy that dictates that high-level components should control the flow of an application while low-level components are only called upon when needed. Instead of low-level modules actively polling or calling higher-level functions, the system informs the lower-level parts of the application when it is their turn to execute. This approach minimizes dependencies and prevents tight coupling, as lower-level modules do not need to know about the internal logic or the existence of the components that invoke them.
 
 Visit the following resources to learn more:
 

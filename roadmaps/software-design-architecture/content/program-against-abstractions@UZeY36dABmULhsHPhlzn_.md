@@ -1,8 +1,6 @@
-# Program Against Abstractions
+# Program against abstractions
 
-Programming against abstractions is a programming principle that suggests that code should be written in such a way that it is not tied to specific implementations, but rather to abstractions. This is accomplished by defining interfaces or abstract classes that define the behavior of a group of related classes without specifying their implementation.
-
-Programming against abstractions allows for more flexibility in the code. When changes are needed, they can be made to the implementation of the abstractions without affecting the code that uses them. This makes it easier to understand, test, and maintain the code.
+Programming against abstractions involves interacting with interfaces or abstract base classes rather than concrete implementations. This approach allows a system to remain decoupled from the specific details of how a task is performed, enabling developers to swap or modify underlying components without affecting the rest of the application. By focusing on what an object does rather than how it is specifically constructed, code becomes more flexible, easier to maintain, and simpler to test.
 
 Visit the following resources to learn more:
 

@@ -1,8 +1,6 @@
 # Domain Language
 
-A domain language is a specific vocabulary and set of concepts used to describe and communicate about a specific area of knowledge or business. In software development, a domain language is used to model the objects and concepts within a specific domain, and to capture the relationships and constraints between them.
-
-A domain language is used to provide a common understanding of the problem domain among all stakeholders, including developers, business analysts, and domain experts. It is also used to ensure that the software system accurately reflects the real-world problem it is intended to solve.
+Domain language refers to a specialized vocabulary and set of terms used by developers and domain experts to describe the specific concepts, processes, and rules of a business area. By establishing a shared vocabulary, it bridges the gap between technical implementation and business requirements, ensuring that the software design directly reflects the reality of the problem space. This approach relies on maintaining a consistent mapping between the code structure and the terminology used by stakeholders, which helps in creating a more intuitive and maintainable system.
 
 Visit the following resources to learn more:
 

@@ -1,8 +1,6 @@
 # CQRS
 
-CQRS (Command Query Responsibility Segregation) is an architectural pattern that is used to separate the responsibilities of reading and writing data in a software system. In a CQRS architecture, the system is divided into two separate parts: the command side and the query side.
-
-The command side is responsible for processing commands and updating the system's state, while the query side is responsible for reading the current state of the system and returning the results to the client. The command and query sides can use different data models, storage mechanisms, and even different technologies.
+Command Query Responsibility Segregation, or CQRS, separates the operations that change data, called commands, from the operations that read data, called queries, often using different models for each. This separation allows the read and write sides of a system to be optimized, scaled, and even stored independently. CQRS is often paired with event sourcing, since events naturally represent the commands that changed the system's state.
 
 Visit the following resources to learn more:
 

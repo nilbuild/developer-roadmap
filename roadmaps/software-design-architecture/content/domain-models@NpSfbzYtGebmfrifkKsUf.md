@@ -1,8 +1,6 @@
 # Domain Models
 
-Domain Models are a pattern used in enterprise application development to represent the business concepts and rules of a specific domain. They are typically used to model the problem domain, or the area of expertise of a specific business.
-
-A Domain Model is a collection of objects that represent the real-world concepts and entities of the domain. These objects are typically modeled as classes or types, and they encapsulate the data and behavior that is specific to the domain. They are responsible for representing the state and behavior of the business concepts they model, and for enforcing the rules and constraints of the domain.
+A domain model represents the concepts, rules, and relationships of a business domain within the software, combining data and behavior into objects like entities and value objects. It captures business logic directly in these objects rather than spreading it across separate procedural scripts. A rich domain model makes it easier to express complex business rules clearly and keep them consistent as the application grows.
 
 Visit the following resources to learn more:
 

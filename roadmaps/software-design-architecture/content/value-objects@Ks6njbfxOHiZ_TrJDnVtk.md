@@ -1,8 +1,6 @@
 # Value Objects
 
-Value Objects are a pattern used in enterprise application development to represent simple, immutable values that are used to model domain concepts. They are typically used to encapsulate data that is not an entity, but is important to the domain.
-
-A Value Object is defined by its value rather than its identity, meaning that two Value Objects with the same value are considered to be equal, regardless of their identity.
+A value object is an object defined entirely by its attributes rather than by a unique identity, meaning two value objects with the same attributes are considered equal. Examples include a date range, a monetary amount, or a coordinate pair. Value objects are typically immutable, so once created, their values do not change, which makes them easier to reason about and share safely across a codebase.
 
 Visit the following resources to learn more:
 

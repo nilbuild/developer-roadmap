@@ -1,5 +1,3 @@
 # Entities
 
-Entities are a pattern used in enterprise application development to represent the business concepts that have a unique identity and a lifetime. They are typically used to model real-world objects or concepts that have a distinct identity and a lifecycle, such as a customer, an order, or an account.
-
-An Entity is defined by its identity, meaning that two entities with the same identity are considered to be the same, regardless of their state. Entities usually have a unique identifier, such as a primary key, that is used to identify them. They also have an associated set of properties or attributes that describe their state.
+An entity is an object defined by a unique identity that persists over time, even as its attributes change. Two entities with identical attributes are still considered different if they have different identities, unlike value objects. Entities typically represent core business concepts, such as a customer or an order, and carry the identity needed to track and reference them throughout the system's lifecycle.

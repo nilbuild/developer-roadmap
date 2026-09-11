@@ -1,23 +1,6 @@
-# Tests Should Be Fast and Independent
+# Tests should be fast and independent
 
-Fast and independent tests are a cornerstone of reliable and maintainable software. They enable developers to run tests frequently, get quick feedback, and trust the results. When tests are slow or tightly coupled to each other or external systems, they become a bottleneck and reduce confidence in the codebase.
-
-Well-designed tests focus on validating behavior in isolation and execute quickly enough to be run as part of everyday development.
-
-Some of the key principles of fast and independent tests include:
-
-*   Speed: Tests should execute quickly so they can be run frequently during development.
-*   Independence: Each test should run in isolation and not depend on the outcome or state of other tests.
-*   Determinism: Tests should produce the same result every time they are run.
-*   Isolation: External dependencies (databases, APIs, file systems, time) should be mocked or stubbed.
-*   Single Responsibility: Each test should verify one behavior or scenario.
-*   Easy Setup and Teardown: Tests should have minimal and clear setup logic.
-*   Reliability: Tests should fail only when the code under test is broken, not due to environment issues.
-*   Automation Friendly: Tests should be easy to run in CI/CD pipelines without special configuration.
-*   Maintainability: Tests should be easy to read, understand, and update as the code evolves.
-*   Feedback-Oriented: Test failures should provide clear and actionable feedback.
-
-Fast and independent tests improve developer productivity, encourage refactoring, and act as living documentation for the system’s behavior.
+Tests should be fast and independent refers to the practice of ensuring that a test suite executes quickly and that each individual test can run in any order without relying on the state of another. Fast tests provide immediate feedback during development, encouraging developers to run them frequently throughout the coding process. Independence ensures that the outcome of one test does not affect the results of others, which prevents cascading failures and makes it significantly easier to isolate and debug specific issues when a test fails.
 
 Visit the following resources to learn more:
 

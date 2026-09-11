@@ -1,6 +1,6 @@
 # Distributed
 
-Distributed systems refer to the design and organization of software components that are distributed across multiple devices or locations, connected via a network, and work together to achieve a common goal. The main challenge in designing distributed systems is dealing with the inherent complexity that arises from the distribution of components and the communication between them, and it requires techniques such as load balancing, replication, and partitioning to improve scalability, fault-tolerance, and performance. Additionally, security and coordination are also important aspects of distributed systems.
+A distributed architecture spreads a system's components across multiple machines or networks that communicate to work as a single system. This approach improves scalability and fault tolerance, since the failure of one machine does not necessarily bring down the whole system. It also introduces challenges around network latency, data consistency, and coordination between nodes that a single-machine system does not face.
 
 Visit the following resources to learn more:
 

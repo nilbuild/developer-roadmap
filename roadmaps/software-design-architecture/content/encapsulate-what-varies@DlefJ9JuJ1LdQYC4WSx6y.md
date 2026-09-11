@@ -1,8 +1,6 @@
-# Encapsulate What Varies
+# Encapsulate what varies
 
-Encapsulate what varies is a programming principle that suggests that code should be organized in such a way that the parts that are likely to change in the future are isolated from the parts that are unlikely to change. This is accomplished by creating interfaces and classes that separate the varying parts of the code from the stable parts.
-
-Encapsulating what varies allows for more flexibility in the code. When changes are needed, they can be made to the encapsulated parts without affecting the rest of the code. This makes it easier to understand, test, and maintain the code.
+Encapsulate what varies is a fundamental design principle that suggests identifying the parts of an application that are likely to change and separating them from the parts that remain constant. By isolating volatile code behind stable interfaces or abstractions, developers can modify or extend functionality without disrupting the rest of the system. This practice reduces the impact of future changes and makes the codebase easier to maintain, as updates are confined to specific, well-defined modules rather than spread across the entire architecture.
 
 Visit the following resources to learn more:
 

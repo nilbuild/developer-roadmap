@@ -1,6 +1,6 @@
 # Architectural Styles
 
-Architectural styles are sets of principles and constraints that define the characteristics of a software system. They provide a vocabulary and a framework for describing common system properties such as structure, behavior, and interaction. These styles act as blueprints, offering reusable solutions to recurring design problems and guiding the organization of components and their relationships within a software architecture. Examples of architectural styles include layered architecture, microservices, and event-driven architecture, each with its own strengths and weaknesses that make it suitable for specific scenarios.
+Architectural styles are established approaches to organizing the high level structure of a software system, such as how components are distributed, how they communicate, and how they are deployed. Each style, like layered, client-server, or microservices, comes with its own trade-offs around scalability, maintainability, and complexity. Choosing a style shapes many later decisions in a project, including deployment strategy, team structure, and technology choices.
 
 Visit the following resources to learn more:
 

@@ -1,8 +1,6 @@
 # Abstract Classes
 
-An abstract class is a class in object-oriented programming (OOP) that cannot be instantiated. Instead, it serves as a template or blueprint for other classes to inherit from. An abstract class can contain both abstract and non-abstract methods (abstract methods are methods that do not have any implementation, they just have a signature).
-
-Abstract classes are used to provide a common interface and implementation for a group of related classes. They are also used to define common behavior that must be implemented by all subclasses. A subclass that inherits from an abstract class is called a concrete class, and it must provide an implementation for all the abstract methods declared in the parent class.
+An abstract class is a restricted base class that cannot be used to create objects. It serves as a blueprint for other classes, providing a common structure by defining methods that subclasses must implement. While it can contain fully functional methods, its primary purpose is to enforce a consistent interface and shared behavior across related objects in a system.
 
 Visit the following resources to learn more:
 

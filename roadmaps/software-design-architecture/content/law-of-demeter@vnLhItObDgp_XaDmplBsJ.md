@@ -1,34 +1,6 @@
 # Law of Demeter
 
-Also called “Principle of Least Knowledge”, it states:
-
-In Practice
------------
-
-*   Avoid chaining calls deep into the internals of other objects.
-*   Restrict communication to objects you directly manage.
-
-### 🔹 ❌ Bad Example (Violation)
-
-    // Controller
-    total = order.customer.address.getRegionTaxRate() * order.amount
-    
-
-### 🔹 ✅ Good Example
-
-    // Controller
-    total = order.calculateTotal()
-    
-
-🔹 Why It Matters
------------------
-
-*   **Reduces coupling** → fewer dependencies between classes.
-*   **Increases maintainability** → changes in one class don’t affect distant classes.
-*   **Improves readability** → clear boundaries of responsibility.
-
-🔹 Resources
-------------
+The Law of Demeter is a design principle that restricts how objects interact with one another to reduce system coupling. It suggests that a given method should only call methods belonging to its own class, objects created within the method, objects passed as arguments, or direct component objects. By limiting these interactions to "only talk to your immediate friends," the principle ensures that a module does not need to know the internal structure or the navigation path of the objects it interacts with. This approach makes code easier to maintain and refactor because changes to the internal implementation of one object do not propagate across the entire system.
 
 Visit the following resources to learn more:
 

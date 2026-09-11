@@ -1,8 +1,6 @@
 # Mappers
 
-Mappers are a pattern used in enterprise application development to provide a consistent and abstracted way to map between different data models. They act as an abstraction layer between the application and the data storage, providing a consistent and simple API for data transformation.
-
-A mapper is a component that can be used to convert data from one format or model to another. For example, a mapper can be used to convert data from a database model to a domain model, or from a domain model to a data transfer object (DTO).
+A mapper converts data between two different representations, such as translating a database row into a domain object or converting a domain object into a format suitable for an API response. This separation keeps the domain model free of persistence or transport concerns, since it does not need to know how it will be stored or transmitted. Mappers are often used alongside repositories and DTOs to keep each layer of an application focused on its own representation of data.
 
 Visit the following resources to learn more:
 

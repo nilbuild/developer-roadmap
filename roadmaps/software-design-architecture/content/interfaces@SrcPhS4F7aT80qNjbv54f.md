@@ -1,8 +1,6 @@
 # Interfaces
 
-In object-oriented programming (OOP), an interface is a contract or a set of methods that a class must implement. It defines a common set of methods that a class must provide, but it does not provide any implementation details. An interface can include both method signatures and constants.
-
-Interfaces are used to define a common behavior for a group of related classes, and to provide a way for objects of different classes to be treated polymorphically. A class that implements an interface must provide an implementation for all of the methods declared in the interface. A class can implement multiple interfaces, but can only inherit from one base class.
+An interface is a programming contract that defines a set of methods or properties that a class must implement without specifying how those members should function. It serves as a blueprint for classes, allowing developers to ensure that different objects adhere to a common structure regardless of their internal implementation. By decoupling the definition of behavior from the actual code, interfaces promote flexibility and allow for polymorphism, where different objects can be treated interchangeably as long as they satisfy the same interface requirements.
 
 Visit the following resources to learn more:
 

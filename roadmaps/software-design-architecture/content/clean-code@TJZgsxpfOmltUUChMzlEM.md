@@ -1,17 +1,6 @@
 # Clean Code Principles
 
-Clean code is code that is easy to read, understand, and maintain. It follows a set of principles that are designed to make the code more readable, testable, and less error-prone. Some of the key principles of clean code include:
-
-*   Clarity: The code should be easy to read and understand.
-*   Simplicity: The code should be as simple as possible, avoiding unnecessary complexity.
-*   Comments: Comments should be used sparingly and only when necessary to explain complex or non-obvious code.
-*   Naming: Variables, functions, and classes should have meaningful and descriptive names.
-*   Formatting: The code should be consistently formatted to improve readability.
-*   Functionality: The code should be organized into small, single-purpose functions and classes.
-*   Error handling: The code should handle errors in a consistent and predictable way.
-*   Testing: The code should be testable and have a high test coverage.
-*   Reusability: The code should be designed to be reusable and modular.
-*   Performance: The code should be designed to be efficient and performant.
+Clean code refers to code that is easy to read, understand, and modify, following practices like meaningful naming, small functions, and clear structure. It prioritizes clarity over cleverness, since code is read far more often than it is written. Writing clean code reduces the time needed to fix bugs or add features, and it makes collaboration easier when multiple developers work on the same codebase.
 
 Visit the following resources to learn more:
 
