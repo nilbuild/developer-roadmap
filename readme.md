@@ -51,6 +51,7 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [Data Structures and Algorithms Roadmap](https://roadmap.sh/datastructures-and-algorithms)
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - [AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
+- [AI Product Builder Roadmap](https://roadmap.sh/ai-product-builder)
 - [Network Engineer Roadmap](https://roadmap.sh/network-engineer)
 - [AWS Roadmap](https://roadmap.sh/aws)
 - [Cloudflare Roadmap](https://roadmap.sh/cloudflare)
