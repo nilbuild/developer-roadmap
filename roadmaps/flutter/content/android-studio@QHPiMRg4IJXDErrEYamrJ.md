@@ -1,14 +1,6 @@
 # Android Studio
 
-Android Studio is an IDE that can be used for developing Flutter applications as well as Android apps. Flutter is a UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. In Android Studio, developers can use the Flutter plugin to access a suite of tools specifically designed for Flutter development, including:
-
-*   Flutter widget inspector
-*   Flutter outline
-*   Flutter rendering tree
-*   Flutter performance tool
-*   Flutter layout explorer
-
-By providing a rich set of tools and features for Flutter development, Android Studio makes it easy for developers to build, test, and debug Flutter apps.
+Android Studio is the official integrated development environment for Android app development, built by Google on the JetBrains IntelliJ IDEA platform. It provides a comprehensive suite of tools for Flutter developers, including an advanced code editor, integrated debugging, performance profiling, and an emulator for testing applications. The environment includes the Flutter and Dart plugins, which enable seamless project management, hot reload support, and UI inspection tools directly within the workspace.
 
 Visit the following resources to learn more:
 

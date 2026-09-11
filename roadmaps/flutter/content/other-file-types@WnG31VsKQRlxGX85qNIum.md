@@ -1,11 +1,6 @@
-# Other File Types
+# Other File Types in Flutter
 
-In Flutter, you can work with different file types besides images. Some common file types that you can use in Flutter include:
-
-1.  Text files: You can read or write text files using the dart:io library.
-2.  JSON files: You can parse JSON data using the dart:convert library.
-3.  Audio and Video files: You can play audio and video files using the video\_player and audioplayers packages.
-4.  PDF files: You can display PDF files using the pdf package.
+Flutter allows you to include various file types in your application beyond standard images, such as JSON files, configuration files, fonts, or raw text documents. These assets are bundled within the application package and made accessible to the code through the root bundle mechanism. By registering these files in the pubspec.yaml file, you can load their contents at runtime to handle data processing, localized strings, or custom binary information required by your app.
 
 Visit the following resources to learn more:
 

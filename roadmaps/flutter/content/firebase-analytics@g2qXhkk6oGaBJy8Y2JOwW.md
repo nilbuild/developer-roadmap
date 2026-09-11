@@ -1,8 +1,6 @@
 # Firebase Analytics
 
-Firebase Analytics is a free analytics tool provided by Google that helps to understand user behavior and measure app performance for mobile apps, including those built with Flutter.
-
-With Firebase Analytics, Flutter developers can track user interactions with their app, including page views, events, and user properties, and use this data to gain insights into user behavior. Firebase Analytics provides a range of tools and features for analyzing this data, including real-time dashboards, user segmentation, and funnels.
+Firebase Analytics is a free analytics tool provided by Google that helps to understand user behavior and measure app performance for mobile apps, including those built with Flutter. With Firebase Analytics, Flutter developers can track user interactions with their app, including page views, events, and user properties, and use this data to gain insights into user behavior. Firebase Analytics provides a range of tools and features for analyzing this data, including real-time dashboards, user segmentation, and funnels.
 
 Visit the following resources to learn more:
 

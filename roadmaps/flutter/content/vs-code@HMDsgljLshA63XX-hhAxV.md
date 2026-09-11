@@ -1,18 +1,6 @@
 # VS Code
 
-VS Code is a lightweight, fast, and highly customizable code editor that provides excellent support for Flutter development. To use VS Code for Flutter development, you must install the Flutter and Dart plugins for VS Code. These plugins support Flutter-specific features such as syntax highlighting, debugging, and hot reloading.
-
-With the Flutter extension, VS Code provides essential development tools including:
-
-*   Flutter widget inspector
-*   Hot reload and hot restart
-*   Integrated debugging
-*   Code completion and IntelliSense
-*   Flutter outline view
-*   Device management
-*   Integrated terminal
-
-VS Code is particularly popular among developers who prefer a lightweight IDE with fast performance, extensive customization options, and cross-platform availability.
+VS Code is a lightweight but powerful code editor developed by Microsoft that provides comprehensive support for Flutter development. It includes a dedicated extension that offers essential features like code completion, syntax highlighting, and an integrated debugger to help developers build and test mobile applications efficiently. The editor also features a built-in terminal and a user-friendly interface for managing Flutter projects, packages, and device emulators.
 
 Visit the following resources to learn more:
 

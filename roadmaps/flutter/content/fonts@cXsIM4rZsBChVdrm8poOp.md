@@ -1,11 +1,6 @@
 # Fonts
 
-You can use custom fonts in your app by including the font file in your app's assets and specifying the font in your app's styles. To use a custom font:
-
-*   Add the font files to your app's assets folder.
-*   In your pubspec.yaml file, specify the fonts under the flutter section
-*   In your app's styles, specify the font family
-*   Use the font in a Text widget
+Fonts in Flutter are text styles used to define the visual appearance of characters within an application. You can incorporate custom typefaces by adding font files to your project assets and declaring them in the pubspec.yaml file. Once configured, these fonts can be applied globally through the theme or targeted specifically to individual text widgets to maintain a consistent brand identity throughout the interface.
 
 Visit the following resources to learn more:
 

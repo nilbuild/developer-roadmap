@@ -1,8 +1,6 @@
 # Working with Assets
 
-Assets are resources such as images, fonts, and other files that are included in your app. To use assets in Flutter, you need to specify them in your app's `pubspec.yaml` file and then access them in your code.
-
-The `pubspec.yaml` file is used to manage dependencies, assets, and other settings in your Flutter app. The `flutter` section is used to specify assets that should be included with the app. The path specified in the `assets` section should be relative to the `pubspec.yaml` file.
+Assets in Flutter are files that you bundle with your application, such as images, fonts, configuration files, or JSON data. You register these files in the `pubspec.yaml` file so the framework can include them in the final build. Once defined, you access these resources through the `AssetBundle` object, which provides methods to load the content for use within your widgets or logic.
 
 Visit the following resources to learn more:
 

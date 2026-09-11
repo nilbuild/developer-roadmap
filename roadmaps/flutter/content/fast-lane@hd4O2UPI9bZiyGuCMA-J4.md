@@ -1,8 +1,6 @@
-# Fast lane
+# Fastlane
 
-Fastlane is a third-party tool for automating the development and deployment process for mobile apps, including apps built with Flutter.
-
-Fastlane provides a suite of tools for automating tasks such as building, testing, and distributing apps. For example, fastlane can automate the process of building an app, creating a release candidate, and submitting the app to the app store.
+Fastlane is an open-source tool suite that automates the release process for mobile applications. It handles repetitive tasks such as generating screenshots, managing code signing identities, and deploying builds to the Apple App Store or Google Play Store. By integrating Fastlane into a Flutter project, developers can create streamlined pipelines that build and distribute apps with simple command-line instructions.
 
 Visit the following resources to learn more:
 

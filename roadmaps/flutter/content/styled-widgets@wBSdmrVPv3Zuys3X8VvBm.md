@@ -1,21 +1,6 @@
 # Styled Widgets
 
-Styled widgets in Flutter refer to widgets that are decorated with custom styles, such as colors, fonts, shapes, and visual properties. They help create consistent and visually appealing user interfaces by applying themes and styling across your application.
-
-Flutter provides two main design systems for styled widgets:
-
-*   **Material Widgets** - Google's Material Design components with built-in styling, animations, and theming
-*   **Cupertino Widgets** - Apple's iOS design language widgets that provide native iOS look and feel
-
-You can customize styled widgets through:
-
-*   **ThemeData** for app-wide styling and color schemes
-*   **Individual widget properties** like color, padding, and decoration
-*   **Custom themes** using ThemeExtension for reusable component styles
-*   **BoxDecoration** for borders, shadows, gradients, and backgrounds
-*   **TextStyles** for typography and font customization
-
-Styled widgets can be created by wrapping existing widgets with styling containers like Container, DecoratedBox, or Theme widgets, or by using the built-in styling properties of Material and Cupertino widgets.
+Styled widgets are a set of Flutter components designed to simplify the process of styling UI elements through method chaining. Instead of wrapping widgets in multiple parent containers like Padding, Align, or Container to adjust their appearance, you can directly call extension methods on the widget itself. This approach makes your code more readable, reduces the depth of the widget tree, and allows you to apply visual properties such as spacing, coloring, and positioning with minimal boilerplate.
 
 Visit the following resources to learn more:
 

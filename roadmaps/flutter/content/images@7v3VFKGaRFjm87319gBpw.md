@@ -1,12 +1,6 @@
 # Images
 
-In Flutter, you can display images using the `Image` widget. There are several ways to add an image to your app:
-
-*   Asset: Add the image to your app's assets and specify the asset path in the `Image` widget.
-*   Network: Display an image from a URL by specifying the URL in the `Image` widget.
-*   File: Display an image from a file by specifying the file path in the `Image` widget.
-
-The `Image` widget also accepts additional parameters such as `fit`, `width`, and `height` to control the size and scaling of the image.
+Images in Flutter are visual components used to display graphical content within an application's user interface. You can load these files from your project's local directory by declaring them in the pubspec.yaml file or fetch them directly from the network using a specific URL. The framework provides the Image widget, which handles the rendering, scaling, and alignment of these assets to ensure they display correctly across various device screen sizes.
 
 Visit the following resources to learn more:
 

@@ -1,8 +1,6 @@
 # Lambdas
 
-Lambdas, also known as anonymous functions, are a fundamental concept in Dart and Flutter. They are a way to create short, inline functions that can be passed as arguments to other functions or assigned to variables.
-
-Lambdas are defined using the `=>` operator and can take zero or more arguments. They can also contain expressions, statements, and return values.
+Lambdas, also known as anonymous functions, are a fundamental concept in Dart and Flutter. They are a way to create short, inline functions that can be passed as arguments to other functions or assigned to variables. Lambdas are defined using the `=>` operator and can take zero or more arguments. They can also contain expressions, statements, and return values.
 
 Visit the following resources to learn more:
 

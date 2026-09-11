@@ -1,10 +1,6 @@
-# JSON
+# JSON Serialization and Deserialization
 
-JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write and easy for machines to parse and generate. In Flutter, JSON is used for transmitting data between the client and server, typically over an HTTP connection.
-
-Flutter provides a number of libraries for working with JSON data, including the `dart:convert` library, which provides support for encoding and decoding JSON data.
-
-To encode a Dart object to a JSON string, you can use the `jsonEncode` function from the `dart:convert` library. To decode a JSON string to a Dart object, you can use the jsonDecode function.
+JSON serialization and deserialization is the process of converting Dart objects into JSON strings for network transmission and transforming JSON data received from an API back into usable Dart objects. In Flutter, this is typically handled by mapping data fields to class properties using the `json_serializable` package or by manually defining `fromJson` and `toJson` methods. This workflow ensures that raw data from web services is safely structured and type-checked before being used within an application.
 
 Visit the following resources to learn more:
 

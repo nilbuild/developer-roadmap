@@ -1,8 +1,6 @@
 # Mixpanel
 
-Mixpanel is a product analytics platform that provides insights into user behavior for mobile apps, including those built with Flutter.
-
-With Mixpanel, Flutter developers can track user interactions with their app, including page views, events, and user properties, and use this data to gain insights into user behavior. Mixpanel provides a range of tools and features for analyzing this data, including real-time dashboards, segmentation, and A/B testing.
+Mixpanel is a product analytics platform that provides insights into user behavior for mobile apps, including those built with Flutter. With Mixpanel, Flutter developers can track user interactions with their app, including page views, events, and user properties, and use this data to gain insights into user behavior. Mixpanel provides a range of tools and features for analyzing this data, including real-time dashboards, segmentation, and A/B testing.
 
 Visit the following resources to learn more:
 
