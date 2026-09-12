@@ -5,4 +5,4 @@ Google Play Services is a background service that provides core Google APIs to A
 Visit the following resources to learn more:
 
 - [@official@Google Play Services](https://developer.android.com/google/play-services)
-- [@official@Google Play Services Documentation](https://developer.android.com/google/play-services/overview.html)
+- [@official@Google Play Services Documentation](https://developers.google.com/android/guides/overview)
