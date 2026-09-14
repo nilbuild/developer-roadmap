@@ -1,6 +1,6 @@
 # RAG and Vector Databases
 
-RAG, short for Retrieval-Augmented Generation, lets an AI agent pull facts from stored data each time it answers. The data sits in a vector database. In that database, every text chunk is turned into a number list called a vector. Similar ideas create vectors that lie close together, so the agent can find related chunks fast. When the user asks a question, the agent turns the question into its own vector, finds the nearest chunks, and reads them. It then writes a reply that mixes the new prompt with those chunks. Because the data store can hold a lot of past chats, documents, or notes, this process gives the agent a working memory without stuffing everything into the prompt. It lowers token cost, keeps answers on topic, and allows the memory to grow over time.
+Using RAG with a vector database means storing pieces of information as embeddings and retrieving the most relevant ones by similarity search when the agent needs context. This combination lets an agent access a large body of knowledge without keeping it all in the prompt, since only the relevant retrieved pieces get added to context. It is a common way to give agents access to long term or external memory.
 
 Visit the following resources to learn more:
 

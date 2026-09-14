@@ -1,6 +1,6 @@
 # Transformer Models and LLMs
 
-Transformer models are a type of neural network that read input data—like words in a sentence—all at once instead of one piece at a time. They use “attention” to find which parts of the input matter most for each other part. This lets them learn patterns in language very well. When a transformer has been trained on a very large set of text, we call it a Large Language Model (LLM). An LLM can answer questions, write text, translate languages, and code because it has seen many examples during training. AI agents use these models as their “brains.” They feed tasks or prompts to the LLM, get back text or plans, and then act on those results. This structure helps agents understand goals, break them into steps, and adjust based on feedback, making them useful for chatbots, research helpers, and automation tools.
+Transformers are a neural network architecture that process sequences of tokens using a mechanism called attention, which lets the model weigh the relevance of different parts of the input to each other. Large language models (LLMs) are transformers trained on massive amounts of text to predict the next token in a sequence. This next token prediction, repeated many times, is what lets an LLM generate coherent text, answer questions, and follow instructions.
 
 Visit the following resources to learn more:
 

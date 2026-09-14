@@ -1,6 +1,6 @@
 # Planner Executor
 
-A **planner-executor agent** is a type of AI agent that splits its work into two clear parts: planning and execution. The **planner** thinks ahead, taking a goal and breaking it down into a sequence of steps, ordering them in a logical and efficient manner. The **executor**, on the other hand, takes each planned step and carries it out, monitoring the results and reporting back to the planner. If something fails or the world changes, the planner may update the plan, and the executor follows the new steps. This modular approach allows the agent to handle complex tasks by dividing them into manageable parts, making it easier to debug, reuse plans, and maintain clear and consistent behavior.
+A planner executor architecture splits an agent into two roles: a planner that breaks a goal down into a sequence of steps, and an executor that carries out each step and reports back the result. This separation lets the planner focus on high level strategy while the executor handles the details of each individual action. It can make an agent's behavior easier to reason about and debug compared to a single combined loop.
 
 Visit the following resources to learn more:
 

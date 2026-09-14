@@ -1,6 +1,6 @@
 # Forgetting / Aging Strategies
 
-Forgetting or aging strategies help an AI agent keep only the useful parts of its memory and drop the rest over time. The agent may tag each memory with a time stamp and lower its importance as it gets older, or it may remove items that have not been used for a while, much like a “least-recently-used” list. Some systems give each memory a relevance score; when space runs low, they erase the lowest-scoring items first. Others keep a fixed-length sliding window of the most recent events or create short summaries and store those instead of raw details. These methods stop the memory store from growing without limits, cut storage costs, and let the agent focus on current goals. Choosing the right mix of aging rules is a trade-off: forget too fast and the agent loses context, forget too slow and it wastes resources or reacts to outdated facts.
+Forgetting or aging strategies decide what stored information an agent should discard or deprioritize over time, since keeping everything indefinitely is neither practical nor useful. Common approaches include removing information after a set time, lowering its priority if it is not accessed, or replacing outdated details with newer ones. These strategies keep an agent's memory relevant and prevent it from being cluttered with stale or contradictory information.
 
 Visit the following resources to learn more:
 

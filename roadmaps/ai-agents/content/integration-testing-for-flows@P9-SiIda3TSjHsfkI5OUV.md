@@ -1,6 +1,6 @@
 # Integration Testing for Flows
 
-Integration testing for flows checks that an AI agent works well from the first user input to the final action, across every step in between. It joins all parts of the system—natural-language understanding, planning, memory, tools, and output—and runs them together in real scenarios. Test cases follow common and edge-case paths a user might take. The goal is to catch errors that only appear when parts interact, such as wrong data passed between modules or timing issues. Good practice includes building automated test suites, using real or mock services, and logging each step for easy debugging. When integration tests pass, you gain confidence that the whole flow feels smooth and reliable for users.
+Integration testing for flows checks that an agent behaves correctly across a full multi step task, not just that individual tools work on their own. It verifies that the agent chooses the right tools in the right order and handles the combined behavior of reasoning, acting, and observing correctly. This catches issues that only show up when components interact, which unit tests on individual pieces would miss.
 
 Visit the following resources to learn more:
 

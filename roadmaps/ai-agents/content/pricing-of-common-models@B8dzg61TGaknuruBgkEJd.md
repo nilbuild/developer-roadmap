@@ -1,6 +1,6 @@
 # Pricing of Common Models
 
-When you use a large language model, you usually pay by the amount of text it reads and writes, counted in “tokens.” A token is about four characters or three-quarters of a word. Providers list a price per 1,000 tokens. For example, GPT-3.5 Turbo may cost around $0.002 per 1,000 tokens, while GPT-4 is much higher, such as $0.03 to $0.06 for prompts and $0.06 to $0.12 for replies. Smaller open-source models like Llama-2 can be free to use if you run them on your own computer, but you still pay for the hardware or cloud time. Vision or audio models often have extra fees because they use more compute. When planning costs, estimate the tokens in each call, multiply by the price, and add any hosting or storage charges.
+Different LLM providers charge different rates per million input and output tokens, and prices vary widely between model sizes and capability tiers. Comparing pricing across common models like GPT, Claude, and Gemini helps in picking a model that fits both the task's quality requirements and the project's budget. Costs can shift quickly as providers release new models, so pricing should be checked against current rate cards rather than assumed.
 
 Visit the following resources to learn more:
 

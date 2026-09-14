@@ -1,6 +1,6 @@
 # LangFuse
 
-LangFuse is a free, open-source tool that lets you watch and debug AI agents while they run. You add a small code snippet to your agent, and LangFuse starts collecting every prompt, model response, and user input. It shows this data as neat timelines, so you can see each step the agent takes, how long the calls cost, and where errors happen. You can tag runs, search through them, and compare different prompt versions to find what works best. The dashboard also tracks token usage and latency, helping you cut cost and improve speed. Because LangFuse stores data in your own database, you keep full control of sensitive text. It works well with popular frameworks like LangChain and can send alerts to Slack or email when something breaks.
+Langfuse is an open source observability and analytics platform for LLM applications, providing tracing, evaluation, and prompt management features. It captures detailed traces of agent runs, including nested tool calls, and lets teams analyze performance and quality over time. It can be self hosted, which appeals to teams with strict data privacy requirements.
 
 Visit the following resources to learn more:
 
