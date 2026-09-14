@@ -1,6 +1,6 @@
 # MariaDB
 
-MariaDB is a community-developed, open-source relational database management system that serves as a binary-compatible drop-in replacement for MySQL. It uses structured query language to store, manage, and retrieve data within tables, maintaining a high level of performance and reliability. ASP.NET Core applications interact with MariaDB using connectors or Object-Relational Mappers like Entity Framework Core to execute database operations and manage data persistence.
+MariaDB is a community-developed, open-source relational database management system that serves as a binary-compatible drop-in replacement for MySQL. It uses structured query language to store, manage, and retrieve data within tables, maintaining a high level of performance and reliability. [ASP.NET](http://ASP.NET) Core applications interact with MariaDB using connectors or Object-Relational Mappers like Entity Framework Core to execute database operations and manage data persistence.
 
 Visit the following resources to learn more:
 

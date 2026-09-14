@@ -1,6 +1,6 @@
 # Cassandra
 
-Apache Cassandra is a distributed NoSQL database designed to handle large amounts of data across many commodity servers while providing high availability with no single point of failure. In an ASP.NET Core environment, it is typically accessed using the DataStax C# Driver, which allows developers to execute CQL (Cassandra Query Language) statements to read and write data. This database structure is particularly effective for managing massive datasets that require fast write speeds and horizontal scalability across multiple data centers.
+Apache Cassandra is a distributed NoSQL database designed to handle large amounts of data across many commodity servers while providing high availability with no single point of failure. In an [ASP.NET](http://ASP.NET) Core environment, it is typically accessed using the DataStax C# Driver, which allows developers to execute CQL (Cassandra Query Language) statements to read and write data. This database structure is particularly effective for managing massive datasets that require fast write speeds and horizontal scalability across multiple data centers.
 
 Visit the following resources to learn more:
 

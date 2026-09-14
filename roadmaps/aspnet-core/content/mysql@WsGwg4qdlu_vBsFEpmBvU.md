@@ -1,6 +1,6 @@
 # MySQL
 
-MySQL is an open-source relational database management system that organizes data into tables with predefined relationships. In an ASP.NET Core environment, it serves as a robust backend storage solution accessed through Entity Framework Core or direct database drivers. It uses Structured Query Language to manage, retrieve, and manipulate data efficiently while ensuring consistency and reliability for web applications.
+MySQL is an open-source relational database management system that organizes data into tables with predefined relationships. In an [ASP.NET](http://ASP.NET) Core environment, it serves as a robust backend storage solution accessed through Entity Framework Core or direct database drivers. It uses Structured Query Language to manage, retrieve, and manipulate data efficiently while ensuring consistency and reliability for web applications.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # Azure Pipelines
 
-Azure Pipelines is a cloud-based service that allows you to automatically build, test, and deploy your ASP.NET Core applications to any platform or cloud provider. It uses YAML configuration files to define continuous integration and continuous deployment workflows, which trigger automatically whenever you push code to your repository. This process automates the steps of compiling your code, running unit tests, and packaging your application into artifacts ready for deployment.
+Azure Pipelines is a cloud-based service that allows you to automatically build, test, and deploy your [ASP.NET](http://ASP.NET) Core applications to any platform or cloud provider. It uses YAML configuration files to define continuous integration and continuous deployment workflows, which trigger automatically whenever you push code to your repository. This process automates the steps of compiling your code, running unit tests, and packaging your application into artifacts ready for deployment.
 
 Visit the following resources to learn more:
 

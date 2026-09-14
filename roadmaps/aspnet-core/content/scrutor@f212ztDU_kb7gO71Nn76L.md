@@ -1,6 +1,6 @@
 # Scrutor
 
-Scrutor is a library for ASP.NET Core that extends the built-in dependency injection container with additional features, primarily focused on assembly scanning and decorator support. It allows developers to automatically register services based on specific conventions or attributes, which helps reduce the amount of boilerplate code required for manual service configuration. Additionally, it provides a clean syntax for decorating existing services, making it easier to implement cross-cutting concerns like logging or caching without modifying the original implementation classes.
+Scrutor is a library for [ASP.NET](http://ASP.NET) Core that extends the built-in dependency injection container with additional features, primarily focused on assembly scanning and decorator support. It allows developers to automatically register services based on specific conventions or attributes, which helps reduce the amount of boilerplate code required for manual service configuration. Additionally, it provides a clean syntax for decorating existing services, making it easier to implement cross-cutting concerns like logging or caching without modifying the original implementation classes.
 
 Visit the following resources to learn more:
 

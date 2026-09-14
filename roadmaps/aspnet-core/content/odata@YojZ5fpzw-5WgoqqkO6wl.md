@@ -1,6 +1,6 @@
 # OData
 
-OData is an open protocol that allows for the creation and consumption of queryable and interoperable RESTful APIs. It provides a standardized way to define the data model and the query syntax, enabling clients to request specific data using URL parameters for filtering, sorting, pagination, and selecting properties. By integrating with ASP.NET Core, it simplifies the development of data-driven services that support complex querying capabilities without requiring custom code for every filtering scenario.
+OData is an open protocol that allows for the creation and consumption of queryable and interoperable RESTful APIs. It provides a standardized way to define the data model and the query syntax, enabling clients to request specific data using URL parameters for filtering, sorting, pagination, and selecting properties. By integrating with [ASP.NET](http://ASP.NET) Core, it simplifies the development of data-driven services that support complex querying capabilities without requiring custom code for every filtering scenario.
 
 Visit the following resources to learn more:
 

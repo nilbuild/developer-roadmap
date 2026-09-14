@@ -1,6 +1,6 @@
 # Dependency Injection
 
-Dependency Injection is a software design pattern that allows a class to receive its dependencies from an external source rather than creating them internally. In ASP.NET Core, this pattern is built directly into the framework to manage the lifetime and instantiation of services throughout an application. By using this approach, components remain decoupled, making the codebase easier to test, maintain, and scale.
+Dependency Injection is a software design pattern that allows a class to receive its dependencies from an external source rather than creating them internally. In [ASP.NET](http://ASP.NET) Core, this pattern is built directly into the framework to manage the lifetime and instantiation of services throughout an application. By using this approach, components remain decoupled, making the codebase easier to test, maintain, and scale.
 
 Visit the following resources to learn more:
 

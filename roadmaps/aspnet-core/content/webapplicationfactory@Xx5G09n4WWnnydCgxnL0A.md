@@ -1,6 +1,6 @@
 # WebApplicationFactory
 
-WebApplicationFactory is a specialized class in ASP.NET Core that simplifies the process of creating a test server for integration testing. It allows developers to host an application in memory, making it possible to send HTTP requests to the system and verify the complete response cycle without needing to deploy the code to a web server. By utilizing this tool, you can easily configure custom services or replace real database connections with mocks to ensure your API endpoints behave as expected in a real-world execution environment.
+WebApplicationFactory is a specialized class in [ASP.NET](http://ASP.NET) Core that simplifies the process of creating a test server for integration testing. It allows developers to host an application in memory, making it possible to send HTTP requests to the system and verify the complete response cycle without needing to deploy the code to a web server. By utilizing this tool, you can easily configure custom services or replace real database connections with mocks to ensure your API endpoints behave as expected in a real-world execution environment.
 
 Visit the following resources to learn more:
 

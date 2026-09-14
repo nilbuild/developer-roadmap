@@ -1,6 +1,6 @@
 # Cloud Databases in ASP.NET Core
 
-Cloud databases are managed database services hosted on platforms like Azure, AWS, or Google Cloud that allow ASP.NET Core applications to store, retrieve, and manage data without maintaining on-premises physical servers. These services provide features such as automated backups, high availability, and horizontal scaling to handle varying workloads. Developers integrate these databases into their applications using connection strings and Entity Framework Core, which acts as an abstraction layer to communicate with cloud-based providers like Azure SQL Database, Cosmos DB, or PostgreSQL.
+Cloud databases are managed database services hosted on platforms like Azure, AWS, or Google Cloud that allow [ASP.NET](http://ASP.NET) Core applications to store, retrieve, and manage data without maintaining on-premises physical servers. These services provide features such as automated backups, high availability, and horizontal scaling to handle varying workloads. Developers integrate these databases into their applications using connection strings and Entity Framework Core, which acts as an abstraction layer to communicate with cloud-based providers like Azure SQL Database, Cosmos DB, or PostgreSQL.
 
 Visit the following resources to learn more:
 

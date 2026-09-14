@@ -1,6 +1,6 @@
 # Kafka
 
-Kafka is a distributed event streaming platform used to handle high-throughput data feeds and enable communication between decoupled services. It functions as a publish-subscribe messaging system where producers send records to topics and consumers read those records asynchronously. In an ASP.NET Core environment, it serves as a robust backbone for event-driven architectures, allowing different microservices to exchange messages reliably without being directly connected to one another.
+Kafka is a distributed event streaming platform used to handle high-throughput data feeds and enable communication between decoupled services. It functions as a publish-subscribe messaging system where producers send records to topics and consumers read those records asynchronously. In an [ASP.NET](http://ASP.NET) Core environment, it serves as a robust backbone for event-driven architectures, allowing different microservices to exchange messages reliably without being directly connected to one another.
 
 Visit the following resources to learn more:
 

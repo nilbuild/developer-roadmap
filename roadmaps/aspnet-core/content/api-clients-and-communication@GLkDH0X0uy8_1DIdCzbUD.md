@@ -1,6 +1,6 @@
 # API Clients and Communication
 
-API clients in ASP.NET Core are components used to send HTTP requests to external web services and receive responses. The framework provides the `IHttpClientFactory` to manage the lifetime and configuration of `HttpClient` instances, which helps prevent socket exhaustion and DNS issues. Developers use these tools to consume RESTful endpoints, handle serialization of JSON data, and manage cross-service communication within a distributed application architecture.
+API clients in [ASP.NET](http://ASP.NET) Core are components used to send HTTP requests to external web services and receive responses. The framework provides the `IHttpClientFactory` to manage the lifetime and configuration of `HttpClient` instances, which helps prevent socket exhaustion and DNS issues. Developers use these tools to consume RESTful endpoints, handle serialization of JSON data, and manage cross-service communication within a distributed application architecture.
 
 Visit the following resources to learn more:
 

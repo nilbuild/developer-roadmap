@@ -1,6 +1,6 @@
 # REST
 
-REST, which stands for Representational State Transfer, is an architectural style for designing networked applications that rely on stateless, client-server communication. It uses standard HTTP methods such as GET, POST, PUT, and DELETE to perform operations on resources identified by unique URLs. In ASP.NET Core, developers implement RESTful services by creating controllers that map HTTP verbs to specific data actions, allowing different applications to exchange information in formats like JSON or XML.
+REST, which stands for Representational State Transfer, is an architectural style for designing networked applications that rely on stateless, client-server communication. It uses standard HTTP methods such as GET, POST, PUT, and DELETE to perform operations on resources identified by unique URLs. In [ASP.NET](http://ASP.NET) Core, developers implement RESTful services by creating controllers that map HTTP verbs to specific data actions, allowing different applications to exchange information in formats like JSON or XML.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # CircleCI
 
-CircleCI is a cloud-based continuous integration and continuous delivery platform that automates the building, testing, and deployment processes for software applications. It utilizes configuration files defined in YAML to manage workflows, allowing developers to execute automated tests and push builds to various environments whenever code changes are committed to a repository. The platform integrates directly with version control systems like GitHub or GitLab to provide feedback loops and streamline the delivery pipeline for ASP.NET Core projects.
+CircleCI is a cloud-based continuous integration and continuous delivery platform that automates the building, testing, and deployment processes for software applications. It utilizes configuration files defined in YAML to manage workflows, allowing developers to execute automated tests and push builds to various environments whenever code changes are committed to a repository. The platform integrates directly with version control systems like GitHub or GitLab to provide feedback loops and streamline the delivery pipeline for [ASP.NET](http://ASP.NET) Core projects.
 
 Visit the following resources to learn more:
 

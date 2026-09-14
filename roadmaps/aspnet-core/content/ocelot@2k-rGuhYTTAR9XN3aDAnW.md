@@ -1,6 +1,6 @@
 # Ocelot
 
-Ocelot is an open-source API gateway designed for ASP.NET Core applications that acts as a single entry point for a microservices architecture. It functions as a reverse proxy that receives incoming HTTP requests and routes them to the appropriate downstream services based on predefined configuration. This tool handles essential cross-cutting concerns such as request aggregation, authentication, authorization, rate limiting, and caching, allowing developers to centralize service management rather than implementing these features in every individual
+Ocelot is an open-source API gateway designed for [ASP.NET](http://ASP.NET) Core applications that acts as a single entry point for a microservices architecture. It functions as a reverse proxy that receives incoming HTTP requests and routes them to the appropriate downstream services based on predefined configuration. This tool handles essential cross-cutting concerns such as request aggregation, authentication, authorization, rate limiting, and caching, allowing developers to centralize service management rather than implementing these features in every individual
 
 Visit the following resources to learn more:
 

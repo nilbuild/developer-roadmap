@@ -1,6 +1,6 @@
 # Minimal APIs
 
-Minimal APIs are a lightweight architectural approach for building HTTP APIs in ASP.NET Core with minimal files, dependencies, and configuration. Instead of requiring complex controller classes, this design allows developers to define endpoints directly within the application's configuration file using simple lambda expressions or method groups. This pattern reduces boilerplate code, making it an efficient choice for creating small, high-performance microservices and cloud-native applications.
+Minimal APIs are a lightweight architectural approach for building HTTP APIs in [ASP.NET](http://ASP.NET) Core with minimal files, dependencies, and configuration. Instead of requiring complex controller classes, this design allows developers to define endpoints directly within the application's configuration file using simple lambda expressions or method groups. This pattern reduces boilerplate code, making it an efficient choice for creating small, high-performance microservices and cloud-native applications.
 
 Visit the following resources to learn more:
 

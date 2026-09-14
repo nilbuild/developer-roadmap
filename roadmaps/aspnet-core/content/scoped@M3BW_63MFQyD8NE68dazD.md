@@ -1,6 +1,6 @@
 # Scoped Service Lifetime
 
-Scoped services are created once per client request within an ASP.NET Core application. When you register a service with a scoped lifetime, the framework generates a new instance for every individual HTTP request and shares that same instance across all components that process that specific request. This ensures that data remains consistent throughout the entire lifecycle of a single user interaction while preventing the service from persisting across different, unrelated requests.
+Scoped services are created once per client request within an [ASP.NET](http://ASP.NET) Core application. When you register a service with a scoped lifetime, the framework generates a new instance for every individual HTTP request and shares that same instance across all components that process that specific request. This ensures that data remains consistent throughout the entire lifecycle of a single user interaction while preventing the service from persisting across different, unrelated requests.
 
 Visit the following resources to learn more:
 

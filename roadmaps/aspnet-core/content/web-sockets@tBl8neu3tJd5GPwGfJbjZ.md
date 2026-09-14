@@ -1,6 +1,6 @@
 # WebSockets
 
-WebSockets provide a persistent, full-duplex communication channel over a single TCP connection between a client and a server. This technology enables real-time data transfer, allowing servers to push updates to connected clients immediately without the need for the client to constantly request new information. In ASP.NET Core, the middleware handles the WebSocket handshake and manages the ongoing connection, making it suitable for applications like chat platforms, live dashboards, or collaborative tools.
+WebSockets provide a persistent, full-duplex communication channel over a single TCP connection between a client and a server. This technology enables real-time data transfer, allowing servers to push updates to connected clients immediately without the need for the client to constantly request new information. In [ASP.NET](http://ASP.NET) Core, the middleware handles the WebSocket handshake and manages the ongoing connection, making it suitable for applications like chat platforms, live dashboards, or collaborative tools.
 
 Visit the following resources to learn more:
 

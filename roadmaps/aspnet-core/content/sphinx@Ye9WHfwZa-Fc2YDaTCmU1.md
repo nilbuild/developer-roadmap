@@ -1,6 +1,6 @@
 # Sphinx
 
-Sphinx is an open-source, full-text search server designed to provide fast and relevant search results for large datasets. It functions as an external indexing engine that allows developers to perform complex searches across databases, XML files, or other data sources without overloading the primary database. By integrating Sphinx into an ASP.NET Core application, developers can implement advanced features like Boolean queries, ranking, and highlighting to handle high-performance search requirements.
+Sphinx is an open-source, full-text search server designed to provide fast and relevant search results for large datasets. It functions as an external indexing engine that allows developers to perform complex searches across databases, XML files, or other data sources without overloading the primary database. By integrating Sphinx into an [ASP.NET](http://ASP.NET) Core application, developers can implement advanced features like Boolean queries, ranking, and highlighting to handle high-performance search requirements.
 
 Visit the following resources to learn more:
 

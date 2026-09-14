@@ -1,6 +1,6 @@
 # NoSQL Databases
 
-NoSQL databases are non-relational data management systems that store information in flexible formats such as documents, key-value pairs, graphs, or wide-column stores rather than traditional tables. These databases provide a schema-less approach to data storage, allowing developers to handle unstructured or rapidly evolving datasets with high horizontal scalability. In ASP.NET Core applications, these databases are often utilized to manage high-velocity data or complex hierarchical objects that do not fit well into a rigid relational structure.
+NoSQL databases are non-relational data management systems that store information in flexible formats such as documents, key-value pairs, graphs, or wide-column stores rather than traditional tables. These databases provide a schema-less approach to data storage, allowing developers to handle unstructured or rapidly evolving datasets with high horizontal scalability. In [ASP.NET](http://ASP.NET) Core applications, these databases are often utilized to manage high-velocity data or complex hierarchical objects that do not fit well into a rigid relational structure.
 
 Visit the following resources to learn more:
 
