@@ -1,9 +1,9 @@
-# API Endpoints 
+# API Endpoints
 
 API Routes let you create an API endpoint inside a Next.js app. API endpoints work differently in Pages routers and App Routers:
 
-* Pages Router: Historically, Next.js used pages/api/* for APIs. This approach relied on Node.js request/response objects and an Express-like API.
-* App Router (Default): Introduced in Next.js 13, the App Router fully embraces web standard Request/Response APIs. Instead of pages/api/*, you can now place `route.ts` or `route.js` files anywhere inside the app/ directory.
+*   Pages Router: Historically, Next.js used pages/api/\* for APIs. This approach relied on Node.js request/response objects and an Express-like API.
+*   App Router (Default): Introduced in Next.js 13, the App Router fully embraces web standard Request/Response APIs. Instead of pages/api/\*, you can now place `route.ts` or `route.js` files anywhere inside the app/ directory.
 
 Visit the following resources to learn more:
 

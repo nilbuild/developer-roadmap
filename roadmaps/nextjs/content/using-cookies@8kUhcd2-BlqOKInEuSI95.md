@@ -5,4 +5,3 @@ Cookies are small pieces of data that websites store on a user's computer to rem
 Visit the following resources to learn more:
 
 - [@official@Using Cookies for App Router](https://nextjs.org/docs/app/api-reference/file-conventions/middleware#using-cookies)
-- [@official@Using Cookies for Pages Router](https://nextjs.org/docs/pages/api-reference/file-conventions/middleware#using-cookies)

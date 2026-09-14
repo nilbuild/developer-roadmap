@@ -5,4 +5,3 @@ Middleware in Next.js allows you to run code before a request is completed. This
 Visit the following resources to learn more:
 
 - [@official@Middleware for App Router](https://nextjs.org/docs/app/api-reference/file-conventions/middleware)
-- [@official@Middleware for Pages Router](https://nextjs.org/docs/pages/api-reference/file-conventions/middleware)

@@ -1,6 +1,6 @@
 # Prettier
 
-Prettier is an opinionated code formatter that supports many languages, including JavaScript, TypeScript, and CSS. It automatically formats your code to adhere to a consistent style, ensuring readability and maintainability across your project. 
+Prettier is an opinionated code formatter that supports many languages, including JavaScript, TypeScript, and CSS. It automatically formats your code to adhere to a consistent style, ensuring readability and maintainability across your project.
 
 The ESLint Plugin contains code formatting rules, which may conflict with your existing Prettier setup. To make ESLint and Prettier work together, you can include `eslint-config-prettier` in your ESLint config.
 

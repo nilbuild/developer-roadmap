@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@roadmap@Visit Dedicated JavaScript Roadmap](https://roadmap.sh/javascript)
 - [@article@The Modern JavaScript Tutorial](https://javascript.info/)
 - [@video@JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)
-- [@feed@Explore top posts about JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)

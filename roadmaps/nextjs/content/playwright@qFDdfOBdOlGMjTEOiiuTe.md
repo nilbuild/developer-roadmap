@@ -1,4 +1,4 @@
-# Playwright 
+# Playwright
 
 Next.js supports Playwright for End-to-End (E2E) testing. Playwright is a testing framework that lets you automate Chromium, Firefox, and WebKit with a single API. You can use it to write E2E testing.
 
