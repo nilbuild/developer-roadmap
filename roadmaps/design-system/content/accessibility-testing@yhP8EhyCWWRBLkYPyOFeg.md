@@ -1,3 +1,3 @@
 # Accessibility Testing
-
-Design systems should cover accessibility as much as possible. Making this automatic reduces the risk of inaccessible components or user flows in the product.
+ 
+Accessibility testing checks that components meet standards like WCAG, covering things like sufficient color contrast, proper keyboard navigation, and correct screen reader labeling. It combines automated tools, like axe or Lighthouse, with manual testing using assistive technology to catch issues automated tools miss. Testing accessibility at the component level ensures every product built from the design system inherits accessible behavior by default.

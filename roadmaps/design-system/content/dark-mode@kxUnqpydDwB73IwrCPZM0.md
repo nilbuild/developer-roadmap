@@ -1,3 +1,3 @@
 # Dark Mode
 
-Preparing a dark mode version of your colour palette will allow your design system to adapt to dark mode and respect what your user wants to see.
+Dark mode is an alternate color scheme that uses dark backgrounds and light text instead of the default light theme, often to reduce eye strain in low-light environments. Supporting it as a design token concern means defining a parallel set of color values that map to the same semantic roles as the light theme, such as background, text, and border colors. Components then reference these semantic tokens so they adapt automatically when a user switches themes.

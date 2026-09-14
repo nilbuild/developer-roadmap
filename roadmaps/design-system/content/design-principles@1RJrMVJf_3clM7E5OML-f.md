@@ -1,3 +1,3 @@
 # Design Principles
 
-The considerations that guide the basis of your practice. They outline how you approach design from a philosophical perspective and help with everyday decisions.
+Design principles are a short set of guiding statements that describe the values a team follows when making design decisions, such as prioritizing clarity over cleverness or consistency over novelty. They act as a reference for resolving disagreements or evaluating whether a new component fits the system's intent. Unlike specific guidelines, design principles are broad enough to apply across every part of the design system.

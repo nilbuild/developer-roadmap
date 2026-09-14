@@ -1,3 +1,3 @@
 # FAQs
-
-To save everyone time, define which questions are asked frequently by your audience and document them in a discoverable place.
+ 
+FAQs are a curated list of frequently asked questions and their answers, covering the most common issues or points of confusion that consuming teams run into when using the design system. Maintaining an FAQ reduces repetitive support requests by pointing people to existing answers before they need to ask directly. It's usually kept alongside the main documentation and updated as new common questions emerge.

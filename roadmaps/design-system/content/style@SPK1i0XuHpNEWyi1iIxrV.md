@@ -1,3 +1,3 @@
 # Style
 
-Make sure that your icon family makes visual sense as a whole. Picking an outlined or filled style and sticking with it will lead to better visual consistency and predictability.
+In iconography, style refers to the consistent visual approach used across a set of icons, such as outlined, filled, or duotone, along with consistent stroke width and corner treatment. Keeping a single style across all icons prevents a product from feeling visually disjointed when icons from different sources get mixed together. Style guidelines usually specify exact stroke widths and corner radii to keep new icons consistent with existing ones.

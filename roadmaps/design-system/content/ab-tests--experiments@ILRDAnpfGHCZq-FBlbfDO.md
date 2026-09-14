@@ -1,3 +1,3 @@
 # A/B Tests and Experiments
 
-Understand how the team implements A/B tests and experiments on different screens and if the new design system should accommodate any necessary requirements.
+A/B tests and experiments compare two or more versions of a design to measure which performs better against a specific metric, such as click-through rate or conversion. When building a design system from an existing product, past experiment results help identify which design variations actually improved outcomes and are worth standardizing. Reviewing this history avoids locking in a component variant that experimentation already showed was weaker.

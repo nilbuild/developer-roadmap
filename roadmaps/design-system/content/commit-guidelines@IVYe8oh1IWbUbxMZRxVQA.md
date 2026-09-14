@@ -1,3 +1,3 @@
 # Commit Guidelines
-
-Automate the generation of your changelog by adopting a commit message guidelines that categorise and define the changes being made.
+ 
+Commit guidelines define a consistent format for writing commit messages when contributing code to a design system, such as the Conventional Commits format that prefixes messages with types like "feat" or "fix." Consistent commit messages make it easier to generate changelogs automatically and to understand a project's history at a glance. They're often enforced through automated checks that reject commits not following the required format.

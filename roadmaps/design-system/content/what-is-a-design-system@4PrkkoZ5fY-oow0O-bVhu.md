@@ -1,6 +1,6 @@
 # What is Design System
 
-A Design System is the single source of truth which groups all the elements that will allow the teams to design, realize and develop a product.
+A design system is a collection of reusable components, design tokens, patterns, and guidelines that a team uses to build products consistently. It combines a component library with documentation, principles, and standards that explain how and when to use each piece. Teams rely on it to keep visual language, interaction patterns, and code consistent across products and platforms.
 
 Visit the following resources to learn more:
 

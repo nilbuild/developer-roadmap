@@ -1,3 +1,3 @@
 # Naming
 
-Name your icons based on what they are, not what they represent. For instance, a trash icon should be named trash, not delete. You can still add related keywords to improve discoverability.
+Naming conventions for icons define how each icon file or component is labeled, typically based on what it represents or the action it performs, such as "icon-search" or "icon-trash." Consistent naming makes icons easier to find and reference in code, especially as an icon set grows to hundreds of entries. Design systems usually document a naming pattern to avoid duplicate or ambiguous icon names.

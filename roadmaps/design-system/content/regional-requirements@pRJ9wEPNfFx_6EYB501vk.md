@@ -1,3 +1,3 @@
 # Regional Requirements
 
-Understand any regional requirements such as LTR or any other UX variations that your design system should accommodate.
+Regional requirements are design and content constraints that differ by market, such as right-to-left text direction, date and currency formats, legal disclaimers, or color meanings that vary by culture. A design system built for a global product needs to account for these variations in its tokens and components rather than assuming one region's conventions apply everywhere. Ignoring regional requirements usually surfaces as bugs or complaints once a product expands to new markets.

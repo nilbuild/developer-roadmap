@@ -1,6 +1,3 @@
 # Icon
 
-The icon component is a way to align the way iconography static assets are displayed in the product.
-
-- **Sizes:** Icons should have a number of predefined sizes to provide a holistic experience across the product. Typography pairings may be used for these size values to ensure that they are aligned with the text sizes.
-- **Colors:** Icons should be using values from the design system colour palette. Using parent element text colour for icon fill colour can make this automatic.
+An icon is a small graphical symbol used to represent actions, objects, or concepts within a user interface. These visual elements provide immediate visual context and help users navigate applications more efficiently by replacing or supplementing text labels. In a design system, icons are standardized in terms of size, weight, and style to maintain a consistent visual language across all digital products.

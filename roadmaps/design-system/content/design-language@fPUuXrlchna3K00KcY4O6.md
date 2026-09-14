@@ -1,6 +1,6 @@
 # Design Language
 
-A design language or design vocabulary is an overarching scheme or style that guides the design of a complement of products or architectural settings, creating a coherent design system for styling.
+Design language is the overall visual and interaction style that defines how a product looks and feels, including color, typography, spacing, iconography, and motion. It expresses a brand's personality through consistent visual decisions rather than a specific set of components. A design system implements a design language through tokens, components, and guidelines.
 
 Visit the following resources to learn more:
 

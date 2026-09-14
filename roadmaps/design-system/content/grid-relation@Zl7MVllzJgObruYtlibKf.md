@@ -1,3 +1,3 @@
 # Grid Relation
 
-Font sizes and leading should match your grid to allow better pairing between text and other UI elements. A good example of this is text paired with icons with bounding boxes.
+Grid relation describes how typography or iconography sizes align to the underlying layout grid, ensuring that line heights and icon dimensions land on consistent grid units. Keeping these elements aligned to the grid avoids visual misalignment when text or icons sit next to other grid-based components. This relationship is usually checked when defining the base sizes for type scales and icon sets.

@@ -1,3 +1,3 @@
 # Release Strategy
-
-Design system releases should be automated and ideally use scripts ran locally or in remote CI pipelines to prevent broken releases.
+ 
+A release strategy defines how and how often new versions of a design system get published, including whether releases happen on a fixed schedule or whenever changes are ready. It also covers how breaking changes get communicated and how long older versions remain supported. A clear release strategy helps consuming teams plan when to upgrade without being caught off guard by unexpected changes.

@@ -1,3 +1,3 @@
 # Component
 
-Components are the reusable building blocks of a design system. Each component meets a specific interaction or UI needs, and is specifically created to work together to create patterns and intuitive user experiences.
+A component is a reusable, self-contained UI element, such as a button, input field, or card, built once and used across multiple screens or products. It usually has defined states, like default, hover, and disabled, and accepts configurable properties to adapt to different contexts. Components are the building blocks that a design system's component library is made of.

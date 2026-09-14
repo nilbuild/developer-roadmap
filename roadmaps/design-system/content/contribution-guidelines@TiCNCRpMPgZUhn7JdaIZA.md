@@ -1,3 +1,3 @@
 # Contribution Guidelines
-
-Define the process of contributing to the UI and UX of the design system and document it in a discoverable place to make it easier for everyone to contribute.
+ 
+Contribution guidelines document the process for proposing, reviewing, and approving changes to a design system, whether on the design side or the development side. They typically cover how to submit a new component, who reviews proposed changes, and what criteria a contribution needs to meet before acceptance. Clear contribution guidelines make it possible for people outside the core design system team to safely add or update components.

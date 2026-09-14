@@ -1,3 +1,3 @@
-# Guidelines
+# Color Guidelines
 
-Provide guidelines on how and when to use the colours in your palette, what to keep in mind when working with them and how not to use them.
+Color guidelines provide a standardized framework for how colors are applied across an interface to ensure visual consistency and accessibility. These rules define the specific usage for primary, secondary, functional, and neutral color palettes, detailing which shades should be used for elements like backgrounds, text, borders, and interactive states.

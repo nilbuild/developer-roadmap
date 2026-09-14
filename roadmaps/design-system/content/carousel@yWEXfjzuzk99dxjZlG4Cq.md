@@ -1,10 +1,3 @@
 # Carousel
 
-Carousels stack the same type of items and allows scrolling through them horizontally.
-
-- **Navigation Controls:** Carousels should have easy-to-find navigation controls for scrolling through content.
-- **Supports any content:** Carousels can be used in different contexts and shouldn’t be limited to a specific child component. In some scenarios you might want items within the same carousel to differ from each other.
-- **Items width customisation:** For simple products, it might be fine to use multiple predefined sizes for carousel items. For more flexibility, it’s good to provide a way to define a custom width.
-- **Touch events support:** Carousels should be scrollable on touch devices. Some of the best practices are to use native scrolling and to make sure you’re supporting the same behaviour for all touch devices, not just mobile phones.
-- **Keyboard navigation:** It should be possible to scroll through content with keyboard arrows when focused on navigation controls.
-- **Responsiveness:** It’s good practice to hide or reduce the size of navigation controls for mobile viewports to improve the visibility of the content.
+A carousel is a UI component that displays a series of visual items or content blocks in a rotating, horizontal, or vertical sequence. It allows users to browse through multiple pieces of media or information within a confined space by interacting with navigation controls like arrows, dots, or swipe gestures. This component helps optimize screen real estate by cycling through content, such as image galleries, feature highlights, or promotional banners, while maintaining a clean and organized layout.

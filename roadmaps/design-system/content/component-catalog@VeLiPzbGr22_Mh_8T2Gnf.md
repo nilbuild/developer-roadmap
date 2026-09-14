@@ -1,3 +1,3 @@
 # Component Catalog
-
-Isolate your UI components’ environment outside of your product codebase to make sure they’re not dependent on any global dependencies and can be easily reused.
+ 
+A component catalog is a searchable, browsable reference of every component in a design system's code library, usually generated automatically from the component code itself. Tools like Storybook are commonly used to build a catalog that shows each component's variants, props, and usage examples in an interactive interface. It gives developers a live reference to check component behavior without reading the underlying source code.
