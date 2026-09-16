@@ -1,0 +1,3 @@
+# Lexical vs Vector Search
+ 
+Lexical search matches the literal words in a query against the literal words in a document, similar to a find-and-replace function. Vector search instead converts text into numerical representations and matches based on meaning, so it can find relevant content even when no exact words overlap. Most modern retrieval systems, including those used by AI models, combine both methods rather than relying on just one.

@@ -1,0 +1,3 @@
+# Disambiguation & Salience
+ 
+Disambiguation is the process a system uses to determine which specific entity a piece of content refers to when multiple entities share a similar name, such as two different people named Michael Jordan. Salience describes how central an entity is within a given piece of content, distinguishing a page that is genuinely about that entity from one that only mentions it in passing.

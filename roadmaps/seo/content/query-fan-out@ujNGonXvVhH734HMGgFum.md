@@ -1,0 +1,3 @@
+# Query Fan-Out
+ 
+Query fan-out is when an AI system breaks a single user question into several smaller sub-questions before retrieving information to answer it. A question like "best CRM for a small SaaS company" might get split internally into separate queries about pricing, integrations, and reviews. This means content can get retrieved for the pieces of an answer, not just for the exact phrase someone typed.

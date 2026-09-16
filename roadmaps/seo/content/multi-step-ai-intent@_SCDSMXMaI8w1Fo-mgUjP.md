@@ -1,0 +1,3 @@
+# Multi-Step AI Intent
+ 
+Multi-step AI intent describes how a single user question can require several rounds of reasoning and retrieval before an AI system produces a final answer, rather than one direct lookup. The system may retrieve information, evaluate whether it answers part of the question, then retrieve again to fill remaining gaps. This behavior is common in conversational and agentic AI systems handling complex questions.

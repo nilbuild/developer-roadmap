@@ -1,0 +1,3 @@
+# ClaudeBot
+
+ClaudeBot is a web crawler operated by Anthropic that browses the internet to collect data for training and improving its artificial intelligence models. It visits websites to read and process content, which allows Claude AI to understand and respond to user queries with updated information. Website owners can manage how this bot interacts with their pages by using standard directives in their robots.txt file.
