@@ -4,9 +4,7 @@ LlamaIndex is a framework focused on connecting language models to external data
 
 Visit the following resources to learn more:
 
-- [@official@LlamaIndex](https://llamaindex.ai/)
 - [@official@LlamaIndex Documentation](https://docs.smith.langchain.com/)
-- [@official@What is LlamaIndex.TS](https://ts.llamaindex.ai/docs/llamaindex)
 - [@opensource@run-llama/llama_index](https://github.com/run-llama/llama_index)
 - [@article@What is LlamaIndex? - IBM](https://www.ibm.com/think/topics/llamaindex)
 - [@article@LlamaIndex - Hugging Face](https://huggingface.co/llamaindex)

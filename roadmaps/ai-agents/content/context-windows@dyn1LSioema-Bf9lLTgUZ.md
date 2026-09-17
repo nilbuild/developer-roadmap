@@ -1,5 +1,5 @@
 # Context Windows
- 
+
 The context window is the maximum number of tokens a model can process in a single request, including both the input and the generated output. Anything beyond this limit gets truncated or causes an error, so long conversations or documents need to be managed carefully. A larger context window lets an agent keep more history, tool outputs, or retrieved documents in view at once.
 
 Visit the following resources to learn more:

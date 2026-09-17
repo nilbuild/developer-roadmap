@@ -5,4 +5,3 @@ Summarization or compression reduces the size of stored or in context informatio
 Visit the following resources to learn more:
 
 - [@article@Evaluating LLMs for Text Summarization](https://insights.sei.cmu.edu/blog/evaluating-llms-for-text-summarization-introduction/)
-- [@article@The Ultimate Guide to AI Document Summarization](https://www.documentllm.com/blog/ai-document-summarization-guide)

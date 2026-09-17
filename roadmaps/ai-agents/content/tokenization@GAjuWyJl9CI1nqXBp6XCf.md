@@ -5,4 +5,3 @@ Tokenization is the process of breaking text into smaller units called tokens, w
 Visit the following resources to learn more:
 
 - [@article@Explaining Tokens — the Language and Currency of AI](https://blogs.nvidia.com/blog/ai-tokens-explained/)
-- [@article@What is Tokenization? Types, Use Cases, Implementation](https://www.datacamp.com/blog/what-is-tokenization)

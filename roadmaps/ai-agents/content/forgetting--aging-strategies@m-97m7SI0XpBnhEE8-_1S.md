@@ -5,4 +5,3 @@ Forgetting or aging strategies decide what stored information an agent should di
 Visit the following resources to learn more:
 
 - [@article@Memory Management](https://python.langchain.com/docs/how_to/chatbots_memory/)
-- [@article@Memory Management for AI Agents](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/memory-management-for-ai-agents/4406359)

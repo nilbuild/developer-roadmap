@@ -4,6 +4,5 @@ Tool sandboxing keeps the AI agent inside a safe zone where it can only run appr
 
 Visit the following resources to learn more:
 
-- [@article@AI Sandbox | Harvard University Information Technology](https://www.huit.harvard.edu/ai-sandbox)
 - [@article@How to Set Up AI Sandboxes to Maximize Adoption](https://medium.com/@emilholmegaard/how-to-set-up-ai-sandboxes-to-maximize-adoption-without-compromising-ethics-and-values-637c70626130)
 - [@article@Sandboxes for AI - The Datasphere Initiative](https://www.thedatasphere.org/datasphere-publish/sandboxes-for-ai/)

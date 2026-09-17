@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Understanding Structured Logging: A Comprehensive Guide](https://www.graphapp.ai/blog/understanding-structured-logging-a-comprehensive-guide)
 - [@article@Structured Logging & Cloud Logging](https://cloud.google.com/logging/docs/structured-logging)
-- [@article@Best Practices for Logging in AI Applications](https://www.restack.io/p/best-ai-practices-software-compliance-answer-logging-best-practices-cat-ai)
