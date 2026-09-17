@@ -1,5 +1,5 @@
 # Data Structures and Algorithms
- 
+
 Data structures and algorithms cover how data is organized and processed efficiently in code. Common structures include lists, maps, sets, stacks, and queues; common algorithmic topics include sorting, searching, and recursion. Understanding these is necessary for writing performant apps and for technical interviews.
 
 Visit the following resources to learn more:

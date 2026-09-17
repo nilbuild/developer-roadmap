@@ -1,5 +1,5 @@
 # What is and how to use Gradle?
- 
+
 Gradle is the build system used in Android projects to compile code, manage dependencies, and package applications. It uses Groovy or Kotlin DSL scripts to define project configuration. Android Studio generates Gradle files automatically, but understanding how to modify them is needed for adding libraries, setting build variants, and configuring app signing.
 
 Visit the following resources to learn more:

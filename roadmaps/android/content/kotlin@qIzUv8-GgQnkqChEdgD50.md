@@ -1,5 +1,5 @@
 # Kotlin
- 
+
 Kotlin is a statically typed programming language developed by JetBrains and officially endorsed by Google for Android development. It runs on the JVM and is fully interoperable with Java. Kotlin features concise syntax, null safety, coroutines for asynchronous programming, and extension functions that reduce boilerplate.
 
 Visit the following resources to learn more:
