@@ -1,5 +1,5 @@
 # Git
- 
+
 Git is a distributed version control system that tracks changes to code over time and allows multiple developers to work on the same project without overwriting each other's work. It supports branching and merging workflows that let teams develop features in isolation before combining them. Almost every modern software project relies on Git as its foundation for source control.
 
 Visit the following resources to learn more:

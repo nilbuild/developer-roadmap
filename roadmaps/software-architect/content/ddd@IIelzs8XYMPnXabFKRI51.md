@@ -1,5 +1,5 @@
 # DDD
- 
+
 Domain driven design structures software around the business domain it serves, using a shared language between developers and domain experts called the ubiquitous language. It introduces concepts like bounded contexts and aggregates to manage complexity in large systems. DDD is especially useful when building software for complex business domains where getting the model right matters more than technical novelty.
 
 Visit the following resources to learn more:

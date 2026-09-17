@@ -1,5 +1,5 @@
 # Atlassian Tools
- 
+
 Atlassian tools, including Jira and Confluence, support project tracking and documentation for software teams at scale. Jira manages tasks, sprints, and issues in agile workflows, while Confluence stores documentation and design discussions. Many enterprise teams standardize on these tools for both day to day work tracking and long term knowledge management.
 
 Visit the following resources to learn more:

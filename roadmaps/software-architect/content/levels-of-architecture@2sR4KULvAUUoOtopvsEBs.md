@@ -1,3 +1,3 @@
 # Levels of Architecture
- 
+
 Architecture can be described at different levels of scope, ranging from a single application to an entire organization. Application architecture deals with the internals of one system, solution architecture connects several systems to solve a business problem, and enterprise architecture aligns technology strategy across a whole company. Each level requires a different set of concerns and a different audience.

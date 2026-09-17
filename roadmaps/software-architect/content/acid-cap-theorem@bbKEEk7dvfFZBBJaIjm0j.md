@@ -1,5 +1,5 @@
 # ACID, CAP Theorem
- 
+
 ACID describes the guarantees a database transaction provides: atomicity, consistency, isolation, and durability, ensuring reliable operations even under failure. The CAP theorem states that a distributed system can only guarantee two of three properties at once: consistency, availability, and partition tolerance. Architects use both concepts to reason about the trade offs involved in choosing databases and designing distributed systems.
 
 Visit the following resources to learn more:

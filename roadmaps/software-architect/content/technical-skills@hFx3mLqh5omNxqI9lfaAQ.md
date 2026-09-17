@@ -1,3 +1,3 @@
 # Technical Skills
- 
+
 Technical skills cover the practical, hands on knowledge an architect needs, including programming languages, design patterns, tools, and infrastructure concepts. These skills give an architect the credibility and depth needed to make informed decisions rather than relying only on theory. The following sections break this knowledge down into specific areas like languages, patterns, and tools.
