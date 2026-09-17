@@ -1,3 +1,3 @@
 # Plugins
- 
+
 Plugins are add-on tools that extend a design editor's functionality, such as automating token synchronization, checking accessibility contrast, or generating code snippets from design components. They reduce manual work by connecting the design tool directly to other parts of the design system workflow, like a token repository or a documentation site. Teams often build custom plugins tailored to their specific design system setup.

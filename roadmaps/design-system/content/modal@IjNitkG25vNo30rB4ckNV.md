@@ -1,3 +1,3 @@
 # Modal
- 
+
 A modal component displays content in a layer above the main page, requiring user interaction before returning to the underlying content, commonly used for confirmations or focused tasks. It typically includes a backdrop that dims the rest of the page and traps keyboard focus within the modal while it's open. Modals need careful accessibility handling to ensure focus returns to the triggering element once closed.

@@ -1,3 +1,3 @@
 # Unit Testing
- 
+
 Unit testing means writing automated tests that verify individual components behave correctly in isolation, such as checking that a button calls its click handler or that a checkbox toggles its state correctly. These tests catch regressions early when a component's code changes, before the change reaches production. Design systems rely heavily on unit tests since a bug in a shared component can affect every product that uses it.

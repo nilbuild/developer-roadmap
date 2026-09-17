@@ -7,5 +7,3 @@ Visit the following resources to learn more:
 - [@article@Creating Brand Vision](https://www.interaction-design.org/literature/article/branding-in-ux)
 - [@article@Vision-Driven Design Systems](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
 - [@article@Brand Strategy for Design](https://alistapart.com/article/creating-a-brand-identity/)
-- [@article@Purpose-Driven Design](https://designsystem.digital.gov/design-tokens/brand/)
-- [@feed@Explore top posts about Brand Strategy](https://app.daily.dev/tags/branding?ref=roadmapsh)

@@ -1,3 +1,3 @@
 # Tooltip
- 
+
 A tooltip component displays a small piece of contextual information when a user hovers over or focuses on an element, typically used to explain an icon-only button or provide extra detail. It appears near the triggering element and disappears once the user moves away or shifts focus elsewhere. Tooltips need to be accessible via keyboard focus, not just mouse hover, to work for all users.

@@ -1,3 +1,3 @@
 # Loading Indicator
- 
+
 A loading indicator communicates to the user that content is being fetched or processed, typically shown as a spinner, progress bar, or skeleton screen. It prevents the interface from appearing frozen or broken during delays caused by network requests or heavy computation. Design systems usually offer a few variants, such as a small inline spinner and a full-page loading state.

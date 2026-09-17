@@ -1,3 +1,3 @@
 # Toast
- 
+
 A toast component displays a brief, temporary message that appears and disappears automatically, typically used for confirmations like "Changes saved" or lightweight error notices. Unlike a banner, a toast floats above the page content and doesn't require the user to dismiss it manually. Toasts are commonly positioned in a corner of the screen and stack when multiple messages appear at once.

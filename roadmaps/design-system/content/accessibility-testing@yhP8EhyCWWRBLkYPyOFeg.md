@@ -1,3 +1,3 @@
 # Accessibility Testing
- 
+
 Accessibility testing checks that components meet standards like WCAG, covering things like sufficient color contrast, proper keyboard navigation, and correct screen reader labeling. It combines automated tools, like axe or Lighthouse, with manual testing using assistive technology to catch issues automated tools miss. Testing accessibility at the component level ensures every product built from the design system inherits accessible behavior by default.

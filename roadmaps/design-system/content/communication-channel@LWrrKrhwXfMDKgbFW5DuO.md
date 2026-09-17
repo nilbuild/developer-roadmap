@@ -1,3 +1,3 @@
 # Communication Channel
- 
+
 A communication channel is the primary medium a design system team uses for day-to-day questions and announcements, such as a dedicated Slack channel or Microsoft Teams space. It gives consuming teams a fast way to ask questions or report issues without going through formal ticketing for every small query. Having a clearly designated channel prevents design system discussions from getting scattered across multiple informal threads.

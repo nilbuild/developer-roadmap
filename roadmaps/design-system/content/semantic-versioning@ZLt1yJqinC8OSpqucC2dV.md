@@ -1,3 +1,3 @@
 # Semantic Versioning
- 
+
 Semantic versioning is a version numbering convention, formatted as major.minor.patch, used to communicate the type of change made in each release of a design system's code. A major version bump signals a breaking change, a minor version adds new functionality without breaking existing usage, and a patch fixes bugs. Following this convention lets teams consuming the design system understand the risk of upgrading to a new version at a glance.

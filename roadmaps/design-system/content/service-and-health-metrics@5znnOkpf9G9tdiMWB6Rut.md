@@ -1,3 +1,3 @@
 # Service and Health Metrics
- 
+
 Service and health metrics track the overall reliability and performance of a design system as a product in its own right, such as build times, uptime of documentation or component hosting, and how quickly reported bugs get resolved. These metrics give the team an objective view of how well the design system is being maintained, beyond just component-level usage. They're often reported to stakeholders as evidence of the system's ongoing value.
