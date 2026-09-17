@@ -2,11 +2,11 @@
 
 Debugging Cloudflare Workers involves several techniques:
 
-- **Console Logging:** Using `console.log()` to output variables and track code execution.
-- **`wrangler tail`:** Viewing real-time logs from your Worker in the command line.
-- **Source Maps:** Mapping compiled code back to the original source for easier debugging.
-- **Try-Catch Blocks:** Handling errors gracefully and logging relevant information.
-- **Local Testing:** Using `wrangler dev` to test Workers locally before deployment.
+*   **Console Logging:** Using `console.log()` to output variables and track code execution.
+*   **`wrangler tail`:** Viewing real-time logs from your Worker in the command line.
+*   **Source Maps:** Mapping compiled code back to the original source for easier debugging.
+*   **Try-Catch Blocks:** Handling errors gracefully and logging relevant information.
+*   **Local Testing:** Using `wrangler dev` to test Workers locally before deployment.
 
 These techniques help identify and resolve issues in your Workers effectively.
 

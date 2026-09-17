@@ -2,10 +2,10 @@
 
 Cloudflare Stream provides a comprehensive solution for video delivery:
 
-- **Encoding:** Automatically encodes videos for different devices and bandwidths.
-- **Storage:** Stores your videos securely.
-- **CDN:** Delivers videos globally via Cloudflare's CDN for fast playback.
-- **Player:** Provides a customizable video player.
+*   **Encoding:** Automatically encodes videos for different devices and bandwidths.
+*   **Storage:** Stores your videos securely.
+*   **CDN:** Delivers videos globally via Cloudflare's CDN for fast playback.
+*   **Player:** Provides a customizable video player.
 
 This simplifies the process of delivering high-quality video experiences.
 

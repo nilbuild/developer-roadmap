@@ -2,8 +2,8 @@
 
 Cloudflare offers video processing capabilities through Stream and Workers:
 
-- **Stream:** Handles encoding, transcoding, and adaptive bitrate streaming automatically.
-- **Workers:** You can use Workers to intercept video requests and perform custom processing, such as adding watermarks or modifying metadata.
+*   **Stream:** Handles encoding, transcoding, and adaptive bitrate streaming automatically.
+*   **Workers:** You can use Workers to intercept video requests and perform custom processing, such as adding watermarks or modifying metadata.
 
 This allows you to customize your video delivery pipeline.
 

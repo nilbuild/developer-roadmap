@@ -4,5 +4,5 @@ Effective logging and monitoring are crucial for understanding and debugging Clo
 
 Visit the following resources to learn more:
 
-- [@article@Logging vs Monitoring: What's the Difference?](https://toxigon.com/logging-vs-monitoring-whats-the-difference)
 - [@official@Debugging and Logging · Cloudflare Pages](https://developers.cloudflare.com/pages/functions/debugging-and-logging/)
+- [@article@Logging vs Monitoring: What's the Difference?](https://toxigon.com/logging-vs-monitoring-whats-the-difference)

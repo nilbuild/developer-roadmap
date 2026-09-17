@@ -2,9 +2,9 @@
 
 Cloudflare's Edge SSL/TLS terminates SSL/TLS connections at Cloudflare's edge network, close to the user. This reduces latency and improves performance compared to terminating connections at the origin server. Cloudflare offers various SSL/TLS options, including:
 
-- **Universal SSL:** Free SSL certificates for all Cloudflare users.
-- **Dedicated SSL:** Custom SSL certificates for specific domains.
-- **Origin CA:** Free certificates for securing communication between Cloudflare and your origin.
+*   **Universal SSL:** Free SSL certificates for all Cloudflare users.
+*   **Dedicated SSL:** Custom SSL certificates for specific domains.
+*   **Origin CA:** Free certificates for securing communication between Cloudflare and your origin.
 
 Edge SSL/TLS ensures secure communication between users and your website while optimizing performance.
 

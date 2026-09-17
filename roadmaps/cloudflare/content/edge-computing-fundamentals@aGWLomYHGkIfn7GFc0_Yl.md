@@ -4,6 +4,6 @@ Edge computing brings computation closer to the user, minimizing latency. Cloudf
 
 Visit the following resources to learn more:
 
+- [@course@What Is Edge Computing? - Coursera](https://www.udemy.com/course/edge-computing/)
 - [@official@What is Edge Computing - Cloudflare Docs](https://www.cloudflare.com/learning/serverless/glossary/what-is-edge-computing/)
 - [@article@What is Edge Computing? Is It More Than a Buzzword?](https://www.howtogeek.com/devops/what-is-edge-computing-is-it-more-than-a-buzzword/)
-- [@course@What Is Edge Computing? - Coursera](https://www.udemy.com/course/edge-computing/)
