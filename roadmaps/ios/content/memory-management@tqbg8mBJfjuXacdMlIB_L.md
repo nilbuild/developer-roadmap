@@ -1,5 +1,5 @@
 # Memory Management
- 
+
 iOS uses Automatic Reference Counting (ARC) to manage memory. ARC tracks how many strong references point to each object and deallocates it when the count drops to zero. Developers must understand strong, weak, and unowned references to avoid retain cycles, which cause memory leaks.
 
 Visit the following resources to learn more:

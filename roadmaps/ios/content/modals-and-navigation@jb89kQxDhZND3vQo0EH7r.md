@@ -1,5 +1,5 @@
 # Modals and Navigation
- 
+
 Modal presentation in UIKit shows a view controller over the current content, typically for tasks that need the user's attention before they can continue. Modals are dismissed programmatically or by the user via drag or a dismiss button. Combining modal presentation with embedded navigation controllers creates flows like editing forms or settings sheets.
 
 Visit the following resources to learn more:

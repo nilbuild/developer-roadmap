@@ -1,5 +1,5 @@
 # Alamofire
- 
+
 Alamofire is a Swift networking library built on top of URLSession that simplifies common networking tasks. It provides a clean, chainable API for making requests, handling authentication, and serializing responses. Alamofire is widely used in iOS projects that want a higher-level abstraction over raw URLSession without third-party dependencies for individual components.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # MapKit
- 
+
 MapKit is Apple's framework for embedding maps and location-based features into iOS apps. It provides interactive map views, annotation pins, overlays, turn-by-turn directions, and local place search. MapKit uses Apple Maps as its data source and integrates with Core Location for GPS access.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # Callback Hell
- 
+
 Callback hell refers to deeply nested, hard-to-read code that results from chaining multiple asynchronous operations through callbacks. This pattern, sometimes called the pyramid of doom, was common in iOS development when completion handlers were the primary way to handle async work. Swift's async/await syntax resolves this by allowing sequential, readable async code.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # Error Handling
- 
+
 Swift provides a structured error handling model using the throw, try, and catch keywords. Functions that can fail declare throws in their signature, and callers handle errors using do-catch blocks. Swift also supports the Result type for propagating errors through asynchronous APIs.
 
 Visit the following resources to learn more:

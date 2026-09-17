@@ -1,5 +1,5 @@
 # MVVM-C
- 
+
 MVVM-C extends the MVVM pattern by adding a Coordinator component that manages navigation between screens. Coordinators handle routing logic that would otherwise live in view controllers or ViewModels, making navigation testable and reusable. This separation is particularly valuable in apps with complex conditional navigation flows.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # XCUITest
- 
+
 XCUITest is the UI testing component of XCTest that automates user interactions with a running iOS app. Tests launch the app, query elements by accessibility identifier or type, perform actions like tap, swipe, and type, and assert on UI state. XCUITest runs on a simulator or physical device and is slower than unit tests due to the app launch and interaction overhead.
 
 Visit the following resources to learn more:

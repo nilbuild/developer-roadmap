@@ -1,5 +1,5 @@
 # State Management
- 
+
 State management in SwiftUI determines where data lives and how it flows through the view hierarchy. @State handles local view state, @StateObject owns an observable object, @ObservedObject observes an externally owned object, and @EnvironmentObject injects shared data across the hierarchy. Choosing the right property wrapper keeps the app's data flow predictable and organized.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # Version Control
- 
+
 Version control enables developers to track changes to code over time and collaborate with others. Git is the standard version control tool for iOS projects, and GitHub is the most common hosting platform for iOS team repositories and open-source libraries.
 
 Visit the following resources to learn more:

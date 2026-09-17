@@ -1,5 +1,5 @@
 # Interface Builder
- 
+
 Interface Builder is the visual design tool embedded in Xcode for creating UI layouts without writing code. Developers drag UI elements onto a canvas, configure properties through the inspector, and set up constraints. Interface Builder generates XIB and Storyboard files that are compiled into the app bundle at build time.
 
 Visit the following resources to learn more:

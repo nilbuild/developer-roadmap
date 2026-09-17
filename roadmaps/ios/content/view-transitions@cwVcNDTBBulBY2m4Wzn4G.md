@@ -1,5 +1,5 @@
 # View Transitions
- 
+
 View transitions control how the app animates when moving between screens. UIKit provides built-in transition styles like push and modal presentation, and custom transitions are created using the UIViewControllerAnimatedTransitioning protocol. Transitions provide visual continuity that helps users understand where they are in the app.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # TestFlight
- 
+
 TestFlight is Apple's platform for distributing beta versions of iOS apps to testers before public release. Internal testers with access to the developer's App Store Connect account can be added directly, while external testers receive email invitations. TestFlight builds expire after 90 days and can be shared with up to 10,000 external testers.
 
 Visit the following resources to learn more:

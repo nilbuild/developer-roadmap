@@ -1,5 +1,5 @@
 # Core OS
- 
+
 Core OS is the bottom layer of the iOS architecture, sitting directly above the hardware. It provides the Darwin kernel, security frameworks, and low-level system interfaces. Frameworks at this level include Security, Accelerate for math and signal processing, and ExternalAccessory for communicating with hardware accessories.
 
 Visit the following resources to learn more:

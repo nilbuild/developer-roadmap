@@ -1,5 +1,5 @@
 # FastLane
- 
+
 Fastlane is an open-source automation tool for iOS development that handles repetitive tasks like building, testing, code signing, and uploading to App Store Connect. Workflows are defined in Ruby-based scripts called Fastfiles using reusable actions called lanes. Fastlane is widely used in iOS CI/CD pipelines to automate provisioning, screenshots, and App Store submissions.
 
 Visit the following resources to learn more:

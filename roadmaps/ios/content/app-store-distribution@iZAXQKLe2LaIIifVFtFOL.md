@@ -1,5 +1,5 @@
 # App Store Distribution
- 
+
 Distributing an iOS app through the App Store requires a paid Apple Developer Program membership, building a release archive signed with a distribution certificate, and submitting it through App Store Connect. The app goes through Apple's review process before becoming available to users. App Store Connect also manages metadata, screenshots, pricing, and release scheduling.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # File System
- 
+
 The iOS file system sandboxes each app's data into private directories. The Documents directory is for user-facing files that should be backed up, the Caches directory is for regenerable data, and the tmp directory is for temporary files that do not need to persist. Apps use FileManager to create, read, write, move, and delete files within their sandbox.
 
 Visit the following resources to learn more:

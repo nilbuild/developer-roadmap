@@ -1,5 +1,5 @@
 # MVVM
- 
+
 MVVM (Model-View-ViewModel) separates the UI layer from business logic using a ViewModel that exposes observable state. The View binds to the ViewModel and updates automatically when state changes, using Combine, RxSwift, or Swift's observation framework. MVVM is widely adopted in iOS development and works well with both UIKit and SwiftUI.
 
 Visit the following resources to learn more:

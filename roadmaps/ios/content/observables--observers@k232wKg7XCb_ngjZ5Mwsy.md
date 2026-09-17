@@ -1,5 +1,5 @@
 # Observables & observers
- 
+
 An Observable in RxSwift is a sequence that emits zero or more items over time before completing or erroring. Observers subscribe to Observables and receive emitted items, error notifications, or completion events. The relationship between Observable and Observer is the foundation of all RxSwift-based reactive code.
 
 Visit the following resources to learn more:

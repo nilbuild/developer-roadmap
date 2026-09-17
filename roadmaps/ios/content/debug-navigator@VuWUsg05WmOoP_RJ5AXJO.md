@@ -1,5 +1,5 @@
 # Debug Navigator
- 
+
 The Debug Navigator appears during a debugging session and shows real-time data about the running app, including CPU, memory, disk, and network usage, as well as active threads and their states. It helps identify performance issues and excessive resource consumption without switching to a separate profiling tool.
 
 Visit the following resources to learn more:
