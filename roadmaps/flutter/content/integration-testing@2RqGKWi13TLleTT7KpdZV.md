@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Introduction to Integration Testing](https://docs.flutter.dev/cookbook/testing/integration/introduction)
 - [@official@Integration Tests](https://docs.flutter.dev/testing#integration-tests)
-- [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)

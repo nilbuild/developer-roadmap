@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Android Studio for Flutter](https://docs.flutter.dev/development/tools/android-studio)
 - [@official@Get started with Android Studio](https://dart.dev/tools/jetbrains-plugin)
-- [@feed@Explore top posts about Android](https://app.daily.dev/tags/android?ref=roadmapsh)

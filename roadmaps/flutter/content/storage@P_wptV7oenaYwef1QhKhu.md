@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Cloud Storage in Flutter](https://firebase.flutter.dev/docs/storage/overview/)
 - [@video@Storage - Flutter Tutorial](https://www.youtube.com/watch?v=UpKrhZ0Hppks)
-- [@feed@Explore top posts about Storage](https://app.daily.dev/tags/storage?ref=roadmapsh)

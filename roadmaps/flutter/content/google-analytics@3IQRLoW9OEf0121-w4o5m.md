@@ -5,4 +5,3 @@ Google Analytics is a free web analytics service provided by Google that helps t
 Visit the following resources to learn more:
 
 - [@official@Google Analytics for Firebase](https://firebase.flutter.dev/docs/analytics/overview/)
-- [@feed@Explore top posts about Google](https://app.daily.dev/tags/google?ref=roadmapsh)

@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Test-Driven Development in Flutter](https://techblog.geekyants.com/test-driven-development-in-flutter)
 - [@video@Flutter TDD Clean Architecture Course](https://www.youtube.com/watch?v=KjE2IDphA_U)
-- [@feed@Explore top posts about TDD](https://app.daily.dev/tags/tdd?ref=roadmapsh)

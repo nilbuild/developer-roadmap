@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Firebase Storage](https://firebase.google.com/docs/storage)
 - [@video@How to Upload and Retrieve Images from Firebase Storage](https://www.youtube.com/watch?v=sM-WMcX66FI)
-- [@feed@Explore top posts about Storage](https://app.daily.dev/tags/storage?ref=roadmapsh)

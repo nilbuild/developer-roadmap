@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Build Flutter with BDD](https://medium.com/tide-engineering-team/build-flutter-with-bdd-b4507170a2fe)
 - [@video@Tutorial - BDD in Flutter](https://www.youtube.com/watch?v=Kwvsc31FE_8)
-- [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)

@@ -4,6 +4,4 @@ Reactive programming is a programming paradigm that allows for handling changing
 
 Visit the following resources to learn more:
 
-- [@article@Get Started with Reactive Programming](https://www.didierboelens.com/2018/12/reactive-programming-streams-bloc-practical-use-cases/)
 - [@video@Reactive Programming in Flutter](https://www.youtube.com/watch?v=x4FKXw4Uvls)
-- [@feed@Explore top posts about Reactive Programming](https://app.daily.dev/tags/reactive-programming?ref=roadmapsh)

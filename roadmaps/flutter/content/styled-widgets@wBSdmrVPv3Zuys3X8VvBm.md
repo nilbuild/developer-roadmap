@@ -8,5 +8,3 @@ Visit the following resources to learn more:
 - [@official@Styling widgets](https://docs.flutter.dev/ui/widgets/styling)
 - [@official@Material theming](https://docs.flutter.dev/ui/design/material)
 - [@official@Cupertino theming](https://docs.flutter.dev/ui/design/cupertino)
-- [@official@styled_widget](https://pub.dev/packages/styled_widget)
-- [@feed@Explore top posts about Flutter](https://app.daily.dev/tags/flutter?ref=roadmapsh)

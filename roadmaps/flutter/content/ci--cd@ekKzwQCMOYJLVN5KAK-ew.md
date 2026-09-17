@@ -5,4 +5,3 @@ CI/CD (Continuous Integration and Continuous Deployment) is a software developme
 Visit the following resources to learn more:
 
 - [@official@CI/CD - Flutter](https://docs.flutter.dev/deployment/cd)
-- [@feed@Explore top posts about CI/CD](https://app.daily.dev/tags/cicd?ref=roadmapsh)

@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@GitHub Actions](https://github.com/features/actions)
 - [@opensource@Flutter - GitHub Actions](https://github.com/nabilnalakath/flutter-githubaction)
-- [@feed@Explore top posts about GitHub](https://app.daily.dev/tags/github?ref=roadmapsh)

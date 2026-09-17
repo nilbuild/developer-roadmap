@@ -5,4 +5,3 @@
 Visit the following resources to learn more:
 
 - [@official@Overview of Dart pub](https://dart.dev/tools/pub/cmd)
-- [@feed@Explore top posts about Dart](https://app.daily.dev/tags/dart?ref=roadmapsh)

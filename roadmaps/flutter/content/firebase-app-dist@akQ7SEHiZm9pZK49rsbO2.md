@@ -5,4 +5,3 @@ Firebase App Distribution is a service that allows developers to easily distribu
 Visit the following resources to learn more:
 
 - [@official@Firebase Hosting](https://firebase.google.com/docs/hosting)
-- [@feed@Explore top posts about Firebase](https://app.daily.dev/tags/firebase?ref=roadmapsh)

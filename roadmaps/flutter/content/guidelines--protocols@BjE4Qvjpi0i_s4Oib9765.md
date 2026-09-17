@@ -4,4 +4,5 @@ Deployment guidelines and protocols in Flutter encompass the standardized proced
 
 Visit the following resources to learn more:
 
-- [@article@Flutter - Protocols](https://api.flutter.dev/objcdoc/Protocols.html)
+- [@official@Deployment](https://docs.flutter.dev/deployment)
+- [@article@The Complete Flutter Android Deployment Guide: From Code to Play Store (2026 Edition)](https://medium.com/@izhar-khan/the-flutter-release-gauntlet-part-1-taming-the-green-robot-fa47a9edcf8c)

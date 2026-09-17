@@ -7,5 +7,4 @@ Visit the following resources to learn more:
 - [@official@riverpod](https://pub.dev/packages/riverpod)
 - [@official@Riverpod in Flutter](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#riverpod)
 - [@official@riverpod Documentation](https://riverpod.dev/)
-- [@article@Documentation v2 is in progress](https://docs-v2.riverpod.dev/)
 - [@article@Flutter Riverpod 2.0: The Ultimate Guide](https://codewithandrea.com/articles/flutter-state-management-riverpod/)
