@@ -1,5 +1,5 @@
 # Go
- 
+
 Go, also called Golang, is a programming language known for its simplicity, speed, and strong support for concurrent programs. Many infrastructure and DevOps tools, such as Docker and Kubernetes, are written in Go. Learning it helps when building lightweight services or contributing to tools in the cloud-native ecosystem.
 
 Visit the following resources to learn more:

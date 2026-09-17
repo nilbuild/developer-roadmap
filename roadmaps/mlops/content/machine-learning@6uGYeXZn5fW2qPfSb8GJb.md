@@ -1,5 +1,5 @@
 # Machine Learning
- 
+
 Machine learning is a method of teaching computers to find patterns in data and make predictions or decisions without being explicitly programmed for the task. A model learns from examples during training, then applies what it learned to new, unseen data. It covers approaches like supervised, unsupervised, and reinforcement learning.
 
 Visit the following resources to learn more:

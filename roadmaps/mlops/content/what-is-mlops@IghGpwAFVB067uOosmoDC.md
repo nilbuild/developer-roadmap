@@ -1,5 +1,5 @@
 # What is MLOps?
- 
+
 MLOps is a set of practices that combines machine learning, DevOps, and data engineering to deploy and maintain ML models in production reliably. It covers the full lifecycle of a model, from training and testing to deployment, monitoring, and retraining. The goal is to make ML systems repeatable, scalable, and easier to manage over time, similar to how DevOps standardized software delivery.
 
 Visit the following resources to learn more:

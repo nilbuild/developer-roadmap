@@ -1,5 +1,5 @@
 # Monitoring & Observability
- 
+
 Monitoring and observability track how a system behaves once it is running, using metrics, logs, and alerts. For ML systems, this also means watching model accuracy over time, since predictions can degrade as real-world data shifts away from the training data. Catching this early lets teams retrain or fix a model before it causes bigger problems.
 
 Visit the following resources to learn more:

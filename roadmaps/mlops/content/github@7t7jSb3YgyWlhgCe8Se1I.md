@@ -1,5 +1,5 @@
 # GitHub
- 
+
 GitHub is a web platform for hosting Git repositories, adding features like pull requests, issue tracking, and code review on top of Git. Teams use it to collaborate on code, review changes before merging, and automate workflows with GitHub Actions. It has become one of the most common places to store and share code publicly or privately.
 
 Visit the following resources to learn more:

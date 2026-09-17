@@ -1,5 +1,5 @@
 # Orchestration
- 
+
 Orchestration means coordinating the different steps of an ML workflow so they run in the right order, automatically. A typical pipeline might need to pull data, preprocess it, train a model, evaluate it, then deploy it, and orchestration tools handle scheduling, dependencies, and retries for these steps. This removes the need to run each step by hand.
 
 Visit the following resources to learn more:

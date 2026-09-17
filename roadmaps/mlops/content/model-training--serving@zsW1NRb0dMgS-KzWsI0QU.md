@@ -1,5 +1,5 @@
 # Model Training & Serving
- 
+
 Model training is the process of teaching a machine learning model to make predictions using data, while serving is making that trained model available to handle real requests. Serving usually involves wrapping the model in an API so applications can send input and get predictions back. Together they cover the step where a model moves from a notebook experiment to something an application can actually use.
 
 Visit the following resources to learn more:
