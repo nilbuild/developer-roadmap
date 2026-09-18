@@ -1,0 +1,3 @@
+# Organic vs Paid vs Direct
+ 
+Organic traffic comes from unpaid search results. Paid traffic comes from search ads, marked separately from organic results. Direct traffic is when someone reaches a website by typing the URL directly or using a saved bookmark, without going through a search engine at all. Separating these traffic types is essential for understanding where visitors are actually coming from.

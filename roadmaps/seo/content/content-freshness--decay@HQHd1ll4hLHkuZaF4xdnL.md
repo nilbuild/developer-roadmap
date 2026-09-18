@@ -1,3 +1,3 @@
 # Content Freshness & Decay
- 
+
 Content freshness is whether a piece of content still reads as current and up to date, which search and AI systems weigh when a query specifically benefits from recent information. Content decay is the gradual decline in a page's rankings and traffic over time as it ages or as competing content improves, requiring an ongoing process of auditing, updating, or consolidating older content to keep it performing.

@@ -1,0 +1,3 @@
+# White Hat vs Black Hat vs Grey Hat
+ 
+White hat SEO follows search engine guidelines and focuses on genuinely improving a site for users. Black hat SEO deliberately violates guidelines to manipulate rankings, accepting the risk of penalties. Grey hat SEO sits in between, using tactics that are not explicitly banned but push against the spirit of the guidelines, carrying a moderate and sometimes unpredictable level of risk.

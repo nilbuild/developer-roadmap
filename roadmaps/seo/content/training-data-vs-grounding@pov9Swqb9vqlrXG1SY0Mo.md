@@ -1,0 +1,3 @@
+# Training Data vs Grounding
+ 
+Training data is the information an AI model learned from during its initial training process, baked into the model itself and not updated in real time. Grounding refers to an AI system retrieving current, external information at the moment it answers a question, rather than relying only on what it learned during training. A model can generate an answer purely from training data, purely from grounded retrieval, or a mix of both, and knowing which is happening matters for understanding why a system cites certain sources.

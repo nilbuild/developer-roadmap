@@ -1,0 +1,3 @@
+# Retrieval vs Ranking
+ 
+Retrieval is the step where a search or AI system pulls a set of candidate documents that might answer a query, based on relevance matching. Ranking is a separate step that follows, ordering those retrieved candidates from most to least relevant. A page can be successfully retrieved as a candidate and still rank poorly, or fail to be retrieved at all regardless of how well it would rank if found.

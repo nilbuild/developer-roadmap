@@ -1,0 +1,3 @@
+# Volume, Difficulty & Traffic Potential
+ 
+Search volume is an estimate of how many times a keyword is searched over a given period. Keyword difficulty estimates how hard it would be to rank for that term based on existing competition. Traffic potential estimates the realistic amount of traffic a page could receive if it ranked well, accounting for related keywords a single page might also capture.

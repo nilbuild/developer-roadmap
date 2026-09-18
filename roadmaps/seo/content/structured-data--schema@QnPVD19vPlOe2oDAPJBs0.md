@@ -1,0 +1,3 @@
+# Structured Data & Schema
+ 
+Structured data is code added to a web page in a standardized format that explicitly describes its content to search engines and AI systems, such as marking up a recipe, a product, or an organization. Schema.org is the shared vocabulary most structured data follows, and using it correctly can unlock rich results and gives machines a clear, unambiguous way to understand a page's content.

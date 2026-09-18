@@ -1,0 +1,3 @@
+# ccTLD vs Subfolder vs Subdomain
+ 
+A ccTLD is a country-specific domain ending, like .de for Germany, giving the strongest signal of geographic targeting but requiring separate domains for each market. A subfolder keeps international content under one main domain, such as example.com/de/, while a subdomain places it on a separate address like de.example.com. Each approach involves different tradeoffs between geographic targeting strength and shared domain authority.

@@ -1,3 +1,3 @@
 # Knowledge Graphs
- 
+
 A knowledge graph is a database that stores entities and the relationships between them, used by search and AI systems to understand and connect real-world information. Google maintains its own, and Wikidata is a large, open, publicly editable one that many systems reference. Being accurately represented in these graphs helps a brand or person get correctly recognized across different platforms.

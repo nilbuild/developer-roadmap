@@ -1,0 +1,3 @@
+# How Search Engines Work
+
+Search engines function as massive indexing systems that constantly crawl the internet to discover, analyze, and store web content. They use automated software bots, often called spiders or crawlers, to follow links from page to page, gathering information to add to their vast databases. Once this data is collected, complex algorithms evaluate the content based on various factors to determine its relevance and quality, ultimately organizing it so that the most helpful results can be retrieved instantly when a user enters a search query.
