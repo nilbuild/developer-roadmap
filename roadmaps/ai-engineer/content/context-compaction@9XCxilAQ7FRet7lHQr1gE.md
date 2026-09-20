@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Context Engineering](https://blog.langchain.com/context-engineering-for-agents/)
 - [@article@Context Compaction](https://gist.github.com/badlogic/cd2ef65b0697c4dbe2d13fbecb0a0a5f)
+- [@video@Context Engineering for Agents](https://www.youtube.com/watch?v=4GiqzUHD5AA)
