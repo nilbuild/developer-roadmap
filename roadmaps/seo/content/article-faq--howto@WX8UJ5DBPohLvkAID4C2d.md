@@ -1,3 +1,3 @@
-# Article, FAQ & HowTo Schema
- 
-Article schema marks up a piece of content as a news article or blog post, with structured details like publish date and author. FAQ schema marks up a list of questions and answers, sometimes allowing them to display directly in search results. HowTo schema marks up step-by-step instructions, structuring each step so it can potentially be shown directly in search results.
+# Authors & Brands
+
+This refers to schema and structured data specifically identifying the author of a piece of content or the brand behind a product or business. Clearly marking authorship and brand ownership supports both credibility signals and entity recognition across the web.

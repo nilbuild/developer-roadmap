@@ -1,3 +1,3 @@
-# Nofollow, Sponsored, UGC
- 
-The nofollow attribute tells search engines not to pass ranking credit through a link. The sponsored attribute specifically marks a link as paid or part of an advertising arrangement. The UGC, or user-generated content, attribute marks links found in content like comments or forum posts, which a site owner did not personally place or endorse.
+# Citation Flow
+
+Citation Flow is a metric from Majestic that estimates the raw link popularity of a website, based on how many sites link to it regardless of their quality. It is typically compared alongside Trust Flow, since a large gap between the two can indicate a site has many low-quality links.

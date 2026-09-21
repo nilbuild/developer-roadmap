@@ -1,3 +1,3 @@
-# Google AI Mode
- 
-Google AI Mode is a search experience that generates a conversational, AI-written response to a query, going further than a standard AI Overview by allowing follow-up questions within the same session. It draws on retrieved web content, meaning visibility here depends on many of the same technical and content factors as ranking in standard search results.
+# Answer Engines
+
+Answer engines are search tools built to give a direct answer to a question rather than a list of links to click through. Perplexity is a well known example, retrieving information from the web and presenting a synthesized answer with citations. Being included as a cited source in an answer engine depends on how easily a system can retrieve and trust your content.
