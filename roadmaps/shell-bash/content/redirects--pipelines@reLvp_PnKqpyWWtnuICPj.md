@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@official@Redirections](https://www.gnu.org/software/bash/manual/html_node/Redirections.html)
 - [@article@Unix / Linux - Shell Input/Output Redirections](https://www.tutorialspoint.com/unix/unix-io-redirections.htm)
 - [@video@IO Redirection in Bash EXPLAINED](https://www.youtube.com/watch?v=7VaO2dxs_kg)
+- [@course@Terminal Basics: pipes and redirects in a browser sandbox (Hands-on)](https://learn.webterm.app/en/courses/terminal-fundamentals)
