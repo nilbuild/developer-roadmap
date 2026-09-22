@@ -4,7 +4,6 @@ XAMPP is a free and open-source cross-platform web server solution stack package
 
 Visit the following resources to learn more:
 
-- [@official@XAMPP](https://www.apachefriends.org/)
 - [@official@Installing XAMPP](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/installing-xampp/)
 - [@article@How to Use XAMPP: A 3-Step Guide to Setting Up a Local WordPress Site](https://www.hostinger.com/uk/tutorials/how-to-use-xampp-wordpress)
 - [@video@How to Install WordPress locally in Xampp Localhost on Windows 10/11 Complete Guide](https://www.youtube.com/watch?v=6M5Unq3Vbhg)

@@ -8,5 +8,3 @@ Visit the following resources to learn more:
 - [@official@Docker with WP](https://hub.docker.com/_/wordpress)
 - [@official@Dockerize WordPress: Simplify Your Site’s Setup and Deployment](https://www.docker.com/blog/how-to-dockerize-wordpress/)
 - [@article@How To Install WordPress With Docker Compose](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose)
-- [@video@Quick Wordpress Setup With Docker](https://www.youtube.com/watch?v=pYhLEV-sRpY)
-- [@video@Docker Setup for Local WordPress Development](https://www.youtube.com/watch?v=GG2k-La5t3o)

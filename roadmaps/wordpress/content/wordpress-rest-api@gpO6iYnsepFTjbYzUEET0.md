@@ -7,7 +7,4 @@ Visit the following resources to learn more:
 - [@official@REST API Handbook](https://developer.wordpress.org/rest-api/)
 - [@official@REST API Docs](https://developer.wordpress.com/docs/api/)
 - [@official@Using the WordPress REST API](https://learn.wordpress.org/tutorial/using-the-wordpress-rest-api/)
-- [@official@Other WordPress APIs](https://codex.wordpress.org/WordPress_APIs)
 - [@article@The Complete Guide to WordPress REST API Basics](https://kinsta.com/blog/wordpress-rest-api/)
-- [@video@The WordPress REST API](https://www.youtube.com/watch?v=u04-vaaDS2g)
-- [@video@Using the WordPress REST API](https://www.youtube.com/watch?v=SdwFRdcAlH0)

@@ -8,6 +8,3 @@ Visit the following resources to learn more:
 - [@official@Block patterns](https://developer.wordpress.com/docs/guides/block-patterns/)
 - [@official@Patterns](http://wordpress.org/patterns/)
 - [@article@What is a block pattern?](https://fullsiteediting.com/lessons/introduction-to-block-patterns/)
-- [@article@WordPress Block Patterns: How to Use Them & Create Your Own](https://jetpack.com/resources/wordpress-block-patterns/)
-- [@video@WordPress Block Patterns Give You Superpowers](https://www.youtube.com/watch?v=UCHhb4wqDwk)
-- [@video@Block patterns | WordPress.com Support](https://www.youtube.com/watch?v=-Lhn_IZX1SI)

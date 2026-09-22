@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@Simplifying WordPress's functions.php with OOP](https://dev.to/tylerlwsmith/simplifying-wordpresss-functionsphp-with-oop-2mj8)
 - [@article@How to approach object-oriented programming with WordPress](https://carlalexander.ca/approaching-object-oriented-programming-wordpress/)
 - [@video@WordPress Architecture Fundamentals: OOP vs Procedural Approach - Which wins?](https://www.youtube.com/watch?v=xTcFXEbOMxE)
-- [@video@Learn To Use Classes, Objects, Methods Etc. Via Simple Projects In WordPress | Oop Php In Wp Part 1](https://www.youtube.com/watch?v=QECrzVKQ360)

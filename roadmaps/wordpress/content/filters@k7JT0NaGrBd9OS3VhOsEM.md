@@ -6,6 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@WordPress Filter Hooks](https://learn.wordpress.org/tutorial/wordpress-filter-hooks/)
 - [@official@add_filter](https://developer.wordpress.org/reference/functions/add_filter/)
-- [@article@The WordPress Hooks Bootcamp: How to Use Actions, Filters, and Custom Hooks](https://kinsta.com/blog/wordpress-hooks/)
 - [@video@Filter Hooks](https://www.youtube.com/watch?v=EZNJWgq26_E)
 - [@video@WordPress Hooks Actions and Filters Introduction Full Playlist Part -1](https://www.youtube.com/watch?v=7qiPMpi2xc0&list=PLD8nQCAhR3tTVcreVOlFteq0piaXq1jjk)

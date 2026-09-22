@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@official@Advanced Custom Fields Plugin](https://wordpress.org/plugins/advanced-custom-fields/)
 - [@article@Advanced Custom Fields Tutorial: Your Ultimate Guide](https://kinsta.com/blog/advanced-custom-fields/)
 - [@video@Unlock WordPress Potential: A Beginner's Guide to Advanced Custom Fields](https://www.youtube.com/watch?v=G6ENmGxR2ow)
-- [@video@WordPress Advanced Custom Fields for Beginners (Step by Step Tutorial)](https://www.youtube.com/watch?v=nr8kiBNHGtw)
