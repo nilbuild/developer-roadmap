@@ -1,5 +1,5 @@
 # Data-Driven Strategy Shift
- 
+
 A data-driven strategy shift means changing the content approach based on what performance data reveals. If certain topics, formats, or posting times consistently outperform others, those findings should reshape the content plan. Regularly reviewing analytics and acting on them prevents continuing to invest in content that does not reach or engage the target audience.
 
 Visit the following resources to learn more:

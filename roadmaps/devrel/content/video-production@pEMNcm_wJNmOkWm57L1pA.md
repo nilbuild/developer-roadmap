@@ -1,3 +1,3 @@
 # Video Production
- 
+
 Video production is a significant part of DevRel content work, covering tutorial screencasts, conference talk recordings, product demos, and interview content. Good technical video requires clear scripting, quality audio, and competent editing to be worth a developer's time. Video content reaches audiences who prefer watching to reading and performs well on YouTube and social media.

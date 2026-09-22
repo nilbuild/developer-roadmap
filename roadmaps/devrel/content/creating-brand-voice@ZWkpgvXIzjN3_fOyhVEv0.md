@@ -1,5 +1,5 @@
 # Creating Brand Voice
- 
+
 Brand voice is the consistent tone, style, and personality expressed across all of a company's communications. For DevRel, the brand voice needs to feel credible and peer-like to developers, avoiding corporate speak. Defining the brand voice in a brief guide helps everyone who creates content maintain a consistent identity across platforms.
 
 Visit the following resources to learn more:

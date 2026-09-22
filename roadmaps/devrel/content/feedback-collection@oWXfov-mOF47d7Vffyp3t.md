@@ -1,5 +1,5 @@
 # Feedback Collection
- 
+
 Collecting feedback after an event reveals what worked, what did not, and what attendees want from future events. Feedback can be gathered through post-event surveys, direct conversations, and monitoring social media reactions. Acting on feedback visibly shows the community that their input shapes future events.
 
 Visit the following resources to learn more:

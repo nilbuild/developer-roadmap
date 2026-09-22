@@ -1,5 +1,5 @@
 # Community Management
- 
+
 Community management is the day-to-day work of keeping a developer community active, healthy, and growing. It includes moderating discussions, welcoming new members, facilitating conversations, resolving conflicts, and recognizing contributors. Effective community management makes the difference between a community that thrives and one that goes quiet.
 
 Visit the following resources to learn more:

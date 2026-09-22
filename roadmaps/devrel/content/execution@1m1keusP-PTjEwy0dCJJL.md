@@ -1,5 +1,5 @@
 # Execution
- 
+
 Execution is the delivery of the event itself, ensuring that everything planned comes together on the day. This includes managing the schedule, supporting speakers, handling technical issues, engaging attendees, and creating a welcoming atmosphere. Good execution makes an event feel polished and leaves attendees with a positive impression.
 
 Visit the following resources to learn more:

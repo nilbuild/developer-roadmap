@@ -1,5 +1,5 @@
 # VS Code
- 
+
 Visual Studio Code is the most widely used code editor among developers across almost every language and platform. It is lightweight, extensible through a large marketplace of extensions, and free. Being fluent in VS Code helps DevRel professionals create tutorials and demos that match the environment most developers already use.
 
 Visit the following resources to learn more:

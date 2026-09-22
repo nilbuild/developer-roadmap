@@ -1,3 +1,3 @@
 # Managing Difficult Questions
- 
+
 Difficult questions include those that are hostile, outside the speaker's knowledge, or designed to derail the discussion. Effective strategies include acknowledging the question honestly, offering to follow up offline, and redirecting to the talk's core topic when appropriate. Remaining calm and professional when challenged builds credibility with the rest of the audience.

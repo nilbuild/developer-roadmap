@@ -1,3 +1,3 @@
 # Social Media
- 
+
 Social media is a primary channel for DevRel outreach, community engagement, and content distribution. Different platforms serve different purposes: X for real-time conversation, LinkedIn for professional reach, Instagram for visual storytelling, and Facebook for certain community groups. An effective social media presence builds audience, drives traffic, and keeps the developer community informed.

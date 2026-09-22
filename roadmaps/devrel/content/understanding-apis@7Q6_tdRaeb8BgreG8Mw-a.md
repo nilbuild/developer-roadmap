@@ -1,3 +1,3 @@
 # Understanding APIs
- 
+
 An API (Application Programming Interface) defines how software components interact, specifying the requests that can be made, the data formats used, and the authentication required. DevRel professionals must understand REST, GraphQL, and webhook patterns well enough to explain them clearly, write accurate documentation, and identify friction points in the developer experience.

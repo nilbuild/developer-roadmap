@@ -1,5 +1,5 @@
 # Cross-Promotion
- 
+
 Cross-promotion means sharing each other's content across different audiences and platforms when two parties produce related material. A guest blog post can be promoted by both the author and the hosting publication, reaching developers who follow each. Cross-promotion multiplies the distribution of individual pieces of content with minimal additional effort.
 
 Visit the following resources to learn more:

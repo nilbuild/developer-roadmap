@@ -1,3 +1,3 @@
 # Writing Documentation
- 
+
 Writing documentation for APIs and SDKs requires combining technical accuracy with clarity. Good API documentation includes authentication instructions, endpoint references with request and response examples, error code explanations, and quickstart guides. Documentation is often the first thing a developer consults and directly affects whether they continue evaluating the product.
