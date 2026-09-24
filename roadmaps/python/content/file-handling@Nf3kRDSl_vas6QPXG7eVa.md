@@ -6,6 +6,5 @@ Visit the following resources to learn more:
 
 - [@article@Python File open](https://www.w3schools.com/python/python_file_handling.asp)
 - [@article@Working With Files in Python](https://realpython.com/working-with-files-in-python/)
-- [@article@Working With JSON Data in Python](https://realpython.com/python-json/)
 - [@article@Python glob Module: File Pattern Matching Explained](https://roadmap.sh/python/glob)
 - [@video@Python File Handling for Beginners](https://www.youtube.com/watch?v=BRrem1k3904)
