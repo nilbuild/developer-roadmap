@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Python List Comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
 - [@article@Python List Comprehensions Quiz](https://realpython.com/quizzes/list-comprehension-python/)
+- [@article@Master Python Filter: Syntax, Examples, and Best Practices](https://roadmap.sh/python/filter)

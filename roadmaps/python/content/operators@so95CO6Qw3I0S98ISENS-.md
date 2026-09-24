@@ -9,3 +9,4 @@ Visit the following resources to learn more:
 - [@article@Python Modulo Operator (%): Complete Guide with Examples](https://roadmap.sh/python/modulo)
 - [@article@Python not Operator: The Complete Guide to Logical Negation](https://roadmap.sh/python/not-operator)
 - [@article@The or Operator in Python: Complete Guide with Examples](https://roadmap.sh/python/or)
+- [@article@Python Exponent: 5 Methods for Exponentiation + Applications](https://roadmap.sh/python/exponent)

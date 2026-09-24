@@ -5,4 +5,6 @@ Python Lambda Functions are anonymous function means that the function is withou
 Visit the following resources to learn more:
 
 - [@article@How to use Lambda functions](https://realpython.com/python-lambda/)
+- [@article@Master Python Filter: Syntax, Examples, and Best Practices](https://roadmap.sh/python/filter)
+- [@article@Python reduce(): The Complete Guide (With Examples)](https://roadmap.sh/python/reduce)
 - [@video@Python Lambda Functions](https://www.youtube.com/watch?v=KR22jigJLok)

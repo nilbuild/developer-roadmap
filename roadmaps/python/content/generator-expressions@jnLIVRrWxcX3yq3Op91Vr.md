@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@official@Python Official Documentation on Generator Expressions](https://docs.python.org/3/tutorial/classes.html#generator-expressions)
 - [@article@Python Generator Expressions](https://www.pythontutorial.net/advanced-python/python-generator-expressions/)
 - [@article@List Comprehensions in Python and Generator Expressions](https://djangostars.com/blog/list-comprehensions-and-generator-expressions/)
+- [@article@Master Python Filter: Syntax, Examples, and Best Practices](https://roadmap.sh/python/filter)
