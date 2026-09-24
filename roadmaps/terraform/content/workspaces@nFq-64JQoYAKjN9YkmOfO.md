@@ -1,6 +1,6 @@
 # Workspaces
 
-Terraform workspaces allow managing multiple distinct sets of infrastructure resources within a single configuration. They provide a way to create separate instances of state for the same configuration, enabling users to maintain different environments (like development, staging, and production) or experiment with changes without affecting the main infrastructure. Each workspace has its own state file, allowing for isolated management of resources. Workspaces are particularly useful for testing changes before applying them to production or for managing slight variations in configuration across different environments. They can be easily switched between using Terraform CLI commands. For more significant environment differences, separate configuration directories or state files might be more appropriate.
+Workspaces allow multiple state files to exist for the same configuration, enabling the same code to manage separate environments such as development, staging, and production. The `terraform workspace` commands create, switch, and list workspaces. The current workspace name is available in expressions as `terraform.workspace`.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # VCS Integration
 
-HCP's Version Control System (VCS) integration, particularly in Terraform Cloud, enables seamless connection between infrastructure code repositories and HCP services. This feature allows teams to directly link their Git repositories (from providers like GitHub, GitLab, or Bitbucket) to HCP workspaces. When configured, changes pushed to the linked repository automatically trigger Terraform runs in the corresponding workspace. This integration supports GitOps workflows, ensuring that infrastructure changes go through proper version control processes. It enables features like automatic plan generation on pull requests, providing early feedback on proposed changes. The integration also supports branch-based workflows, allowing different branches to be linked to different workspaces for staging and production environments.
+HCP Terraform integrates with version control systems including GitHub, GitLab, Bitbucket, and Azure DevOps. Linking a workspace to a VCS repository triggers speculative plans on pull requests and applies on merges to the configured branch. This brings infrastructure changes into the same code review workflow as application changes.
 
 Visit the following resources to learn more:
 

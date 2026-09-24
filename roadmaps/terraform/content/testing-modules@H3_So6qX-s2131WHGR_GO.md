@@ -1,6 +1,6 @@
 # Testing Modules
 
-Testing Terraform modules involves validating their functionality, reusability, and correctness in isolation and as part of larger systems. This process typically includes unit testing to verify individual module behavior, integration testing to ensure proper interaction with other components, and sometimes end-to-end testing for complex modules. Tests often use tools like Terratest or custom scripts to automate the creation of resources, verification of outputs, and cleanup. Key aspects include testing various input combinations, verifying resource attributes and outputs, and ensuring idempotency. Module testing also involves checking for proper handling of edge cases and error conditions. While it requires initial setup effort, thorough module testing enhances reliability, facilitates refactoring, and improves overall infrastructure code quality.
+Testing modules involves validating their logic, variable handling, and output values in isolation before they are used in a larger configuration. The `terraform test` command can apply a module with test-specific variable values and assert expected output values. Keeping modules testable means writing them with clear inputs and outputs and minimal side effects.
 
 Visit the following resources to learn more:
 

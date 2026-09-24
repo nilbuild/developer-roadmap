@@ -1,6 +1,6 @@
 # state force-unlock
 
-The terraform `state force-unlock` command in Terraform is used to manually release a stuck state lock. State locking is a mechanism that prevents concurrent operations on the same state, but occasionally a lock may not be properly released due to crashes or network issues. This command allows administrators to forcibly remove the lock, enabling further Terraform operations to proceed. It should be used with extreme caution, as it can lead to state corruption if multiple users are attempting to modify the state simultaneously. Before using force-unlock, it's crucial to ensure that no other Terraform operations are genuinely in progress. This command is typically a last resort for resolving locking issues and should only be employed when certain that the lock is erroneously held and no conflicting operations are ongoing.
+`terraform state force-unlock` manually releases a state lock that was not properly released after an interrupted operation. It requires the lock ID, which is displayed in the error message shown when a lock conflict is detected. This command should only be used when you are certain no other Terraform operation is running.
 
 Visit the following resources to learn more:
 

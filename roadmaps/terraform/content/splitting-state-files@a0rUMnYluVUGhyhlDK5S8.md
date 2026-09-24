@@ -1,6 +1,6 @@
 # Splitting State Files
 
-Splitting Terraform state files involves dividing a large state into smaller, more manageable parts. This is typically done using Terraform workspaces or by organizing resources into separate modules with their own state files. The process helps manage complex infrastructures, improves performance, and allows for more granular access control. To split an existing state, you can use `terraform state mv` to move resources between states, or `terraform state rm` followed by `terraform import` in a new configuration. This approach is beneficial for large projects, enabling teams to work on different parts of infrastructure independently. However, it requires careful planning to manage dependencies between split states. Proper state splitting can lead to more efficient workflows, easier troubleshooting, and better alignment with organizational structures in large-scale Terraform deployments.
+Large Terraform configurations can be split into multiple state files by organizing resources into separate workspaces or root modules. This reduces the blast radius of plan and apply operations, speeds up plans, and makes it easier for teams to work independently on different parts of the infrastructure.
 
 Visit the following resources to learn more:
 

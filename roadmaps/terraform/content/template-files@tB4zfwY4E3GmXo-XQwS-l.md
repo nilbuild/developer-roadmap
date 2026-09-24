@@ -1,6 +1,6 @@
 # Template Files
 
-Terraform template files are a powerful feature for creating customizable, reusable configuration snippets. These files, typically with a `.tftpl` extension, contain placeholders that can be filled with variables at runtime. Terraform uses the `templatefile` function to process these files, replacing variables with actual values. This approach is useful for generating configuration files, scripts, or any text-based content that needs to be parameterized. Template files enhance modularity and reduce repetition in Terraform configurations. They're commonly used for creating user data scripts for EC2 instances, generating complex JSON configurations, or preparing any text-based resource that requires dynamic content. The `templatefile` function reads the contents of a file and renders its template syntax with a given set of variables, allowing for dynamic and flexible resource configurations.
+Template files use the `templatefile` function to render a file with variable substitutions at plan time. The function takes a file path and a map of values and returns the rendered string. Template files are commonly used to generate user data scripts, configuration files, or policy documents from dynamic values.
 
 Visit the following resources to learn more:
 

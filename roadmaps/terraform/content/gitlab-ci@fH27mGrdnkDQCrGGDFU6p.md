@@ -1,6 +1,6 @@
 # GitLab CI
 
-Using Terraform with GitLab CI enables automated infrastructure management within GitLab's CI/CD pipeline. A typical GitLab CI pipeline for Terraform includes stages for validation, planning, and applying changes. The pipeline can be configured to run Terraform commands automatically on code pushes or merge requests. GitLab CI variables are used to store sensitive information like cloud credentials securely. GitLab's native features like environments and approvals can be leveraged to manage different deployment stages and control when changes are applied.
+GitLab CI runs Terraform pipelines using `.gitlab-ci.yml` configuration files. GitLab provides a native Terraform integration with merge request widgets that display plan output directly in the code review interface. The GitLab-managed Terraform state backend stores state securely within the GitLab instance.
 
 Visit the following resources to learn more:
 

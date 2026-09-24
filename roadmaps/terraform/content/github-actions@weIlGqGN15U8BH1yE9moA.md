@@ -1,6 +1,6 @@
 # GitHub Actions
 
-Using Terraform with GitHub Actions allows for automated infrastructure management as part of a GitHub-based CI/CD pipeline. This integration enables automatic planning, validation, and application of Terraform configurations when changes are pushed to a repository. Typical workflow steps include checking out code, setting up Terraform, initializing the working directory, and running Terraform commands like plan and apply. GitHub Actions can be configured to run Terraform in different environments, manage state files, and handle secrets securely. It's important to configure appropriate permissions and use GitHub Secrets for sensitive data.
+GitHub Actions can run Terraform commands as part of a workflow triggered by pull requests or pushes. Workflows are defined in YAML files and can use community actions from the GitHub Marketplace or call the Terraform CLI directly. Secrets for provider credentials are stored in the repository settings and injected as environment variables.
 
 Visit the following resources to learn more:
 

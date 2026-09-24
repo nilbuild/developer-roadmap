@@ -1,6 +1,6 @@
 # Compliance / Sentinel
 
-Hashicorp Sentinel is a policy-as-code framework integrated with HashiCorp's enterprise products, including Terraform Cloud and Terraform Enterprise. It allows organizations to define and enforce standardized, fine-grained policies across their infrastructure deployments. Sentinel policies can be written to check for security compliance, cost management, or operational best practices before Terraform applies any changes. These policies use a domain-specific language to define rules that evaluate Terraform plans and state, enabling teams to catch potential issues early in the development process. Sentinel can enforce mandatory policies that prevent non-compliant infrastructure changes from being applied, or advisory policies that warn but don't block deployments.
+Sentinel is a policy as code framework built into Terraform Cloud and Enterprise. It allows teams to define rules that restrict what infrastructure can be provisioned, enforce tagging standards, or require cost approval before applying. Policies are evaluated between the plan and apply phases, blocking deployments that violate defined rules.
 
 Visit the following resources to learn more:
 

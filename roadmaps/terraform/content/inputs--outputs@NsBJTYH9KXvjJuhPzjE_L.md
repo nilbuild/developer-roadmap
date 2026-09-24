@@ -1,8 +1,6 @@
 # Inputs / Outputs
 
-Module inputs and outputs in Terraform facilitate the flow of data into and out of modules, enabling customization and data sharing. Inputs are defined using variable blocks within a module and allow the module's behavior to be customized when it's used. They can have default values and type constraints.
-
-When calling a module, inputs are provided as arguments. Outputs, defined using output blocks, expose specific values from the module's resources, making them available to the calling module. This allows for data to be passed between modules or to be used in other parts of the configuration. Outputs can include computed values, resource attributes, or any Terraform expression. Properly designed inputs and outputs are crucial for creating flexible, reusable modules that can be easily integrated into various configurations.
+Modules accept input values through declared variables and expose results through declared outputs. The calling module passes values for each required variable and can reference the module's outputs using the `module.<name>.<output>` syntax. Well-defined inputs and outputs form the public interface of a module.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # graph
 
-The terraform graph command generates a visual representation of either a configuration or execution plan. It creates a graph of resources and their dependencies in DOT format, which can be converted into an image using tools like Graphviz. This visual aid helps developers understand complex resource relationships, identify potential issues in resource ordering, and visualize the overall structure of their infrastructure. The graph can show different aspects of the Terraform configuration, including resource dependencies, data flow, and module relationships. While primarily used for debugging and documentation purposes, the graph command is also valuable for presenting infrastructure designs to stakeholders or for educational purposes. It's particularly useful in large, complex projects where understanding resource interdependencies can be challenging.
+`terraform graph` outputs a visual representation of the dependency graph for the current configuration or plan. The output is in DOT format, which can be rendered with tools like Graphviz. It is useful for understanding resource dependencies and diagnosing unexpected ordering issues.
 
 Visit the following resources to learn more:
 

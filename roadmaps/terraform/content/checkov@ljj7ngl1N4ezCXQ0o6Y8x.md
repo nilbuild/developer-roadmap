@@ -1,6 +1,6 @@
 # Checkov
 
-Checkov is an open-source static code analysis tool designed for scanning Infrastructure as Code (IaC) files, including Terraform configurations, for security and compliance issues. It provides a comprehensive set of out-of-the-box policies covering various cloud providers and security best practices. Checkov can identify misconfigurations, security risks, and compliance violations in Terraform code before deployment, helping to shift security left in the development process. The tool supports custom policies written in Python, allowing organizations to enforce specific requirements. Checkov integrates easily into CI/CD pipelines and offers multiple output formats for better reporting and integration with other tools. Its ability to scan for a wide range of issues, from insecure defaults to compliance with standards like CIS Benchmarks, makes it a powerful asset for maintaining secure and compliant infrastructure deployments.
+Checkov is a static analysis tool for infrastructure as code that scans Terraform, CloudFormation, Kubernetes, and other formats for security and compliance issues. It includes hundreds of built-in checks covering major cloud providers and supports custom policies written in Python or YAML. Scan results can be output as JUnit XML for integration with CI systems.
 
 Visit the following resources to learn more:
 

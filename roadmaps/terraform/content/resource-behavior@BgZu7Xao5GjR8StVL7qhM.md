@@ -1,6 +1,6 @@
 # Resource Behavior
 
-Resource behavior encompasses how resources are managed, created, updated, and destroyed according to the configuration specified in Terraform files. Each resource block specifies desired attributes, and Terraform ensures that the real-world infrastructure matches these specifications. If writing a configuration for the first time, the resources defined will only exist in the configuration and will not be reflected on the target platform until applied. When a configuration is applied, Terraform generates an execution plan, determining the actions required to reach the desired state, such as creating new resources, updating existing ones, or deleting resources no longer needed.
+When Terraform applies a configuration, it determines what actions to take for each resource based on the difference between the desired state and the current state. Resources can be created, updated in place, destroyed and recreated, or left unchanged depending on what changed in the configuration. Some attributes require replacement rather than an in-place update.
 
 Visit the following resources to learn more:
 
