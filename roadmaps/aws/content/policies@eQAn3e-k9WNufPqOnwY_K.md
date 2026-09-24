@@ -1,6 +1,6 @@
 # Policies
 
-Policies in Amazon IAM (Identity and Access Management) are documents that act as containers for permissions. They are expressed in JSON format in IAM and they define the actions, effects, resources, and optional conditions. There are two types of policies: identity-based policies and resource-based policies. Identity-based policies are attached to an IAM identity, and resource-based policies are attached to a resource. These policies specify what actions are allowed or denied on what resources, under what conditions. They are your primary tool in defining and managing permissions in AWS.
+IAM policies are JSON documents that define permissions. A policy specifies which actions are allowed or denied on which resources, and under what conditions. Policies are attached to users, groups, or roles to grant or restrict access.
 
 Visit the following resources to learn more:
 

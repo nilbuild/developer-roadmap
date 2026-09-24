@@ -1,6 +1,6 @@
 # Purchasing Options
 
-Amazon EC2 provides several purchasing options to fit different workload needs. The **On-Demand** option allows clients to pay for compute capacity per hour with no long-term commitments. **Reserved Instances** provide a significant discount compared to On-Demand pricing and are ideal for applications required steady state usage. **Spot Instances** allow clients to bid for unused Amazon EC2 capacity and can provide significant savings if flexibility is possible in starting and stopping times. **Dedicated Hosts** are physical EC2 servers dedicated to specific clients, suitable for regulatory requirements and licenses which do not support multi-tenant virtualization, and **Savings Plans** offer reduced rates for committing to a consistent amount of usage for 1 or 3 years.
+EC2 offers several purchasing models to balance cost and flexibility. On-Demand instances are billed per second with no commitment. Reserved Instances offer significant discounts in exchange for a one- or three-year commitment. Spot Instances let you bid on unused capacity at steep discounts, but can be interrupted with short notice. Savings Plans offer flexible discount commitments that apply across instance families.
 
 Visit the following resources to learn more:
 

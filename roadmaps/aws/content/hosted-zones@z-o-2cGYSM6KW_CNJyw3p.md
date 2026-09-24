@@ -1,6 +1,6 @@
 # Hosted Zones
 
-A **Hosted Zone** in AWS Route 53 is essentially a container that holds information about how you want to route traffic on the internet for a specific domain, such as example.com. Each hosted zone is associated with a set of DNS records, which control the flow of traffic for that domain. AWS Route 53 automatically creates a record set that includes a name server (NS) record and a start of authority (SOA) record when you create a hosted zone. These records provide necessary information about your domain to the DNS system, establishing the basis for routing traffic for that domain to the appropriate IP address in your AWS environment.
+Route53 routing policies determine how DNS queries are answered when multiple records exist. Simple routing returns a single value. Weighted routing splits traffic across records by percentage. Latency-based, geolocation, failover, and multi-value routing provide additional control over where requests are directed.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # Creating / Invoking Functions
 
-To create a Lambda function in AWS, navigate to the AWS Management Console, select "Lambda" under "Compute" and then "Create function". Specify the function name, execution role and runtime environment. Once the function is created, you can write or paste the code into the inline editor. To invoke a Lambda function, you can either do it manually, via an API gateway, or schedule it. Manually invoking can be done by selecting your function in the AWS console, then "Test", add the event JSON and "Test" again. If set up with an API gateway, it'll be triggered when the endpoints are hit. Scheduling involves using AWS Cloudwatch to trigger the functions periodically.
+A Lambda function is created by uploading code and specifying a runtime, handler, and execution role. Functions can be invoked synchronously (waiting for a response), asynchronously (fire and forget), or through event source mappings that poll queues and streams. The function handler is the entry point that receives the event and context objects.
 
 Visit the following resources to learn more:
 
