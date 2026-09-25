@@ -1,6 +1,6 @@
 # MCTS
 
-"MCTS", or Monte Carlo Tree Search, is a search algorithm that utilizes methods of decision-making to solve complex problems, commonly implemented in a range of applications, including board games. It essentially operates through building a search tree, node by node, for probable states of a game and then using Monte Carlo simulations to provide a statistical analysis of potential outcomes. It randomly generates moves using the game's determined rules, then makes decisions based on the results of these simulations. In board games, it's often used to determine AI decisions by simulating possible game scenarios, hence contributing to making the AI system more robust and challenging.
+Monte Carlo Tree Search (MCTS) is a search algorithm that builds a game tree by randomly simulating game play-outs and using the results to guide further exploration. It balances exploration of unknown branches with exploitation of known good moves using the UCB1 formula. MCTS is well-suited to games with large branching factors and is the backbone of AlphaGo and similar systems.
 
 Visit the following resources to learn more:
 

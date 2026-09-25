@@ -1,6 +1,6 @@
 # Parallax
 
-In game development and graphics, parallax refers to the apparent displacement or difference in the apparent position of an object viewed along two different lines of sight, and is measured by the angle or semi-angle of inclination between those two lines. In simpler terms, parallax is a technique used to create the illusion of depth in 2D environments by moving background layers at different speeds relative to the foreground.
+Parallax mapping is an enhancement over bump and normal mapping that offsets UV coordinates based on a height map and the viewing angle, giving surfaces a greater sense of depth. At steep angles, basic parallax mapping breaks down, so variants like parallax occlusion mapping add iterative ray stepping to improve accuracy for surfaces with significant height variation.
 
 Visit the following resources to learn more:
 

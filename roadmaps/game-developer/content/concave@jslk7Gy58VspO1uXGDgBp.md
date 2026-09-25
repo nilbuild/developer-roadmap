@@ -1,6 +1,6 @@
 # Concave
 
-In game development, a shape is said to be "concave" if it has an interior angle greater than 180 degrees. In simpler terms, if the shape has a portion "inwards curved" or a "cave-like" indentation, it's concave. Unlike convex shapes, a straight line drawn within a concave shape may not entirely lie within the boundaries of the shape. Concave shapes add complexity in game physics, especially in collision detection, as there are more points and angles to consider compared to convex shapes. These shapes are commonly seen in game elements like terrains, mazes, game level boundaries and gaming characters. Let's remember that the practical application of concave shapes largely depends on the gameplay requirements and the level of realism needed in the game.
+A concave shape has at least one surface that curves inward, meaning a line segment between two interior points may pass outside the boundary. Concave meshes cannot be used directly in many physics algorithms without decomposition. In games, concave shapes are often reserved for static terrain or environments, with dynamic objects approximated using convex hulls or compound colliders.
 
 Visit the following resources to learn more:
 

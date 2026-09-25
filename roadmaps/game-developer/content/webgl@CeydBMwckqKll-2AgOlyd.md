@@ -1,6 +1,6 @@
 # WebGL
 
-`WebGL` (Web Graphics Library) is a JavaScript API that is used to render interactive 2D and 3D graphics within any compatible web browser without the use of plug-ins. It leverages the power of the Graphics Processing Unit (GPU), which provides high-efficiency rendering. WebGL programs consist of control code written in JavaScript and shader code that's written in OpenGL Shading Language (GLSL), allowing developers to control the fine details of graphics rendering. Besides its compatibility with HTML5 and its ability to render on any platform that supports the web, WebGL is entirely integrated into all web standards, facilitating GPU-accelerated image processing and effects.
+WebGL is a JavaScript API for rendering 2D and 3D graphics in a browser using the GPU, based on OpenGL ES 2.0 and 3.0. It runs without plugins and is supported in all major browsers. WebGL is used for browser-based games, data visualizations, and interactive 3D experiences.
 
 Visit the following resources to learn more:
 

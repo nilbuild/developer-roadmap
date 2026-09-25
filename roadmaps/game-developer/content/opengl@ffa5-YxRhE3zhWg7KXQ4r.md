@@ -1,6 +1,6 @@
 # OpenGL
 
-Open GL, also known as Open Graphics Library, is a cross-language, cross-platform API designed to render 2D and 3D vector graphics. As a software interface for graphics hardware, Open GL provides programmers the ability to create complex graphics visuals in detail. It was first developed by Silicon Graphics Inc. in 1992 and quickly became a highly popular tool in the graphics rendering industry. Open GL is widely used in CAD, virtual reality, scientific visualization, information visualization, and flight simulation. It is also used in video games production where real-time rendering is a requirement. The API is designed to work with a broad range of hardware from different manufacturers. Being open-source, Open GL's code capabilities can be extended by anyone in the software community.
+OpenGL is a cross-platform graphics API that provides a high-level interface for 2D and 3D rendering. It has been widely used in games and applications since the 1990s but has largely been superseded by Vulkan for high-performance use cases. OpenGL remains common in tools, educational contexts, and platforms where Vulkan support is unavailable.
 
 Visit the following resources to learn more:
 

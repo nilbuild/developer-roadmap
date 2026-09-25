@@ -1,6 +1,6 @@
 # Affine Space
 
-In the context of game mathematics, an **Affine Space** is a fundamental concept you should understand. It is a geometric structure with properties related to both geometry and algebra. The significant aspect of an affine space is that it allows you to work more comfortably with points and vectors. While a vector space on its own focuses on vectors which have both magnitude and direction, it does not involve points. An affine space makes it easy to add vectors to points or subtract points from each other to get vectors. This concept proves extremely useful in the field of game development, particularly when dealing with graphical models, animations, and motion control.
+An affine space extends a vector space by adding points that represent positions rather than directions. The key distinction is that two points can be subtracted to produce a vector, but two points cannot be added to each other. Understanding affine spaces clarifies the difference between points and directions in 3D math, which matters when applying transformations correctly.
 
 Visit the following resources to learn more:
 

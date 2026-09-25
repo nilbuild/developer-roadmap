@@ -1,6 +1,6 @@
 # OBB
 
-`Oriented Bounding Box (OBB)` is a type of bounding volume used in computer graphics and computational geometry. It is often used to simplify complex geometric objects by correlating them as a box much closer in size and orientation to the actual object. Unlike the `Axis-Aligned Bounding Box (AABB)`, the `OBB` is not constrained to align with the axis, so the box can be rotated. This orientation is usually chosen based on the object's local coordinate system, so the `OBB` maintains its rotation. Properties of an `OBB` include its center, dimensions, and orientation. However, it is worth noting that `OBBs` can be more computationally intensive than `AABBs` due to mathematical complexity.
+An OBB (Oriented Bounding Box) is a rectangular bounding volume that can rotate freely to match the orientation of the object it encloses. Compared to an AABB, an OBB typically provides a tighter fit, reducing false positives in collision tests. Intersection tests between OBBs are more expensive than AABB tests, usually implemented using SAT.
 
 Visit the following resources to learn more:
 

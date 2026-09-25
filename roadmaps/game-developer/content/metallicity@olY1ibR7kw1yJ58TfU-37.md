@@ -1,6 +1,6 @@
 # Metallicity
 
-In Physically Based Rendering (PBR), **Metallicity** is a critical property of a material, which influences how it interacts with light. It's a binary property, indicating whether the material is a 'metal' or 'non-metal'. Metals have a high metallicity value (often 1), non-metals (such as wood, plastic, etc.) have a low metallicity value (often 0). Interestingly, with PBR, there exists no 'partially metal' materials ― it's an all or nothing characteristic. This property significantly impacts color handling, too, as metals derive their color from specular reflection while non-metals derive from subsurface scattering (diffuse).
+Metallicity, also called metalness, is a PBR material parameter that describes whether a surface behaves like a metal or a dielectric. Metals have no diffuse component and highly colored specular reflections, while dielectrics have diffuse color and white specular highlights. The metalness parameter in PBR workflows blends between these two behaviors.
 
 Visit the following resources to learn more:
 

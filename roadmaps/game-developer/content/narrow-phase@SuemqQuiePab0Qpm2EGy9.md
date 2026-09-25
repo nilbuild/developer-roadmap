@@ -1,6 +1,6 @@
 # Narrow Phase
 
-The **Narrow Phase** of collision detection is a process that dives deeply into detailed collision checks for pairs of objects that are already found to be potentially colliding during the broad phase. Narrow phase is essentially a fine-tuning process. Upon positive detection from the broad phase, it identifies the precise points of collision between the two objects, and it may involve more detailed shape representations and more expensive algorithms. It might also calculate additional information necessary for the physics simulation (like the exact time of impact and contact normals). The usual methods used for this phase involve bounding box, bounding sphere or separating axis theorem. However, the method can vary depending on the complexity of shapes of objects and the specific needs of the game.
+Narrow phase collision detection performs precise geometric intersection tests between pairs of objects that the broad phase has flagged as potential collisions. It computes contact points, contact normals, and penetration depths needed for the physics solver. Algorithms used in narrow phase include GJK, EPA, and SAT, depending on the shape types involved.
 
 Visit the following resources to learn more:
 

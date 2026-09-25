@@ -1,6 +1,6 @@
 # Convex Hull
 
-The **Convex Hull** is a foundational concept used in various areas of game development, particularly in the creation of physics engines and collision detection. Essentially, it is the smallest convex polygon that can enclose a set of points in a two-dimensional space, or the smallest convex polyhedron for a set of points in a three-dimensional space. It can be thought of as the shape that a rubber band would take if it was stretched around the points and then released. In computational geometry, various algorithms like Graham's Scan and QuickHull have been developed to compute Convex Hulls rapidly. Using Convex Hulls in game engines can drastically improve the performance of collision detection routines as fewer points need to be checked for overlap, which in turn helps in creating smoother gameplay.
+A convex hull is the smallest convex shape that fully contains a set of points. In game development, convex hulls are generated from mesh vertices to produce physics colliders that approximate the original shape while remaining usable by convex-only physics algorithms. Most physics engines provide tools to compute convex hulls from arbitrary geometry automatically.
 
 Visit the following resources to learn more:
 

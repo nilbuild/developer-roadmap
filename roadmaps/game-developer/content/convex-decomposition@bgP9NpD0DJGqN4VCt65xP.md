@@ -1,6 +1,6 @@
 # Convex Decomposition
 
-`Convex Decomposition` represents a process within game development that involves breaking down complex, concave shapes into simpler, convex shapes. This technique considerably simplifies the computation involved in collision detection, a critical aspect of any game development project that involves physical simulations. In concrete terms, a concave shape has one or more parts that 'cave in' or have recesses, while a convex shape has no such depressions - in simplistic terms, it 'bulges out' with no interior angles exceeding 180 degrees. So, Convex decomposition is essentially a process of breaking down a shape with 'caves' or 'recesses' into simpler shapes that only 'bulge out'.
+Convex decomposition breaks a concave mesh into a set of convex pieces that together approximate the original shape. This allows concave objects to be simulated in physics engines that require convex geometry by treating the decomposed parts as a compound collider. Algorithms like V-HACD are commonly used to automate this process.
 
 Visit the following resources to learn more:
 

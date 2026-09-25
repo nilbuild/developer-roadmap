@@ -1,6 +1,6 @@
 # Vulkan Ray Tracing
 
-`Vulkan Ray Tracing` is an extension of the Vulkan API (Application Programming Interface), which is an open-source, cross-platform API developed by the Khronos Group. Its main goal is to provide developers with greater control over the GPU, enabling better performance and more efficient multisystem and multicore use. The Vulkan Ray Tracing extension provides a standardized ray tracing interface similar to DirectX Raytracing, enabling real-time ray tracing applications to be built on Vulkan. This extension includes a number of functionalities such as acceleration structure building and management, ray tracing shader stages and pipelines, and indirect ray tracing dispatch.
+Vulkan Ray Tracing is the Khronos Group's extension to Vulkan that exposes hardware-accelerated ray tracing across platforms. It uses the same shader stage model as DXR and supports acceleration structure management for efficient scene traversal. Vulkan Ray Tracing provides cross-platform ray tracing support on Windows, Linux, and Android.
 
 Visit the following resources to learn more:
 

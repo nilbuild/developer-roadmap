@@ -1,6 +1,6 @@
 # Clipping
 
-`Clipping` is a fundamental technique in computer graphics primarily used for efficiently rendering a three-dimensional scene. This process involves eliminating certain parts of objects in the scene that are out-of-view or obstructed by other objects. Clipping can occur in various ways, one of the most common methods being `View-frustum culling` where objects completely outside of the camera view are discarded. The aim of clipping is to optimize the graphic rendering pipeline by reducing the number of polygons that the graphic hardware needs to process. Consequently, this helps in improving the speed and overall performance of the rendering process.
+Culling is the process of eliminating geometry that does not need to be rendered, either because it is outside the view frustum, occluded by other objects, or facing away from the camera. Effective culling reduces the number of draw calls and the amount of geometry the GPU must process. Common forms include frustum culling, occlusion culling, and backface culling.
 
 Visit the following resources to learn more:
 

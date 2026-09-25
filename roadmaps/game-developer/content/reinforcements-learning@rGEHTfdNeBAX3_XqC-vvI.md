@@ -1,6 +1,6 @@
 # Reinforcements Learning
 
-`Reinforcement Learning` is a type of Machine Learning which is geared towards making decisions. It involves an agent that learns to behave in an environment, by performing certain actions and observing the results or rewards/results it gets. The main principle of reinforcement learning is to reward good behavior and penalize bad behavior. The agent learns from the consequences of its actions, rather than from being taught explicitly. In the context of game development, reinforcement learning could be used to develop an AI (Artificial Intelligence) which can improve its performance in a game based on reward-driven behavior. The AI gradually learns the optimal strategy, known as policy, to achieve the best result.
+Reinforcement learning (RL) trains an agent to maximize a cumulative reward signal by taking actions in an environment and observing the results. In games, RL has been used to train superhuman game-playing agents and is increasingly used for NPC behavior, playtesting, and animation control. Common algorithms include Q-learning, PPO, and SAC.
 
 Visit the following resources to learn more:
 

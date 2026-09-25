@@ -1,6 +1,6 @@
 # Linear Velocity
 
-**Linear Velocity** is a fundamental concept in physics that is extensively used in game development. It refers to the rate of change of an object's position with respect to a frame of reference. It's calculated by dividing the change in position by the change in time, often represented with the vector 'v'. In game development, an object's linear velocity can be manipulated to control its speed and direction. This is especially important in the development of physics simulations or movement-dependent gameplay elements. For instance, it can be used to make a character run or drive, or to throw an object at different speeds and directions.
+Linear velocity is the rate of change of an object's position over time, represented as a vector indicating speed and direction of movement. In rigid body simulation, linear velocity is updated each frame by integrating applied forces and is used to advance the object's position. It is distinct from angular velocity, which describes rotation.
 
 Visit the following resources to learn more:
 
