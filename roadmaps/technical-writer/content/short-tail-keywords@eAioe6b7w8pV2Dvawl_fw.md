@@ -1,3 +1,3 @@
 # Short-tail Keywords
 
-"Short Tail Keywords" are concise search phrases, typically containing one or two words. They bear a broad search intent due to their general nature and high search volume. An example might be a keyword as simple as 'Shoes'. It poses an immense search intent possibility ranging from the need to buy shoes to finding shoe repair services. Short tail keywords are incredibly competitive in SEO, often dominated by large and well-established corporations, making it harder for smaller businesses or new websites to rank for these terms.
+Short-tail keywords are broad, high-volume search terms typically consisting of one or two words, such as "docker" or "API security." They attract large audiences but face more competition and often represent lower specificity of intent. Technical content teams use short-tail keywords to identify high-level topic areas rather than targeting them directly in individual documents.

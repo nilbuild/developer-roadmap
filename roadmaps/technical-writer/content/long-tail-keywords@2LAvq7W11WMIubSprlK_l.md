@@ -1,3 +1,3 @@
 # Long-Tail Keywords
 
-Long Tail Keywords are more specific keyword phrases usually three to four words long that your audience might be searching for when they're closer to needing your products or services. They're a bit counter-intuitive, at first, but they can be incredibly useful if you understand their potential. With long-tail keywords, you can reach a more targeted audience that is typically further along in the buying cycle. They are less competitive than more common "head" keywords, and often have a higher conversion rate because they can better match with the specific services or products your business offers.
+Top-funnel content targets users who are early in their discovery process and may not yet know a specific product or solution. It educates on broad problems, concepts, and trends rather than promoting a specific tool. For technical audiences, this includes introductory tutorials, explainer articles, and research reports.
