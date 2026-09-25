@@ -1,6 +1,6 @@
 # Influencing without Authority
 
-As a Product Manager, the ability to influence without authority is a critical skill set. This is often because Product Managers do not necessarily have direct authority over the team yet are expected to guide product strategies and make vital decisions. Influencing without authority involves convincing others to follow your ideas or approach, and can often include multidirectional influence, not just downward but upward and sideways too. A Product Manager navigates between different stakeholders like cross-functional partnerships, sales, marketing, engineering, design, etc., with varying levels of authority. Mastering the art of Influencing without Authority allows Product Managers to motivate and sway these differing parties to work collectively towards a shared vision or goal, thereby driving the product's success.
+Influencing without authority is the ability to shape decisions and drive action when you have no direct control over the people involved. Product managers depend on this skill because they are responsible for outcomes but rarely manage the people who produce them. It requires building credibility, understanding motivations, and communicating in terms that resonate with each stakeholder.
 
 Visit the following resources to learn more:
 

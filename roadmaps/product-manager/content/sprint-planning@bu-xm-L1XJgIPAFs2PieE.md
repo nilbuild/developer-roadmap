@@ -1,6 +1,6 @@
 # Sprint Planning
 
-In the role of a Product Manager, sprint planning is a fundamentally important aspect that dives into the management of product development in short 'sprints', or phases. It's a collaborative event in agile development where the team determines the product work that can be completed in the upcoming sprint. This essentially involves having the team understand the project's goals and scope from the Product Manager's perspective, direct stakeholders' input, and then translating these into concrete tasks for developers. Sprint Planning thus helps to ensure that everyone is on the same page and that development is effectively prioritized and focused.
+Sprint planning is the ceremony that opens each sprint, where the team decides which backlog items to commit to for the upcoming cycle. The product manager or owner presents priorities, and the team assesses feasibility and capacity. The output is a sprint goal and a set of committed work items.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # Design Thinking in UX / UI Design
 
-As a Product Manager, understanding and utilizing Design Thinking in the context of UX / UI is a crucial aspect of the job. This innovative, solution-based approach to problem-solving allows Product Managers to create user-centered product designs that meet both user needs and business goals flawlessly. By incorporating Design Thinking, Product Managers can better empathize with the user, define the problem effectively, ideate creative solutions, prototype, and test the results, all contributing towards delivering a superior product. It's a process that emphasizes collaboration, user feedback, and iteration, thereby ensuring the product is continually refined and improved upon.
+Design thinking is a human-centered problem-solving approach that emphasizes empathy, experimentation, and iteration. It typically moves through phases: empathize, define, ideate, prototype, and test. Teams use it to tackle ambiguous problems where the right solution is not yet known.
 
 Visit the following resources to learn more:
 

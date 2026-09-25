@@ -1,6 +1,6 @@
 # Teams under Communication Tools
 
-In the landscape of product management, communication plays an extraordinary role and Microsoft Teams is one of the most pivotal communication tools in this aspect. A product manager often engages with diverse teams - engineering, design, marketing, sales, and more, ensuring coherence and alignment towards the product vision. The Microsoft Teams platform boosts this communication process, providing a centralized space for conversations, content, meetings, and tasks. Its features like chat, video meetings, file sharing, and integration with other tools significantly streamline collaboration and decision-making, which are integral to a product manager's role.
+Microsoft Teams is a communication and collaboration platform that combines chat, video calls, file sharing, and integration with Microsoft 365 products. It is common in enterprise environments where the organization already uses Microsoft tooling. Product managers use it for cross-functional communication, meetings, and document collaboration.
 
 Visit the following resources to learn more:
 

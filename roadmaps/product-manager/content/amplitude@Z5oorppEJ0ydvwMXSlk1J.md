@@ -1,6 +1,6 @@
 # Amplitude
 
-Amplitude is an exceptional analytical tool that offers in-depth insights about user behavior, allowing product managers to optimize their products based on real-time data. Equipped with features like funnel analysis, retention analysis, and user segmentation, Amplitude provides an essential understanding of how users interact with products. For product managers, understanding these interactions is crucial in decision-making, prioritizing product improvements, and enhancing the overall user experience. Thus, Amplitude serves as a valuable resource for Product Managers looking to drive product growth and maximize user engagement.
+Amplitude is a product analytics platform that tracks user behavior, cohort retention, and funnel conversion. It allows teams to analyze how different user segments engage with features over time. It is widely used by product teams that want deep behavioral analytics without writing custom queries.
 
 Visit the following resources to learn more:
 

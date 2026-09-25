@@ -1,6 +1,6 @@
 # Kanban Basics
 
-As a Product Manager in the fast-paced environment of technological innovation, being aware of and proficient in Agile methodology and specifically, the Kanban basics, is crucial. Originated in Toyota production system, Kanban is a visual tool that effectively supports the management of a product as it goes through its lifecycle. For a Product Manager, understanding Kanban basics implies being able to streamline workflow, limit work-in-progress and visualize work, thereby optimizing the efficiency of a team and the production timeline. Simply put, Kanban helps in managing work by balancing demands with available capacity, and improving the handling of system-level bottlenecks.
+Kanban is an Agile workflow method that visualizes work as cards moving through columns representing stages like To Do, In Progress, and Done. It limits work in progress to reduce context switching and identify bottlenecks. Teams use it to manage continuous flows of work without fixed sprint cycles.
 
 Visit the following resources to learn more:
 

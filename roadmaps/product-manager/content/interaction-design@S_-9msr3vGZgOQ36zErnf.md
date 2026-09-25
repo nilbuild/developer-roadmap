@@ -1,6 +1,7 @@
 # Interaction Design
 
-Interaction Design is a key discipline within the field of Product Management. It focuses on the design and creation of digital interfaces and systems with which human users interact. As a product manager, mastery in interaction design is critical because the ease-of-use, intuitiveness, and satisfaction of a user's interaction with a product largely determine its success or failure. An Interaction-design-savvy product manager will strive to make sure the product offers a seamless user experience, ensuring it is aesthetically pleasing, easy to navigate, and delivers the desired functionality efficiently.
+Interaction design focuses on defining how users interact with a product, including gestures, transitions, feedback states, and input methods. It bridges the gap between static design and the dynamic behavior of a live product. Good interaction design makes interfaces feel responsive, predictable, and easy to use.
+
 Visit the following resources to learn more:
 
 - [@article@Product Design Fundamentals Every Product Manager Should Know](https://www.mindtheproduct.com/product-design-fundamentals-every-product-manager-should-know/)

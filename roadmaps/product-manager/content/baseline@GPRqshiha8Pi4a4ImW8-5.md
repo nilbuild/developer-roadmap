@@ -1,6 +1,6 @@
-# Baseline-based Goals
-
-These goals aim to maintain or improve the current level of performance, such as keeping customer satisfaction scores above a certain threshold.
+# Baseline
+ 
+A baseline goal defines the minimum level of performance that must be maintained. It acts as a floor rather than a ceiling, protecting against regression in key metrics. Baselines are useful for ongoing health indicators like uptime, response time, and retention.
 
 Visit the following resources to learn more:
 

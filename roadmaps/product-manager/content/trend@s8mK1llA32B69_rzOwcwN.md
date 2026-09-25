@@ -1,6 +1,6 @@
 # Trend-based Goals
 
-These goals focus on leveraging or reversing observed trends, such as accelerating a growing user adoption rate or halting a declining market share.
+A trend goal tracks the direction a metric is moving over time rather than a fixed number. It signals whether things are getting better, worse, or staying flat. Trend goals are useful when absolute targets are uncertain or when early signals matter more than final outcomes.
 
 Visit the following resources to learn more:
 
