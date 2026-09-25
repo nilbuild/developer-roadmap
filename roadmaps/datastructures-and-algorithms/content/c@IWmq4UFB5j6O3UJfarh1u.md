@@ -1,6 +1,6 @@
 # C++
 
-C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.
+C++ is a compiled, statically typed language known for its speed and fine-grained control over memory. It is the dominant language in competitive programming because of its performance and rich standard library (STL), which includes built-in implementations of common data structures and algorithms.
 
 Visit the following resources to learn more:
 

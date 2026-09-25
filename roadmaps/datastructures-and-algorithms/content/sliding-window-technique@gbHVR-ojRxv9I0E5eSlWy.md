@@ -1,6 +1,6 @@
 # Sliding Window Technique
 
-The **Sliding Window Technique** is an algorithmic paradigm that manages a subset of items in a collection of objects, like an array or list, by maintaining a range of elements observed, which is referred to as the 'window'. The window 'slides' over the data to examine different subsets of its contents. This technique is often used in array-related coding problems and is particularly useful for problems that ask for maximums or minimums over a specific range within the dataset. This technique can help to greatly reduce the time complexity when dealing with problems revolving around sequential or contiguous data. Common examples of its application are in solving problems like maximum sum subarray or minimum size subsequence with a given sum.
+The sliding window technique maintains a subset of elements within a fixed or variable-size window that moves across a sequence. As the window slides, elements are added at one end and removed from the other, avoiding the need to recompute results from scratch. It is used to find maximum subarrays, longest substrings, and other contiguous subset problems in O(n) time.
 
 Visit the following resources to learn more:
 

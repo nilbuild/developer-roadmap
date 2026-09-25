@@ -1,3 +1,3 @@
 # Kth Element
 
-Kth element problems ask you to find the kth smallest (or largest) element in a collection without fully sorting it. Common solutions include heaps, quickselect, or sorting, depending on the constraints — a pattern that also appears in questions about arrays, streams, and binary search trees.
+The Kth element problem asks for the k-th smallest or largest element in an unsorted array without fully sorting it. Efficient solutions include using a min-heap or max-heap of size k, or the quickselect algorithm, which runs in O(n) average time. This problem pattern appears frequently in data stream processing.

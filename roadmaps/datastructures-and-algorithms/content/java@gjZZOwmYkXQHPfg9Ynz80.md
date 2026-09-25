@@ -1,6 +1,6 @@
 # Java
 
-Java is general-purpose language, primarily used for Internet-based applications. It was created in 1995 by James Gosling at Sun Microsystems and is one of the most popular options for backend developers.
+Java is a statically typed, object-oriented language that runs on the JVM. It is heavily used in software engineering interviews and large-scale systems. Its verbose but explicit syntax helps learners understand types, generics, and object relationships when implementing data structures from scratch.
 
 Visit the following resources to learn more:
 

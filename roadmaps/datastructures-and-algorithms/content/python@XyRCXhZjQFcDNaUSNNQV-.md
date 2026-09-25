@@ -1,6 +1,6 @@
 # Python
 
-Python is a well known programming language which is both a strongly typed and a dynamically typed language. Being an interpreted language, code is executed as soon as it is written and the Python syntax allows for writing code in functional, procedural or object-oriented programmatic ways.
+Python is a dynamically typed, interpreted language with a concise and readable syntax. It is popular for learning DSA because less boilerplate code means the logic of an algorithm stays visible. Its built-in list, dict, and set types cover many common data structure needs out of the box.
 
 Visit the following resources to learn more:
 

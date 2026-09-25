@@ -1,3 +1,7 @@
 # Leetcode
 
-[LeetCode](https://leetcode.com/) is a widely recognized online platform used for preparing coding interviews and improving problem-solving skills. It offers a vast collection of programming challenges that can be solved in multiple programming languages. The problems are categorized by difficulty level, and each problem has a solution provided by the community. LeetCode also provides a discussion board for each problem where users can discuss solutions, optimized ideas, and their thoughts. It also features mock interviews, articles, and a strong community of programmers to engage and learn from.
+LeetCode is the most widely used platform for technical interview preparation. It offers thousands of problems categorized by topic and difficulty, with a built-in code editor and test runner. Many interview candidates use LeetCode's problem sets specifically because they reflect the style and content of questions asked at major tech companies.
+
+Visit the following resources to learn more:
+
+- [@roadmap@Visit the Dedicated Leetcode Roadmap](https://roadmap.sh/leetcode)

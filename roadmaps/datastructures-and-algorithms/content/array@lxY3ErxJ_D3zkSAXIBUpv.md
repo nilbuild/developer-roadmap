@@ -1,5 +1,7 @@
 # Array
 
+An array is a collection of elements stored in contiguous memory locations, accessed by index. It supports constant-time reads and writes by position but requires shifting elements when inserting or deleting in the middle. Arrays are one of the most widely used data structures because of their simplicity and cache efficiency.
+
 Visit the following resources to learn more:
 
 - [@video@Arrays in Python](https://www.youtube.com/watch?v=gDqQf4Ekr2A&ab_channel=codebasics)

@@ -1,3 +1,3 @@
 # Merge Intervals
 
-The merge intervals pattern deals with overlapping ranges, typically merging a list of intervals that intersect. The standard approach sorts the intervals by start time and then folds them together in a single pass — a technique used in scheduling, availability, and range problems.
+Merge intervals is a technique for solving problems involving overlapping ranges. The typical approach sorts intervals by start time, then iterates through them, merging any that overlap with the previous one. It is used in calendar scheduling, resource allocation, and range consolidation problems.

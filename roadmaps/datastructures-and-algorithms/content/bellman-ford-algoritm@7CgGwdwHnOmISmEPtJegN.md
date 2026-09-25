@@ -1,3 +1,3 @@
 # Bellman-Ford
 
-The **Bellman Ford algorithm** is a method used in graph theory for finding the shortest path between a single source vertex and all other vertices in a weighted graph. This algorithm is significant because it is capable of handling graphs with negative weight edges, unlike Dijkstra's algorithm. It follows a bottom-up approach, filling up the distance table gradually while relaxing edges. The algorithm gets its name from its developers, Richard Bellman and Lester Ford. However, it can lead to an infinite loop if there are negative weight cycles in the graph, which should be addressed separately using another check.
+The Bellman-Ford algorithm finds the shortest paths from a source node in a weighted graph, including graphs with negative edge weights. It works by relaxing all edges repeatedly for n-1 iterations, where n is the number of nodes. It can also detect negative weight cycles, which make shortest paths undefined.

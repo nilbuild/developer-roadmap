@@ -1,6 +1,6 @@
 # Recursion
 
-Recursion is a method where the solution to a problem depends on solutions to shorter instances of the same problem. It involves a function calling itself while having a condition for its termination. This technique is mostly used in programming languages like C++, Java, Python, etc. There are two main components in a recursive function: the base case (termination condition) and the recursive case, where the function repeatedly calls itself. All recursive algorithms must have a base case to prevent infinite loops. Recursion can be direct (if a function calls itself) or indirect (if the function A calls another function B, which calls the first function A).
+Recursion is a technique where a function calls itself with a smaller version of the problem until reaching a base case. It maps naturally to problems with recursive structure, such as tree traversal, divide and conquer, and backtracking. Understanding the call stack and how recursive calls unwind is key to using recursion correctly.
 
 Visit the following resources to learn more:
 

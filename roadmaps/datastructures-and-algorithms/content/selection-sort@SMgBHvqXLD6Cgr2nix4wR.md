@@ -1,6 +1,6 @@
 # Selection Sort
 
-Selection Sort is a simple and intuitive sorting algorithm. It works by dividing the array into two parts - sorted and unsorted. Initially, the sorted part is empty and the unsorted part contains all the elements. The algorithm repeatedly selects the smallest (or largest, if sorting in descending order) element from the unsorted part and moves that to the end of the sorted part. The process continues until the unsorted part becomes empty and the sorted part contains all the elements. Selection sort is not efficient on large lists, as its time complexity is O(n²) where n is the number of items.
+Selection sort repeatedly finds the minimum element in the unsorted portion of the list and moves it to the correct position. It always performs O(n²) comparisons regardless of input order. While simple to implement, it is generally slower than insertion sort in practice and is mainly used for educational purposes.
 
 Visit the following resources to learn more:
 

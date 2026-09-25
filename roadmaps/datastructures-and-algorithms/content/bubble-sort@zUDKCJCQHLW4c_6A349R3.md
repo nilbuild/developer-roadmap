@@ -1,6 +1,6 @@
 # Bubble Sort
 
-Bubble Sort is a simple sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. It gets its name because with each iteration the largest element "bubbles" up to its proper location. It continues this process of swapping until the entire list is sorted in ascending order. The main steps of the algorithm are: starting from the beginning of the list, compare every pair of adjacent items and swap them if they are in the wrong order, and then pass through the list until no more swaps are needed. However, despite being simple, Bubble Sort is not suited for large datasets as it has a worst-case and average time complexity of O(n²), where n is the number of items being sorted.
+Bubble sort repeatedly compares adjacent elements and swaps them if they are out of order, moving the largest unsorted element to its correct position in each pass. It runs in O(n²) time in the average and worst case, making it inefficient for large lists. It is primarily taught as an introductory algorithm because its logic is easy to visualize.
 
 Visit the following resources to learn more:
 

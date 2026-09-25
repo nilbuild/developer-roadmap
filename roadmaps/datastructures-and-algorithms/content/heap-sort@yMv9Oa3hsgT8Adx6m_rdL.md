@@ -1,6 +1,6 @@
 # Heap Sort
 
-Heap Sort is an efficient, comparison-based sorting algorithm. It utilizes a data structure known as a 'binary heap', and works by dividing its input into a sorted and an unsorted region, and iteratively shrinking the unsorted region by extracting the largest element and moving that to the sorted region. It's an in-place algorithm but not a stable sort. It involves building a Max-Heap, which is a specialized tree-based data structure, and then swapping the root node (maximum element) with the last node, reducing the size of heap by one and heapifying the root node. The maximum element is now at the end of the list and this step is repeated until all nodes are sorted. Heap Sort offers a good worst-case runtime of O(n log n), irrespective of the input data.
+Heap sort uses a binary heap data structure to sort elements. It first builds a max-heap from the input, then repeatedly extracts the maximum element and places it at the end of the sorted portion. It runs in O(n log n) time with O(1) extra space, making it memory-efficient compared to merge sort.
 
 Visit the following resources to learn more:
 

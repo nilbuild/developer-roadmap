@@ -1,6 +1,6 @@
 # What are Data Structures?
 
-Data structures are specialized formats for organizing and storing data in a computer so that it can be used efficiently. They provide a means to manage large amounts of data efficiently for uses such as large databases and internet indexing services. They are critical to programming and are used in almost all software systems including web development, operating systems, image editing, and much more. Some common types of data structures are arrays, linked lists, queues, stacks, trees, and graphs. The choice of the data structure often begins from the choice of an abstract data type, a broad type encapsulating various possible data structures."
+A data structure is a way of organizing and storing data in memory so it can be accessed and modified efficiently. Different data structures are suited to different kinds of problems: arrays work well for indexed access, linked lists for frequent insertions, and hash tables for fast lookups. Choosing the right one affects the speed and memory usage of an algorithm.
 
 Visit the following resources to learn more:
 
