@@ -1,7 +1,3 @@
 # Resource forecasting
 
-Resource forecasting is a practical tool for an Engineering Manager. It involves predicting future resource needs to ensure smooth execution of tasks. A manager's responsibility here is to avoid over-hiring or overspending while ensuring a project progresses efficiently.
-
-Forecasting effectively calls for knowledge of project timelines, team strengths and a keen eye on budget constraints. Furthermore, it involves balancing team strengths and task allocation, while being mindful of possible turnovers or leaves.
-
-Good resource forecasting can be challenging as it often involves making educated guesses. However, successful managers can rely on data-driven decisions, invest in forecasting tools, gain insights from past projects, and regularly review plans to manage available resources and keep their engineering teams running smoothly.
+Resource forecasting involves predicting future staffing and capacity needs based on planned work and growth projections. Engineering managers use forecasts to identify gaps between planned work and available capacity and to make the case for hiring or contract resources before the gap becomes a delivery risk.

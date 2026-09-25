@@ -1,7 +1,3 @@
 # API strategy
 
-An Engineering Manager's ability to handle API strategies directly impacts the success of partner management. A key responsibility in this area is defining clear API requirements that align with partner needs and business targets. Meeting these goals can be complex, mainly due to differing partner expectations and changing trends in API development.
-
-Overcoming these challenges requires a deep understanding of the technical use-cases of the API. An Engineering Manager needs adept negotiation skills to balance the technical and business sides of API strategy. They must also ensure interoperability and maintain the company's standards, which is crucial for partner satisfaction and long-term relations.
-
-Finally, frequent communication and receptiveness to feedback allows the Manager to refine the strategy effectively, spotting gaps and staying ahead in the competitive tech market.
+API strategy defines how a team designs, publishes, and evolves the APIs it offers to internal or external consumers. Engineering managers contribute to API strategy by ensuring consistency, stability, and adequate documentation, and by making decisions about versioning, deprecation, and access control.

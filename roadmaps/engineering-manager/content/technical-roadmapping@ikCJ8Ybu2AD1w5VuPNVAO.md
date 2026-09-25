@@ -1,7 +1,3 @@
 # Technical Roadmapping
 
-As an Engineering Manager, the creation of technical roadmaps forms a pivotal part of your role. Simply put, it's a strategic document that outlines the steps your team needs to take to achieve technical goals. You're responsible for being a vital connection between company-wide goals and your engineering team.
-
-A key challenge is aligning the roadmap with both business requirements and foundational technology needs. This involves clear communication, close collaboration with other departments, and frequent alignment meetings.
-
-Success in this aspect requires strong technical knowledge, project management skills, and diplomacy. You need to communicate the roadmap effectively to the team, manage roadblocks, and resource allocation. Remember, a roadmap is not a fixed path but a guide that may need to be adjusted over time.
+A technical roadmap outlines the engineering work planned over time, separate from or in complement to the product roadmap. Engineering managers build and maintain it to give the team clarity on direction, help stakeholders understand upcoming investments, and create space for infrastructure and platform work that does not directly map to product features.
