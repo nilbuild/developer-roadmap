@@ -1,6 +1,7 @@
 # Protobuf
 
-`Protobuf`, or Protocol Buffers, is a method developed by Google for serializing structured data. It's both language-neutral and platform-neutral. Google designed it to be smaller and faster than XML. You design your data structures in `.proto` files, then use the Protobuf compiler `protoc` to generate data access classes in your chosen language. Google provides support for several languages including: Java, C++, Python, Objective-C, and C#. Community developed support for even more languages is also available. This gives `protobuf` a great deal of versatility, making it a popular choice for data storage and communication between services.
+Protocol Buffers (Protobuf) is Google's binary serialization format defined by `.proto` schema files. It produces compact binary output and generates efficient parsing code in multiple languages, making it a popular choice for high-throughput game server communication.
+
 Visit the following resources to learn more:
 
 - [@official@Tutorials | Protocol Buffers Documentation](https://protobuf.dev/getting-started/)

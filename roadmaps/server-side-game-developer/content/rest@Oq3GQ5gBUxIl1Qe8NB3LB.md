@@ -1,6 +1,7 @@
 # REST
 
-REST or Representational State Transfer is an architectural style used in web development. REST systems interact through standard operations on web resource's identified through URIs. It utilizes a stateless, client-server, cacheable communication protocol -- virtually always HTTP. In REST architecture, a client sends a request to the server in order to retrieve or modify data. This data can be identified by a URI and has a specific media type (JSON, XML etc). A key feature of REST is that it's stateless, meaning the server does not keep any data between two requests. While the client holds session state. REST is often used in mobile applications, social networking websites, and automated business processes.
+REST (Representational State Transfer) is an architectural style for networked APIs that uses HTTP methods (GET, POST, PUT, DELETE) and URLs to represent and manipulate resources. Game backends expose REST APIs for client authentication, player profiles, matchmaking, and other request-response workflows.
+
 Visit the following resources to learn more:
 
 - [@article@Best Practices in API Design - Swagger](https://swagger.io/resources/articles/best-practices-in-api-design/)

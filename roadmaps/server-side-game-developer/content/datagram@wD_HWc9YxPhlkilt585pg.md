@@ -1,6 +1,7 @@
 # Datagram
 
-A **Datagram** is the basic unit of data transfer in network communication using protocols such as User Datagram Protocol (UDP). Each datagram operates independently of each other, meaning they may be received in a different order than they were sent, or they might not be received at all. Therefore, unlike TCP (Transmission Control Protocol), UDP does not guarantee that datagrams are delivered in the same order that they were sent, or even at all - hence known as connectionless protocol. However, it is faster and more efficient for applications that do not require delivery guarantees, such as voice over IP, live video broadcasts, and other real-time applications. Each datagram contains information about the sender, the intended recipient, and the data that it is intended to communicate along with its size and other specifications.
+A datagram is a self-contained packet of data transmitted over UDP, carrying enough information to be routed independently without a prior connection. Each datagram includes source and destination addresses but travels without ordering guarantees, making the application responsible for reassembly and loss detection.
+
 Visit the following resources to learn more:
 
 - [@article@What Is User Datagram Protocol (UDP)? - Fortinet](https://www.fortinet.com/resources/cyberglossary/user-datagram-protocol-udp)

@@ -1,6 +1,6 @@
 # IP
 
-**Internet Protocol (IP)** is the primary method used to send and receive messages on the internet. It's a set of rules that dictate how data should be delivered over the internet. An IP address is a unique string of numbers separated by periods that identifies each device using the Internet Protocol to communicate over a network. There are two types: IPv4 and IPv6. IPv4, the most common, consists of four groups of numbers, each ranging from 0 to 255. For example, "192.168.0.1". On the other hand, IPv6, the next-generation protocol, provides about 340 undecillion addresses, ensuring the ability to provide unique IPs for every device on the planet. For instance, "2001:0db8:85a3:0000:0000:8a2e:0370:7334". Each IP address can be static (permanent) or dynamic (changeable), depending on your network configurations.
+IP (Internet Protocol) is the network layer protocol responsible for addressing and routing packets across interconnected networks. It provides best-effort, connectionless delivery; reliability and ordering are handled by upper-layer protocols like TCP.
 
 Visit the following resources to learn more:
 

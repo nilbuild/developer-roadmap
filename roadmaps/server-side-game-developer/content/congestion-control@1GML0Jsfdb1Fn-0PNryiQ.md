@@ -1,18 +1,10 @@
-# Congestion Control  
+# Congestion Control
 
-**Congestion control** is a fundamental mechanism in `TCP` that prevents excessive data 
-transmission from overwhelming the network, ensuring stable and efficient communication. 
-In server-side game development, congestion control helps maintain smooth gameplay by 
-dynamically adjusting the data flow based on network conditions. `TCP` employs various 
-congestion control algorithms, such as `Reno`, `CUBIC`, and `BBR`, to detect congestion and 
-reduce packet loss. These algorithms regulate the senders transmission rate using strategies 
-like slow start, congestion avoidance, and fast recovery. Proper tuning of congestion control 
-mechanisms is critical for minimizing lag, preventing packet drops, and optimizing multiplayer
-game performance, especially in high-traffic scenarios.  
+TCP congestion control algorithms (Reno, CUBIC, BBR, and others) regulate the sending rate to match available bandwidth and avoid overloading the network. They maintain a congestion window that grows on success and shrinks on loss or ECN signals.
 
 Visit the following resources to learn more:
 
+- [@official@RFC 8085: UDP Usage Guidelines - IETF](https://www.rfc-editor.org/rfc/rfc8085.html)
 - [@article@Congestion Control in Linux TCP](https://www.usenix.org/conference/2002-usenix-annual-technical-conference/congestion-control-linux-tcp)
 - [@article@TCP Congestion Control - Wikipedia](https://en.wikipedia.org/wiki/TCP_congestion_control)
 - [@article@TCP Congestion Control Guide - SynchroNet](https://synchronet.net/congestion-control-in-tcp/)
-- [@official@RFC 8085: UDP Usage Guidelines - IETF](https://www.rfc-editor.org/rfc/rfc8085.html)

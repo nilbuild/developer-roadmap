@@ -1,6 +1,6 @@
 # Functional Programming
 
-`Functional programming` is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. In functional programming, functions are first-class citizens. This means that functions can be passed as arguments to other functions, returned as values from other functions, and assigned to variables. Examples of functional programming languages include Haskell, Lisp, and Scala. At the heart of functional programming are the concepts of immutability and pure functions. A pure function is a function that provides the same output for the same input and has no side effects. Immutability avoids changes to variables or objects once they've been created, which makes functional programs easier to debug and test.
+Functional programming is a paradigm that treats computation as the evaluation of pure functions and avoids mutable state. Applying functional techniques in game servers, such as immutable data structures and pure transformation functions for game state, reduces bugs caused by shared mutable state in concurrent code.
 
 Visit the following resources to learn more:
 

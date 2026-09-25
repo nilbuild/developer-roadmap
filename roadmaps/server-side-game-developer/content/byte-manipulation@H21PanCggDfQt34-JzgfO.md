@@ -1,7 +1,8 @@
 # Byte Manipulation
 
-`Byte manipulation`, in the context of socket programming, often refers to the ability to directly interact and manage bytes of data. This could involve creating, modifying, or reading individual bytes or groups of bytes. Common operations include shifting (moving bytes to the left or right), masking (using a binary AND operation to make certain bits 0), and bitwise operations (working with the individual bits within a byte). Byte manipulation commonly takes place in server side game development when dealing with network data or working with specific binary protocols. The ability to accurately manipulate bytes is an essential skill when handling and optimizing the transfer of data between a server and a client.
-# Visit the following resources to learn more:
+Network protocols transmit data in big-endian (network byte order), while most processors use little-endian. Byte manipulation functions like `htons`, `htonl`, `ntohs`, and `ntohl` convert between host and network byte order to ensure interoperability.
+
+Visit the following resources to learn more:
 
 - [@official@Protocol Buffers Overview - Google](https://protobuf.dev/overview/)
 - [@article@Bytes Objects: Handling Binary Data in Python - Real Python](https://realpython.com/python-bytes/)

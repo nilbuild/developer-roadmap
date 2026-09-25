@@ -1,6 +1,7 @@
 # Async-await (C#)
 
-`Async/await` are extensions of Promises in JavaScript that allow for handling asynchronous code in a more synchronous manner. Using `async` keyword before a function, means the function returns a Promise. On the other hand, `await` keyword is used to pause async function execution until a Promise is resolved or rejected, and to resume execution of the async function after fulfillments. Before the `await` keyword, the Promise resolves to the actual value. Notably, `await` only works within async function block.
+Async-await in C# is a language feature that allows asynchronous operations to be written in a sequential style. When a method awaits an I/O operation, the thread is released to do other work and resumes after the operation completes, improving server throughput without manual thread management.
+
 Visit the following resources to learn more:
 
 - [@official@Asynchronous Programming in C# - Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/)

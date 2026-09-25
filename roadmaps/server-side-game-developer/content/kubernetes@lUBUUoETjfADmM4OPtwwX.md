@@ -1,6 +1,6 @@
 # Kubernetes
 
-Kubernetes, often referred to as K8s, is an open-source platform designed to automate deploying, scaling, and operating application containers. It organizes containers into clusters to provide a flexible, powerful foundation for distributed systems. The platform was originally developed by Google, drawing on their long experience with managing containerized applications. It groups an application's containers into logical units for easy management and discovery. Kubernetes offers features like automatic bin packing, horizontal scaling, automated rollouts and rollbacks, and storage orchestration, among many others. It supports a variety of underlying infrastructures, from physical servers to virtual machines and cloud-based deployments, allowing you to run your apps wherever and however you choose.
+Kubernetes is an open-source container orchestration system that automates deployment, scaling, and management of containerized applications. Game studios use Kubernetes to manage fleets of game server pods, scale on demand, perform rolling updates, and recover from failures automatically.
 
 Visit the following resources to learn more:
 

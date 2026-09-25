@@ -1,6 +1,7 @@
 # TCP vs UDP
 
-TCP, or Transmission Control Protocol, is a connection-oriented protocol that guarantees delivery of packets to the destination router. It includes error-checking and ensures packets are delivered in the correct order. On the other hand, UDP, or User Datagram Protocol, is a connectionless protocol which doesn't guarantee delivery or ensure correct sequencing of packets. As a result, UDP is considered faster and more efficient for some applications like video streaming or online gaming where speed matters more than accuracy. So, choosing between TCP and UDP really boils down to the specific requirements and priorities of the situation - it's a trade-off between speed and reliability.
+TCP and UDP serve different purposes in game networking. TCP guarantees ordered, reliable delivery at the cost of latency introduced by retransmissions and congestion control; UDP offers lower latency with no built-in guarantees, requiring the application to handle reliability where needed. Most real-time games use UDP for game state and TCP (or a reliable layer over UDP) for control messages.
+
 Visit the following resources to learn more:
 
 - [@article@TCP or UDP for a Multiplayer Game? - StackExchange](https://softwareengineering.stackexchange.com/questions/342254/tcp-or-udp-for-a-multiplayer-game)

@@ -1,11 +1,6 @@
-# Coroutine  
+# Coroutine
 
-**Coroutines** are lightweight, cooperative multitasking constructs that enable efficient asynchronous programming in server-side game 
-development. Unlike traditional threads, coroutines allow functions to be paused and resumed without blocking the entire execution 
-thread, making them ideal for handling game logic, networking, and AI behavior with minimal overhead. They work seamlessly with 
-future & promise mechanisms, simplifying concurrency management by avoiding callback hell and reducing synchronization complexity. 
-Coroutines are widely supported in modern languages like C++ (via `std::coroutine`), Python (`asyncio`), and Kotlin, offering game 
-developers an efficient way to write non-blocking code while maintaining readability and performance.  
+A coroutine is a function that can suspend its execution and resume later, allowing cooperative multitasking without OS threads. Game servers use coroutines to write asynchronous logic in a sequential style, improving readability over callback-based code.
 
 Visit the following resources to learn more:
 

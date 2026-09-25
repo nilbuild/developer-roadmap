@@ -1,6 +1,7 @@
 # Selective Acknowledgement
 
-Selective Acknowledgement (SACK) is a mechanism introduced in TCP to improve its efficiency in handling packet loss in the network. When TCP detects packet loss, it normally retransmits all packets sent after the lost packet, regardless of whether they were received successfully or not. SACK, however, allows the receiver to acknowledge non-consecutive packets, effectively informing the sender exactly which packets were received successfully and which weren't. By using this mechanism, TCP can selectively retransmit only those packets that were lost, saving bandwidth and improving overall performance.
+Selective Acknowledgment (SACK) is a TCP extension that lets the receiver report exactly which segments arrived, so the sender can retransmit only the missing ones rather than everything after the first loss. It significantly improves throughput on lossy connections.
+
 Visit the following resources to learn more:
 
 - [@article@RFC 2018 - TCP Selective Acknowledgment Options - IETF](https://datatracker.ietf.org/doc/html/rfc2018)

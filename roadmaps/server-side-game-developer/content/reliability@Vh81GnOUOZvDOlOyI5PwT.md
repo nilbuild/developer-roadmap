@@ -1,6 +1,7 @@
 # Reliability
 
-Reliability refers to how consistently a data packet can be transferred from one system to another over a network. In terms of the User Datagram Protocol (UDP), it has a lack of reliability built into it. This means UDP does not guarantee that your data will reach its destination, it merely sends the packets without any acknowledgement of receipt. Unlike its counterpart, Transmission Control Protocol (TCP), which implements error-checking mechanisms to ensure data integrity and delivery. In summary, if you require high reliability in your server side game development, protocols other than UDP might need to be considered.
+Reliability in UDP refers to application-level mechanisms that compensate for the protocol's lack of built-in delivery guarantees. Because UDP drops packets silently, game networking code often implements acknowledgment systems, sequence numbers, and retransmission logic to ensure critical game state reaches its destination.
+
 Visit the following resources to learn more:
 
 - [@article@Reliability and Congestion Avoidance over UDP - Gaffer On Games](https://gafferongames.com/post/reliability_ordering_and_congestion_avoidance_over_udp/)

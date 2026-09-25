@@ -1,9 +1,9 @@
 # IP Addressing
 
-IP (Internet Protocol) addressing is a fundamental aspect of networking, at the core of interaction between systems in a network. Each device connected to a network must have a unique address, known as an IP address, to communicate with other devices. In version 4 of the IP protocol (IPv4), these addresses are usually represented as four numbers, each ranging from 0 to 255, separated by periods (e.g., 192.168.1.1). The newer standard, IPv6, introduced to deal with the shortage of available IPv4 addresses, employs a more complex notation using hexadecimal numbers and colons. However, the purpose remains the same: to uniquely identify each device on a network. IP addresses can be either static (permanently assigned to a device) or dynamic (assigned temporarily from a pool of addresses).
+IP addressing assigns unique numerical labels to network interfaces, enabling packets to be delivered to the correct host. IPv4 uses 32-bit addresses written in dotted-decimal notation; IPv6 uses 128-bit addresses in hexadecimal, solving IPv4 exhaustion.
 
 Visit the following resources to learn more:
 
+- [@course@Fundamentals of Computer Networking - Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/network-fundamentals/)
 - [@article@TCP/IP Addressing and Subnetting - Microsoft Learn](https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting)
 - [@article@What is an IP Address? - IBM](https://www.ibm.com/think/topics/ip-address)
-- [@course@Fundamentals of Computer Networking - Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/network-fundamentals/)
