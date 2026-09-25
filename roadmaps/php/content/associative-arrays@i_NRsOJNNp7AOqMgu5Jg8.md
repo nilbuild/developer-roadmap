@@ -1,15 +1,6 @@
 # Associative Arrays
-
-Associative arrays in PHP are a type of array that uses named keys instead of numeric ones. This provides a more human-readable way to store data where each value can be accessed by its corresponding string key. An example of an associative array could be storing names as keys and their corresponding ages as values. Here's a brief example:
-
-    $ages = [
-       "Peter" => 35,
-       "John" => 42,
-       "Mary" => 27
-    ];
-    
-
-In this case, to find out John's age, you would simply use `echo $ages['John']` where 'John' is the key. Associative arrays are also easy to loop through using the `foreach` construct.
+ 
+Associative arrays use named string keys instead of numeric indexes. You define them with explicit key-value pairs: `['name' => 'Alice', 'age' => 30]`. Values are accessed by key, like `$user['name']`. They are commonly used to represent structured data like rows from a database.
 
 Visit the following resources to learn more:
 

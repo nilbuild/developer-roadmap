@@ -1,17 +1,6 @@
 # PHP-FPM
-
-PHP-FPM, or PHP FastCGI Process Manager, is a robust and efficient way to serve PHP applications. It dramatically improves the speed and processing efficiency of PHP apps by isolating each request, thus preventing jobs from interfering with each other. With PHP-FPM, your server can handle more simultaneous visitors without a slowdown. For example, to start using PHP-FPM with NGINX, you may include this configuration in your NGINX server block:
-
-    location ~ \.php$ {
-        try_files $uri =404;
-        fastcgi_pass unix:/var/run/php/php7.4-fpm.sock;
-        fastcgi_index index.php;
-        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
-        include fastcgi_params;
-    }
-    
-
-Here `$uri` is the incoming request and `fastcgi_pass` should be the location where PHP-FPM listens.
+ 
+PHP-FPM (FastCGI Process Manager) is an alternative PHP FastCGI implementation designed for high-traffic sites. It manages a pool of worker processes that handle incoming requests, supports dynamic and static process scaling, and can be configured with per-pool settings. PHP-FPM pairs with Nginx or Apache using the FastCGI protocol.
 
 Visit the following resources to learn more:
 

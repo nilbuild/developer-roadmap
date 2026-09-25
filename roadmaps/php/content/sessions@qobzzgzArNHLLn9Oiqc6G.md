@@ -1,6 +1,6 @@
 # Sessions
 
-Sessions provide a way to preserve certain data across subsequent accesses. Unlike a cookie, the information is not stored on the user's computer but on the server. This is particularly useful when you want to store information related to a specific user's session on your platform, like user login status or user preferences. When a session is started in PHP, a unique session ID is generated for the user. This ID is then passed and tracked through a cookie in the user's browser. To start a session, you would use the PHP function session\_start(). To save a value in a session, you'd use the $\_SESSION superglobal array. For example, `$_SESSION['username'] = 'John';` assigns 'John' to the session variable 'username'.
+Sessions store user data on the server across multiple requests. A session is started with `session_start()`, and data is stored in the `$_SESSION` superglobal. PHP sends the session ID to the client as a cookie by default. Sessions expire when the browser closes or after a configurable timeout.
 
 Visit the following resources to learn more:
 

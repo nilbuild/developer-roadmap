@@ -1,6 +1,6 @@
 # HTTP Methods
 
-PHP allows for handling HTTP methods, which are a way of defining the action to be performed on the resource identified by a given URL. In PHP, the $\_SERVER superglobal array can be used to identify the HTTP method of a specific request, typically a GET, POST, PUT, DELETE or HEAD. For example, to identify if a request is a POST request, you can use `if ($_SERVER['REQUEST_METHOD'] == 'POST') { // your code here }`. More advanced handling can be done by utilizing built-in PHP libraries or third-party packages.
+HTTP defines methods that indicate the intended action for a request. GET retrieves data, POST submits data, PUT replaces a resource, PATCH updates part of a resource, and DELETE removes a resource. PHP primarily handles GET and POST natively through superglobals; other methods are read from `$_SERVER['REQUEST_METHOD']` and the request body.
 
 Visit the following resources to learn more:
 

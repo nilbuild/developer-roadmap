@@ -1,19 +1,6 @@
 # PSR Standards
-
-The PHP Framework Interop Group (PHP-FIG) introduced PHP Standard Recommendation (PSR) standards to provide a uniform and interoperable set of coding practices for PHP developers. PSR standards cover a variety of coding aspects such as code style (PSR-1, PSR-2), autoloading (PSR-4), and more. The PHP community widely accepts these standards contributing towards writing clean and easy-to-follow code.
-
-Here's a snippet to illustrate the PSR-4 autoloading standards in PHP:
-
-    // Register the autoloader
-    spl_autoload_register(function ($class) {
-        // Convert namespace to directory structure
-        $class = str_replace('\\', DIRECTORY_SEPARATOR, $class) . '.php';
-    
-        // Get file if it exists
-        if (file_exists($class)) {
-            require $class;
-        }
-    });
+ 
+PSR (PHP Standard Recommendations) are specifications published by PHP-FIG that define common interfaces and conventions for PHP projects. Key PSRs include PSR-4 (autoloading), PSR-7 (HTTP message interfaces), PSR-12 (coding style), and PSR-3 (logging interface). Adhering to PSR standards makes libraries easier to integrate and swap.
 
 Visit the following resources to learn more:
 

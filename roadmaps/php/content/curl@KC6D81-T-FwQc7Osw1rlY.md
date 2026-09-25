@@ -1,19 +1,6 @@
 # cURL
-
-cURL is a flexible way to make requests to external servers from within a PHP script. cURL, which stands for Client URL, is a library that facilitates various types of network communication methods based on different types of URLs. You can, for example, use cURL functions in PHP to access REST APIs, download files, or post form data, among other things. Here's a basic PHP cURL example where we fetch data from an API:
-
-    $ch = curl_init();
-    
-    curl_setopt($ch, CURLOPT_URL, "http://example.com/api/data");
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-    
-    $result = curl_exec($ch);
-    
-    if(curl_errno($ch)){
-       echo 'Error:' . curl_error($ch);
-    }
-    
-    curl_close($ch);
+ 
+cURL is a library for making HTTP and other protocol requests from PHP. The `curl_*` functions allow you to send GET and POST requests, set headers, handle authentication, and follow redirects. cURL is used for consuming REST APIs, fetching remote resources, and integrating with third-party services.
 
 Visit the following resources to learn more:
 

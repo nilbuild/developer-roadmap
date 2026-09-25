@@ -1,13 +1,6 @@
 # Function Declaration
-
-Function is the block of code that performs a specific task. It is a reusable code that can be called multiple times. In PHP, a function is declared using the `function` keyword followed by the function name and parentheses. The function name should be unique and descriptive. The parentheses may contain parameters that are passed to the function. The function body is enclosed within curly braces `{}`.
-
-    function greeting($name) {
-        echo "Hello, " . $name;
-    }
-    
-
-In this case, 'greeting' is the function name, '$name' is the parameter, and 'echo "Hello, " . $name;' is the operation.
+ 
+A function is declared using the `function` keyword, followed by the function name, parentheses for parameters, and a code block. Function names are case-insensitive in PHP. Functions can be defined anywhere in a file and are available throughout the script scope once declared.
 
 Visit the following resources to learn more:
 

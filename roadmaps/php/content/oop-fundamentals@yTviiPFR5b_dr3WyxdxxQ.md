@@ -1,19 +1,6 @@
 # OOP Fundamentals
-
-In PHP, Object-Oriented Programming (OOP) Fundamentals cover critical aspects like classes, objects, properties, and methods. OOP facilitates efficient code reusability and makes it easier to manage and modify code. For example, here's a code snippet that represents a class with a method and a property in PHP:
-
-    class Hello {
-        public $greeting = "Hello, world!";
-    
-        public function displayGreeting() {
-            echo $this->greeting;
-        }
-    }
-    $hello = new Hello();
-    $hello->displayGreeting(); // Outputs "Hello, world!"
-    
-
-This snippet defines a class `Hello` with a property `$greeting` and a method `displayGreeting()`. Instances of this class can access these methods and properties. OOP Fundamentals in PHP are much more comprehensive, encompassing concepts like inheritance, encapsulation, and polymorphism.
+ 
+Object-Oriented Programming (OOP) in PHP organizes code around classes and objects. A class defines properties and methods; an object is an instance of a class. OOP enables encapsulation, inheritance, and polymorphism, making large codebases easier to organize and maintain.
 
 Visit the following resources to learn more:
 

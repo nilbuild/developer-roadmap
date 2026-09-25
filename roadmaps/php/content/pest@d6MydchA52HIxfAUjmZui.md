@@ -1,11 +1,6 @@
 # Pest
-
-Pest is an innovative and elegant testing framework for PHP. Think of it as a stylish and streamlined alternative to PHPUnit. Pest makes testing your PHP code a breeze by enabling expressive and flexible test cases. It provides higher-level abstractions to minimize boilerplate code without disrupting the ability to integrate traditional PHPUnit tests. For example, using Pest can make a test case as simple as writing a closure:
-
-    it('has homepage', function () {
-        $response = get('/');
-        $response->assertStatus(200);
-    });
+ 
+Pest is a modern PHP testing framework built on top of PHPUnit. It offers a more expressive, function-based syntax that reduces boilerplate and improves readability. Pest supports all PHPUnit features while adding its own: higher-order tests, parallel execution, and architecture testing. It is popular in Laravel communities.
 
 Visit the following resources to learn more:
 

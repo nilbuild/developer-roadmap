@@ -1,15 +1,6 @@
-# Magic methods
-
-PHP Magic Methods, often considered the hooks of the language, provide developers a way to change how objects will respond to particular language constructs. Magic methods are special functions that start with "\_\_" such as `__construct()`, `__destruct(), __call(), __get(), __set()` and more. They enable us to perform certain tasks automatically when specific actions occur. For example, `__construct()` executes when an object is created while `__destruct()` triggers when an object is no longer needed. Let's see the `__construct` magic method in action:
-
-    class Car {
-        public $color;
-        public function __construct($color) {
-            $this->color = $color;
-        }
-    }
-    $blueCar = new Car("Blue"); // This will call the __construct() method.
-    echo $blueCar->color;  // Outputs "Blue".
+# Magic Methods
+ 
+Magic methods are special PHP methods with double-underscore prefixes that are triggered automatically in response to specific events. Common ones include `__construct`, `__toString`, `__get`, `__set`, `__call`, and `__invoke`. They allow classes to define custom behavior for object creation, property access, method calls, and more.
 
 Visit the following resources to learn more:
 

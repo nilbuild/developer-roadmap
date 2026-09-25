@@ -1,10 +1,6 @@
 # Profiling Techniques
-
-Profiling is an analytical process within PHP that focuses on optimizing the application’s performance. It involves pinpointing bottlenecks and problematic sections of your PHP code that cause poor performance, often using profiling tools. One such tool is Xdebug, which provides detailed information about how each line of code is executed. This process helps in understanding how long an operation takes to execute, which parts consume more memory, and which functions/methods are most frequently used, thereby enabling an optimization strategy. Here's a snippet of how to use Xdebug:
-
-    xdebug_start_trace();
-    // Your code here
-    xdebug_stop_trace();
+ 
+Profiling identifies which parts of a PHP application consume the most time or memory. Xdebug's profiler generates cachegrind files visualized with tools like KCachegrind. Blackfire.io provides detailed call graphs and timeline views without the overhead of Xdebug in production. Tideways is another option for continuous profiling.
 
 Visit the following resources to learn more:
 

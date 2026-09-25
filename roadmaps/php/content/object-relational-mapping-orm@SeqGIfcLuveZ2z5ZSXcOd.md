@@ -1,11 +1,6 @@
 # Object-Relational Mapping (ORM)
-
-Object-Relational Mapping (ORM) is a popular technique used with PHP to convert data between incompatible type systems using an object-oriented programming language. Essentially, it saves PHP developers time by enabling them to work with databases using OOP standards and avoid writing long SQL queries. One commonly used ORM in PHP is Doctrine. For instance, to save data into a products table, you don't use SQL but OOP-style code:
-
-    $product = new Product();
-    $product->setName('New Product');
-    $entityManager->persist($product);
-    $entityManager->flush();
+ 
+An ORM maps database tables to PHP classes and rows to objects, allowing you to interact with the database using object-oriented code instead of raw SQL. Doctrine is the most widely used PHP ORM; Laravel's Eloquent is another popular option. ORMs handle query building, relationships, and schema mapping automatically.
 
 Visit the following resources to learn more:
 

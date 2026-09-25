@@ -1,19 +1,6 @@
 # Static Methods and Properties
-
-Static methods and properties in PHP belong to the class rather than an instance of the class. This means they can be accessed without creating an object of the class. A static method is declared with the static keyword and can be invoked directly using the class name followed by the scope resolution operator. Similarly, a static property is also defined with the static keyword, but cannot be accessed directly, even from within the class methods - they must be accessed through static methods. Here's a simple example:
-
-    class MyClass {
-        static $myStaticProperty = "Hello, world";
-    
-        static function myStaticMethod() { 
-            return self::$myStaticProperty; 
-        }
-    }
-    
-    echo MyClass::myStaticMethod(); 
-    
-
-In this example, we're directly accessing `myStaticMethod` from `MyClass` without an instantiation.
+ 
+Static members belong to the class itself rather than to any instance. They are declared with the `static` keyword and accessed using `ClassName::method()` or `self::`. Static properties retain their value across all instances. Static methods are commonly used for utility functions and factory patterns.
 
 Visit the following resources to learn more:
 

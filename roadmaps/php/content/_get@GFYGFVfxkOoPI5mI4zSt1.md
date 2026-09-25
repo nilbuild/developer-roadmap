@@ -1,16 +1,6 @@
 # $_GET
 
-$\_GET is a pre-defined array in PHP, that's used to collect form-data sent through HTTP GET method. It's useful whenever you need to process or interact with data that has been passed in via a URL's query string. For an example if you have a form with a GET method, you can get the values of the form elements through this global $\_GET array. Here’s an example:
-
-    <form method="get" action="test.php">
-      Name: <input type="text" name="fname">
-      <input type="submit">
-    </form>
-    
-
-Using $\_GET in `test.php`, you can fetch the 'fname' value from the URL:
-
-    echo "Name is: " . $_GET['fname'];
+`$_GET` contains variables passed to the script via URL query parameters. For a URL like `page.php?id=5&lang=en`, `$_GET['id']` returns `5`. Query string data should always be validated and sanitized before use, as it is user-supplied input.
 
 Visit the following resources to learn more:
 
