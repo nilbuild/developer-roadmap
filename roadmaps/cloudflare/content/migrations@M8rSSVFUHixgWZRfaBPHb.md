@@ -1,6 +1,6 @@
 # Migrations
-
-As your application evolves, your database schema will likely need to change. Database migrations provide a structured way to apply these changes in a controlled and repeatable manner. In D1, you'll typically write SQL scripts that contain the necessary `ALTER TABLE` statements to modify your schema (e.g., adding new columns, renaming columns, changing data types). You can then use `wrangler` or a similar tool to execute these migration scripts against your D1 database. It's important to version your migration scripts and apply them in the correct order to avoid data inconsistencies or errors. Consider using a migration management tool to track and apply migrations more effectively.
+ 
+D1 migrations are SQL scripts that apply incremental changes to a database schema. Wrangler applies migrations in order, making it possible to evolve a schema over time without losing existing data.
 
 Visit the following resources to learn more:
 

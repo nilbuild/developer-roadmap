@@ -1,12 +1,6 @@
 # Caching Patterns
-
-Caching is a critical aspect of building performant and scalable applications. Cloudflare Workers provide several caching patterns that you can use to optimize your application's performance. These patterns include:
-
-*   **Cache-First:** Serve from cache if available, otherwise fetch from origin.
-*   **Network-First:** Always fetch from origin, caching the response for subsequent requests.
-*   **Stale-While-Revalidate:** Serve from cache immediately, then update the cache in the background.
-
-You can also manipulate HTTP cache headers (Cache-Control, Expires) to control how Cloudflare's CDN caches content. Effective caching is crucial for improving performance and reducing origin server load.
+ 
+KV caching patterns involve using Workers KV to cache frequently accessed data, reducing load on origin servers or databases. Common patterns include cache-aside, write-through, and TTL-based expiration to keep data fresh.
 
 Visit the following resources to learn more:
 

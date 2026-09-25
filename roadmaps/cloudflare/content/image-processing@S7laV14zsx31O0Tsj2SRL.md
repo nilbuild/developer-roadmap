@@ -1,13 +1,6 @@
 # Image Processing
-
-Workers AI allows you to run AI models directly within Cloudflare Workers, enabling powerful image processing capabilities at the edge. You can use Workers AI to perform tasks such as:
-
-*   Image recognition
-*   Object detection
-*   Image classification
-*   Image resizing and optimization
-
-This allows you to build intelligent applications that analyze and manipulate images in real-time, close to the user.
+ 
+Workers AI supports image classification and generation models. A Worker can send image data to an AI binding and receive model output such as labels, captions, or generated images as part of the request handling.
 
 Visit the following resources to learn more:
 

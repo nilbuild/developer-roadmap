@@ -1,6 +1,4 @@
-# Git Basics
-
-Git is a distributed version control system designed to handle projects of any size with speed and efficiency. Created by Linus Torvalds in 2005, it tracks changes in source code during software development, allowing multiple developers to work together on non-linear development. Git maintains a complete history of all changes, enabling easy rollbacks and comparisons between versions. Its distributed nature means each developer has a full copy of the repository, allowing for offline work and backup. Git’s key features include branching and merging capabilities, staging area for commits, and support for collaborative workflows like pull requests. Its speed, flexibility, and robust branching and merging capabilities have made it the most widely used version control system in software development, particularly for open-source projects and team collaborations.
+Git is a version control system for tracking changes in code. Knowing how to commit, branch, and push code is necessary for integrating Workers projects into CI/CD pipelines and collaborating with teams.
 
 Visit the following resources to learn more:
 

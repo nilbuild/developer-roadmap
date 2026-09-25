@@ -1,8 +1,6 @@
 # Hono
-
-Hono is a small, simple and ultra-fast web framework built on web standards. It works on any JavaScript runtime: Cloudflare Workers, Fastly Compute, Deno, Bun, Vercel, Netlify, AWS Lambda, Lambda@Edge, and Node.js. Hono is more known for supporting a lot more than the basics.
-
-Hono is a simple web application framework similar to the well known javascript framework Express, without a frontend. But it runs on CDN Edges and allows you to construct larger applications when combined with middleware.
+ 
+Hono is a lightweight web framework designed for edge runtimes including Cloudflare Workers. It provides routing, middleware support, and helper utilities, making it easier to structure Workers code as a conventional web application.
 
 Visit the following resources to learn more:
 

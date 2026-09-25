@@ -1,13 +1,6 @@
 # Monitoring Tools
-
-Monitoring tools provide insights into the performance and health of your Cloudflare applications. Cloudflare offers built-in analytics, but you can also integrate with external monitoring services like Datadog, New Relic, or Prometheus. These tools allow you to track metrics such as:
-
-*   Request latency
-*   Error rates
-*   Cache hit ratio
-*   Resource usage
-
-By monitoring these metrics, you can identify performance bottlenecks, detect security threats, and ensure your applications are running smoothly.
+ 
+Cloudflare provides real-time analytics and log streaming for Workers through the dashboard and the Workers Logpush service. Monitoring tools track invocation counts, error rates, CPU time, and tail logs from production Workers.
 
 Visit the following resources to learn more:
 
