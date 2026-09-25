@@ -1,6 +1,6 @@
 # SET
 
-The SET command sets the defined key to hold a value, if the key already holds a value then it will be overwritten regardless of its type.
+`SET` stores a string value at a key, replacing any existing value. It accepts options for setting expiration (`EX`, `PX`), and conditional flags (`NX` to set only if the key does not exist, `XX` to set only if it does). This makes `SET` versatile enough to handle both simple assignments and atomic conditional writes.
 
 Visit the following resources to learn more:
 

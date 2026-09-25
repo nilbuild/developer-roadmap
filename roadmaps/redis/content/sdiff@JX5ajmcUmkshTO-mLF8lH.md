@@ -1,6 +1,6 @@
 # SDIFF
 
-The SDIFF coimmand returns the members of a set resulting from the difference between the first set and all the following sets.
+`SDIFF` returns the members in the first set that are not present in any of the subsequent sets. This computes the set difference. `SDIFFSTORE` saves the result to a destination key.
 
 Visit the following resources to learn more:
 

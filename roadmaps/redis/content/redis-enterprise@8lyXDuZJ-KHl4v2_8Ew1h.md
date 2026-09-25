@@ -1,6 +1,6 @@
 # Redis Enterprise
 
-Redis Enterprise is a commercial offering that extends the capabilities of open-source Redis with advanced features designed for high availability, scalability, and performance in enterprise environments. It provides automatic sharding and replication, allowing for seamless horizontal scaling across multiple nodes and data centers. Redis Enterprise supports various deployment options, including on-premises, cloud, and hybrid environments, and offers enhanced data persistence options like active-active geo-distribution for global applications. Additionally, it includes advanced security features, such as role-based access control (RBAC), encryption, and audit logging, along with built-in monitoring and management tools. Redis Enterprise is particularly suited for mission-critical applications that require low-latency access to data and robust data management capabilities, making it ideal for use cases like real-time analytics, session management, and caching.
+Redis Enterprise is the commercial distribution of Redis provided by Redis Ltd. It extends open-source Redis with features designed for production deployments at scale: active-active geo-distribution, automatic sharding, enhanced security controls, and enterprise support. It is available as a self-managed installation or as a fully managed cloud service.
 
 Visit the following resources to learn more:
 

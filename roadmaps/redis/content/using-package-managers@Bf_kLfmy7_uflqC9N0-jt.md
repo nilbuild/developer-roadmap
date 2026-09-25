@@ -1,6 +1,6 @@
 # Using Package Managers
 
-Redis can be installed on Linux, MacOS and WSL2 via the platform specific package managers such as yum, apt and brew.
+On Linux, Redis can be installed through the system package manager using `apt` on Debian-based systems or `yum` on RHEL-based ones. On macOS, Homebrew provides a Redis formula that handles installation and service management. Package manager installs are the fastest way to get Redis running and are recommended for development environments.
 
 Visit the following resources to learn more:
 

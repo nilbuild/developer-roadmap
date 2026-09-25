@@ -1,6 +1,6 @@
 # Starting the Server
 
-Starting a Redis server is platform dependent and is usually done via `systemctl` on Linux or `brew services` on MacOS.
+The Redis server is started with the `redis-server` command, optionally followed by a path to a configuration file. By default it listens on port 6379. The server runs in the foreground unless configured otherwise, and logs output to the terminal.
 
 Visit the following resources to learn more:
 

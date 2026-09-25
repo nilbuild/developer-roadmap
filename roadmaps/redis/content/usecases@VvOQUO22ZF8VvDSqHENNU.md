@@ -1,1 +1,3 @@
-# Usecases
+# Append-Only File (AOF) Usecases
+
+Append-Only File (AOF) is a persistence strategy that logs every write operation received by the server into a file, which can be replayed to reconstruct the original dataset during a restart. It is most effective in environments where minimizing data loss is a priority, as it allows for per-second synchronization policies that ensure only a minimal amount of recent data is sacrificed in the event of a system failure. Additionally, this approach is ideal for scenarios requiring high data durability or those where the ability to inspect and edit the log file for recovery purposes provides an extra layer of operational safety.

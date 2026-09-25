@@ -1,6 +1,6 @@
 # Network Security
 
-Network security in Redis involves implementing measures to protect the server from unauthorized access and data breaches. Best practices include binding Redis to trusted interfaces, using firewalls to restrict access, and configuring `requirepass` for password protection. Redis should run in a secure network environment, ideally with TLS/SSL enabled for encrypted communication. Additionally, the use of `ACL` (Access Control Lists) provides granular permissions for different users. By disabling dangerous commands and using proper authentication and authorization mechanisms, Redis instances can be secured against common threats such as unauthorized data access and denial-of-service attacks.
+Network security for Redis involves restricting access using firewalls, binding Redis to specific interfaces, and using private networks or VPNs. Redis should never be exposed directly to the public internet without authentication. The `bind` directive and firewall rules are the first line of defense.
 
 Visit the following resources to learn more:
 

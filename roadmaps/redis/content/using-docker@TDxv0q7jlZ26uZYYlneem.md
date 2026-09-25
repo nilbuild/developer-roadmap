@@ -1,6 +1,6 @@
 # Using Docker
 
-Redis Community Edition can be installed on Docker but it is recommended to complete the installation of Redis Stack in order to gain access to the modeling capabilities, be able to search and query data, as well as using Redis as a vector database.
+Redis has an official image on Docker Hub that can be started with a single `docker run` command. Docker is useful for running Redis in an isolated environment or for testing specific versions without affecting the host system. Volumes can be mounted to persist data between container restarts.
 
 Visit the following resources to learn more:
 
