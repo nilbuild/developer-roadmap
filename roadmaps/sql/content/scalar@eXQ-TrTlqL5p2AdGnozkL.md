@@ -4,5 +4,5 @@ A scalar value is a single data item, as opposed to a set or array of values. Sc
 
 Visit the following resources to learn more:
 
-- [@article@Creating SQL Scalar Functions](https://www.ibm.com/docs/en/db2/11.5?topic=functions-creating-sql-scalar)
+- [@article@Creating SQL Scalar Functions](https://www.ibm.com/docs/en/db2/12.1.x?topic=functions-creating-sql-scalar)
 - [@video@Using Scalar SQL to boost performance](https://www.youtube.com/watch?v=v8X5FGzzc9A)
