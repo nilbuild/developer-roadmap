@@ -1,5 +1,5 @@
 # Combine and MVVM
- 
+
 Combine integrates naturally with the MVVM pattern. ViewModels expose @Published properties that emit state changes, and Views subscribe to those values to update the UI automatically. Combine operators handle data transformation, network logic, and combining multiple sources within the ViewModel, keeping the UI layer simple.
 
 Visit the following resources to learn more:

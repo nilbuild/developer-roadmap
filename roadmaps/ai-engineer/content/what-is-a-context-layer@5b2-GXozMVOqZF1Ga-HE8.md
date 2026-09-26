@@ -1,5 +1,5 @@
 # What is a Context Layer?
- 
+
 A context layer is the part of an AI system responsible for gathering, organizing, and delivering the right information to a model before it generates a response. It sits between raw data sources, such as databases, documents, and APIs, and the model itself, deciding what gets included and what gets left out. Some teams build this layer themselves using retrieval pipelines and memory stores, while others rely on dedicated context platforms. The goal is to give the model relevant, trustworthy information without overwhelming it with everything available.
 
 Visit the following resources to learn more:

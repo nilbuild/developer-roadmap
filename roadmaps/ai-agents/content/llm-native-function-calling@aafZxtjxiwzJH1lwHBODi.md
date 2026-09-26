@@ -1,6 +1,6 @@
 # LLM Native "Function Calling"
 
-LLM native “function calling” lets a large language model decide when to run a piece of code and which inputs to pass to it. You first tell the model what functions are available. For each one you give a short name, a short description, and a list of arguments with their types. During a chat, the model can answer in JSON that matches this schema instead of plain text. Your wrapper program reads the JSON, calls the real function, and then feeds the result back to the model so it can keep going. This loop helps an agent search the web, look up data, send an email, or do any other task you expose. Because the output is structured, you get fewer mistakes than when the model tries to write raw code or natural-language commands.
+LLM native function calling is a capability built directly into a model's API that lets it output a structured call to a predefined function, including the function name and arguments, instead of freeform text. The application executes the actual function and returns the result to the model to continue the conversation. This standardizes how models request actions, removing the need to parse tool calls out of plain text output.
 
 Visit the following resources to learn more:
 

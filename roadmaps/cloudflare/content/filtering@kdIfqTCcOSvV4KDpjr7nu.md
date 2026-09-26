@@ -1,13 +1,6 @@
 # Filtering
-
-In Cloudflare Email Workers, filtering is the process of selectively acting on emails based on specific criteria. It allows you to define rules that determine which emails your worker will process and how. Filtering can be based on various email attributes, including:
-
-- **Sender/Recipient:** Matching specific email addresses or domains.
-- **Subject Line:** Looking for keywords or patterns in the subject.
-- **Headers:** Examining specific header values.
-- **Content:** Analyzing the email body for certain keywords.
-
-By implementing filtering, you can ensure that your worker only processes relevant emails, optimizing performance and preventing unintended actions on unrelated messages.
+ 
+Filtering in Email Workers means rejecting or quarantining messages that match certain conditions, such as sender address, subject content, or spam signals. Workers return a reject decision with an optional reason, which is surfaced to the sender.
 
 Visit the following resources to learn more:
 

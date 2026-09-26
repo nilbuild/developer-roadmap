@@ -5,8 +5,6 @@ GitHub is a web-based platform that provides hosting for software development an
 Visit the following resources to learn more:
 
 - [@roadmap@Visit Dedicated GitHub Roadmap](https://roadmap.sh/git-github)
-- [@official@GitHub](https://github.com)
 - [@official@GitHub Documentation](https://docs.github.com/en/get-started/quickstart)
 - [@video@What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 - [@video@Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
-- [@feed@Explore top posts about GitHub](https://app.daily.dev/tags/github?ref=roadmapsh)

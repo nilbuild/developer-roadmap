@@ -1,6 +1,6 @@
 # require
-
-The 'require' statement is a built-in feature of PHP used to include and evaluate a specific file while executing the code. This is a crucial part of file handling in PHP because it enables the sharing of functions, classes, or elements across multiple scripts, promoting code reusability and neatness. Keep in mind, if the required file is missing, PHP will produce a fatal error and stop the code execution. The basic syntax is `require 'filename';`.
+ 
+`require` includes and evaluates a specified PHP file. If the file is not found, PHP throws a fatal error and halts execution. It is used when the included file is mandatory for the script to run, such as a configuration file or a class definition.
 
 Visit the following resources to learn more:
 

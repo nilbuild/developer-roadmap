@@ -1,3 +1,3 @@
 # Island traversal
 
-Island traversal is a grid-based technique used to find connected regions of cells that share a common value, typically `1`s in a binary matrix. It combines grid traversal with depth-first or breadth-first search — often with visited tracking — to count islands, measure their size, or analyze their shape.
+Island traversal refers to problems where a 2D grid is searched to identify and count connected regions, often called islands, surrounded by water or empty space. It is typically solved using DFS or BFS starting from unvisited land cells, marking each reachable cell as visited. This pattern generalizes to many connected-component problems.

@@ -1,15 +1,6 @@
 # Output Syntax
 
-Terraform output syntax is used to define values that should be made accessible after applying a Terraform configuration. The basic syntax is:
-
-    output "name" {
-      value = expression
-      description = "Optional description"
-      sensitive = bool
-    }
-    
-
-`name` is a unique identifier for the output. `value` is the expression whose result will be output. `description` is optional and provides context. `sensitive` is a boolean flag to mark sensitive data.
+An output block requires a `value` argument that specifies what to expose. Optional arguments include `description` for documentation, `sensitive` to redact the value, and `depends_on` to declare explicit dependencies. Outputs can expose any value, including resource attributes, local values, and variable values.
 
 Visit the following resources to learn more:
 

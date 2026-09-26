@@ -1,8 +1,8 @@
 # IaaS vs PaaS vs SaaS
 
-IaaS, PaaS, and SaaS are three types of cloud service models. **IaaS** or Infrastructure as a Service provides users with a resource-based service via virtualization technology, offering computing infrastructure, physical or (more often) virtual machines and other resources. **PaaS** or Platform as a Service provides runtime environments for developing, testing, and managing applications, it is utilized for software development and offers a platform to developers to build applications and services over the internet. **SaaS** or Software as a Service provides on-demand software accessed via the internet, it delivers a complete software solution that you purchase on a pay-as-you-go basis from a cloud service provider.
+These are the three main cloud service models. IaaS (Infrastructure as a Service) gives you raw compute, storage, and networking, and you manage everything above the OS. PaaS (Platform as a Service) provides a managed environment for deploying applications, abstracting away the underlying infrastructure. SaaS (Software as a Service) delivers fully managed applications accessed through a browser or API, with no infrastructure responsibility on the user's side.
 
-Learn more from the following resources:
+Visit the following resources to learn more:
 
-- [@video@IaaS vs PaaS vs SaaS cloud service models](https://youtu.be/9CVBohl6w0Q?si=cEDnXpd1sGkpf0K2)
 - [@article@Types of Cloud Computing](https://aws.amazon.com/types-of-cloud-computing/?nc1=h_ls)
+- [@video@IaaS vs PaaS vs SaaS cloud service models](https://youtu.be/9CVBohl6w0Q?si=cEDnXpd1sGkpf0K2)

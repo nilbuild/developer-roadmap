@@ -1,6 +1,6 @@
 # Rasterization
 
-In the realm of computer graphics, **Rasterization** refers to the process of converting the image data into a bitmap form, i.e., pixels or dots. It is predominantly used in 3D rendering where three-dimensional polygonal shapes are transformed into a two-dimensional image, possessing height, width, and color data. It is a scan-conversion process where vertices and primitives, upon being processed through the graphics pipeline, are mathematically converted into fragments. Every fragment finds its position in a raster grid. The process culminates in fragments becoming pixels in the frame buffer, the final rendered image you see on the screen. However, it's essential to note that rasterization does limit the image's resolution to the resolution of the device on which it is displayed.
+Rasterization is the standard rendering technique used in real-time graphics, where 3D geometry is projected onto a 2D screen and filled with pixel colors based on shading calculations. It is much faster than ray tracing but requires additional techniques like shadow mapping, screen-space reflections, and ambient occlusion to approximate lighting effects that ray tracing handles natively.
 
 Visit the following resources to learn more:
 

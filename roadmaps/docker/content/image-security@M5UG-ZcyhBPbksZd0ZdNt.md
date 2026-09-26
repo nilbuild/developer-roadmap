@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Docker Content Trust](https://docs.docker.com/engine/security/trust/content_trust/)
 - [@official@Docker Hub](https://hub.docker.com/)
+- [@course@Secrets in Image Layers: Hands-on Exercise](https://ransomleak.com/exercises/secrets-in-image-layers/)

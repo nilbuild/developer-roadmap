@@ -1,8 +1,6 @@
 # JSP Files
 
-JSP (JavaServer Pages) is a technology for building dynamic web pages using Java.
-
-In a Spring MVC application that uses JSPs, the view component of the MVC pattern is implemented using JSP files. The JSP files contain the presentation logic for the application and are responsible for generating the HTML that is sent to the client's web browser. When a user makes a request to a Spring MVC application, the DispatcherServlet, which acts as the front controller, handles the request and delegates responsibility for generating the response to the appropriate JSP file.
+JSP (JavaServer Pages) files are templates that mix HTML with Java code to generate dynamic web pages on the server before sending them to the browser. A JSP file is compiled into a servlet the first time it is requested, and its output is combined with data passed from a controller to render the final page. Spring MVC can use JSP as a view technology, though many modern applications favor other templating engines or return JSON instead of server-rendered pages.
 
 Visit the following resources to learn more:
 

@@ -1,7 +1,3 @@
 # Politics navigation
 
-Engineering Managers have to skillfully navigate politics in any organization. Their goal here is to understand relationships, power dynamics, and informal networks that govern how things work. Politics navigation is pertinent to minimizing conflicts, maximizing support for initiatives, and achieving team goals smoothly.
-
-Identifying and managing politics often falls on the shoulders of Engineering Managers. They need to maintain a delicate balance between individual team members' motivations and the overarching objectives of the organization. This requires tact, diplomacy, and effective communication.
-
-The challenge lies in keeping a neutral stance yet effectively navigating these politics without compromising on the team's morale or the project outcomes. Hence, an Engineering Manager must exhibit strong negotiation skills, strategic thinking, and emotional intelligence to deal with these office politics successfully.
+Organizational politics refers to the informal dynamics of influence, interest, and power within a company. Engineering managers navigate politics by building relationships across the organization, understanding who has influence over decisions that affect their team, and advocating for their team's interests without damaging trust.

@@ -1,6 +1,6 @@
 # Secret Management
 
-Terraform secret management is a critical aspect of secure infrastructure-as-code practices, focusing on the protection of sensitive information like API keys, passwords, and access tokens. Instead of storing secrets directly in Terraform files, best practices advocate for using external secret management systems such as HashiCorp Vault, AWS Secrets Manager, or Azure Key Vault. These systems allow Terraform to retrieve secrets securely during execution, significantly reducing the risk of exposure. For local development, tools like git-crypt or SOPS provide encryption for sensitive files, while Terraform's built-in encrypted state storage options safeguard secrets in state files. By marking variables as sensitive, accidental logging of secret values can be prevented. In CI/CD pipelines, it's crucial to inject secrets securely at runtime and avoid committing them to version control systems. Regular rotation of secrets and access audits further enhance security.
+Secrets such as API keys, passwords, and certificates should never be stored in Terraform configuration files or committed to version control. Common approaches include injecting secrets via environment variables, using a secrets manager like HashiCorp Vault or AWS Secrets Manager as a data source, or using a backend that encrypts sensitive state values.
 
 Visit the following resources to learn more:
 

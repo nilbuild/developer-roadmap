@@ -1,6 +1,6 @@
 # Authentication
 
-HCP (HashiCorp Cloud Platform) authentication provides secure access management for its services, including Terraform Cloud. It utilizes a comprehensive identity and access management system that supports multiple authentication methods. These include username/password combinations, single sign-on (SSO) integration with popular identity providers, and API tokens for programmatic access. HCP supports SAML 2.0 for enterprise-grade SSO, allowing seamless integration with existing identity management systems. For machine-to-machine communication, HCP offers service principal authentication, enabling secure, automated interactions with HCP services. The platform also provides fine-grained role-based access control (RBAC), allowing administrators to define and manage user permissions across different resources and operations.
+HCP Terraform authenticates users and services through API tokens. User tokens are generated in the account settings and used for CLI access. Service account tokens are used in CI/CD pipelines. The `terraform login` command stores credentials locally for CLI use.
 
 Visit the following resources to learn more:
 

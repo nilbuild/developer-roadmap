@@ -1,6 +1,6 @@
 # Versioning
 
-Terraform state versioning refers to the practice of maintaining multiple versions of the state file over time. While Terraform itself doesn't provide built-in versioning, it's typically achieved through backend configurations that support versioning, such as Amazon S3 with versioning enabled or Terraform Cloud. This approach allows teams to track changes, rollback to previous states if needed, and maintain an audit trail of infrastructure modifications. Versioning helps in recovering from accidental state corruptions or deletions, and in understanding the evolution of infrastructure over time. It's considered a best practice for production environments, enhancing disaster recovery capabilities and providing insights into infrastructure changes.
+State files can be versioned using backends that support versioning, such as S3 with versioning enabled. Keeping a history of state versions allows you to roll back to a previous state if a bad apply corrupts or loses data. Terraform Cloud and Enterprise provide built-in state history and the ability to restore past versions.
 
 Visit the following resources to learn more:
 

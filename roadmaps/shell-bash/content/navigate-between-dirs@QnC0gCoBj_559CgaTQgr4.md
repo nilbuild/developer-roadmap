@@ -8,3 +8,4 @@ Visit the following resources to learn more:
 - [@article@Navigating the file system with Terminal](https://gomakethings.com/navigating-the-file-system-with-terminal/)
 - [@video@What is the difference between absolute and relative paths?](https://www.youtube.com/watch?v=bxr4p5Ik4js)
 - [@video@Absolute and Relative Paths](https://www.youtube.com/watch?v=ephId3mYu9o)
+- [@course@Terminal Basics: ., ~, / and absolute vs relative paths in a browser sandbox (Hands-on)](https://learn.webterm.app/en/courses/terminal-fundamentals)

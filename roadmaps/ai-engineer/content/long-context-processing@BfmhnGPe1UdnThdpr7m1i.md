@@ -1,5 +1,5 @@
 # Long-Context Processing
- 
+
 Long-context processing deals with feeding an AI model large amounts of text, such as entire codebases, long documents, or extended conversation histories, in a way that keeps the model accurate. Even when a model's context window is technically large enough, performance can degrade as the amount of content grows, a problem often called context rot. Techniques to manage this include chunking content, retrieving only the most relevant sections, and summarizing older material instead of passing it in full.
 
 Visit the following resources to learn more:

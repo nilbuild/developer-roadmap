@@ -1,10 +1,6 @@
 # Sanitization Techniques
-
-Sanitization Techniques is a vital part of PHP security basics, which ensures that the user-provided data is safe to be used within your script. It can prevent harmful data from being inserted into the database or being used in other ways that could potentially be dangerous to your application. It includes functions which can strip off unwanted characters from the data. For instance, the `filter_var()` function in PHP can be applied to sanitize text.
-
-    $dirty_data = "<p>We love PHP!</p><script>alert('Virus!')</script>";   
-    $clean_data = filter_var($dirty_data, FILTER_SANITIZE_STRING);
-    echo $clean_data;
+ 
+Sanitization removes or encodes unsafe characters from user input before using it in output, queries, or commands. PHP provides `htmlspecialchars()` to escape HTML, `strip_tags()` to remove HTML tags, and `filter_var()` with filters like `FILTER_SANITIZE_EMAIL`. Sanitization reduces the risk of XSS and injection attacks.
 
 Visit the following resources to learn more:
 

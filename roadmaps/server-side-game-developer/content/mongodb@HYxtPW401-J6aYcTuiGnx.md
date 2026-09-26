@@ -1,6 +1,6 @@
 # MongoDB
 
-MongoDB is a source-available NoSQL database program that uses a document-oriented database model. This model supports a variety of data types and enables you to store them in one place. MongoDB uses JSON-like documents coupled with optional schemas. What distinctly characterizes MongoDB is its scalability and flexibility that allow schemas to evolve with business needs. It can run over multiple servers, the data is duplicated to facilitate keeping the system up and the data available. Also, MongoDB supports rich queries through its powerful querying and aggregation tools. These capabilities encourage fast development and iterations. However, bear in mind that like any database, MongoDB is not a one-size-fit-all solution and understanding its best use cases is crucial for maximizing its benefits.
+MongoDB is a document-oriented NoSQL database that stores data as JSON-like BSON documents. Its flexible schema and horizontal scaling via sharding make it popular for game backends where player data structures vary and rapid iteration on schemas is needed.
 
 Visit the following resources to learn more:
 

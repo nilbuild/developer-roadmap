@@ -1,6 +1,6 @@
 # Introduction
-
-Spring Boot is a framework for building applications based on the Spring Framework, a widely-used, open-source framework for building Java-based enterprise applications. Spring Boot aims to make it easy to create stand-alone, production-grade Spring-based applications that you can "just run".
+ 
+Spring Boot is an extension of the Spring Framework that simplifies the creation of production-ready Java applications. It removes the need for manual configuration by providing sensible defaults, embedded servers, and auto-configuration based on the libraries present in the classpath. Developers use it to build stand-alone applications and microservices without writing large amounts of boilerplate setup code.
 
 Visit the following resources to learn more:
 

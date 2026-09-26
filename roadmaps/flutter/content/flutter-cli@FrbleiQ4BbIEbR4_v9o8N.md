@@ -13,4 +13,3 @@ Visit the following resources to learn more:
 - [@official@The Flutter CLI](https://docs.flutter.dev/reference/flutter-cli)
 - [@official@CLI Packages in Flutter](https://dart.dev/server/libraries#command-line-packages)
 - [@official@Get Started with Flutter CLI](https://dart.dev/tutorials/server/get-started)
-- [@feed@Explore top posts about CLI](https://app.daily.dev/tags/cli?ref=roadmapsh)

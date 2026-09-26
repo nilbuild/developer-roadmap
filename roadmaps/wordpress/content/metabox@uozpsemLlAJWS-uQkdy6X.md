@@ -5,7 +5,6 @@ A metabox is a custom input panel added to the WordPress post or page editing sc
 Visit the following resources to learn more:
 
 - [@official@Metabox.io](https://metabox.io/)
-- [@official@Meta Box Plugin](https://wordpress.org/plugins/meta-box/)
 - [@official@Custom Meta Boxes](https://developer.wordpress.org/plugins/metadata/custom-meta-boxes/)
 - [@article@How To Add Meta Boxes and Custom Fields To Posts in Gutenberg](https://kinsta.com/blog/wordpress-add-meta-box-to-post/)
 - [@video@Beginners Guide To MetaBox for WordPress](https://www.youtube.com/watch?v=ZbTLmSluti8)

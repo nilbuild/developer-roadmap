@@ -1,6 +1,7 @@
 # ORM
 
-ORM stands for Object-Relational Mapping. In server-side game development, ORM is a technique that lets you interact with your database, like you would with SQL. In other words, on the server side, you create classes in your programming language (e.g., Python, JavaScript, etc.) that map to the tables in the database. Each instance of a class represents a row in the respective table. ORM libraries and tools provide methods to perform CRUD (Create, Retrieve, Update, Delete) operations without having to write raw SQL statements. Popular examples of ORM tools include Sequelize for JavaScript, SQLAlchemy for Python, and Hibernate for Java.
+An ORM (Object-Relational Mapper) maps database tables to in-application objects, allowing developers to query and manipulate data using the host language rather than raw SQL. Examples include Hibernate (Java), Entity Framework (C#), and GORM (Go). ORMs speed up development but can generate inefficient queries if not used carefully.
+
 Visit the following resources to learn more:
 
 - [@article@Object-Relational Mapping (ORM) Explained - AltexSoft](https://www.altexsoft.com/blog/orm-object-relational-mapping/)

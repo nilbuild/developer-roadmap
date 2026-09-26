@@ -1,11 +1,6 @@
 # Symfony
-
-Symfony is a set of PHP components and a framework for web projects. It aims to speed up the creation and maintenance of web applications and replace the recurring coding tasks. Symfony uses Composer, a PHP dependency manager, to manage its components. Below is an example of creating a new Symfony project:
-
-    composer create-project symfony/website-skeleton myproject
-    
-
-This will download and install a new Symfony project in the 'myproject' directory. Symfony's components are reusable PHP libraries that will help you complete tasks, like routing, templating, or even creating form handling.
+ 
+Symfony is a mature PHP framework and a collection of reusable components. It follows MVC conventions and emphasizes flexibility through dependency injection, event dispatchers, and a powerful routing and templating system (Twig). Many other PHP projects and frameworks, including Drupal and API Platform, are built on Symfony components.
 
 Visit the following resources to learn more:
 

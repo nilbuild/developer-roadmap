@@ -1,14 +1,6 @@
 # Wrangler
-
-`Wrangler` is the command-line interface (CLI) for Cloudflare Workers. It simplifies the process of developing, testing, and deploying Workers. With `wrangler`, you can:
-
-- Create new Worker projects.
-- Develop Workers locally.
-- Deploy Workers to Cloudflare.
-- Manage secrets and environment variables.
-- Configure bindings to other Cloudflare services.
-
-`Wrangler` streamlines the entire Workers workflow, making it an essential tool for any Cloudflare Workers developer.
+ 
+Wrangler is Cloudflare's official CLI for developing and deploying Workers. It handles local development with a simulated edge environment, manages configuration via `wrangler.toml`, and deploys Workers to Cloudflare's network.
 
 Visit the following resources to learn more:
 

@@ -1,12 +1,6 @@
-# Error Detection  
+# Error Detection
 
-**Error detection** ensures data integrity in `TCP-based` communication, preventing corrupted 
-or altered packets from disrupting server-side game interactions. `TCP` uses checksums to verify
-data integrity, detecting bit errors during transmission. If an error is found, the corrupted 
-packet is discarded, and retransmission is requested via acknowledgments (ACKs). Additional 
-mechanisms such as cyclic redundancy check (CRC) and parity checks may be used in lower 
-network layers to enhance reliability. Effective error detection minimizes data corruption 
-in multiplayer games, ensuring smooth gameplay and synchronization across players.
+TCP detects transmission errors using its mandatory checksum field, which covers the segment header and data. Corrupted segments are silently discarded, triggering retransmission through the normal acknowledgment and timeout mechanism.
 
 Visit the following resources to learn more:
 

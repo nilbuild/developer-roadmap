@@ -1,12 +1,6 @@
 # GoF Design Patterns
 
-The Gang of Four (GoF) design patterns are a set of design patterns for object-oriented software development that were first described in the book "Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (also known as the Gang of Four).
-
-The GoF design patterns are divided into three categories: Creational, Structural and Behavioral.
-
-*   Creational Patterns
-*   Structural Patterns
-*   Behavioral Patterns
+GoF Design Patterns are a set of reusable solutions to common problems encountered during software design. Originally documented by the "Gang of Four" (Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides), these patterns provide standardized approaches for structuring classes and objects to create flexible and maintainable systems. They are categorized into three main types: creational patterns, which handle object creation mechanisms; structural patterns, which simplify relationships between entities; and behavioral patterns, which focus on communication between objects. Using these patterns helps developers apply proven architectural concepts to solve complex programming challenges effectively.
 
 Visit the following resources to learn more:
 

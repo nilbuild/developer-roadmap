@@ -1,5 +1,5 @@
 # Data Ingestion Architecture
- 
+
 Data ingestion architecture describes how data flows into a system from its original sources, such as databases, APIs, or streaming platforms. It defines whether data arrives in batches or in real time, and how it gets validated and stored along the way. A well-designed architecture keeps data reliable even as sources and volumes grow.
 
 Visit the following resources to learn more:

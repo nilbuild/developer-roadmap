@@ -1,8 +1,6 @@
 # for_each
 
-The for\_each meta-argument in Terraform enables you to create multiple instances of a resource based on a set or map. Unlike count, which uses a simple integer, for\_each allows for more granular and dynamic resource creation, as each instance is associated with a specific key-value pair from the given set or map. This meta-argument is particularly useful for creating resources with unique configurations derived from the keys and values of the set or map. By leveraging for\_each, you can manage collections of resources more efficiently, ensuring each instance can be individually referenced and customized based on its specific key.
-
-Note: You cannot declare `for_each` and `count` in the same resource.
+The `for_each` meta-argument creates one instance of a resource or module for each item in a map or set of strings. Each instance is keyed by the map key or set value, making it easier to manage and reference individual items than with `count`. It is generally preferred over `count` when creating resources from a collection.
 
 Visit the following resources to learn more:
 

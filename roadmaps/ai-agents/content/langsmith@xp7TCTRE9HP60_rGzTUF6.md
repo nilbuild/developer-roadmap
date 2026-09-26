@@ -1,6 +1,6 @@
 # LangSmith
 
-LangSmith is a tool that helps you see how well your AI agents work. It lets you record every step the agent takes, from the first input to the final answer. You can replay these steps to find places where the agent goes wrong. LangSmith also lets you create test sets with real user prompts and compare new model versions against them. It shows clear numbers on speed, cost, and accuracy so you can spot trade-offs. Because LangSmith links to LangChain, you can add it with only a few extra lines of code. The web dashboard then gives charts, error logs, and side-by-side result views. This makes it easy to track progress, fix bugs, and prove that your agent is getting better over time.
+LangSmith is a platform for debugging, testing, and monitoring LLM applications, including agents, by tracing each step of a run and logging inputs, outputs, and intermediate reasoning. It also supports building evaluation datasets and running automated tests against them to measure quality over time, alongside dashboards for tracking cost and latency in production. Built by the LangChain team, it is commonly paired with LangChain and LangGraph applications but can be used independently.
 
 Visit the following resources to learn more:
 

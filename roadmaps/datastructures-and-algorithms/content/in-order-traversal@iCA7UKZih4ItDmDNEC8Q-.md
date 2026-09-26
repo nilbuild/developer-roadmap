@@ -1,3 +1,3 @@
 # In-Order Traversal
 
-In order traversal is a method for traversing binary trees. This method follows a specific order: Left Node, Root Node, then Right Node (L-N-R). Starting from the leftmost node of the tree, you first visit the left subtree, then the root node, and finally the right subtree. If the tree is a binary search tree, in order traversal will output the values of the nodes in the tree in ascending order. This traversal method is recursive in nature, as it requires each subtree to be visited in the exact same way.
+In-order traversal visits the left subtree first, then the current node, then the right subtree. For a binary search tree, this produces nodes in ascending sorted order. It is commonly used to retrieve data from a BST in a meaningful sequence.

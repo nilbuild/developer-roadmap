@@ -1,3 +1,3 @@
 # Topic Score
 
-`Topic Score` is a computational study that calculates how well a particular content piece covers a specified topic. Usually measured on a scale of 0 to 100, it uses different metrics such as keyword usage, semantic relevance, depth of topic coverage, among others. The higher the topic score, the more comprehensively your content is considered to cover the targeted topic. It can be beneficial for content strategists and technical writers to focus on target keywords in order to improve overall content quality and boost SEO performance.
+Topic score is a metric used in content strategy to evaluate how well a piece of content covers a subject relative to competing pages or a defined standard. Tools like MarketMuse and Clearscope calculate topic scores by analyzing keyword coverage and semantic relevance. Writers use topic scores to identify gaps in existing content and prioritize updates.

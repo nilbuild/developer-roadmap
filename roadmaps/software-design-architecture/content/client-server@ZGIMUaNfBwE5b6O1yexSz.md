@@ -1,8 +1,6 @@
 # Client Server
 
-The client-server architecture is a common architecture pattern used in distributed systems, where a client (or multiple clients) send requests to a server, and the server responds to those requests. The client and server are separate entities that communicate over a network, such as the Internet or a local network.
-
-The client is responsible for presenting the user interface and handling user input, while the server is responsible for processing the requests and returning the appropriate response. The server can also handle tasks such as data storage, security, and business logic.
+Client-server is a distributed architecture where clients request services or resources and servers provide them over a network. The client handles the user interface and user interaction, while the server manages data storage, business logic, and processing. This separation lets multiple clients share the same server resources and allows each side to be scaled or updated independently.
 
 Visit the following resources to learn more:
 

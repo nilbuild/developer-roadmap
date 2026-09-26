@@ -1,6 +1,6 @@
 # Tone Reproduction
 
-`Tone Reproduction` or `Tone Mapping` is the technique used in computer graphics to simulate the appearance of high-dynamic-range images in media with a more limited dynamic range. Print-outs, CRT, LCD monitors, and other displays can only reproduce a reduced dynamic range. This technique is widely used in gaming development, where developers employ it to improve the visual experience. The process involves taking light from a scene and mapping it to a smaller range of tones while preserving the visual appearance—i.e., regarding brightness, saturation, and hue. There are various tone mapping algorithms available, each with unique attributes suitable for different imaging tasks.
+Tone reproduction, also called tone mapping, is the process of converting high dynamic range (HDR) scene luminance values into the limited range that a display can show. Since real-world lighting varies across many orders of magnitude, tone mapping operators compress this range while preserving perceived contrast and detail. Common operators include Reinhard, ACES filmic, and Uncharted 2.
 
 Visit the following resources to learn more:
 

@@ -1,5 +1,5 @@
 # Stepping
- 
+
 Stepping controls in the Xcode debugger allow developers to move through code one statement at a time during a paused breakpoint session. Step Over executes the current line without descending into called functions, Step Into enters a called function, and Step Out completes the current function and returns to the caller.
 
 Visit the following resources to learn more:

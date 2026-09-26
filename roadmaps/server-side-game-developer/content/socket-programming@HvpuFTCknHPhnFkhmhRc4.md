@@ -1,6 +1,7 @@
 # Socket Programming
 
-Socket programming is a method of communication between two computers using a network protocol, typically TCP/IP. In server-side game development, socket programming is used to facilitate real-time, bi-directional communication between the server and client(s). The server opens a socket that waits for incoming connection requests from the client side. Once a connection is established, the server and client can exchange data until the connection is closed. This facilitates live multiplayer gaming experiences, allowing users on different computers to interact within the same game environment.```socket programming``` in Python, for example, includes modules for creating both the server side (```socketserver```) and client side (```socket```) of the conversation.
+Socket programming is the practice of using OS-level socket APIs to send and receive data over a network. It provides low-level control over TCP and UDP connections and is the foundation on which higher-level networking libraries and game networking engines are built.
+
 Visit the following resources to learn more:
 
 - [@article@C# Networking: Raw Sockets, TCP, and UDP Programming - Dev.to](https://dev.to/chakewitz/c-networking-raw-sockets-tcp-and-udp-programming-46oc)

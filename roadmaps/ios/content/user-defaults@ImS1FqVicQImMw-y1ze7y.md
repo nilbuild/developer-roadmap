@@ -1,5 +1,5 @@
 # User Defaults
- 
+
 User Defaults is a simple key-value store for persisting lightweight user preferences and settings across app launches. It stores basic types like strings, numbers, booleans, and dates in a plist file. User Defaults is not suitable for sensitive or large data and is intended only for small configuration values.
 
 Visit the following resources to learn more:

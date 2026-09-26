@@ -1,5 +1,5 @@
 # Operation Queues
- 
+
 Operation Queues manage collections of NSOperation objects and execute them concurrently or serially. Operations support dependencies on each other, cancellation, and priority settings. Operation Queues provide a higher-level abstraction than GCD and are useful when tasks have complex interdependencies or need explicit cancellation logic.
 
 Visit the following resources to learn more:

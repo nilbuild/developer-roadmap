@@ -1,5 +1,5 @@
 # App Store Optimization (ASO)
- 
+
 App Store Optimization (ASO) is the process of improving an iOS app's visibility and conversion rate in the App Store. It involves optimizing the app name, subtitle, keywords, screenshots, and description to rank higher in relevant searches. Effective ASO increases organic downloads without paid advertising spend.
 
 Visit the following resources to learn more:

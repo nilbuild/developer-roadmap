@@ -1,6 +1,7 @@
 # Serverless
 
-**Serverless** is a cloud architecture model where the application developers don't have to provision, scale, and manage servers or runtimes, to build their applications. The name serverless comes from the idea that the tasks traditionally performed by a server are handled elsewhere, abstracting the responsibility of managing servers away from the developer. Developers can write and deploy code without worrying about the underlying infrastructure. A serverless model uses backends as a service (BaaS) and functions as a service (FaaS), providing automatic scaling, patching, and capacity provisioning. Popular examples of serverless providers are AWS Lambda, Google Cloud Functions, and Azure Functions.
+Serverless computing runs application code in stateless functions triggered by events, with the cloud provider managing all server infrastructure. It is used for game backend tasks like authentication, leaderboard queries, and webhooks where traffic is bursty and always-on servers would be wasteful.
+
 Visit the following resources to learn more:
 
 - [@article@Building a Serverless Multiplayer Game That Scales - AWS](https://aws.amazon.com/blogs/compute/building-a-serverless-multiplayer-game-that-scales/)

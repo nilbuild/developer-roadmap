@@ -1,6 +1,6 @@
 # CCD
 
-**CCD (Continuous Collision Detection)** is a sophisticated technique used in detecting collisions within games, more advanced than the traditional discrete collision. Rather than checking for collisions at designated time frames, CCD checks for any possible collisions that may happen during the entire time period or motion path of the moving object. This can prevent instances of "tunneling", where an object moves so fast that it passes through walls or obstacles undetected by discrete collision detection due to being at different points in one frame to another. Although more computationally heavy than discrete detection, CCD offers an increased accuracy in collision detection, making it vital in games where precise movements are needed.
+Continuous Collision Detection (CCD) prevents fast-moving objects from tunneling through thin geometry by testing for collisions along the entire swept path of an object between frames, rather than just at the start and end positions. Without CCD, a bullet or fast projectile can pass entirely through a wall in a single time step. CCD is more expensive than discrete detection and is typically enabled selectively for fast-moving objects.
 
 Visit the following resources to learn more:
 

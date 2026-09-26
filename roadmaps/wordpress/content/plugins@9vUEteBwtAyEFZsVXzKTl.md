@@ -7,6 +7,4 @@ Visit the following resources to learn more:
 - [@official@What Are WordPress Plugins and Themes? (A Beginner’s Guide)](https://wordpress.com/go/website-building/what-are-wordpress-plugins-and-themes-a-beginners-guide/)
 - [@official@What is a plugin?](https://learn.wordpress.org/lesson/what-is-a-plugin/)
 - [@official@Plugin Docs](https://developer.wordpress.org/plugins/)
-- [@official@Plugin Catalog](https://wordpress.com/plugins)
-- [@article@What is a WordPress plugin: A comprehensive guide for beginners](https://www.hostinger.com/tutorials/what-is-wordpress-plugin)
 - [@video@What is a WordPress Plugin?](https://www.youtube.com/watch?v=WAAh3DsI7_Q)

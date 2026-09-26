@@ -1,6 +1,6 @@
 # When to Use?
 
-Provisioners in Terraform should be used judiciously, primarily when other declarative options are insufficient. They're appropriate for tasks that can't be accomplished through Terraform's resource configurations or data sources. Common scenarios include running initialization scripts on newly created servers, installing software not covered by provider-specific resources, or performing one-time setup tasks. Provisioners are useful for bootstrapping configuration management tools or handling complex, stateful operations that Terraform can't manage directly. However, they should be considered a last resort due to their potential to make Terraform runs less predictable and harder to manage. Whenever possible, prefer using cloud-init scripts, custom images, or separate configuration management tools. When provisioners are necessary, design them to be idempotent and resilient to failures to maintain Terraform's desired state consistency.
+Provisioners are appropriate when no provider resource or data source can accomplish the required task and the action must happen at resource creation or destruction time. Common use cases include running initialization scripts on a new server or notifying an external system after a resource is created. They should be avoided when alternatives exist because they add complexity and are harder to test.
 
 Visit the following resources to learn more:
 

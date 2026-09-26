@@ -1,8 +1,6 @@
 # state pull / push
 
-The `terraform state pull` and `terraform state push` commands are used for managing Terraform state in remote backends. The `pull` command retrieves the current state from the configured backend and outputs it to stdout, allowing for inspection or backup of the remote state. It's useful for debugging or for performing manual state manipulations.
-
-The `push` command does the opposite, uploading a local state file to the configured backend, overwriting the existing remote state. This is typically used to restore a backup or to manually reconcile state discrepancies. Both commands should be used with caution, especially push, as they can potentially overwrite important state information.
+`terraform state pull` downloads the current remote state and prints it to stdout. `terraform state push` uploads a local state file to the configured backend, overwriting the remote state. These commands are used for manual state recovery or migration and should be used with caution.
 
 Visit the following resources to learn more:
 

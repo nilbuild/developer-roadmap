@@ -1,6 +1,6 @@
 # Rich Data Structures
 
-Redis provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams.
+Redis goes beyond simple strings by supporting Lists, Sets, Sorted Sets, Hashes, Bitmaps, HyperLogLog, and Streams. Each structure comes with commands optimized for common operations on that type. This variety allows developers to model data closer to the problem domain without relying on external serialization.
 
 Visit the following resources to learn more:
 

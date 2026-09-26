@@ -1,5 +1,5 @@
 # Breakpoints
- 
+
 Breakpoints pause app execution at a specific line of code so the developer can inspect the current state of variables and the call stack. Xcode supports line breakpoints, symbolic breakpoints that trigger on a function name, and exception breakpoints that catch crashes automatically. Conditional breakpoints pause only when a specified expression evaluates to true.
 
 Visit the following resources to learn more:

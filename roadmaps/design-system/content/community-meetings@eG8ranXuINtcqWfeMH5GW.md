@@ -1,3 +1,3 @@
 # Community Meetings
 
-Arrange community meetings with everyone who uses the design system. Share your knowledge and make proposals to improve the sense of community.
+Community meetings are regularly scheduled sessions where design system maintainers and the teams that consume the system come together to discuss updates, gather feedback, and address concerns. They give consuming teams a direct channel to raise issues or request new components rather than relying solely on written tickets. These meetings also help build a sense of shared ownership over the design system across the organization.

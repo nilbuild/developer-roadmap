@@ -1,6 +1,6 @@
 # Outcome-Based Roadmaps
 
-Outcome-Based Roadmaps refers to the strategic planning approach of focusing on the desired results of an organization or project rather than the specific tasks or features to be completed. For a Product Manager, creating outcome-based roadmaps requires a top-down approach, putting the focus on solving problems and achieving objectives over defining strict specifications or tasks. This allows for more flexibility and innovation in product development and strategy. It also necessitates a deep understanding of customer needs, the ability to articulate clear goals and progression metrics, and the skill to collaborate with cross-functional teams to see those goals to fruition.
+Outcome-based roadmaps organize priorities around the results the team is trying to achieve rather than the features they plan to ship. Each item describes a user or business outcome, with the solution left to be defined. This approach gives teams more flexibility to find the best path to impact.
 
 Visit the following resources to learn more:
 

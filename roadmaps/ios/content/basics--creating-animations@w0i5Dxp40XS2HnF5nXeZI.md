@@ -1,5 +1,5 @@
 # Basics / Creating Animations
- 
+
 Creating animations with Core Animation involves working with CALayer and CAAnimation subclasses. CABasicAnimation animates a single property from one value to another, while CAKeyframeAnimation defines multiple values along an animation path. Animations are applied to layer properties like position, opacity, transform, and background color.
 
 Visit the following resources to learn more:

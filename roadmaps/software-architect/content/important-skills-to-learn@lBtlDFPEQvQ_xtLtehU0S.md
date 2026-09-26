@@ -1,3 +1,3 @@
 # Important Skills to Learn
- 
+
 Beyond technical knowledge, a software architect needs skills like clear communication, sound decision making, and the ability to simplify complex problems. These skills help them lead teams, justify technical choices to non technical stakeholders, and keep projects moving forward. Building these skills alongside technical expertise is what separates a senior developer from an effective architect.

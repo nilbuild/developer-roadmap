@@ -1,6 +1,6 @@
 # Razor
 
-Razor is a markup syntax for embedding server-side code in web pages. It was introduced with [ASP.NET](http://ASP.NET) MVC 3 and later became a part of [ASP.NET](http://ASP.NET) Web Pages. It allows developers to write server-side code using C# or Visual Basic and embed it in HTML markup. Its syntax is designed to be compact and easy to read. It provides a rich set of features for building web applications, such as a component model for building reusable UI, a routing system for navigation, and support for dependency injection, it also allows you to use the same libraries, frameworks, and tools that you're already familiar with from building traditional [ASP.NET](http://ASP.NET) web applications.
+Razor is a markup syntax that allows developers to embed server-based code into web pages using C#. It enables the seamless integration of dynamic programming logic directly within HTML, which the server processes to generate the final output sent to the browser. This syntax simplifies the creation of web content by minimizing the amount of code required to transition between static markup and executable server-side instructions.
 
 Visit the following resources to learn more:
 

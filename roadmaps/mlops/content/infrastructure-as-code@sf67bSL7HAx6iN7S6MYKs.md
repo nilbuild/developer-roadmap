@@ -1,5 +1,5 @@
 # Infrastructure as Code
- 
+
 Infrastructure as Code, or IaC, means defining and managing computing infrastructure, such as servers and networks, using configuration files instead of manual setup. These files can be versioned, reviewed, and reused, which makes infrastructure changes more predictable and repeatable. It reduces the risk of manual errors when setting up environments for training or deploying models.
 
 Visit the following resources to learn more:

@@ -1,6 +1,6 @@
 # Advanced Rendering
 
-**Advanced rendering** is a sophisticated technique used in game development that involves translating a 3D model or scene into a 2D image or animation. Advanced rendering techniques can involve various complex methods such as physically-based rendering, ray tracing, global illumination, subsurface scattering, caustics, and volumetric rendering. The use of advanced rendering can result in highly realistic graphics, as it uses complex calculations to depict how light behaves in the real world. Advanced rendering often requires powerful hardware resources and specialized software tools in order to achieve the desired images and animations.
+Advanced rendering covers techniques that go beyond standard rasterization to produce more realistic or visually sophisticated output. This includes physically based rendering, global illumination, ray tracing, and post-processing effects. These techniques require deeper understanding of light physics and more complex GPU programming.
 
 Visit the following resources to learn more:
 

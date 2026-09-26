@@ -1,8 +1,3 @@
-# Existing Design Process
+# Identify Existing Design Process
 
-To better understand the kind of design system you would like to implement, you need to start by reviewing and analyzing the current approach for design at your company. Find the answers to the following questions:
-
-- What is the design process that your company follows?
-- What are the existing tools that your company uses?
-
-It’s also recommended to evaluate the level of design maturity of the product teams. This knowledge will help you estimate the time required to introduce the system to your organization.
+Identifying the existing design process involves mapping out how a team currently creates, communicates, and implements design decisions. This phase requires gathering insights into how designers and developers collaborate, documenting the current workflow, and pinpointing the specific tools or manual tasks used to hand off assets. By clarifying these steps, teams can uncover inefficiencies, understand how UI patterns are currently maintained, and determine how to integrate new design system standards into established habits.

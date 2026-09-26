@@ -1,5 +1,5 @@
 # How to Code
- 
+
 An architect needs strong coding skills to design realistic solutions and earn credibility with the development team. Writing code themselves helps them understand the practical constraints of the technologies they choose and spot problems before they become costly. Staying hands on also keeps their architectural decisions grounded in real implementation experience rather than theory alone.
 
 Visit the following resources to learn more:

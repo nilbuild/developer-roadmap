@@ -1,3 +1,3 @@
-# Error Logging
+# Logging
 
-Implement a way to track and pinpoint component-related outages in your product.
+Logging, in the context of a design system, means recording events and errors that occur when components are used in production, such as a component failing to render or receiving invalid props. Reviewing these logs helps the design system team catch bugs that only surface in real-world usage across different consuming products. It complements testing done before release by revealing issues that appear once components run at scale.

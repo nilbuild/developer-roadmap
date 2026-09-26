@@ -1,5 +1,5 @@
 # Implementing Delegates
- 
+
 Implementing a delegate involves defining a protocol with required methods, adding a weak delegate property to the delegating class, and calling delegate methods at the appropriate times. The conforming class implements the protocol methods to respond to events. The weak reference is necessary to prevent retain cycles between the delegate and the delegating object.
 
 Visit the following resources to learn more:

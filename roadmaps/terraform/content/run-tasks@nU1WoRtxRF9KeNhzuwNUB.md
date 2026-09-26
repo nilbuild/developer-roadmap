@@ -1,6 +1,6 @@
 # Run Tasks
 
-HCP Run Tasks, a feature of Terraform Cloud, allow for the integration of external services or custom logic into the Terraform workflow. These tasks can be configured to run before or after Terraform plans and applies, enabling additional validation, notification, or data processing steps. Run Tasks can be used for various purposes such as security scanning, cost estimation, custom policy checks, or triggering external workflows. They are executed via webhooks, allowing integration with a wide range of third-party services or internal tools. This feature enhances the flexibility and extensibility of the Terraform workflow, enabling organizations to implement custom processes and integrations tailored to their specific needs.
+Run Tasks are integrations that execute external services at specific points in the Terraform run lifecycle, such as after a plan or before an apply. They can be used to trigger security scans, cost checks, or custom validation logic. Run tasks return a pass or fail result that can block or allow the apply from proceeding.
 
 Visit the following resources to learn more:
 

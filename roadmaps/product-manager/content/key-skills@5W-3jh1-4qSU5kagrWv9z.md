@@ -1,9 +1,9 @@
-# Key Skills for a Product Manager
-
-A Product Manager is often viewed as the "CEO of the Product", requiring a unique blend of business, technical, and strategic skills to drive the product's success. Core competencies for a Product Manager typically include strategic thinking, the ability to influence cross-functional teams, technical proficiency, understanding of customer needs and market trends, problem-solving abilities, and exceptional communication skills. These key skills are vital in managing stakeholders, formulating strategic product vision, making crucial business decisions, and ensuring seamless product execution. The ability to continuously learn and adapt is also crucial due to the dynamic nature of the product management industry.
+# Key Skills
+ 
+Effective product managers combine analytical thinking with strong communication and the ability to influence without authority. Core skills include user research, data analysis, prioritization, roadmapping, and stakeholder management. Writing clearly and making decisions under uncertainty are also consistently important across product roles.
 
 Visit the following resources to learn more:
 
 - [@article@What Skills Does a Product Manager Need?](https://careerfoundry.com/en/blog/product-management/product-manager-skills/)
-- [@video@Skills Every Product Manager Needs](https://www.youtube.com/watch?v=ysBpePyeHkU)
 - [@article@Top Product Manager Skills for Success - Productboard](https://www.productboard.com/blog/10-essential-product-management-skills-you-need-for-success/)
+- [@video@Skills Every Product Manager Needs](https://www.youtube.com/watch?v=ysBpePyeHkU)

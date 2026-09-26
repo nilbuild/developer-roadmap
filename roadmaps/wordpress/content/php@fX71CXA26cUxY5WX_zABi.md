@@ -5,9 +5,6 @@ PHP is a scripting language primarily used for web development. It's embedded wi
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the dedicated PHP Roadmap](https://roadmap.sh/php)
-- [@official@PHP](https://www.php.net/)
 - [@official@PHP Docs](https://www.php.net/docs.php)
-- [@article@PHP Tutorial](https://www.phptutorial.net/)
 - [@article@Learn PHP Interactively](https://www.learn-php.org/about)
-- [@video@Introduction to PHP](https://www.youtube.com/watch?v=KBT2gmAfav4)
 - [@video@PHP Tutorial - Full Course](https://www.youtube.com/watch?v=OK_JCtrrv-c)

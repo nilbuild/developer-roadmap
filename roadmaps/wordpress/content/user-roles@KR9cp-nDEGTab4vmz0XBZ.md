@@ -7,5 +7,4 @@ Visit the following resources to learn more:
 - [@official@Roles and Capabilities](https://wordpress.org/documentation/article/roles-and-capabilities/)
 - [@article@How to use WordPress user roles for improved WordPress security](https://melapress.com/wordpress-user-roles-wordpress-security/?utm_medium=referral&utm_source=roadmapsh&utm_campaign=wproadmap)
 - [@article@The ultimate guide to WordPress user management](https://melapress.com/ultimate-guide-wordpress-user-management/?utm_medium=referral&utm_source=roadmapsh&utm_campaign=wproadmap)
-- [@article@WordPress User Roles & Capabilities: The Ultimate 2025 Guide](https://jetpack.com/resources/wordpress-user-roles-the-ultimate-guide/)
 - [@video@Adding custom user roles using a WordPress plugin](https://www.youtube.com/watch?v=FfEpt8RaTB4)

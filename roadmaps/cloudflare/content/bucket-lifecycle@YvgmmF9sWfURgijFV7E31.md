@@ -5,4 +5,4 @@ The lifecycle of an R2 bucket involves creation, usage (storing and retrieving o
 Visit the following resources to learn more:
 
 - [@official@Buckets · Cloudflare R2](https://developers.cloudflare.com/r2/buckets/)
-- [@official@Bucket Lifecycle · Cloudflare R2](https://developers.cloudflare.com/api/resources/r2/subresources/buckets/subresources/lifecycle/) 
+- [@official@Bucket Lifecycle · Cloudflare R2](https://developers.cloudflare.com/api/resources/r2/subresources/buckets/subresources/lifecycle/)

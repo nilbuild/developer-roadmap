@@ -1,6 +1,6 @@
 # Occluder
 
-An **Occluder** in game development is basically a tool or method used to hide other objects in the game environment. When a certain object, which is known as the occluder, blocks the line of sight to another object from the camera's perspective, the hidden or blocked object does not need to be rendered. This object could be anything from a building to a terrain feature. The process of managing these occluders is known as occlusion culling. The purpose of using occluders is to optimize the game and improve its performance by reducing unnecessary rendering workload. However, it's important to note that setting up occluders requires careful planning to ensure that it does not impact the gameplay or visual quality.
+An occluder is a piece of geometry that blocks the view of objects behind it. In occlusion culling systems, occluders are used to test whether other objects are hidden and can therefore be skipped during rendering. Occluders are often simplified versions of scene geometry to keep the occlusion queries fast.
 
 Visit the following resources to learn more:
 

@@ -1,5 +1,5 @@
 # Developer Marketing
- 
+
 Developer marketing focuses on reaching, attracting, and retaining developers as an audience. Unlike consumer marketing, it requires technical credibility and relies on education, tutorials, open-source contributions, and community engagement rather than advertising. The goal is to help developers understand what a product does and how to get started quickly.
 
 Visit the following resources to learn more:

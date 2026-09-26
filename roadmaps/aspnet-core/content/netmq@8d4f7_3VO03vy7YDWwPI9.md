@@ -1,8 +1,6 @@
 # NetMQ
 
-NetMQ is a lightweight, open-source messaging library for building distributed systems and real-time applications in .NET. It provides an API for sending and receiving messages using a variety of messaging patterns and protocols, including request-response, publish-subscribe, and push-pull.
-
-NetMQ is built on top of ZeroMQ, a high-performance, asynchronous messaging library that provides a minimalistic socket-based API for building distributed systems. NetMQ is designed to be easy to use and to abstract away the complexities of ZeroMQ, making it a good choice for developers who want to add messaging capabilities to their [ASP.NET](http://ASP.NET) applications without having to learn a complex API.
+NetMQ is a lightweight, high-performance messaging library that serves as a native C# port of the ZeroMQ library. It enables developers to implement various messaging patterns, such as request-reply, pub-sub, and push-pull, for communication between distributed services. By utilizing asynchronous message queues, it allows microservices to exchange data efficiently across different processes or network nodes without relying on a dedicated message broker server.
 
 Visit the following resources to learn more:
 

@@ -1,13 +1,6 @@
 # Bucket Operations
-
-In Cloudflare R2, buckets are containers for storing objects. You can perform various bucket operations, including:
-
-- **Creating Buckets:** Creating new buckets to organize your data.
-- **Listing Buckets:** Listing all the buckets in your account.
-- **Deleting Buckets:** Deleting buckets that are no longer needed (must be empty).
-- **Configuring Bucket Policies:** Setting access control policies for buckets.
-
-These operations are typically performed using the R2 API, the Cloudflare dashboard, or command-line tools like `wrangler`.
+ 
+Bucket operations cover creating, configuring, and deleting R2 buckets, as well as managing objects within them. Workers interact with buckets through bindings, while bucket-level administration is done via the dashboard or REST API.
 
 Visit the following resources to learn more:
 

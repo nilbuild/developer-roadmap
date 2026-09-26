@@ -1,5 +1,5 @@
 # Delegate Pattern
- 
+
 The delegate pattern is a core design pattern in iOS where one object delegates responsibility for certain behaviors to another through a protocol. UIKit uses delegation extensively, with UITableViewDelegate, UITextFieldDelegate, and URLSessionDelegate being common examples. Delegates allow customization of behavior without requiring subclassing.
 
 Visit the following resources to learn more:

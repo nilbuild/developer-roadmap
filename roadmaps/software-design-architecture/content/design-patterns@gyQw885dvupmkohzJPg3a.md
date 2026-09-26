@@ -1,13 +1,6 @@
 # Design Patterns
 
-Design patterns are general solutions to common problems that arise in software development. They provide a way to describe and communicate proven solutions to common design problems and they provide a common vocabulary for design. They are not specific to any particular programming language or technology, but rather describe the problem and the solution in a way that can be applied to many different contexts.
-
-There are several different types of design patterns, including:
-
-*   Creational patterns
-*   Structural patterns
-*   Behavioral patterns
-*   Architectural patterns
+Design patterns are general, reusable solutions to common problems that occur when designing software at the level of individual classes and objects. They describe proven approaches to structuring relationships between objects, such as how to create objects flexibly or how to let objects react to changes in other objects. The Gang of Four catalog, which includes patterns like Singleton, Factory, and Observer, is one of the most widely referenced sources for these patterns.
 
 Visit the following resources to learn more:
 

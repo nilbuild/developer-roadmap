@@ -1,6 +1,7 @@
 # PostgreSQL
 
-**PostgreSQL** is a powerful, open-source object-relational database system. It extends the SQL language combined with many features that safely store and scale the most complicated data workloads. The origins of PostgreSQL date back to 1986 as part of the POSTGRES project at the University of California at Berkeley. It has earned a strong reputation for its proven architecture, reliability, data integrity, robust feature set, extensibility, and the dedication of the open-source community behind the software to consistently deliver performant and innovative solutions. PostgreSQL runs on all major operating systems and has been ACID-compliant since 2001. It has powerful add-ons like the popular PostGIS geospatial database extender. It can handle ranges, array types and has extensive capabilities for developing at scale.
+PostgreSQL is an open-source relational database known for its standards compliance, extensibility, and support for advanced features like JSONB, full-text search, and custom types. Game servers use it for player accounts, transactions, and any data requiring complex relational queries and ACID guarantees.
+
 Visit the following resources to learn more:
 
 - [@official@PostgreSQL Tutorial - PostgreSQL Documentation](https://www.postgresql.org/docs/current/tutorial.html)

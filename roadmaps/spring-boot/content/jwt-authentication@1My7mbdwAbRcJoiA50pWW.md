@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@article@JWT Token Authentication in Spring](https://springframework.guru/jwt-authentication-in-spring-microservices-jwt-token/)
 - [@article@Spring Security with JWT for REST API](https://www.toptal.com/spring/spring-security-tutorial)
 - [@article@Spring Security - JWT](https://www.tutorialspoint.com/spring_security/spring_security_with_jwt.htm)
-- [@feed@Explore top posts about Authentication](https://app.daily.dev/tags/authentication?ref=roadmapsh)

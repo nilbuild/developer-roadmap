@@ -1,7 +1,3 @@
 # Learning culture development
 
-As an Engineering Manager, fostering a learning culture in the team is a notable aspect of their role. This involves creating an environment where team members are comfortable asking questions and making mistakes, seeing them as opportunities for learning and growth. The manager facilitates this by promoting continuous learning opportunities like webinars, workshops, and online classes.
-
-One challenge they might face is resistance to change or learning new skills. To address this, they should demonstrate the value and importance of continuous learning. Show how it leads to improved performance and opens up new opportunities.
-
-To succeed, an Engineering Manager needs effective communication and leadership skills. They need to set clear expectations, provide positive reinforcement, and offer feedback to guide their team's learning and skill development.
+A learning culture is one where continuous development is valued and supported. Engineering managers build this by encouraging engineers to share what they learn, providing access to learning resources, discussing career growth regularly, and treating mistakes as data rather than reasons for blame.

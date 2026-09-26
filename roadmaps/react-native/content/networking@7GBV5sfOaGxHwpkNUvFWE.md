@@ -1,14 +1,6 @@
-# Networking
+# Networking in React Native
 
-React Native facilitates network requests and data management from remote sources through various techniques. The primary method is the `fetch` function, a promise-based API that allows developers to make HTTP requests and retrieve resources, typically in JSON format, from a specified URL. For example, a simple fetch request can be made as follows:
-
-    fetch('https://jsonplaceholder.typicode.com/todos/1')
-      .then((response) => response.json())
-      .then((json) => console.log(json))
-      .catch((error) => console.error(error));
-    
-
-Another popular option is Axios, a widely-used library that simplifies HTTP requests in JavaScript applications. Like fetch, Axios is promise-based and offers a user-friendly API, making it a preferred choice for many developers when handling network requests in React Native.
+Networking in React Native allows applications to communicate with remote servers to fetch or send data using standard web protocols. Developers typically utilize the built-in Fetch API to perform HTTP requests, which handles asynchronous data retrieval in a way that is consistent with modern web standards. For more complex requirements, such as managing cookies, handling authentication headers, or tracking upload progress, libraries like Axios are commonly integrated into projects to simplify request configuration and response handling.
 
 Visit the following resources to learn more:
 

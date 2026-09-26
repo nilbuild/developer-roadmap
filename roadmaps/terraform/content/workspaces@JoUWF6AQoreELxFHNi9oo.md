@@ -1,6 +1,6 @@
 # Workspaces
 
-HCP workspaces, particularly in the context of Terraform Cloud, provide isolated environments for managing different sets of infrastructure. Each workspace is associated with a specific Terraform configuration and maintains its own state file, variables, and access controls. Workspaces enable teams to organize and separate infrastructure based on projects, environments, or teams. They support collaborative workflows by allowing multiple team members to work on the same infrastructure while maintaining version control and change history. HCP workspaces offer features like remote state management, secure variable storage, and integration with version control systems. They also provide run triggers for automating workflows across dependent infrastructures. With built-in access controls, organizations can enforce least-privilege principles by granting specific permissions to users or teams for each workspace.
+HCP Terraform workspaces are managed environments that store state, run history, and variable values for a specific configuration. Each workspace is linked to a version control repository or configured for CLI-driven runs. Variables and sensitive values are stored per workspace and injected into runs automatically.
 
 Visit the following resources to learn more:
 

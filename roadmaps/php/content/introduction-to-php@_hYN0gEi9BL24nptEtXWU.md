@@ -1,15 +1,6 @@
 # Introduction to PHP
 
-PHP, also known as Hypertext Preprocessor, is a powerful scripting language used predominantly for creating dynamic web pages and applications. It provides seamless interaction with databases, easier control of content, session tracking, and cookies. Being an open-source language, it's favored by developers for its flexibility, speed, and security.
-
-Here's a simple PHP code to print a text:
-
-      <?php
-       echo "Hello, World!";
-      ?>
-    
-
-Here the "echo" command in PHP helps to output one or more strings.
+PHP (Hypertext Preprocessor) is a server-side scripting language designed primarily for web development. It runs on the server and generates HTML that is sent to the client's browser. PHP powers a large portion of the web, including platforms like WordPress and Facebook's early codebase.
 
 Visit the following resources to learn more:
 

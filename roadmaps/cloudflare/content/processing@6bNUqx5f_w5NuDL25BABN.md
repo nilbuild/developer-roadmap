@@ -1,13 +1,6 @@
-# Processing
-
-With Cloudflare Email Workers, processing involves manipulating or analyzing incoming email content. After an email is routed to your worker, you can access and modify various aspects of the email, such as headers, body, and attachments. Processing can include tasks like:
-
-- **Content Modification:** Altering the email body, adding disclaimers, or translating content.
-- **Data Extraction:** Parsing information from the email to use in other applications.
-- **Spam Filtering:** Implementing custom spam detection logic.
-- **Attachment Handling:** Processing or storing attachments.
-
-Email Workers provide the flexibility to customize how emails are handled, enabling a wide range of email-based applications and integrations.
+# Email Workers
+ 
+Email Workers process inbound email at Cloudflare's edge. An Email Worker is a script that receives a message before it is delivered, allowing custom routing, filtering, transformation, or forwarding logic to run on every incoming email.
 
 Visit the following resources to learn more:
 

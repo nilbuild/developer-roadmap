@@ -1,6 +1,6 @@
 # File Extensions
 
-In React Native, you can write platform-specific code by using specific file extensions, such as appending `.android.` or `.ios.` to your file names, allowing React Native to automatically load the appropriate file based on the platform. This approach is useful in two main scenarios: creating separate files for platform-specific components, like `Header.ios.js` and `Header.android.js`, which can have different implementations and styles for iOS and Android, and using the `Platform` module within a single file to conditionally render platform-specific code. By leveraging these techniques, developers can create tailored components and features for each platform while keeping their codebase organized and maintainable.
+File extensions like `.ios.js` and `.android.js` allow React Native to automatically select the correct implementation based on the platform where the application is running. When you import a module with these specific extensions, the packager detects the operating system and loads the file that matches the target platform. This mechanism enables developers to maintain separate logic or UI components for iOS and Android within the same codebase while keeping imports clean and simple.
 
 Visit the following resources to learn more:
 

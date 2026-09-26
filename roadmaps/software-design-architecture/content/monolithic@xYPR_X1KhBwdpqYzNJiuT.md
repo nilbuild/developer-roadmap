@@ -1,8 +1,6 @@
 # Monolithic
 
-In software architecture, monolithic architecture is a design approach in which a software system is built as a single, integrated, and self-contained unit. In a monolithic architecture, all the components of the system are tightly coupled and depend on each other. This means that changes in one part of the system may affect other parts of the system.
-
-A monolithic architecture is often used for small to medium-sized systems, where the complexity of the system is manageable and the need for scalability and flexibility is not as high. In a monolithic architecture, the entire system is typically built, deployed, and executed as a single unit, which can make it easier to understand and manage the system.
+A monolithic architecture builds an application as a single, unified codebase where all components, such as the user interface, business logic, and data access, run as one deployable unit. This simplifies development and deployment early on, since there is only one artifact to build and run. As the application grows, a monolith can become harder to maintain and scale, since a change in one part often requires redeploying the entire system.
 
 Visit the following resources to learn more:
 

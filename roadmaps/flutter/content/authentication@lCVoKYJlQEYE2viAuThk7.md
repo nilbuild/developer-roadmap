@@ -5,4 +5,3 @@ Firebase Authentication is a service provided by Firebase that allows you to eas
 Visit the following resources to learn more:
 
 - [@official@Make Authenticated Requests](https://docs.flutter.dev/cookbook/networking/authenticated-requests)
-- [@feed@Explore top posts about Authentication](https://app.daily.dev/tags/authentication?ref=roadmapsh)

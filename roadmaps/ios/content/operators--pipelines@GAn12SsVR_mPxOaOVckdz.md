@@ -1,5 +1,5 @@
 # Operators & Pipelines
- 
+
 Combine operators transform, filter, and combine publishers into processing pipelines. Common operators include map, filter, flatMap, combineLatest, merge, and debounce. Chaining operators between a publisher and a subscriber creates a declarative pipeline that expresses complex asynchronous logic in a readable way.
 
 Visit the following resources to learn more:

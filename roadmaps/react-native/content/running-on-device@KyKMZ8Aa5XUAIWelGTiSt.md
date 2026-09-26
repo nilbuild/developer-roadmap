@@ -1,6 +1,6 @@
 # Running on Device
 
-It's always a good idea to test your app on an actual device before releasing it to your users.
+Running your React Native application on a physical device allows you to test your code in a real-world environment, providing a more accurate representation of performance, touch interactions, and hardware integration compared to an emulator or simulator. To achieve this, you connect your mobile device to your development machine via USB or a local Wi-Fi network and use tools like Metro Bundler to transmit the application bundle directly to the device. This process enables developers to utilize features like Fast Refresh to see code changes instantly on their phone screen, ensuring that the user experience remains consistent across different hardware configurations.
 
 Visit the following resources to learn more:
 

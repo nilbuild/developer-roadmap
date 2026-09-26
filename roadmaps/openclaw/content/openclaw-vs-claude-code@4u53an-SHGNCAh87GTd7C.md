@@ -5,5 +5,5 @@ Claude Code is Anthropic's official CLI tool for AI-assisted coding, tightly int
 Visit the following resources to learn more:
 
 - [@official@Open Claw vs Claude Code](https://docs.openclaw.ai/help/faq#what-are-the-advantages-vs-claude-code-for-web-development)
-- [@article@OpenClaw vs Claude explained simply in 8 minutes](https://www.mindstudio.ai/blog/what-is-openclaw-ai-agent)
+- [@article@OpenClaw vs. Claude Code: Which AI agent fits your workflow?](https://roadmap.sh/openclaw/vs-claude-code)
 - [@video@OpenClaw vs Claude explained simply in 8 minutes](https://www.youtube.com/watch?v=b773XfpS7fw)

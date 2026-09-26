@@ -1,3 +1,3 @@
 # Monochrome Version
 
-A monochrome version of your logo that looks good on top of photography or when it’s printed with a poor quality printer.
+A monochrome version of a logo is a single-color variant used in contexts where the full-color logo doesn't work, such as on colored backgrounds, in print, or in low-contrast situations. It typically comes in both black and white variants to cover light and dark backgrounds. Design systems document exact usage rules for when to use the monochrome version instead of the primary logo.

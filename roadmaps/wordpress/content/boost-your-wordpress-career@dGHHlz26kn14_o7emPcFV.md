@@ -8,5 +8,3 @@ Visit the following resources to learn more:
 - [@article@Unlock a Promising Future: A Comprehensive Guide to a WordPress Developer Career](https://teamcubate.com/blogs/wordpress-developer-career)
 - [@article@How to use WordPress: A complete guide to building a WordPress website](https://www.hostinger.com/tutorials/how-to-use-wordpress)
 - [@article@A WordPress Tutorial for Beginners: Create Your First Site in 10 Steps](https://wpmudev.com/blog/a-wordpress-tutorial-for-beginners-create-your-first-site-in-10-steps/)
-- [@article@36 Best WordPress Blogs You Should Read & Follow (in 2025)](https://www.wpbeginner.com/showcase/best-wordpress-blogs-to-follow/)
-- [@article@9+ Best WordPress Podcasts You Should Listen To](https://metabox.io/best-wordpress-podcasts/)

@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Introduction to Unit Testing](https://docs.flutter.dev/cookbook/testing/unit/introduction)
 - [@official@Unit Tests - Flutter](https://docs.flutter.dev/testing#unit-tests)
-- [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)

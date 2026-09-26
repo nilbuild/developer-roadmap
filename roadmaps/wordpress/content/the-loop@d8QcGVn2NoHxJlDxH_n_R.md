@@ -5,7 +5,6 @@ The Loop in WordPress is essentially a PHP code structure that fetches and displ
 Visit the following resources to learn more:
 
 - [@official@The Loop](https://developer.wordpress.org/themes/classic-themes/basics/the-loop/)
-- [@article@The Loop](https://codex.wordpress.org/The_Loop)
 - [@article@WordPress Loop complete guide: everything you need to know](https://kinsta.com/blog/wordpress-loop/)
 - [@video@The Loop](https://www.youtube.com/watch?v=jMI9oYI4ySk)
 - [@video@Mastering the WordPress Loop - Complete Tutorial](https://www.youtube.com/watch?v=-XOBJm2SObQ)

@@ -1,3 +1,3 @@
 # Roadmap
 
-Setting your short and long term vision and mapping things out helps you decide the steps to take, understand your place in the bigger picture and prioritise day-to-day tasks.
+A roadmap, in project management terms, is a high-level plan that outlines what a design system team intends to build or improve over a given period, such as new components or major token changes. It helps set expectations with consuming teams about what's coming and in what order. Roadmaps are typically reviewed and adjusted regularly as priorities shift based on feedback and adoption needs.

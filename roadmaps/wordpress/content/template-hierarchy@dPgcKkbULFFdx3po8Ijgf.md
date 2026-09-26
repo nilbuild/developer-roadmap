@@ -7,5 +7,4 @@ Visit the following resources to learn more:
 - [@official@Template Hierarchy](https://developer.wordpress.org/themes/classic-themes/basics/template-hierarchy/)
 - [@article@A Guide to the WordPress Template Hierarchy](https://kinsta.com/blog/wordpress-template-hierarchy/)
 - [@article@Template hierarchy](https://www.hostinger.com/ca/tutorials/wordpress-template-hierarchy)
-- [@video@Template Hierarchy](https://www.youtube.com/watch?v=sDWvuYzeW4E)
 - [@video@A Guide to the WordPress Template Hierarchy (2021 Edition)](https://www.youtube.com/watch?v=ssqyrXoH7LI)

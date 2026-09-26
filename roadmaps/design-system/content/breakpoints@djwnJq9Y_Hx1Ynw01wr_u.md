@@ -1,3 +1,3 @@
 # Breakpoints
 
-Predefine the screen sizes and orientations your grid will adapt to.
+Breakpoints are the specific screen width values at which a layout changes to adapt to different device sizes, such as switching from a single column on mobile to multiple columns on desktop. Design systems define a standard set of breakpoints so that every component and page responds consistently at the same screen widths. Common breakpoint categories include mobile, tablet, and desktop.

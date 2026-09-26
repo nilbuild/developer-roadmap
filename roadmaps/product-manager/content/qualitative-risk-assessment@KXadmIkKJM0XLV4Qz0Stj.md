@@ -1,6 +1,6 @@
-# Qualitative Risk Assessment 
+# Qualitative Risk Assessment
 
-Qualitative Risk Assessment is a crucial aspect of a Product Manager's role. It involves evaluating potential risks according to their likelihood and potential impact, rather than using exact numerical measurements. This subjective assessment aids in prioritizing risks that could impact product development and helps implement necessary mitigation strategies. Product Managers need a profound understanding of qualitative risk assessment to successfully navigate the complexities of product management, ensuring the product's success while considering all possible risk factors.
+Qualitative risk assessment evaluates risks using descriptive categories like high, medium, and low for both likelihood and impact. It is faster and requires less data than quantitative methods, making it useful in early stages or when numerical estimates are not available. Results are often displayed in a probability-impact matrix.
 
 Visit the following resources to learn more:
 

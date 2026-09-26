@@ -1,6 +1,6 @@
 # Showing Impact
 
-As a Product Manager, one of the essential skills to possess is the ability to demonstrate the impact of the product in the market or to the organization. It involves quantifying and presenting the value and success created by the product through metrics such as sales, customer adoption, or even impact on brand, customer satisfaction, or social responsibility. Showing impact is not just about reporting success, it's also a valuable tool for securing resources, influencing stakeholders, shaping strategy, and fostering a performance-driven culture within the team and company. To effectively show impact, a Product Manager needs a deep understanding of the business model, the market, and the key performance indicators that actually matter to the organization and stakeholders.
+Showing impact means communicating the results of product work in terms that matter to the audience, whether that is user outcomes, revenue, cost savings, or strategic positioning. It requires connecting product decisions to measurable changes and presenting evidence clearly. Teams that show impact regularly build credibility with stakeholders.
 
 Visit the following resources to learn more:
 

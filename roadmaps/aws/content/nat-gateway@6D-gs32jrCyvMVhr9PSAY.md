@@ -1,6 +1,6 @@
 # NAT Gateway
 
-AWS NAT Gateway is a managed service that provides source Network Address Translation (NAT) for instances in a private subnet so they can access the internet securely. It's designed to operate automatically, handling bandwidth scaling, failover, and managing carrier IP addresses. With NAT Gateway, instances within a VPC can access the internet for software updates, patches, etc, but inbound traffic from the internet is prevented, helping maintain the security and privacy of the private subnet. NAT Gateway is redundant within the Availability Zone, providing high availability. It supports TCP, UDP, and ICMP protocols, as well as Port Address Translation (PAT).
+A NAT Gateway allows resources in a private subnet to initiate outbound connections to the internet without being directly reachable from it. It is placed in a public subnet and translates the private IP addresses of outgoing traffic to its own public IP. NAT Gateways are managed by AWS and scale automatically.
 
 Visit the following resources to learn more:
 

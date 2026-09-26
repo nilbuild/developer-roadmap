@@ -5,4 +5,5 @@ In addition to normal HTTP requests, you can connect to servers using WebSockets
 Visit the following resources to learn more:
 
 - [@official@Work with WebSockets](https://docs.flutter.dev/cookbook/networking/web-sockets)
+- [@article@WebSocket vs HTTP: Which Protocol Should You Use?](https://roadmap.sh/network-engineer/websocket-vs-http)
 - [@article@What is WebSocket and How It Works?](https://www.wallarm.com/what/a-simple-explanation-of-what-a-websocket-is)

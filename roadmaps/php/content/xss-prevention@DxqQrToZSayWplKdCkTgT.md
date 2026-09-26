@@ -1,13 +1,6 @@
 # XSS Prevention
-
-Cross Site Scripting, often known as XSS, is a glaring risk in web security, and PHP also must address it. It occurs when someone is able to insert dangerous code into your site, which can then be executed by users. To prevent XSS in PHP, developers should deploy `htmlspecialchars()` function to escape potentially harmful characters. This function converts special characters to their HTML entities, reducing risk. For instance, '<' becomes '<'.
-
-Sample PHP code to implement this:
-
-    $secure_text = htmlspecialchars($raw_text, ENT_QUOTES, 'UTF-8');
-    
-
-In this code, `$raw_text` contains user input that might be risky. By using `htmlspecialchars()`, `$secure_text` will now hold a sanitized version of the user input.
+ 
+Cross-Site Scripting (XSS) occurs when untrusted data is rendered in the browser as executable script. The primary defense in PHP is escaping output with `htmlspecialchars()` when rendering user-supplied content in HTML. Content Security Policy headers provide an additional layer of protection at the browser level.
 
 Visit the following resources to learn more:
 

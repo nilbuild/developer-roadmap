@@ -6,4 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Using secrets in GitHub Actions](https://docs.github.com/en/actions/security-for-github-actions/security-guides/using-secrets-in-github-actions)
 - [@official@Store information in variables](https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/store-information-in-variables)
+- [@course@CI/CD Secret Exposure: Hands-on Exercise](https://ransomleak.com/exercises/cicd-secret-exposure/)
 - [@video@Secrets and Environment Variables in your GitHub Action](https://www.youtube.com/watch?v=dPLPSaFqJmY)

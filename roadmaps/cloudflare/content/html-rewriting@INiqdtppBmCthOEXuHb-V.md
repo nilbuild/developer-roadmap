@@ -1,13 +1,6 @@
 # HTML Rewriting
-
-HTML rewriting with Cloudflare Workers enables you to modify HTML content on the fly. You can use Workers to parse HTML, manipulate elements, and inject new content. Common use cases include:
-
-- A/B testing: Dynamically changing content for different users.
-- Personalization: Tailoring the HTML based on user characteristics.
-- Content injection: Adding analytics scripts or ads.
-- Security enhancements: Removing potentially harmful code.
-
-HTML rewriting allows you to customize the user experience and optimize your website without modifying the origin server.
+ 
+The HTMLRewriter API allows Workers to parse and modify HTML responses in a streaming fashion. It uses a CSS-selector-based interface to attach handlers to elements, enabling modifications like injecting scripts, replacing content, or removing nodes without buffering the full response.
 
 Visit the following resources to learn more:
 

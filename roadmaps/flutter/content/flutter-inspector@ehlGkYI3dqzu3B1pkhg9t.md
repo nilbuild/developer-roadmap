@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Using the Flutter Inspector](https://docs.flutter.dev/development/tools/devtools/inspector)
 - [@video@How to Use the Flutter Inspector](https://www.youtube.com/watch?v=CcLfGJZS8ns)
-- [@feed@Explore top posts about Flutter](https://app.daily.dev/tags/flutter?ref=roadmapsh)

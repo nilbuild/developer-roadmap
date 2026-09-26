@@ -1,14 +1,6 @@
-# Setup Development Environment
+# Development Environment
 
-To set up a development environment for Flutter, you need to install the following software:
-
-*   Flutter SDK: Download and install the latest version of the Flutter SDK from the official website.
-*   Integrated Development Environment (IDE): You can use Android Studio, Visual Studio Code, IntelliJ IDEA or any other IDE of your choice.
-*   Emulator or a physical device: You can use an emulator or a physical device to run and test your Flutter apps. You can use the Android emulator provided by Android Studio or use a physical Android or iOS device.
-*   Git: Git is used for version control and is recommended for Flutter development. You can download and install Git.
-*   Dart SDK: Dart is the programming language used by Flutter, and the Dart SDK is required to develop Flutter apps. The Dart SDK is included in the Flutter SDK.
-
-Once you have installed all the required software, you can create a new Flutter project using the Flutter CLI or your IDE, and start building your app.
+The development environment consists of the collection of software tools, editors, and SDKs required to build, compile, and run applications. It typically includes the Flutter SDK, which provides the framework's core libraries and command-line tools, paired with a code editor like VS Code or Android Studio. These components work together to provide features such as code completion, real-time error checking, and integrated debugging to facilitate the translation of source code into functional software.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # Heap
 
-A heap is a type of data structure in computer science that is like a tree, where each parent node is always bigger (in a max heap) or smaller (in a min heap) than its child nodes.
+A heap is a complete binary tree that satisfies the heap property: in a max-heap, every parent node is greater than or equal to its children; in a min-heap, every parent is less than or equal to its children. The top element is always the maximum or minimum, enabling O(1) access to the extreme value. Heaps are commonly used to implement priority queues and heap sort.
 
 Visit the following resources to learn more:
 

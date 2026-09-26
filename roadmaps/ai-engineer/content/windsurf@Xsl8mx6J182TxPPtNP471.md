@@ -1,9 +1,9 @@
-# Windsurf
+# Devin
 
-Windsurf is a tool specifically designed to enhance code navigation and understanding within large codebases. It leverages AI to provide intelligent code search, relationship discovery between different code elements, and code completion suggestions that are contextually aware. It's intended to reduce the time developers spend exploring and understanding code, enabling them to write more efficient and accurate code.
+Devin is an autonomous AI software engineer capable of handling entire development projects from start to finish. It functions by planning, writing, debugging, and deploying code through a simulated environment that mirrors a human developer’s workflow. Originally developed by Cognition, this tool—formerly known as Windsurf—integrates directly into the development process to execute complex tasks, manage terminal commands, and navigate browser-based documentation independently.
 
 Visit the following resources to learn more:
 
-- [@official@Windsurf Docs](https://docs.windsurf.com/windsurf/getting-started)
-- [@video@Windsurf Tutorial for Beginners (AI Code Editor) - Better than Cursor??](https://www.youtube.com/watch?v=8TcWGk1DJVs)
-- [@video@Windsurf AI Tutorial for Beginners](https://www.youtube.com/watch?v=x1VCmB__TDo)
+- [@official@Devin Docs](https://docs.devin.ai/get-started/devin-intro)
+- [@video@Devin AI Is the Future of Coding… Full Tutorial](https://www.youtube.com/watch?v=GFlFABWeqDc)
+- [@video@Devin AI Tutorial - 2026 | How to Use Devin AI? (Step-by-step Guide)](https://www.youtube.com/watch?v=X533xEtOEDo)

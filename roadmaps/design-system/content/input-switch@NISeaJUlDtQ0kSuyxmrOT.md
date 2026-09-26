@@ -1,8 +1,3 @@
 # Input Switch
 
-Input switches toggle the state of a single item. Compared to the input checkbox, their changes usually apply without any additional submission.
-
-- **Checked State:** Used when an input switch is turned on. It’s better to provide an additional way to indicate the checked state besides changing its colour when applicable.
-- **Disabled State:** Prevents interacting with an input switch.
-- **Label:** There should be a text label linked with the switch field. Clicking the label should also trigger the input selection.
-- **Keyboard State:** A switch selection should be triggered when the Space key is pressed.
+An input switch, also called a toggle, lets users turn a single setting on or off, typically represented as a sliding control rather than a checkbox. It's commonly used for binary settings, like enabling notifications, where the on and off states have a clear, immediate effect. Switches usually include a visual and sometimes textual indicator of the current state.

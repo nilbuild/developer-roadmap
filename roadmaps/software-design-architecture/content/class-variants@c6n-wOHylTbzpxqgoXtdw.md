@@ -1,8 +1,6 @@
-# Class Invariants
+# Class Variants
 
-A class invariant is a set of conditions that must be true for any object of a class, at any point in time. In object-oriented programming (OOP), class invariants are used to define the valid states of an object and to ensure that the object always remains in a valid state.
-
-Class invariants are typically defined in the constructor of a class and are enforced through the use of private methods and data members that are used to validate the state of the object. They are also checked in the class's methods before and after any operation that can change the state of the object.
+Class variants are a conceptual approach within object-oriented design used to represent different forms or specialized versions of an entity while maintaining a shared core identity. This technique involves defining a base structure that establishes common attributes and behaviors, which are then extended or modified to support specific functional requirements or domain constraints. By organizing classes into hierarchies or specific groupings based on these variations, developers can manage complexity and ensure that the system remains modular as new types of objects are introduced.
 
 Visit the following resources to learn more:
 

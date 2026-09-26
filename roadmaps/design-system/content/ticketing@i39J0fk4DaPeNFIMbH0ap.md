@@ -1,3 +1,3 @@
 # Ticketing
 
-Make it easier to track your day-to-day progress by using ticketing software like Jira, Trello or GitHub. This’ll make it easier for others to submit feature proposals or bug reports.
+Ticketing refers to the system used to track individual tasks, bugs, and feature requests related to a design system, typically using tools like Jira or Linear. Each ticket captures a specific piece of work, such as adding a new component variant or fixing an accessibility issue, along with its status and assignee. A well-maintained ticketing system gives the team and stakeholders visibility into what's currently being worked on.

@@ -1,6 +1,6 @@
 # Code Execution / REPL
 
-Code Execution or REPL (Read-Eval-Print Loop) lets an AI agent run small pieces of code on demand, see the result right away, and use that result to decide what to do next. The agent “reads” the code, “evaluates” it in a safe sandbox, “prints” the output, and then loops back for more input. With this tool the agent can test ideas, perform math, transform text, call APIs, or inspect data without waiting for a full build or deployment. Python, JavaScript, or even shell commands are common choices because they start fast and have many libraries. Quick feedback helps the agent catch errors early and refine its plan step by step. Sandboxing keeps the host system safe by blocking dangerous actions such as deleting files or making forbidden network calls. Overall, a Code Execution / REPL tool gives the agent a fast, flexible workbench for problem-solving.
+A code execution or REPL tool lets an agent run code and see the actual result, rather than only generating code as text. This is useful for tasks like calculations, data processing, or verifying that generated code works before presenting it. Giving an agent this tool turns it from something that writes code into something that can test and correct its own output.
 
 Visit the following resources to learn more:
 

@@ -1,5 +1,5 @@
 # Activity
- 
+
 An Activity represents a single screen in an Android app with a user interface. Apps are typically made up of multiple activities that users navigate between. Activities have a lifecycle managed by the operating system, and handling that lifecycle correctly is essential for building stable apps.
 
 Visit the following resources to learn more:

@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@official@Python Official Documentation on Iterators](https://docs.python.org/3/tutorial/classes.html#iterators)
 - [@article@Python Iterators](https://www.programiz.com/python-programming/iterator)
 - [@article@Iterators and Iterables in Python](https://realpython.com/python-iterators-iterables/)
+- [@article@Master Python Filter: Syntax, Examples, and Best Practices](https://roadmap.sh/python/filter)

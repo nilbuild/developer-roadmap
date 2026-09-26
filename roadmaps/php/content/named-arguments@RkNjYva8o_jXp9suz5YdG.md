@@ -1,12 +1,6 @@
 # Named Arguments
-
-Named arguments in PHP, introduced with PHP 8.0, allow you to specify the values of required parameters by their names, instead of their position in the function call, thus making your code more readable, reducing mistakes, and allowing for unimportant arguments to be skipped. Here's an array\_fill() function using named arguments:
-
-    <?php
-    $a = array_fill(start_index: 0, count: 100, value: 50);
-    
-
-In this code snippet, the parameters are passed by their names ('start\_index', 'count', 'value'), not by their order in the function definition.
+ 
+Named arguments let you pass values to a function by specifying the parameter name explicitly, like `str_pad(string: 'hello', length: 10)`. This removes the need to follow positional order and makes call sites easier to read. Named arguments can be combined with positional ones in the same call.
 
 Visit the following resources to learn more:
 

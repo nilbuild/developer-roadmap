@@ -1,0 +1,3 @@
+# Website Architecture
+ 
+Website architecture is how a site's pages are organized and connected to each other, forming a structure that both users and crawlers use to navigate and understand the site. It covers folder and URL structure, how deep pages sit within the hierarchy, internal linking between pages, whether content is written in a way machines can parse, and the files that guide crawlers on where to go and what to avoid.

@@ -8,3 +8,4 @@ Visit the following resources to learn more:
 - [@opensource@OWASP Application Security Verification Standard](https://github.com/OWASP/ASVS)
 - [@article@OWASP Top 10 Security Risks](https://cheatsheetseries.owasp.org/IndexTopTen.html)
 - [@article@OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
+- [@course@OWASP Top 10: Exploit-then-Fix Labs](https://ransomleak.com/catalogue/application-security/)

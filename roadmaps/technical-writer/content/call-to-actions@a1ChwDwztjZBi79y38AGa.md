@@ -1,5 +1,3 @@
 # Call to Actions
 
-## Call-to-Actions (CTAs)
-
-Call-to-Actions are critical components in technical writing. They primarily direct readers toward performing specific tasks or activities. Often used in manuals, guidelines, procedures, and any instructive materials, they make the content actionable. CTAs can take several forms such as, "*Click here*", "*Submit a request*", or "*Download now*". They should be concise, clear, and direct. Incorporating compelling verbs can make the CTA more effective. Always remember to place CTAs where readers can easily see them, and it's recommended to use a contrasting color, if possible, for a standalone CTA button to make it more noticeable.
+A call to action (CTA) in documentation directs the reader to a next step, whether that is reading a related guide, trying a feature, or contacting support. CTAs help users move through a documentation system without getting stuck. They are especially useful at the end of tutorials or conceptual articles.

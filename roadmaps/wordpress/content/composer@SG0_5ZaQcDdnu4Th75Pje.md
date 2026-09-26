@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@Managing Your WordPress Site With Git and Composer](https://deliciousbrains.com/storing-wordpress-in-git/)
 - [@article@Using Composer With WordPress](https://www.smashingmagazine.com/2019/03/composer-wordpress/)
 - [@video@Using Composer with WordPress](https://www.youtube.com/watch?v=_X82sj464NI)
-- [@video@Introduction To Advanced WordPress Plugin Development | Course | Composer | Webpack | Tailwind](https://www.youtube.com/watch?v=o3a6sT8qikk&list=PLD8nQCAhR3tTjCulq0Fw3wZxIoN1wVOaV)

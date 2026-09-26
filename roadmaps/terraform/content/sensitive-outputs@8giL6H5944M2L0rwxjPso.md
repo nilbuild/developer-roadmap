@@ -1,16 +1,6 @@
 # Sensitive Outputs
 
-Terraform sensitive outputs are a feature used to protect sensitive information in Terraform configurations. When an output is marked as sensitive, Terraform obscures its value in the console output, displaying it as `<sensitive>` instead of the actual value. This is crucial for protecting sensitive data like passwords or API keys.
-
-To mark an output as sensitive, use the sensitive argument in the output block:
-
-    output "database_password" {
-      value     = aws_db_instance.example.password
-      sensitive = true
-    }
-    
-
-Sensitive outputs are still accessible programmatically and are written to the state in clear text, but their values are hidden in logs and the console to prevent accidental exposure. This feature helps maintain security when sharing Terraform configurations or outputs with team members or in CI/CD pipelines.
+Marking an output as sensitive tells Terraform to redact its value from CLI output and logs. The value is still stored in state and can be accessed programmatically. This is commonly used for passwords, tokens, and other secrets that should not appear in plain text in terminal output.
 
 Visit the following resources to learn more:
 

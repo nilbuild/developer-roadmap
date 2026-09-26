@@ -1,5 +1,5 @@
 # Git
- 
+
 Git is a distributed version control system that tracks changes to files and lets multiple people collaborate on the same codebase. It works by creating commits, which are snapshots of the project at a point in time, and branches, which let people work on separate features in parallel. Almost every modern software and ML project uses Git to manage its code.
 
 Visit the following resources to learn more:

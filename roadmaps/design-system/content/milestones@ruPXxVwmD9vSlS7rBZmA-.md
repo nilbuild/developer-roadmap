@@ -1,3 +1,3 @@
 # Milestones
 
-Define milestones that act as bigger epics in your project management with the help of your roadmap. These will help you understand your progress.
+Milestones are specific checkpoints within a design system's roadmap that mark the completion of a significant piece of work, such as shipping a new component library version or completing an accessibility audit. They break a larger roadmap into measurable stages, making it easier to track progress over time. Milestones are often tied to specific dates or releases to create accountability.

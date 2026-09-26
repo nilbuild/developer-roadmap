@@ -1,6 +1,6 @@
 # Parallelism
 
-Terraform parallelism refers to its ability to create, modify, or destroy multiple resources concurrently. By default, Terraform performs operations on up to 10 resource instances simultaneously. This parallel execution can significantly reduce the time required for applying large configurations. The level of parallelism can be adjusted using the `-parallelism` flag in Terraform commands or through configuration settings. Increasing parallelism can speed up operations, especially in large infrastructures, but may also increase load on the API endpoints of cloud providers. It's important to balance parallelism with API rate limits and resource dependencies. Some resources or providers may not support parallel operations, and Terraform automatically serializes these. Effective use of parallelism requires understanding resource dependencies and provider capabilities to optimize performance without causing errors or exceeding service limits.
+Terraform applies resource changes in parallel by default, up to a configurable limit controlled by the `-parallelism` flag. Increasing parallelism can speed up large deployments but may hit API rate limits. Lowering it can reduce throttling errors when working with providers that enforce strict rate limits.
 
 Visit the following resources to learn more:
 

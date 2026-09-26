@@ -4,5 +4,5 @@ Server Functions are asynchronous functions that are executed on the server. The
 
 Visit the following resources to learn more:
 
-- [@official@What are Server Functions?](https://nextjs.org/docs/app/getting-started/updating-data)
+- [@official@ServerActions](https://nextjs.org/docs/app/api-reference/config/next-config-js/serverActions)
 - [@video@Next.js Server Actions](https://www.youtube.com/watch?v=gQ2bVQPFS4U)

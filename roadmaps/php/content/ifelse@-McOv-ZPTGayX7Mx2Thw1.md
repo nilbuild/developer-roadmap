@@ -1,16 +1,6 @@
 # if/else
-
-In PHP, the if/else conditional statements are fundamental components that control the flow of the program based on specific conditions. When the 'if' condition is true, a block of code will execute. If that condition is not met (or false), the program proceeds to the 'else' statement (if provided), executing its block of code. This allows you to handle different situations dynamically. A simple example of this concept in action would be:
-
-    $number = 10;
-    if ($number > 5) {
-        echo "The number is greater than 5";
-    } else {
-        echo "The number is not greater than 5";
-    }
-    
-
-In this example, the output will be "The number is greater than 5" because the condition evaluated to true.
+ 
+The `if/else` structure executes a block of code when a condition is true and a different block when it is false. `elseif` adds additional conditions to check in sequence. PHP also supports a shorthand `if` using the ternary operator (`? :`).
 
 Visit the following resources to learn more:
 

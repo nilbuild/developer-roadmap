@@ -4,5 +4,4 @@ Pilots are one of the best ways to put your design system through its paces, esp
 
 Visit the following resources to learn more:
 
-- [@official@Design Systems: Pilots & Scorecards](https://danmall.com/posts/design-systems-pilots-scorecards/)
 - [@article@How to run a design system pilot](https://university.obvious.in/product-design/design-system/how-to-run-a-design-system-pilot)

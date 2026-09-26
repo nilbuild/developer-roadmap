@@ -1,6 +1,6 @@
 # TRIZ (Theory of Inventive Problem Solving) in Product Management
 
-TRIZ is a problem-solving, analysis and forecasting tool derived from the study of patterns of invention in the global patent literature. In the realm of product management, TRIZ aids Product Managers to ideate innovative solutions, accelerate product development, solve complex problems and predict future technology trends. Understanding and applying TRIZ principles can empower Product Managers to overcome cognitive biases, break away from traditional patterns of thinking, and improve ideation and product innovation by providing systematic approaches and methodologies.
+TRIZ is a systematic innovation methodology developed by Genrich Altshuller based on patterns found in patents across industries. It provides tools for resolving contradictions in engineering and product design, such as when increasing one attribute worsens another. Product teams use TRIZ to find non-obvious solutions to complex design and technical trade-offs.
 
 Visit the following resources to learn more:
 

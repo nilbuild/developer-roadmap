@@ -1,6 +1,6 @@
 # Contract Testing
 
-Terraform contract testing focuses on verifying the interfaces and interactions between different modules or components of your infrastructure code. This approach ensures that modules work correctly together and adhere to expected input/output contracts. Contract tests typically validate that a module accepts the correct input variables, produces the expected outputs, and creates resources with the right attributes. They often involve setting up test fixtures with mock data or minimal real infrastructure. The goal is to catch integration issues early, such as mismatched variable types or unexpected resource configurations. Contract testing helps maintain consistency across module versions and ensures that changes to one module don't break dependent modules. This type of testing is particularly valuable in large, modular Terraform projects where multiple teams may be working on different components of the infrastructure.
+Contract testing verifies that the inputs and outputs of a module conform to a defined interface. It ensures that a module behaves predictably when called with specific values and that its outputs meet the expectations of callers. This is useful when modules are shared across multiple teams or projects.
 
 Visit the following resources to learn more:
 

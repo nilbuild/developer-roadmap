@@ -1,18 +1,6 @@
 # Reading Files
-
-Reading files is a common task in PHP and it provides a range of functions for this purpose. You can use the `fopen()` function with the 'r' mode to open a file for reading. The `fgets()` function lets you read a file line by line, while `fread()` reads a specified number of bytes. For reading the entire file in one go, use `file_get_contents()`. Remember to always close the file after you're done with `fclose()`.
-
-Here's a small example using `fgets()`:
-
-    $file = fopen("example.txt", "r"); 
-    if ($file) {
-        while (($line = fgets($file)) !== false) {
-            echo $line;
-        }
-        fclose($file);
-    } else {
-        echo 'Error opening file';
-    }
+ 
+PHP reads file contents using functions like `file_get_contents()` for reading the entire file as a string, and `fopen()` with `fread()` for reading in chunks. `file()` reads a file into an array of lines. File reading is used for logs, configuration files, uploads, and data imports.
 
 Visit the following resources to learn more:
 

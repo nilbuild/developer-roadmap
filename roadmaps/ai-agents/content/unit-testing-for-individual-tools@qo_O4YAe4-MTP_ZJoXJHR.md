@@ -4,6 +4,5 @@ Unit testing checks that each tool an AI agent uses works as expected when it st
 
 Visit the following resources to learn more:
 
-- [@article@Unit Testing Agents](https://docs.patronus.ai/docs/agent_evals/unit_testing)
 - [@article@Best AI Tools for Unit Testing: A Look at Top 14 AI Tools](https://thetrendchaser.com/best-ai-tools-for-unit-testing/)
 - [@article@AI for Unit Testing: Revolutionizing Developer Productivity](https://www.diffblue.com/resources/ai-for-unit-testing-revolutionizing-developer-productivity/)

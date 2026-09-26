@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Terraform Website](https://www.terraform.io/)
 - [@official@Terraform Documentation](https://developer.hashicorp.com/terraform)
-- [@video@Terraform for Beginners](https://www.youtube.com/watch?v=SLB_c_ayRMo)
 - [@article@Terraform Backend: How it Works and How to Configure it](https://roadmap.sh/terraform/backend)
+- [@video@Terraform for Beginners](https://www.youtube.com/watch?v=SLB_c_ayRMo)

@@ -1,6 +1,6 @@
 # Joints
 
-Joints in game development primarily refer to the connections between two objects, often used in the context of physics simulations and character animations. These might simulate the physics of real-world joints like hinges or springs. Developers can control various characteristics of joints such as their constraints, forces, and reactions. The different types come with various properties suitable for specific needs. For example, Fixed joints keep objects together, Hinge joints allow rotation around an axis, and Spring joints apply a force to keep objects apart.
+Joints, also called constraints, connect two rigid bodies and restrict their relative motion to a defined set of degrees of freedom. Common joint types include hinge joints that allow rotation around one axis, ball-and-socket joints that allow rotation in all directions, and slider joints that allow linear movement along an axis. Joints are used for ragdolls, vehicle suspensions, doors, and mechanical assemblies.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # Artificial Neutral Network
 
-Artificial Neural Networks (ANN) are a branch of machine learning that draw inspiration from biological neural networks. ANNs are capable of 'learning' from observational data, thereby enhancing game development in numerous ways. They consist of interconnected layers of nodes, or artificial neurons, that process information through their interconnected network. Each node's connection has numerical weight that gets adjusted during learning, which helps in optimizing problem solving. ANNs are utilized in various aspects of game development, such as improving AI behavior, procedural content generation, and game testing. They can also be used for image recognition tasks, such as identifying objects or actions in a game environment.
+An artificial neural network (ANN) is a computational model loosely inspired by biological neurons, consisting of layers of interconnected units that process input signals and produce outputs. Neural networks are trained by adjusting weights through backpropagation to minimize prediction error. In games, ANNs are used as policy functions in RL agents, behavior classifiers, and procedural generation systems.
 
 Visit the following resources to learn more:
 

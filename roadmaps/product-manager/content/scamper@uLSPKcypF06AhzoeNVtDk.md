@@ -1,6 +1,6 @@
 # SCAMPER
 
-SCAMPER is a powerful and dynamic brainstorming tool widely recognized in the area of Product Management. As a mnemonic acronym, it represents seven techniques to assist Product Managers: Substitute, Combine, Adapt, Modify/Magnify, Put to other uses, Eliminate and Reverse. It provides a structured method to challenge the status quo, encourage divergent thinking, and generate innovative product ideas. SCAMPER serves as a strategic tool, enabling Product Managers to analyze their current product portfolio, identify improvement areas, conceive new product features or entirely new products, ensuring competitive advantage and long-term business success.
+SCAMPER is a brainstorming framework that uses seven prompts to generate new ideas by modifying an existing product or concept: Substitute, Combine, Adapt, Modify, Put to other uses, Eliminate, and Reverse. Each prompt pushes thinkers to approach a problem from a different angle. It works well for incremental innovation and feature ideation.
 
 Visit the following resources to learn more:
 

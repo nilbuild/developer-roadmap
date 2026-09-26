@@ -1,6 +1,6 @@
 # Go
 
-Go is an open source programming language supported by Google. Go can be used to write cloud services, CLI tools, used for API development, and much more.
+Go is a statically typed, compiled language designed for simplicity and concurrency. It has a small standard library and explicit syntax, which makes it suitable for learners who want to understand how things work without relying on abstractions. Go is increasingly common in backend engineering interviews.
 
 Visit the following resources to learn more:
 

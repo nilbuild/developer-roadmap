@@ -1,6 +1,6 @@
 # Storage Types
 
-AWS RDS offers three types of storage: General Purpose (SSD), Provisioned IOPS (SSD), and Magnetic. General Purpose (SSD) storage delivers a consistent baseline of 3 IOPS/GB and can burst up to 3,000 IOPS. It's suitable for a broad range of database workloads that have moderate I/O requirements. Provisioned IOPS (SSD) storage is designed to meet the needs of I/O-intensive workloads, particularly database workloads that are sensitive to storage performance and consistency. Magnetic storage, the most inexpensive type, is perfect for applications where the lowest storage cost is important and is best for infrequently accessed data.
+RDS supports three storage types. General Purpose SSD (gp2/gp3) is the default for most workloads, balancing cost and performance. Provisioned IOPS SSD is designed for I/O-intensive applications that require consistent, high throughput. Magnetic storage is a legacy option, rarely used for new deployments.
 
 Visit the following resources to learn more:
 

@@ -1,8 +1,6 @@
 # YAGNI
 
-YAGNI (You Ain't Gonna Need It) is a software development principle that suggests that developers should not add functionality to a codebase unless it is immediately necessary. The idea is to avoid creating unnecessary complexity in the codebase by only adding features that are actually needed.
-
-The YAGNI principle is closely related to the Single Responsibility Principle (SRP) and the Open-Closed Principle (OCP), which are part of the SOLID principles. YAGNI aims to keep the codebase as simple as possible by avoiding the creation of unnecessary abstractions and functionality.
+YAGNI, which stands for "You Ain't Gonna Need It," is a principle in software development that suggests programmers should not add functionality until it is actually necessary. It encourages developers to focus only on the requirements at hand rather than attempting to predict future needs that may never arise. By avoiding the implementation of speculative features, the codebase remains simpler, easier to maintain, and less cluttered with unnecessary code.
 
 Visit the following resources to learn more:
 

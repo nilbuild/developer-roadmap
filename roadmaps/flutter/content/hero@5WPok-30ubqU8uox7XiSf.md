@@ -1,6 +1,6 @@
-# Hero
+# Hero Animations
 
-Hero is a widget in Flutter that allows you to create smooth animations between screens or within a single screen, for widgets that are used in multiple places. It animates the transition of a widget from one screen to another or from one position to another within a screen. The widget that is being animated should have a unique tag property so that Flutter can match the source and destination widgets. Hero widgets are used for visual continuity between screens, so when the user navigates from one screen to another, the hero widget smoothly transitions to its new position instead of abruptly appearing or disappearing. This can make the navigation between screens feel more seamless and enjoyable for the user.
+Hero animations in Flutter refer to the motion that occurs when a widget transitions from one screen to another. By wrapping two widgets on different pages with a Hero widget and assigning them the same unique tag, the framework automatically animates the shared element across the screen transition. This creates a seamless visual connection that helps users maintain context as they navigate through the application.
 
 Visit the following resources to learn more:
 

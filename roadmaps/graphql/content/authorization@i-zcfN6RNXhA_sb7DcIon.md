@@ -1,12 +1,6 @@
-# Authorization
+# Authorization in GraphQL Over HTTP
 
-Authorization in GraphQL refers to the process of controlling access to specific fields, types, or operations in a GraphQL schema based on user roles or permissions. It allows you to restrict access to certain data or functionality in your application based on the user's role or permissions.
-
-There are several ways to implement authorization in GraphQL:
-
-*   Using middleware
-*   Using schema directives
-*   Using a data source layer
+Authorization in GraphQL over HTTP determines whether a client has the necessary permissions to access specific data or perform requested operations. This process typically occurs at the resolver level, where the server evaluates the user's identity and roles against the requested fields before returning any information. By implementing authorization checks directly within the business logic or through middleware, developers ensure that sensitive data remains protected regardless of the transport layer used for the request.
 
 Visit the following resources to learn more:
 

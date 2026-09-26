@@ -1,8 +1,9 @@
 # Asynchronous
 
-**Asynchronous programming** is a programming paradigm where the execution of functions or routines does not wait for the activities within them to complete before moving on to subsequent ones. This allows for tasks to be processed independently, making the most of system resources. When a function contains an operation such as I/O, database access, or network communication, which may take a long time to complete, this function is wrapped into a future or promise and sent for execution. Meanwhile, the core program continues to run. When the wrapped function gets executed, a callback function is used to notify that the computation or I/O is complete. This forms the core of non-blocking or asynchronous execution. It is widely used in server-side programming, game development, and any scenario where I/O latency or user experience is a concern. Notably, it is at the core of Node.js and many modern web frameworks.
-# Visit the following resources to learn more:
+Asynchronous programming allows a program to initiate an operation and continue executing other work while waiting for the result. In game servers, asynchronous I/O avoids blocking threads on network or disk operations, increasing the number of concurrent connections a single server can handle.
 
+Visit the following resources to learn more:
+
+- [@official@Asynchronous JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Async_JS)
 - [@article@Asynchronous Programming in Python - Velotio](https://www.velotio.com/engineering-blog/asynchronous-programming-python-an-introduction)
 - [@article@C++ Coroutines for Async Development - Whole Tomato](https://www.wholetomato.com/blog/cpp-coroutines-async-development/)
-- [@official@Asynchronous JavaScript - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Async_JS)

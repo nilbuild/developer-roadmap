@@ -4,8 +4,7 @@ The internal workings of Flutter refer to the underlying mechanisms and architec
 
 Visit the following resources to learn more:
 
-- [@article@Flutter - Internals](https://www.didierboelens.com/2019/09/flutter-internals/)
+- [@official@Inside Flutter](https://docs.flutter.dev/resources/inside-flutter)
 - [@article@Overview of Flutter Internals](https://flutter.megathink.com/)
 - [@article@A Guide To Flutter Internals](https://medium.com/@subroto.2003/a-guide-to-flutter-internals-ce8d64d01c50)
 - [@video@Flutter and Dart | Widget & Flutter Internals](https://www.youtube.com/watch?v=FBXMvOmiOLE)
-- [@feed@Explore top posts about Flutter](https://app.daily.dev/tags/flutter?ref=roadmapsh)

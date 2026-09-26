@@ -1,6 +1,6 @@
 # Backup / Restore
 
-In AWS, DynamoDB has built-in support for data backup and restore features. This includes both on-demand and continuous backups. On-demand backups allow you to create complete backups of your tables for long-term retention and archival, helping meet corporate and governmental regulatory requirements. Continuous backups enable you to restore your table data to any point in time in the last 35 days, thus offering protection from accidental writes or deletes. During a restore operation, you can choose to restore the data to a new DynamoDB table or overwrite data in an existing table. These backups include all necessary metadata, including DynamoDB global secondary indexes.
+DynamoDB supports on-demand backups that create full snapshots of a table at any point in time, stored without affecting table performance. Point-in-time recovery (PITR) lets you restore a table to any second within the last 35 days. Backups are stored in AWS-managed infrastructure and do not count against your table's storage.
 
 Visit the following resources to learn more:
 

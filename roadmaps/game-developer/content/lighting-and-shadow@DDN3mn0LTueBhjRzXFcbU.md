@@ -1,6 +1,6 @@
 # Lighting and Shadow
 
-**Lighting and Shadows** are paramount elements in computer graphics, significantly contributing to the visual realism of a game. They create depth and a sense of a three-dimensional space in a two-dimensional display. **Lighting** in game development mimics real-world light properties. It involves calculating how light interacts with different objects and surfaces based on their material characteristics and the light's intensity, direction, and color. Various algorithms, like Ray Tracing or Rasterization, are used to simulate these interactions. On the other hand, **shadows** are the areas unlit due to the blockage of light by an object. Producing realistic shadows involves complex computations, factoring in the light's position, the blocking object's shape and size, and the affected area's distance. Shadow Mapping and Shadow Volume are common techniques for creating shadows in game development. Special attention to these aspects can dramatically increase the perceived realism and immersion in the game environment.
+Lighting and shadow systems determine how light sources illuminate a scene and how objects block that light to cast shadows. Real-time engines use a combination of dynamic lights, shadow maps, and baked light data to balance visual quality and performance. Shadow techniques include shadow mapping, stencil shadows, and ray-traced shadows.
 
 Visit the following resources to learn more:
 

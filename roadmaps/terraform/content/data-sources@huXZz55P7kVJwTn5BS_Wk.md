@@ -1,6 +1,6 @@
 # Data Sources
 
-Terraform data sources allow retrieval of information from external systems or existing resources for use within Terraform configurations. They provide a way to query and fetch data that can be used in resource definitions, making configurations more dynamic and adaptable. Data sources don't create or manage resources; instead, they read existing data. Common uses include fetching AMI IDs, looking up IP ranges, or retrieving information about existing infrastructure components. Data sources are defined using data blocks in Terraform configuration files and can accept arguments to filter or specify the data being requested. They enable Terraform to integrate with existing infrastructure or external systems, facilitating more flexible and context-aware resource management.
+Data sources allow Terraform to read information from external systems or from resources not managed in the current configuration. A `data` block queries a provider for information at plan time and makes the result available as a reference. Common uses include looking up AMI IDs, VPC details, or DNS zone information.
 
 Visit the following resources to learn more:
 

@@ -1,16 +1,6 @@
 # Best Practices for State
 
-Terraform state best practices focus on security, consistency, and collaboration.
-
-*   Store state files remotely in encrypted, version-controlled backends like S3 or Terraform Cloud to enable team access and enhance security.
-*   Implement state locking to prevent concurrent modifications. Use workspaces or separate state files for different environments.
-*   Regularly back up state files and enable versioning for rollback capabilities.
-*   Avoid storing sensitive data directly in state; instead, use secret management tools.
-*   Keep state files separate from your Terraform configuration in version control.
-*   Utilize state subcommands for maintenance and troubleshooting. Implement access controls to restrict state file access.
-*   Regularly review and clean up unused resources in the state.
-
-These practices help maintain a secure, efficient, and manageable Terraform workflow, especially in team environments and complex infrastructures.
+State should never be stored in version control, as it may contain sensitive values and is not designed for manual editing. Use a remote backend with locking and versioning enabled. Keep state files small by splitting large configurations into smaller modules with independent state, and run `terraform refresh` carefully as it overwrites state with live data.
 
 Visit the following resources to learn more:
 

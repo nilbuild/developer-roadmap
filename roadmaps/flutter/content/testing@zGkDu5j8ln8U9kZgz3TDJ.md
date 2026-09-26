@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Dart Testing](https://dart.dev/guides/testing)
 - [@official@Testing Flutter Apps](https://docs.flutter.dev/testing)
-- [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)

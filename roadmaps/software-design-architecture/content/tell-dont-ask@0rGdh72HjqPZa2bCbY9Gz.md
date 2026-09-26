@@ -1,25 +1,6 @@
-# Tell, Don’t Ask
+# Tell, Don't Ask
 
-The Tell, Don’t Ask principle emphasizes that objects should be told what to do rather than being queried for their state and having decisions made externally. This promotes encapsulation and reduces coupling by keeping logic within the objects that own the data.
-
-Key Concepts
-------------
-
-*   Instead of pulling data out of objects to make decisions, push the behavior into the object itself.
-*   Objects should be responsible for their own logic and state management.
-
-Asking style (bad):
-
-    if (user.profile.isComplete()) {
-        // allow checkout
-    }
-    
-
-Telling style (good):
-
-    if (user.canCheckout()) {
-        // allow checkout
-    }
+Tell, don't ask is a principle that encourages object-oriented design where you tell an object to perform an action rather than asking for its internal state to make decisions yourself. Instead of retrieving data from an object using getter methods to perform logic externally, you encapsulate that logic within the object itself by providing a command or a method. This approach promotes better encapsulation by keeping the internal data hidden and ensuring that the object responsible for the data is also responsible for the behavior associated with it.
 
 Visit the following resources to learn more:
 

@@ -1,5 +1,5 @@
 # Pick a Language
- 
+
 iOS development primarily uses Swift and Objective-C. Swift is Apple's modern recommended language for new projects, while Objective-C is still present in many legacy codebases and system frameworks.
 
 Visit the following resources to learn more:

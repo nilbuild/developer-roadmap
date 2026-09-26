@@ -1,8 +1,6 @@
-# Basics of Threads
+# Threads
 
-A thread in Java is the direction or path that is taken while a program is being executed. Generally, all the programs have at least one thread, known as the main thread, that is provided by the JVM or Java Virtual Machine at the starting of the program’s execution.
-
-Writing correct multi-threaded application is complex and it's an advanced topic. Things like ParallelStreams, thread-safe Collections and ExecutorService can be helpful.
+A thread is the smallest unit of execution within a Java process that allows a program to perform multiple tasks simultaneously. It represents an independent path of execution that shares the same memory space as other threads within the same application. Java manages these threads through the Thread class or by implementing the Runnable interface, enabling developers to execute background operations concurrently without blocking the main application flow.
 
 Visit the following resources to learn more:
 

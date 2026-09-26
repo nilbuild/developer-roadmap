@@ -1,3 +1,3 @@
 # Readability
 
-Optimising the letter spacing (tracking), line height (leading) and line length for your typography scale will help with the readability of text.
+Readability in typography covers the factors that make text easy to read, including font size, line height, line length, and contrast against the background. Design systems set minimum readability standards, such as a maximum number of characters per line or a minimum line height ratio, to prevent overly dense or cramped text. These standards apply across all typography tokens and components that display text.

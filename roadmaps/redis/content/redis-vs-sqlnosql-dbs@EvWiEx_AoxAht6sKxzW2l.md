@@ -1,6 +1,6 @@
 # Redis vs SQL/NoSQL DBs
 
-Redis differs significantly from traditional SQL and NoSQL databases in terms of data model, performance, and use cases. Redis is an in-memory key-value store that supports various data structures like strings, hashes, lists, and sets, allowing for flexible data handling and low-latency access. This makes it ideal for high-speed operations such as caching, real-time analytics, and session management. In contrast, SQL databases use a structured schema with tables and relationships, excelling in complex queries and transactions, while other NoSQL databases may utilize document, graph, or wide-column models to accommodate unstructured or semi-structured data.
+Redis differs from relational databases by offering no query language, no joins, and no schema enforcement. Compared to document stores like MongoDB, Redis is faster but limited to its supported data types. It is best used alongside a primary database rather than as the sole data store, covering use cases where speed or specific data structures matter.
 
 Visit the following resources to learn more:
 

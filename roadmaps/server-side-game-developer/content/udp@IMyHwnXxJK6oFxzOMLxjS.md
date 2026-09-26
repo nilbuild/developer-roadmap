@@ -1,6 +1,6 @@
 # UDP
 
-`UDP`, or User Datagram Protocol, is a communications protocol that sends data over the internet. Unlike TCP (Transmission Control Protocol), it's a connectionless protocol that doesn't ensure data packet delivery. It transmits datagrams – an independent, discrete packet of data – without first establishing a proper handshake between the sender and the receiver. The sender doesn't wait for an acknowledgment after sending a datagram, and the receiver doesn't send any acknowledgment upon receiving a datagram. This makes UDP faster but less reliable than TCP. UDP is used for time-sensitive transmissions where dropped packets are acceptable, such as in live video streaming, voice over IP (VoIP), and online multiplayer gaming.
+UDP (User Datagram Protocol) is a connectionless transport layer protocol that sends data packets without establishing a prior connection or guaranteeing delivery. It is widely used in real-time multiplayer games because its low overhead and lack of handshaking produce lower latency than TCP, even at the cost of occasional packet loss.
 
 Visit the following resources to learn more:
 

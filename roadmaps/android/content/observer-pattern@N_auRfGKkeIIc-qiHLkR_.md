@@ -1,5 +1,5 @@
 # Observer Pattern
- 
+
 The Observer pattern defines a one-to-many dependency where multiple observers are notified automatically when a subject changes state. In Android, this pattern is the foundation of reactive data streams implemented through LiveData, Kotlin Flow, RxJava, and RxKotlin.
 
 Visit the following resources to learn more:

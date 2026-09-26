@@ -7,7 +7,4 @@ Visit the following resources to learn more:
 - [@official@Taxonomies](http://wordpress.org/documentation/article/taxonomies/)
 - [@article@Categories, Tags, & Custom Taxonomies](https://developer.wordpress.org/themes/classic-themes/basics/categories-tags-custom-taxonomies/)
 - [@article@What is a Taxonomy? WordPress Taxonomies Explained](https://kinsta.com/blog/what-is-taxonomy/)
-- [@article@What is WordPress taxonomy and how to create custom ones?](https://www.hostinger.com/tutorials/wordpress-taxonomy)
 - [@video@WordPress taxonomies](https://www.youtube.com/watch?v=TPbMiwuoMtU)
-- [@video@Creating custom post types and taxonomies](https://www.youtube.com/watch?v=WB7BKQdcP9w)
-- [@video@Custom Taxonomy in WordPress - How To Create and Customize Your WordPress Taxonomy](https://www.youtube.com/watch?v=k6lGmyhT1uo)

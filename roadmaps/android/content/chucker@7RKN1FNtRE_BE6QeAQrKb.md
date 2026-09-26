@@ -1,5 +1,5 @@
 # Chucker
- 
+
 Chucker is an in-app HTTP inspector for Android. It intercepts OkHttp network requests and responses and displays them in a dedicated UI within the app during development. Chucker helps developers inspect API calls, headers, payloads, and response times without needing an external proxy tool.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # State & Historical Context
- 
+
 State and historical context refers to tracking what has already happened in a conversation or workflow so an agent can act consistently over time. This includes the sequence of user messages, past tool calls and their results, and any decisions the agent has already made. Without this tracking, an agent can repeat steps, contradict earlier answers, or lose track of a multi-step task. Systems typically store this as a structured log or state object that gets updated after each step and referenced before the next one.
 
 Visit the following resources to learn more:

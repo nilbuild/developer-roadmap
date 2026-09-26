@@ -1,7 +1,3 @@
 # Policy vs Detail
 
-In software architecture, the distinction between **policy** and **detail** refers to the separation of high-level decisions and low-level implementation details.
-
-Policy refers to the high-level decisions that define the overall behavior and structure of the system. These decisions include things like the overall architecture, the system's interface, and the major components and their interactions. Policy decisions are often made by architects and designers, and they set the overall direction for the system.
-
-Detail refers to the low-level implementation details that are required to implement the policy decisions. These include things like the specific algorithms, data structures, and code that make up the system's components. Details are often implemented by developers and are responsible for the actual functioning of the system.
+Policy and detail represent a fundamental separation between the core logic of an application and the specific implementation mechanisms that support it. Policies define the high-level business rules, domain entities, and operational requirements that dictate what an application should accomplish. In contrast, details encompass the low-level components like database drivers, user interface frameworks, external APIs, and hardware configurations that provide the environment for those policies to run. Keeping these concepts separate ensures that business logic remains independent of the specific tools used to execute it, allowing developers to change or upgrade technical infrastructure without altering the core functionality.

@@ -1,5 +1,5 @@
 # Consistent Posting
- 
+
 Consistent posting means publishing on a regular schedule so the audience knows when to expect new content. Algorithms on most platforms reward consistency with better distribution, and audiences are more likely to follow accounts that post reliably. A content calendar helps plan and batch content production to maintain consistency without burning out.
 
 Visit the following resources to learn more:

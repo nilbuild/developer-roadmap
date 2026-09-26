@@ -1,8 +1,6 @@
-# Framework Basics
+# Entity Framework Core Framework Basics
 
-An ORM (Object-Relational Mapping) framework is a tool that maps the objects in an application to the database tables, allowing developers to work with the database using familiar, object-oriented concepts.
-
-ORM frameworks are tools that map the objects in an application to the database tables, allowing developers to work with the database using familiar, object-oriented concepts such as Entities, Mapping, Context, Queries, Lazy Loading, Change Tracking, and Caching.
+Entity Framework Core is a lightweight, extensible, and cross-platform version of the popular Entity Framework data access technology. It acts as an object-database mapper that enables .NET developers to work with a database using .NET objects. This framework eliminates the need for most of the data-access code that developers usually need to write, allowing them to perform database operations through strongly-typed LINQ queries.
 
 Visit the following resources to learn more:
 

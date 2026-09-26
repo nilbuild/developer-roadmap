@@ -8,5 +8,3 @@ Visit the following resources to learn more:
 - [@official@How to Use WordPress Custom Post Types to Create a Specialty Website](https://wordpress.com/go/tutorials/wordpress-custom-post-types)
 - [@article@WordPress Custom Post Types: The All-In-One Guide to Create and Use Them](http://kinsta.com/blog/wordpress-custom-post-types/)
 - [@video@Creating custom post types and taxonomies](https://www.youtube.com/watch?v=WB7BKQdcP9w)
-- [@video@Custom Post Types](https://www.youtube.com/watch?v=vPptt9BiAKM)
-- [@video@Wordpress Custom Post Type Tutorial for beginners from scratch (Part#1) | Basics & Introduction](https://www.youtube.com/watch?v=fvStBjaALXo&list=PLT9miexWCpPXs5LDHnQFUTFh0o_ihDy3-)

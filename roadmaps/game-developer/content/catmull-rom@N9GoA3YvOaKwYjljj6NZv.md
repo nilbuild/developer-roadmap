@@ -1,6 +1,6 @@
 # Catmull-Rom
 
-The **Catmull-Rom** spline is a form of interpolation used in 2D and 3D graphics. Named after Edwin Catmull and Raphael Rom, it offers a simple way to smoothly move objects along a set of points or, in terms of graphics, to smoothly draw a curve connecting several points. It's a cubic interpolating spline, meaning it uses the cubic polynomial to compute coordinates. This makes Catmull-Rom ideal for creating smooth and natural curves in graphics and animation. It also has a feature called C1 continuity, ensuring the curve doesn't have any abrupt changes in direction. However, if not managed properly, it can create loops between points.
+A Catmull-Rom spline is a type of cubic spline that passes through all of its control points, making it convenient for path interpolation. Unlike Bezier curves, no separate tangent handles are needed because the tangents are computed automatically from the surrounding control points. Catmull-Rom splines are commonly used for camera paths and NPC waypoint movement because the curve naturally visits each waypoint.
 
 Visit the following resources to learn more:
 

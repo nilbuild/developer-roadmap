@@ -1,6 +1,6 @@
 # Domain Driven Design
 
-Domain-Driven Design (DDD) is an architectural pattern that is used to design software systems based on the core business domain and business entities, it's focused on creating a clear and accurate representation of the business domain within the software system, and on aligning the software system with the business goals and objectives. DDD provides several advantages over other architectural patterns, such as alignment with business goals and objectives, improved communication between domain experts and developers, a clear and expressive model of the business domain and improved scalability and maintainability. It's implemented using a set of principles and patterns such as strategic design, subdomains, bounded context, entities, value objects, aggregate, and repository.
+Domain-Driven Design is an approach to software design that models the software's structure and language around the business domain it serves. It encourages close collaboration between developers and domain experts to build a shared vocabulary, called a ubiquitous language, that is reflected directly in the code. Concepts like entities, value objects, and bounded contexts come from this approach and help keep complex business logic organized.
 
 Visit the following resources to learn more:
 

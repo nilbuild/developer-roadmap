@@ -1,3 +1,7 @@
 # Multi-threaded
 
-Multi-threaded algorithms divide work across multiple threads to run faster on multi-core machines. Common patterns include parallel divide-and-conquer, thread-safe queues for producer-consumer flows, and careful synchronization to avoid race conditions — with quality often measured by speedup and scalability.
+Multi-threaded algorithms divide work across multiple threads running concurrently, using parallelism to reduce total execution time. Designing them correctly requires managing shared state to avoid race conditions and deadlocks. Parallel merge sort and parallel BFS are examples where multi-threading provides meaningful speedups.
+
+Visit the following resources to learn more:
+
+- [@article@Python Multithreading: The Most Practical Intro](https://roadmap.sh/python/multithreading)

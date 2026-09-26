@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@Get started with flutter_bloc](https://pub.dev/packages/flutter_bloc)
 - [@article@Flutter bloc for beginners](https://medium.com/flutter-community/flutter-bloc-for-beginners-839e22adb9f5)
 - [@video@Flutter Bloc - Tutorial](https://www.youtube.com/watch?v=Ep6R7U9wa0U)
-- [@video@BLoC Pattern: A Comprehensive Tutorial](https://www.youtube.com/watch?v=Qe47b8r5epc&ab_channel=MaxonFlutter)

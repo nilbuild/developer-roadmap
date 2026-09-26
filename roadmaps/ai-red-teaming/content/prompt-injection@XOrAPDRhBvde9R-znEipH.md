@@ -9,3 +9,4 @@ Visit the following resources to learn more:
 - [@article@Prompt Injection (Learn Prompting)](https://learnprompting.org/docs/prompt_hacking/injection)
 - [@article@Prompt Injection Attack Explanation (IBM)](https://research.ibm.com/blog/prompt-injection-attacks-against-llms)
 - [@article@Prompt Injection: Impact, How It Works & 4 Defense Measures](https://www.tigera.io/learn/guides/llm-security/prompt-injection/)
+- [@course@Prompt Injection: Hands-on Exercise Against a Live Assistant](https://ransomleak.com/exercises/clawdbot-prompt-injection/)

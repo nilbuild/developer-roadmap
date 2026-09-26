@@ -1,6 +1,6 @@
 # Cold Start and Limitations
 
-AWS Lambda's cold start refers to the delay experienced when Lambda invokes a function for the first time or after it has updated its code or dependencies. This happens because Lambda needs to do some initial setup, such as initializing the runtime, before it can execute the function code. This setup process adds to the function's execution time, and is particularly noticeable in situations where low latency is critical. Cold start times also vary based on the memory size, with bigger lambda functions taking longer times to start. Further, unused functions may face a cold start again as AWS may clear out idle resources from time to time.
+A cold start happens when Lambda initializes a new execution environment for a function that has not been run recently. During initialization, the runtime and your code are loaded, which adds latency to the first invocation. Limitations include a maximum execution timeout of 15 minutes, a 10GB memory limit, and a 250MB deployment package size limit (unzipped).
 
 Visit the following resources to learn more:
 

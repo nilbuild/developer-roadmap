@@ -1,9 +1,6 @@
 # Constants
-
-Constants in PHP are fixed values that do not change during the execution of the script. They can be handy for values that need to be reused often like a website's URL, a company's name, or even a hardcoded database connection string. Unlike variables, once a constant is defined, it cannot be undefined or reassigned. Constants are case-sensitive by default but this can be overridden. They are defined using the define() function or the const keyword. For instance, you can create a constant to hold the value of Pi and call it in your script like this:
-
-    define("PI", 3.14);
-    echo PI; // Outputs: 3.14
+ 
+Constants are identifiers for fixed values that cannot be changed during script execution. They are defined using `define()` or the `const` keyword. Unlike variables, constants do not use a `$` prefix and are globally accessible throughout the script without needing the `global` keyword.
 
 Visit the following resources to learn more:
 

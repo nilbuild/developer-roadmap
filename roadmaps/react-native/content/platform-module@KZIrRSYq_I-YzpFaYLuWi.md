@@ -1,10 +1,6 @@
 # Platform Module
 
-The Platform module, as the name suggests, is a part of React Native that detects the platform on which the app is running. This enables you to have specific code for either Android or iOS, allowing you to account for platform-specific differences in design or behavior.
-
-To utilize the Platform module, you need to import it and then access the `OS` property. This property returns a string, which denotes the platform — either `'ios'` or `'android'`.
-
-With the Platform module, you can easily create platform-specific code, enabling you to have the best user experience for each platform. Just remember to import the module and use the provided properties and methods.
+The Platform module in React Native provides a simple way to detect the operating system on which your application is currently running. It exposes a constant that allows you to branch your code logic based on whether the app is executing on iOS, Android, or other supported platforms. Developers use this module to apply platform-specific styles, components, or behaviors to ensure the user interface behaves appropriately for each environment.
 
 Visit the following resources to learn more:
 

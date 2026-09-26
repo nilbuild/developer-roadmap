@@ -1,5 +1,5 @@
 # Version Control
- 
+
 Version control systems track changes to code over time and enable collaboration among developers. In Android development, Git is the standard version control tool, and platforms like GitHub, GitLab, and Bitbucket are used to host and manage repositories.
 
 Visit the following resources to learn more:

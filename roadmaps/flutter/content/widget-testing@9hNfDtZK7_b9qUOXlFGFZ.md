@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Introduction to Widget Testing](https://docs.flutter.dev/cookbook/testing/widget/introduction)
 - [@official@Widget Tests - Flutter](https://docs.flutter.dev/testing#widget-tests)
-- [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)

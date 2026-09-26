@@ -1,6 +1,6 @@
 # Game Mathematics
 
-"Game Mathematics" is a critical aspect of game development that deals with the use of mathematical concepts to create and control game mechanics. This involves areas such as geometry for 3D modelling, logic for game rules, algebra for scoring systems, and trigonometry for movements or trajectories. Understanding game mathematics enables developers to implement features like physics simulation, AI behaviours, and procedural generation. Advanced topics include complex calculations for graphics (e.g., shaders, lighting) and calculus for continuous animation or advanced physics. The mathematical complexity depends on the game's demands, but a solid foundation is crucial for any game developer.
+Game mathematics covers the mathematical foundations used throughout game development, including linear algebra, geometry, calculus, and numerical methods. These concepts underpin every major system in a game engine, from physics simulation to rendering and AI. A solid understanding of game math is required to work effectively at the engine or systems level.
 
 Visit the following resources to learn more:
 

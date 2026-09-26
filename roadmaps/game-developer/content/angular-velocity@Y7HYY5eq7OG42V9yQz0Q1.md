@@ -1,6 +1,6 @@
 # Angular Velocity
 
-Angular velocity, denoted by the symbol 'ω', is a measure of the rate of change of an angle per unit of time. In simpler terms, it corresponds to how quickly an object moves around a circle or rotates around a central point. Angular velocity is typically measured in radians per second (rad/s). If you think of an object moving in a circular path, the angular velocity would be the speed at which the angle changes as the object travels along the circumference of the object. Angular velocity is a vector quantity, implying it has both magnitude and direction. The direction of the angular velocity vector is perpendicular to the plane of rotation, following the right-hand rule. It plays a crucial role in game development, especially in physics simulation and character control.
+Angular velocity is the rate at which an object rotates, represented as a vector whose direction is the axis of rotation and whose magnitude is the rotation speed in radians per second. In rigid body simulation, angular velocity is updated by integrating applied torques and is used to advance the object's orientation each frame. It couples with linear velocity through constraint solvers and collision response.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # Event Bridge / Scheduled Execution
 
-Amazon EventBridge is a serverless event bus that makes it easy to connect applications together using data from your own applications, Software-as-a-Service (SaaS) applications, and AWS services. It enables you to build a bridge between your applications, regardless of where they are. With EventBridge, you simply ingest, filter, transform, and deliver events. It simplifies the process of ingesting and delivering events across your application architecture, while also handling event management. EventBridge combines all of the functionality of CloudWatch Events with new and enhanced features.
+EventBridge (formerly CloudWatch Events) is a serverless event bus that connects Lambda to AWS services and custom applications. You can configure rules to invoke Lambda functions on a schedule using cron or rate expressions, or in response to events from AWS services like S3, EC2, or CodePipeline.
 
 Visit the following resources to learn more:
 

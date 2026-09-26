@@ -1,6 +1,6 @@
 # Overview of Data Types
 
-Redis is a data structure server and at its core, REdis provides a collection of native data types that allow you to solve a wide variety of problems, from caching to event processing.
+Redis supports several native data types: Strings, Lists, Sets, Sorted Sets, Hashes, Bitmaps, HyperLogLog, and Streams. Each type is optimized for specific access patterns and comes with a dedicated set of commands. Choosing the right data type for a use case directly affects both performance and code simplicity.
 
 Visit the following resources to learn more:
 

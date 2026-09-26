@@ -1,6 +1,7 @@
 # Databases
 
-Databases are structured sets of data. In terms of server-side game development, databases are extremely vital. They store information like user profiles, game states, rankings, and so much more. You have various types of databases to choose from such as relational databases (MySQL, PostgreSQL), NoSQL databases (MongoDB, Cassandra), and in-memory databases (Redis, Memcached). These databases have their own primary language for interaction, like SQL for relational databases. Most importantly, as a game developer, one needs to plan database schemas wisely to ensure efficient data retrieval and storage. Knowledge of indexing and a solid understanding of ACID (Atomicity, Consistency, Isolation, Durability) properties assists in developing robust game backends.
+Game servers use databases to persist player data, game state, leaderboards, inventory, and match history. Different database types (relational, NoSQL, key-value) are suited to different access patterns and consistency requirements.
+
 Visit the following resources to learn more:
 
 - [@article@Game Database Architecture: Complete Backend Guide 2025 - Generalist Programmer](https://generalistprogrammer.com/tutorials/game-database-architecture-complete-backend-guide-2025)

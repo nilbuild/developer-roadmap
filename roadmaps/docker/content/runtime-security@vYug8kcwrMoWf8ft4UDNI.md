@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Docker Security](https://docs.docker.com/engine/security/)
 - [@official@Docker Security Best Practices](https://docs.docker.com/build/building/best-practices/)
+- [@course@Privileged Containers: Hands-on Escape Exercise](https://ransomleak.com/exercises/privileged-containers/)

@@ -1,6 +1,6 @@
 # Terrascan
 
-Terrascan is an open-source static code analyzer for Infrastructure as Code (IaC) that helps detect compliance and security violations across multiple IaC tools, including Terraform. It scans Terraform configurations against a set of predefined policies to identify potential security risks, misconfigurations, and compliance issues before deployment. Terrascan can be integrated into CI/CD pipelines, providing early detection of vulnerabilities in the development lifecycle. It supports custom policies, allowing organizations to enforce their specific security and compliance requirements. The tool covers various cloud providers and can be extended to support additional policy types.
+Terrascan is an open-source static analysis tool that scans Terraform configurations for security and compliance violations before deployment. It checks against a library of built-in policies covering common cloud security standards and supports custom rules. It can be integrated into CI pipelines to fail builds that introduce insecure configurations.
 
 Visit the following resources to learn more:
 

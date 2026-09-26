@@ -1,5 +1,5 @@
 # Views, View Controllers
- 
+
 Views and view controllers are the two primary building blocks of UIKit's architecture. Views are responsible for displaying content and receiving touch input, while view controllers manage a screen's lifecycle and coordinate between views and data. Every visible screen in a UIKit app is managed by at least one view controller with an associated view hierarchy.
 
 Visit the following resources to learn more:

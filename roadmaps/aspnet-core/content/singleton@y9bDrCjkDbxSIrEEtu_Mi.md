@@ -1,8 +1,6 @@
 # Singleton
 
-Singleton lifetime is a type of dependency injection that creates a single instance of an object and reuses it throughout the lifetime of the application. This means that if multiple components within the same request or across different requests depend on the same service, they will all receive the same instance of the service.
-
-Singleton lifetime is useful when you have services that need to maintain state or shared data across requests, such as a service that caches data or maintains a connection to a resource.
+A Singleton service is created the first time it is requested or when the application starts, and the same instance is then shared across every subsequent request throughout the entire application lifetime. Because this single instance persists for the duration of the app, it is commonly used for managing shared state, configuration settings, or caching services that need to maintain data across different parts of the system.
 
 Visit the following resources to learn more:
 

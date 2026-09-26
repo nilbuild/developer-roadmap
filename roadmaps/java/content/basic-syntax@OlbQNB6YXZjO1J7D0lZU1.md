@@ -1,9 +1,6 @@
 # Basic Syntax
 
-Understanding the basics is the key to a solid foundation. In this section, learn the basic terminologies, naming conventions, reserved keywords, expressions, statements, data structures, OOP, packages, etc.
-
-*   To print output use --> System.out.println();
-*   To take input from user --> Scanner or BufferedReader class can be used
+Basic syntax in Java defines the set of rules and symbols that determine how programs are written and interpreted by the compiler. It includes the structure of classes and methods, the usage of keywords, case sensitivity, and the implementation of statements terminated by semicolons. Understanding these foundational conventions allows developers to create executable code that adheres to the language's strict structural requirements.
 
 Visit the following resources to learn more:
 

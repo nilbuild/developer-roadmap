@@ -1,5 +1,5 @@
 # Spark
- 
+
 Spark, or Apache Spark, is an open-source engine for processing large amounts of data across many machines at once. It supports batch and streaming data processing, along with built-in libraries for SQL queries and machine learning. Its ability to handle data that does not fit on a single machine makes it a common tool in large-scale data pipelines.
 
 Visit the following resources to learn more:

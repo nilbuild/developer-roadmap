@@ -1,5 +1,5 @@
 # Views and Modifiers
- 
+
 SwiftUI views are lightweight structs that describe a piece of UI. Modifiers are methods called on views that return a new, modified version, allowing chaining. Common modifiers include padding, frame, background, foregroundStyle, and font. Building layouts by composing views and chaining modifiers is the primary pattern in SwiftUI development.
 
 Visit the following resources to learn more:

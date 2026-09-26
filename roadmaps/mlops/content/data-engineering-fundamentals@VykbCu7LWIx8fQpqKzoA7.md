@@ -1,5 +1,5 @@
 # Data Engineering Fundamentals
- 
+
 Data engineering fundamentals cover how data is collected, stored, and moved so it can be used for analysis or model training. This includes designing pipelines that pull data from various sources, clean it, and load it into a place where it can be accessed reliably. Good data engineering practices make sure ML models are trained on accurate and up-to-date data.
 
 Visit the following resources to learn more:

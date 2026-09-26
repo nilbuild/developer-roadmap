@@ -6,7 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Shortcode](https://codex.wordpress.org/Shortcode)
 - [@official@Shortcode block](https://wordpress.com/support/wordpress-editor/blocks/shortcode-block/)
-- [@official@Shortcode API](https://codex.wordpress.org/Shortcode_API)
 - [@article@The Ultimate Guide to WordPress Shortcodes (With Examples to Create Your Own)](https://kinsta.com/blog/wordpress-shortcodes/)
-- [@video@Guía definitiva de los shortcodes de WordPress](https://www.youtube.com/watch?v=sq1OZ2ZNqIw)
 - [@video@How to Create a Shortcode in WordPress](https://www.youtube.com/watch?v=ooDcpimdf_w)

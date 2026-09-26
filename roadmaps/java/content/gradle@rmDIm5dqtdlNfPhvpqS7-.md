@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@Building Spring Boot Projects with Gradle](https://www.baeldung.com/spring-boot-gradle-plugin)
 - [@video@Gradle Tutorial](https://youtu.be/kONQCIAcWeI)
 - [@video@Working with Gradle](https://youtu.be/6V6G3RyxEMk)
-- [@feed@Explore top posts about Gradle](https://app.daily.dev/tags/gradle?ref=roadmapsh)

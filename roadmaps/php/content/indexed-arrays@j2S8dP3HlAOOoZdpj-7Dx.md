@@ -1,11 +1,6 @@
 # Indexed Arrays
-
-Indexed arrays in PHP store values that are accessed through numerical indexes, which start at 0 by default. This might be particularly useful when you have a list of items in a specific order. For example, you might use an indexed array to represent a list of your favorite books, where each book is numbered starting from 0. Each individual item in the array, book in this case, can be accessed by their specific index. You can use the array() function or the short array syntax \[\] to declare an indexed array.
-
-Here's an Example:
-
-    $books = ["The Great Gatsby", "Moby Dick", "To Kill a Mockingbird"];
-    echo $books[0]; //Outputs "The Great Gatsby"
+ 
+Indexed arrays use numeric keys starting at zero. Values are accessed by their position, like `$arr[0]`. PHP assigns numeric keys automatically when you add items without specifying a key. Functions like `sort()` and `array_reverse()` work directly on indexed arrays.
 
 Visit the following resources to learn more:
 

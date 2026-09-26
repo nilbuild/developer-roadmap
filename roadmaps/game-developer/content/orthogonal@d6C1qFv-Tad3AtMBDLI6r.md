@@ -1,6 +1,6 @@
 # Orthogonal
 
-Orthogonal projection, or orthographic projection, is a type of parallelogram projection in game development where the lines of projection are perpendicular to the projection plane. This creates a view that is straight-on, essentially removing any form of perspective. Unlike perspective projection where objects further from the viewer appear smaller, objects in orthogonal projection remain the same size regardless of distance. The lack of perspective in orthogonal projection can be useful for specific types of games like platformers or strategy games. It is commonly used in CAD (Computer-Aided Design) and technical drawings as well.
+Orthographic projection maps 3D coordinates to 2D screen space without any depth-based scaling, so objects appear the same size regardless of their distance from the camera. It is used in 2D games, isometric views, engineering visualizations, and shadow map generation for directional lights. Unlike perspective projection, the view volume is a rectangular box rather than a frustum.
 
 Visit the following resources to learn more:
 

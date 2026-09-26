@@ -1,3 +1,3 @@
 # Linear Indexing
 
-Linear indexing is a type of data structure method where each element of an array is indexed successively in a linear format. This method treats multi-dimensional arrays as a long vector and provides a simple way to traverse through all the elements of the array in a sequence without the need for multiple loop statements. For instance, in a 2D array, the first index refers to rows and the second to columns. Using linear indexing, elements are indexed from top left to bottom right moving row by row. Despite its simplicity, this method is often less efficient than other forms of indexing for multidimensional arrays.
+Linear indexing stores index entries in a sequential structure, where each entry maps directly to a record position. It works well for small datasets and simple range scans but becomes slower as data grows because lookups may require scanning the index itself. It is one of the simplest indexing strategies.

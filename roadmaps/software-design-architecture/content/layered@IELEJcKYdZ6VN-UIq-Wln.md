@@ -1,8 +1,6 @@
 # Layered
 
-In software architecture, layered architecture is a design approach in which a software system is divided into a set of layers, each of which has a specific responsibility and communicates with the other layers through well-defined interfaces. This approach allows for a more modular and flexible design, where each layer can be developed, tested, and deployed independently, making it easier to add new features, modify existing ones, and maintain the system.
-
-A layered architecture is often used for large and complex systems, where the need for scalability and flexibility is high. Each layer in a layered architecture is responsible for a specific functionality and can be thought of as a "black box" with a well-defined interface. The layers communicate with each other through these interfaces, allowing for a clear separation of concerns.
+A layered architecture organizes a system into horizontal layers, such as presentation, business logic, and data access, where each layer only communicates with the layer directly below or above it. This separation makes it easier to reason about and test each layer in isolation. It is a common structure for traditional enterprise applications, though strict layering can add overhead when a request needs to pass through every layer.
 
 Visit the following resources to learn more:
 

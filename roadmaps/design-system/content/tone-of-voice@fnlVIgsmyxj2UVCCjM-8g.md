@@ -1,3 +1,3 @@
 # Tone of Voice
 
-A clear tone of voice defines how you speak to your audience at every moment in their journey, helping them get wherever they want to go.
+Tone of voice describes the personality and style a brand uses when communicating with users through text, such as being friendly, formal, or playful. It shapes word choice, sentence length, and how messages are framed, especially in things like onboarding copy, error messages, and notifications. A defined tone of voice keeps a product's writing consistent even as multiple people contribute copy over time.

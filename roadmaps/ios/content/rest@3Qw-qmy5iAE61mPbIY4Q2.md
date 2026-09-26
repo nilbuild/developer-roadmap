@@ -1,5 +1,5 @@
 # REST
- 
+
 REST (Representational State Transfer) is an architectural style for networked APIs that uses standard HTTP methods like GET, POST, PUT, PATCH, and DELETE. iOS apps consume REST APIs by making URLSession or Alamofire requests and decoding JSON responses using Codable. REST is the most common API style in iOS app development.
 
 Visit the following resources to learn more:

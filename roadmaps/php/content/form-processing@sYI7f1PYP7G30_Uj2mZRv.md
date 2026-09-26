@@ -1,8 +1,6 @@
 # Form Processing
 
-Form processing is a common web function and in PHP, it's pretty straightforward. It typically involves accepting data from a user through a web form and then using PHP to handle, process and possibly store that data. PHP provides superglobal arrays (`$_GET`, `$_POST`, and `$_REQUEST`) which help to collect form data. Let's talk about a simple example of a form that accepts a name from a user and then displays it.
-
-Make sure to handle form data securely, for instance by using the `htmlspecialchars()` function to neutralize any harmful characters.
+Form processing in PHP involves reading submitted input from `$_GET` or `$_POST`, validating and sanitizing the values, and then performing an action such as saving to a database or sending an email. The Post/Redirect/Get (PRG) pattern is commonly used to prevent duplicate form submissions on page reload.
 
 Visit the following resources to learn more:
 

@@ -1,8 +1,6 @@
 # count
 
-The count meta-argument in Terraform allows you to specify the number of instances of a particular resource to create. By setting count to a numeric value, Terraform dynamically generates multiple instances of the resource, indexed from 0 to count-1. This is useful for managing infrastructure that requires multiple identical or similar resources, such as creating multiple virtual machines or storage buckets. Using count, you can conditionally create resources by setting the value based on variables or expressions, making your configurations more flexible and reducing redundancy. Each instance of the resource can be uniquely referenced using the count.index value, enabling more granular control and customization of each resource instance.
-
-Note: You cannot declare count and for\_each on the same resource.
+The `count` meta-argument creates multiple instances of a resource or module from a single block. It accepts a whole number, and each instance is identified by an index starting at zero. Individual instances can be referenced using the `resource.name[index]` syntax.
 
 Visit the following resources to learn more:
 

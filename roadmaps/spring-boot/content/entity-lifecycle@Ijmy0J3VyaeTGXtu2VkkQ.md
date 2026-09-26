@@ -1,13 +1,6 @@
 # Entity lifecycle
 
-In Hibernate, we can either create a new object of an entity and store it into the database, or we can fetch the existing data of an entity from the database. These entity is connected with the lifecycle and each object of entity passes through the various stages of the lifecycle.
-
-There are mainly four states of the Hibernate Lifecycle :
-
-*   Transient State
-*   Persistent State
-*   Detached State
-*   Removed State
+Entity lifecycle describes the different states an object managed by Hibernate can go through: transient, persistent, detached, and removed. A transient entity exists only in memory and is not tracked by Hibernate, while a persistent entity is attached to a session and synchronized with the database. Knowing these states helps developers understand when changes to an object are actually saved, and when it needs to be reattached or merged back into a session.
 
 Visit the following resources to learn more:
 

@@ -1,3 +1,3 @@
 # Code Style
 
-Having a defined code style helps align the way code’s written in the system and increases development velocity. It should be automated with the tools provided for each platform.
+Code style refers to the formatting and structural conventions followed when writing a design system's component code, such as naming conventions, file structure, and formatting rules enforced by tools like ESLint or Prettier. Consistent code style makes the codebase easier to read and maintain as multiple contributors add or update components. It's usually enforced automatically through linting tools rather than left to manual review.

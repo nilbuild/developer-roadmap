@@ -1,15 +1,6 @@
 # $_POST
 
-`$_POST` is a superglobal variable in PHP that's used to collect form data submitted via HTTP POST method. Your PHP script can access this data through `$_POST`. Let's say you have a simple HTML form on your webpage. When the user submits this form, the entered data can be fetched using `$_POST`. Here's a brief example:
-
-    <?php
-    if ($_SERVER["REQUEST_METHOD"] == "POST") {
-        $name = $_POST["name"];
-    }
-    ?>
-    
-
-In this code, `$_POST["name"]` fetches the value entered in the 'name' field of the form. Always be cautious when using `$_POST` as it may contain user input which is a common source of vulnerabilities. Always validate and sanitize data from `$_POST` before using it.
+`$_POST` holds variables submitted through an HTTP POST request, typically from HTML forms with `method="post"`. Unlike GET data, POST data is not visible in the URL. It is used for form submissions, login requests, and any operation that sends data to the server. POST data must be sanitized before use.
 
 Visit the following resources to learn more:
 

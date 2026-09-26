@@ -1,6 +1,6 @@
 # Bezier
 
-`Bezier curves` are named after Pierre Bezier, a French engineer working at Renault, who used them in the 1960s for designing car bodies. A Bezier curve is defined by a set of control points with a minimum of two but no upper limit. The curve is calculated between the first and the last control point and does not pass through the controlling points, which only influence the direction of the curve. There are linear, quadratic, and cubic Bezier curves, but curves with more control points are also possible. They are widely used in computer graphics, animations, and are extensively used in vector images and tools to create shapes, texts, and objects.
+A Bezier curve is defined by a set of control points where the first and last points lie on the curve and the intermediate points act as attractors that shape the path. Cubic Bezier curves are the most common, defined by four control points, and are used extensively in vector graphics, animation tools, and path generation. De Casteljau's algorithm provides a numerically stable method for evaluating Bezier curves.
 
 Visit the following resources to learn more:
 

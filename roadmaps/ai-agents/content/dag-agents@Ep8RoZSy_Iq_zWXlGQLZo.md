@@ -5,5 +5,4 @@ A DAG (Directed Acyclic Graph) agent is made of small parts called nodes that fo
 Visit the following resources to learn more:
 
 - [@official@Airflow: Directed Acyclic Graphs Documentation](https://airflow.apache.org/docs/apache-airflow/stable/concepts/dags.html)
-- [@article@What are DAGs in AI Systems?](https://www.restack.io/p/version-control-for-ai-answer-what-is-dag-in-ai-cat-ai)
 - [@video@DAGs Explained Simply](https://www.youtube.com/watch?v=1Yh5S-S6wsI)

@@ -1,3 +1,3 @@
 # Top-funnel Content
 
-"Top funnel" refers to the awareness stage of a customer's journey, where they first come into contact with a business or product. In this stage, they become aware of a problem they have and begin to search for information or solutions. Content at this stage aims to capture the attention and interest of potential customers by offering solutions or valuable information that relates to their problem. This content is typically broad and informative, rather than product-specific. The aim is to inform and educate the audience, while establishing trust and brand authority.
+Top-funnel content targets users who are early in their discovery process and may not yet know a specific product or solution. It educates on broad problems, concepts, and trends rather than promoting a specific tool. For technical audiences, this includes introductory tutorials, explainer articles, and research reports.

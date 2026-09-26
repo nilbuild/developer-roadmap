@@ -1,6 +1,6 @@
 # Unit Testing
 
-Terraform unit testing focuses on verifying the behavior of individual modules or components in isolation. It typically involves creating small, focused test cases that validate the expected outputs and resource configurations of a module given specific inputs. Tools like Terratest, a Go library, are commonly used for writing and running these tests. Unit tests for Terraform might check if resources are correctly defined, if count and for\_each meta-arguments work as expected, or if output values are calculated correctly. These tests often use mock data or minimal real infrastructure to simulate various scenarios. While they don't guarantee the actual creation of resources, unit tests are valuable for quickly catching logic errors, ensuring module interfaces work as intended, and maintaining code quality as modules evolve.
+Unit tests for Terraform validate individual modules in isolation, checking that inputs produce the expected plan output without provisioning real resources. The native `terraform test` command introduced in Terraform 1.6 supports this by running configurations in a controlled context. Tools like Terratest can also be used for more complex scenarios.
 
 Visit the following resources to learn more:
 

@@ -1,13 +1,6 @@
-# AnimationController
+# Animation Controller
 
-This class lets you perform tasks such as:
-
-*   Play an animation forward or in reverse, or stop an animation.
-*   Set the animation to a specific value.
-*   Define the upperBound and lowerBound values of an animation.
-*   Create a fling animation effect using a physics simulation.
-
-By default, an AnimationController linearly produces values that range from 0.0 to 1.0, during a given duration.
+An Animation Controller is a special class in Flutter that manages the state of an animation by generating a sequence of values over a specific duration. It acts as the engine that drives an animation forward, backward, or stops it completely based on a range typically defined between 0.0 and 1.0. You use this controller to provide the necessary timing data to other animation objects, such as Tweens, which then transform those raw values into the specific properties required for your UI elements.
 
 Visit the following resources to learn more:
 

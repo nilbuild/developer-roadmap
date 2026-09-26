@@ -1,6 +1,7 @@
 # Reactive Model
 
-The Reactive Model is an approach in server-side game development that positions the server as a responder to requests made by the client. In this model, the server is not running its own threads, but simply reacting to incoming requests from clients. It focuses on asynchronous I/O operations, meaning that the system doesn't stall or wait for data to be written or read. When the client sends a request, the server reacts by performing a specific action, like accepting a network connection or reading data. It is built around the idea of event-driven programming, where logic is coded against events, ideally resulting in highly scalable systems. It's often used in conjunction with non-blocking I/O models, such as Node.js or other event-driven architectures.
+The reactive model defines how a server processes events using non-blocking operations and back-pressure-aware pipelines. Libraries like RxJava, Project Reactor, and Akka Streams implement reactive models that compose asynchronous event streams with operators like map, filter, and merge.
+
 Visit the following resources to learn more:
 
 - [@article@Introduction to RxJava: Observable Pattern - HackerNoon](https://hackernoon.com/introduction-to-rxjava-observable-pattern-ym493yn4)

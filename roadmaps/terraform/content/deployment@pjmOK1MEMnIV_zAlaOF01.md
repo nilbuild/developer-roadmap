@@ -1,10 +1,6 @@
 # Deployment
 
-Deploying Terraform-defined infrastructure involves several key steps:
-
-*   Initialize the working directory with `terraform init`
-*   Review changes with `terraform plan`
-*   Apply the configuration using `terraform apply`.
+Deployment refers to the process of applying a configuration to create or update infrastructure. The typical workflow involves running `terraform plan` to preview changes and `terraform apply` to execute them. Understanding what happens during these steps is necessary for safe and predictable infrastructure management.
 
 Visit the following resources to learn more:
 

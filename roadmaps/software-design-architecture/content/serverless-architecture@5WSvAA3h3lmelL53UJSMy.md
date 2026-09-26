@@ -1,8 +1,6 @@
 # Serverless Architecture
 
-Serverless architecture is a design pattern that allows developers to build and run applications and services without having to provision and manage servers. Instead, these applications and services are executed in a fully managed environment, such as AWS Lambda, Azure Functions, or Google Cloud Functions, where the infrastructure and scaling are handled automatically by the cloud provider.
-
-This architecture pattern mainly focuses on the business logic and event-driven execution, rather than on server management. It allows developers to write and deploy code in small, single-purpose functions that are triggered by specific events, such as changes in a database or the arrival of new data in a stream.
+Serverless architecture lets developers build and run applications without managing the underlying servers, since a cloud provider automatically provisions, scales, and manages the infrastructure. Code runs in stateless functions that execute in response to events, and the provider charges based on actual usage rather than reserved capacity. This model reduces operational overhead but can introduce challenges around cold start latency and vendor lock-in.
 
 Visit the following resources to learn more:
 

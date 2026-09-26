@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@course@AI Red Teaming Courses - Learn Prompting](https://learnprompting.org/blog/ai-red-teaming-courses)
 - [@article@SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity](https://arxiv.org/abs/2412.20787)
 - [@article@The Ultimate Guide to Red Teaming LLMs and Adversarial Prompts (Kili Technology)](https://kili-technology.com/large-language-models-llms/red-teaming-llms-and-adversarial-prompts)
+- [@course@OWASP LLM, Agentic and MCP Top 10: Exploit-then-Fix Labs](https://ransomleak.com/catalogue/ai-security/)

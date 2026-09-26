@@ -1,8 +1,6 @@
 # RepoDB
 
-RepoDB is an open-source ORM (Object-Relational Mapping) library for .NET that simplifies the process of working with databases. It is a lightweight, fast, and easy-to-use library that provides a simple and consistent API for performing common database operations such as querying, inserting, updating, and deleting data.
-
-RepoDb is built on top of [ADO.NET](http://ADO.NET), which is the native data access technology in .NET, and provides a higher-level abstraction on top of it. This allows RepoDb to take advantage of the performance and scalability of [ADO.NET](http://ADO.NET) while providing a simpler and more convenient API for developers.
+RepoDB is a lightweight, high-performance hybrid Object-Relational Mapper (ORM) for .NET that bridges the gap between micro-ORMs like Dapper and full-featured ORMs like Entity Framework. It allows developers to perform CRUD operations and execute complex SQL queries with minimal overhead while providing the flexibility to write raw SQL when necessary. The library is designed to offer a balance of speed and developer productivity by automating common database tasks through an easy-to-use extension-based API.
 
 Visit the following resources to learn more:
 

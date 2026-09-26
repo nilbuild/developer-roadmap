@@ -1,5 +1,5 @@
 # Accessibility Inspector
- 
+
 Accessibility Inspector is a tool in Xcode that audits UI elements for accessibility issues. It displays the accessibility properties of each element, runs automated audits to catch missing labels and low-contrast issues, and simulates VoiceOver navigation. It is the primary tool for testing and improving accessibility during development.
 
 Visit the following resources to learn more:

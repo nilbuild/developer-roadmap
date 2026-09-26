@@ -1,6 +1,6 @@
 # provider
 
-The `provider` meta-argument in Terraform specifies which provider configuration to use for a resource, overriding the default provider selection based on the resource type name. This is useful in scenarios where multiple configurations of the same provider are required, such as managing resources across different regions or environments. By setting the `provider` argument, you can ensure that the resource uses the specified provider setup, identified by its alias, enhancing control and flexibility in multi-provider or multi-region deployments. This meta-argument is essential for precisely directing Terraform on how to interact with the underlying infrastructure provider.
+The `provider` meta-argument assigns a specific provider configuration to a resource when multiple configurations of the same provider exist. This is common when managing resources across multiple regions or accounts within the same Terraform workspace. The value must match an alias defined in a `provider` block.
 
 Visit the following resources to learn more:
 

@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@official@GitHub security features](https://docs.github.com/en/code-security/getting-started/github-security-features)
 - [@official@Dependabot Quick-start Guide](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide)
 - [@official@About user alerts](https://docs.github.com/en/code-security/secret-scanning/managing-alerts-from-secret-scanning/about-alerts#about-user-alerts)
+- [@course@Git and Repository Security: Hands-on Labs](https://ransomleak.com/catalogue/git-security/)

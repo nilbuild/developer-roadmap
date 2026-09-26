@@ -1,8 +1,6 @@
 # DI Containers
 
-A dependency injection (DI) container is a software component that is responsible for managing the dependencies of an application. It is used to create and manage instances of objects and their dependencies, and is particularly useful for implementing the Dependency Inversion Principle in software development.
-
-A DI container typically consists of two main parts: a configuration API, which is used to register the types and their dependencies, and a resolution API, which is used to retrieve instances of the registered types. The DI container automatically resolves the dependencies of the objects it creates, and manages the lifetime of the objects and their dependencies.
+A DI container is a framework component that manages the instantiation and lifetime of objects in an application. It acts as a central registry where you define which implementations should be provided for specific interfaces or base classes. When an application requests a service, the container automatically resolves the dependencies, injects them into the class, and manages their disposal according to the defined service lifetime.
 
 Visit the following resources to learn more:
 

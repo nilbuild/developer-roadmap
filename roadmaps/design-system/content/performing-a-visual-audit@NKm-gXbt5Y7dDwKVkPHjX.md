@@ -1,5 +1,3 @@
-# Visual Audit
+# Performing a Visual Audit
 
-Take screenshots of your current product with the help of your team. You can use any presentation software like Google Slides or print and pin them on foam-core boards. Group the screenshots into categories like buttons, navigation, forms, tables, charts, lists etc.
-
-Now, review each category to find inconsistencies and note areas for improvement with your team. Use a tool like [CSS Stats](https://cssstats.com/) to see how many unique colors, typefaces you have in your style sheets.
+A visual audit is the process of collecting and examining all existing user interface elements across a product to identify inconsistencies in styles, components, and patterns. This practice involves capturing screenshots of current screens and grouping similar items to reveal discrepancies in typography, color usage, spacing, and iconography. By documenting these variations, teams can establish a clear baseline of the current design state and prioritize the necessary cleanup or standardization required for the new design system.

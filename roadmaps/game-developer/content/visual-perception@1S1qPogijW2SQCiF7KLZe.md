@@ -1,6 +1,6 @@
 # Visual Perception
 
-Visual Perception is a fundamental aspect of game development, widely explored within the field of computer graphics. It involves the ability to interpret and understand the visual information that our eyes receive, essential to create immersive and dynamic visual experiences in games. The study involves the understanding of light, color, shape, form, depth, and motion, among others, which are key elements to create aesthetically pleasing and engaging graphics. Making full use of visual perception allows the game developers to control and manipulate how the gamers interact with and experience the game world, significantly enhancing not only the visual appeal but also the overall gameplay.
+Visual perception in graphics refers to how the human visual system interprets rendered images, including sensitivity to contrast, color, motion, and depth. Rendering techniques are often designed to exploit or match perceptual characteristics rather than achieve physical accuracy. Concepts like just-noticeable differences, chromatic adaptation, and saccadic masking influence decisions in both real-time and offline rendering.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # Naive Bayes Classifier
 
-The Naive Bayes Classifier is a type of probabilistic machine learning model that is utilized for classification tasks. These tasks can range from email filtering to sentiment analysis or even document categorization. This model is termed 'naive' because it operates under the assumption that each input feature is independent from one another. This simplifying assumption allows for the computation of the probabilities involved to be severely less complicated. It follows the Bayes' Theorem equation to predict the class of the given data point. While this classifier might seem simplistic, it holds its own quite well in complex real-world situations. Due to its simplicity and high efficiency, the Naive Bayes Classifier is one of the most reliable and practical methods in machine learning applications.
+A Naive Bayes classifier is a probabilistic model that predicts class membership based on Bayes' theorem with the assumption that features are conditionally independent. In games, it can be used for tasks like recognizing player behavior patterns or classifying game states. It is fast to train and evaluate, making it practical for real-time use.
 
 Visit the following resources to learn more:
 

@@ -1,3 +1,3 @@
 # Algorithmic Complexity
 
-"Algorithmic Complexity" refers to the computing resources needed by an algorithm to solve a problem. These computing resources can be the time taken for program execution (time complexity), or the space used in memory during its execution (space complexity). The aim is to minimize these resources, so an algorithm that takes less time and space is considered more efficient. Complexity is usually expressed using Big O notation, which describes the upper bound of time or space needs, and explains how they grow in relation to the input size. It's important to analyze and understand the algorithmic complexity to choose or design the most efficient algorithm for a specific use-case.
+Common runtimes describe the typical growth rates seen in algorithms, ordered from fastest to slowest: O(1), O(log n), O(n), O(n log n), O(n²), O(2ⁿ), and O(n!). Recognizing these patterns helps predict an algorithm's scalability and compare alternatives quickly.

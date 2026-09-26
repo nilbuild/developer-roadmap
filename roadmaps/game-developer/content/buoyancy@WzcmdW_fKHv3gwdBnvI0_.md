@@ -1,6 +1,6 @@
 # Buoyancy
 
-**Buoyancy** refers to a specific interaction in physics where an object submerged in fluid (such as a game character in water) experiences an upward force that counteracts the force of gravity. This makes the object either float or appear lighter. In game development, implementing buoyancy can enhance realism particularly in games that involve water-based activities or environments. Buoyancy can be manipulated through adjustments in density and volume to create various effects - from making heavy objects float to sinking light ones. Calculating it typically requires approximating the object to a sphere or another simple geometric shape, and using this in Archimedes' Principle. This principle states that buoyant force equals the weight of the fluid that the object displaces. In the realm of video games, programming buoyancy can involve complex physics equations and careful testing to achieve a balance between realism and playability.
+Buoyancy is the upward force exerted on an object submerged in a fluid, equal to the weight of the fluid displaced. In game physics, buoyancy is approximated by applying an upward force proportional to the submerged volume of an object below a water surface plane. Realistic buoyancy simulation accounts for the center of buoyancy shifting as an object tilts.
 
 Visit the following resources to learn more:
 

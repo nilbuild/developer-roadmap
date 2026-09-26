@@ -1,8 +1,6 @@
 # Peer to Peer
 
-Peer-to-peer (P2P) architecture is a distributed computing architecture in which each node (peer) in the network acts as both a client and a server. In P2P architecture, there is no central authority or server that manages the network, and each node communicates directly with other nodes to exchange information, share resources, and perform computations.
-
-The main advantage of using P2P architecture is that it allows for a more decentralized and fault-tolerant system. As there is no central authority, there is no single point of failure, and the network can continue to function even if some nodes fail. Additionally, P2P architecture can also improve scalability as the number of nodes in the network increases.
+Peer-to-peer is a distributed architecture where each node, called a peer, acts as both a client and a server, sharing resources directly with other peers instead of relying on a central server. This removes a single point of failure and can spread load across many machines. File-sharing networks and some blockchain systems use this style, though coordinating consistency and security across peers is harder without central control.
 
 Visit the following resources to learn more:
 

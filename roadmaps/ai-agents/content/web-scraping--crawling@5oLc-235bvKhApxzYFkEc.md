@@ -4,7 +4,6 @@ Web scraping and crawling let an AI agent collect data from many web pages witho
 
 Visit the following resources to learn more:
 
-- [@article@Crawl AI - Build Your AI With One Prompt](https://www.crawlai.org/)
 - [@article@AI-Powered Web Scraper with Crawl4AI and DeepSeek](https://brightdata.com/blog/web-data/crawl4ai-and-deepseek-web-scraping)
 - [@article@Best Web Scraping Tools for AI Applications](https://www.thetoolnerd.com/p/best-web-scraping-tools-for-ai-applications)
 - [@article@8 Best AI Web Scraping Tools I Tried - HubSpot Blog](https://blog.hubspot.com/website/ai-web-scraping)

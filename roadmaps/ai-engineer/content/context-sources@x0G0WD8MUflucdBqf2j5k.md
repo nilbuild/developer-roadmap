@@ -1,5 +1,5 @@
 # Context Sources
- 
+
 Context sources are the places an AI system pulls information from to build what a model sees at inference time. Common sources include documents and knowledge bases, databases and data warehouses, code repositories, chat and support tools, and the outputs of other tool calls or agents. Each source has its own update frequency, access rules, and format, so combining them well requires normalizing and filtering before the data reaches the model. Choosing the right sources for a task matters as much as how much data is included.
 
 Visit the following resources to learn more:

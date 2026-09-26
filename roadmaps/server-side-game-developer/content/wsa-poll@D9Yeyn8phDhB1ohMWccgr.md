@@ -1,12 +1,6 @@
 # WSA-Poll
 
-**WSA-Poll** is a Windows-specific alternative to `poll`, used for monitoring multiple sockets 
-for readiness in non-blocking network applications. It is commonly utilized in server-side 
-game development to handle multiple client connections efficiently. Unlike `select`, `WSA-Poll`
-eliminates the limitation of FD_SETSIZE, allowing it to scale better for a larger number of 
-connections. However, it is generally less efficient than `epoll` on Linux due to its linear 
-scanning mechanism. For high-performance game servers on Windows, IOCP (I/O Completion Ports) 
-is often preferred over `WSA-Poll`.  
+WSAPoll is the Windows implementation of the POSIX poll API for socket readiness monitoring. It allows a server to monitor multiple sockets for read/write readiness in a single call, though for high-connection-count servers, IOCP is generally preferred.
 
 Visit the following resources to learn more:
 

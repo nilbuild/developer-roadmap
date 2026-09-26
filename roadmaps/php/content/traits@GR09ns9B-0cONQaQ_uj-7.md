@@ -1,22 +1,6 @@
 # Traits
-
-Traits is a concept in PHP that allows code reusability by enabling developers to create reusable pieces of code which can be used in classes to extend functionality. They are a way to reduce intricacies of single inheritance by enabling a developer to reuse sets of methods freely in several independent classes.
-
-Here's an example how to use a Trait:
-
-    trait Greeting {
-        public function sayHello() {
-            return "Hello";
-        }
-    }
-    class User {
-        use Greeting;
-    }
-    $user = new User();
-    echo $user->sayHello(); // Outputs: Hello
-    
-
-In the above code snippet, the `Greeting` trait is being used in the `User` class, and we are able to use its methods as if they were defined in the `User` class.
+ 
+Traits are a mechanism for code reuse in single-inheritance languages like PHP. A trait defines methods that can be inserted into any class using the `use` keyword. A class can use multiple traits simultaneously. Traits are useful for sharing behavior across classes that don't share a common parent.
 
 Visit the following resources to learn more:
 

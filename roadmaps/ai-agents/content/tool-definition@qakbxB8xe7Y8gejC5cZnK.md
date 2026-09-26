@@ -1,6 +1,6 @@
 # Tool Definition
 
-A tool is any skill or function that an AI agent can call to get a job done. It can be as simple as a calculator for math or as complex as an API that fetches live weather data. Each tool has a name, a short description of what it does, and a clear list of the inputs it needs and the outputs it returns. The agent’s planner reads this definition to decide when to use the tool. Good tool definitions are precise and leave no room for doubt, so the agent will not guess or misuse them. They also set limits, like how many times a tool can be called or how much data can be pulled, which helps control cost and errors. Think of a tool definition as a recipe card the agent follows every time it needs that skill.
+A tool definition describes a function an agent can call, including its name, purpose, and the parameters it accepts, usually specified in a structured format like JSON schema. The language model reads this definition to decide when the tool is relevant and how to fill in its arguments. Clear, well documented tool definitions directly affect how reliably an agent chooses and uses the right tool.
 
 Visit the following resources to learn more:
 

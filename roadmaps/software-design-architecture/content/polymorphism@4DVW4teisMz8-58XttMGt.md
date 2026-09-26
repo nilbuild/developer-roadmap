@@ -1,11 +1,6 @@
 # Polymorphism
 
-Polymorphism is a concept in object-oriented programming (OOP) that allows objects of different classes to be treated as objects of a common parent class. This is achieved by defining a common interface for all classes that need to be treated polymorphically. The word polymorphism is derived from Greek, "poly" means many and "morph" means form.
-
-There are two types of polymorphism:
-
-*   Compile-time polymorphism (also called static polymorphism or early binding) occurs when the type of the object that is going to be acted upon is determined at compile-time. This is achieved through method overloading, which allows multiple methods to have the same name but different parameters within the same class.
-*   Run-time polymorphism (also called dynamic polymorphism or late binding) occurs when the type of the object is determined at run-time. This is achieved through method overriding, which allows a child class to provide a specific implementation of a method that is already defined in its parent class.
+Polymorphism is a core principle in object-oriented programming that allows objects of different classes to be treated as instances of a common base class. It enables a single interface to represent different underlying forms, meaning a method call can behave differently depending on the specific object it is acting upon. By utilizing techniques like method overriding and overloading, developers can write flexible code that works with various data types through a unified structure.
 
 Visit the following resources to learn more:
 

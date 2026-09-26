@@ -1,3 +1,3 @@
 # Recognition Programs
- 
+
 Recognition programs acknowledge and reward community members who contribute positively through answering questions, creating content, reporting bugs, or helping onboard new members. Formats include MVPs, badges, featured spotlights, and early access programs. Recognition programs increase motivation, build loyalty, and identify potential advocates and future collaborators.

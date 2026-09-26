@@ -1,8 +1,6 @@
 # NServiceBus
 
-NServiceBus (NSB) is a service bus framework for building distributed systems using the .NET framework. It provides a set of features for building message-based, loosely-coupled applications, including support for message routing, message handling, and message persistence.
-
-NSB supports multiple messaging transports, including MSMQ, RabbitMQ, and Azure Service Bus, and provides support for advanced messaging patterns such as publish-subscribe, request-response, and message-based sagas.
+NServiceBus is a service bus framework for .NET that simplifies the process of building distributed systems by managing messaging between decoupled services. It provides a reliable abstraction over messaging transports like RabbitMQ, Azure Service Bus, or Amazon SQS, handling complex tasks such as message retries, transactional consistency, and out-of-the-box support for the Saga pattern. Developers use NServiceBus to ensure that messages are processed reliably even if individual components experience temporary failures or network interruptions.
 
 Visit the following resources to learn more:
 

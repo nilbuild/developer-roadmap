@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Firebase Firestore](https://firebase.google.com/docs/firestore)
 - [@video@Using Firestore - Flutter](https://www.youtube.com/watch?v=DqJ_KjFzL9I)
-- [@feed@Explore top posts about Firestore](https://app.daily.dev/tags/firestore?ref=roadmapsh)

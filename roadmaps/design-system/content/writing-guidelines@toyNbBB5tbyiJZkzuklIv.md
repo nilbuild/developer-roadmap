@@ -1,3 +1,3 @@
 # Writing Guidelines
 
-Every consistent experience needs watertight writing. Laying down the foundations for your house style early keeps everything in line with consistent grammar, style choices and action-oriented language to help your design.
+Writing guidelines define rules for how text should be written across a product, covering grammar conventions, capitalization, punctuation, and formatting for things like button labels and error messages. They keep copy consistent regardless of which team member wrote it. Writing guidelines usually work alongside tone of voice guidance, which covers the personality of the writing rather than its mechanics.

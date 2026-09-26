@@ -1,6 +1,6 @@
 # Queryable Encryption
 
-Queryable Encryption is MongoDB's advanced security feature that allows you to encrypt sensitive data while still being able to query it efficiently without decrypting the entire dataset. This cryptographic technique enables applications to perform equality queries on encrypted fields using deterministic encryption and range queries using order-preserving encryption, providing a balance between data security and functionality. It's particularly valuable for applications that need to comply with strict data protection regulations while maintaining the ability to search and filter encrypted data, such as healthcare systems handling patient records or financial applications managing sensitive transaction data.
+Queryable Encryption is a feature that allows you to perform expressive queries on data while it remains encrypted on the database server. It ensures that sensitive information is stored in an encrypted state at all times, even while in use by the application, by using client-side encryption keys that are never shared with the database. This allows users to search, filter, and retrieve specific records without needing to decrypt the entire dataset on the server, balancing data privacy with functional database performance.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # ReAct (Reason + Act)
 
-ReAct is an agent pattern that makes a model alternate between two simple steps: Reason and Act. First, the agent writes a short thought that sums up what it knows and what it should try next. Then it performs an action such as calling an API, running code, or searching a document. The result of that action is fed back, giving the agent fresh facts to think about. This loop repeats until the task is done. By showing its thoughts in plain text, the agent can be inspected, debugged, and even corrected on the fly. The clear split between thinking and doing also cuts wasted moves and guides the model toward steady progress. ReAct works well with large language models because they can both generate the chain of thoughts and choose the next tool in the very same response.
+ReAct is an agent architecture that interleaves reasoning steps with actions, having the model think through what to do, take an action, observe the result, and reason again before the next action. This tight loop between thought and action lets the agent adjust its plan based on real feedback rather than committing to a full plan upfront. It is one of the most widely used patterns for building tool using agents.
 
 Visit the following resources to learn more:
 

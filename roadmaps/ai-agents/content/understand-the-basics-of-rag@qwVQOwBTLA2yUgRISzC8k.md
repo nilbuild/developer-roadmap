@@ -1,6 +1,6 @@
 # Understand the Basics of RAG
 
-RAG, short for Retrieval-Augmented Generation, is a way to make language models give better answers by letting them look things up before they reply. First, the system turns the user’s question into a search query and scans a knowledge source, such as a set of documents or a database. It then pulls back the most relevant passages, called “retrievals.” Next, the language model reads those passages and uses them, plus its own trained knowledge, to write the final answer. This mix of search and generation helps the model stay up to date, reduce guesswork, and cite real facts. Because it adds outside information on demand, RAG often needs less fine-tuning and can handle topics the base model never saw during training.
+Retrieval Augmented Generation (RAG) is a technique where relevant documents or data are fetched from an external source and added to a model's prompt before it generates a response. This lets the model answer questions using information it was not originally trained on, such as private documents or recent data. RAG typically combines a retrieval step, often using vector search, with a generation step handled by the LLM.
 
 Visit the following resources to learn more:
 

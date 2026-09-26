@@ -1,6 +1,6 @@
 # Circle CI
 
-Integrating Terraform with CircleCI enables automated infrastructure management within CircleCI's continuous integration and deployment pipelines. This setup allows for consistent and repeatable infrastructure deployments alongside application code changes. In a typical CircleCI configuration, jobs are defined to run Terraform commands like init, plan, and apply. The workflow can include steps for checking out code, setting up Terraform, and managing state files. CircleCI's environment variables and contexts can be used to securely store and access sensitive data like cloud provider credentials. CircleCI's parallelism features can be leveraged for faster execution of Terraform in complex setups.
+CircleCI can execute Terraform pipelines using orbs or custom job configurations. Jobs are defined in a `.circleci/config.yml` file and run in containers with the Terraform binary installed. It supports parallel jobs, caching, and approval steps that can be used to gate a `terraform apply` behind a manual review.
 
 Visit the following resources to learn more:
 

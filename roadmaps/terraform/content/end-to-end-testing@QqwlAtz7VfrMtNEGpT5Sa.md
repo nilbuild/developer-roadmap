@@ -1,6 +1,6 @@
 # End to End Testing
 
-Terraform end-to-end testing involves validating the entire infrastructure deployment process from start to finish, simulating real-world usage scenarios. These tests apply complete Terraform configurations to create full environments, verify the functionality and interactions of all components, and then destroy the infrastructure. End-to-end tests often include checking network connectivity, application deployments, and overall system performance. They may involve multiple Terraform modules and external systems, testing the infrastructure as a cohesive unit. While resource-intensive and time-consuming, these tests provide the highest level of confidence in the infrastructure's correctness and reliability. They're particularly valuable for detecting issues that arise from complex interactions between different parts of the infrastructure. End-to-end tests are typically run less frequently than other types of tests, often as part of release processes or major change validations.
+End-to-end tests validate an entire infrastructure stack by provisioning it, running checks against live endpoints or resources, and then tearing it down. These tests are the most comprehensive but also the slowest and most costly. They are typically run in a dedicated test environment and triggered on a schedule or before major releases.
 
 Visit the following resources to learn more:
 

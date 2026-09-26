@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Tutorials - Dart](https://dart.dev/tutorials)
 - [@article@Advanced Dart](https://techdynasty.medium.com/advanced-dart-in-flutter-elevating-your-development-skills-1c8ec309266f)
-- [@feed@Explore top posts about Dart](https://app.daily.dev/tags/dart?ref=roadmapsh)

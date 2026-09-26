@@ -1,3 +1,3 @@
 # Version Control
 
-Having your design versioned with semantic versioning will allow you to easily align design with development, roll back faulty changes and release changes in code and design at the same time.
+Version control, in the context of design tooling, means tracking changes to design files over time, similar to how developers track code changes, so past states can be reviewed or restored. Some design editors have built-in version history, while others rely on external plugins or file naming conventions to track changes. This becomes especially important as multiple designers contribute to the same design system files.

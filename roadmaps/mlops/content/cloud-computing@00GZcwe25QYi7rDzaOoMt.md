@@ -1,5 +1,5 @@
 # Cloud Computing
- 
+
 Cloud computing provides on-demand access to computing resources, such as servers, storage, and databases, over the internet instead of running everything on local hardware. It lets teams scale up resources for training large models or handling more traffic, then scale back down when not needed. Providers like AWS, Azure, and GCP offer these services on a pay-as-you-go basis.
 
 Visit the following resources to learn more:

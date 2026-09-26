@@ -5,6 +5,6 @@ Exceptions are runtime errors that occur during program execution in Python. Ins
 Visit the following resources to learn more:
 
 - [@official@Exceptions Documentation](https://docs.python.org/3/tutorial/errors.html#exceptions)
-- [@article@Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
-- [@article@Python Exception Handling](https://www.programiz.com/python-programming/exception-handling)
+- [@article@Python KeyError Exceptions: Causes and Fixes Explained](https://roadmap.sh/python/keyerror)
+- [@article@Fix "Invalid Syntax" in Python (8 Common Causes)](https://roadmap.sh/python/invalid-syntax)
 - [@video@Exception Handling in Python](https://www.youtube.com/watch?v=V_NXT2-QIlE)

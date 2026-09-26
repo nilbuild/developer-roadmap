@@ -1,11 +1,3 @@
 # Existing Design Analysis
 
-First step in creating a design system from an existing design is performing a design analysis and understanding what you will be working with to identify the requirements and prepare a plan. Performing the analysis may consist of:
-
-- Understanding the Existing Design Process
-- Performing Visual Audit
-- Identifying Design Elements
-- Identify Common Components
-- Understanding the A/B Testing and Experimentation Needs
-- Understanding any Locale or regional requirements (such as LTR/RTL).
-- Documenting your findings
+Existing design analysis is the process of auditing and evaluating an established product’s visual elements, components, and patterns to identify inconsistencies and redundancies. This practice involves gathering current UI assets, documenting usage across the application, and mapping them against modern requirements to determine what should be kept, refactored, or discarded. Through this systematic review, teams gain a clear understanding of the current state of their product to inform the foundation of a scalable design system.

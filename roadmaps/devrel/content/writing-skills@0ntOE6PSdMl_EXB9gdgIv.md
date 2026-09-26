@@ -1,5 +1,5 @@
 # Writing Skills
- 
+
 Writing is one of the most high-leverage skills in DevRel because written content reaches far more developers than any single presentation. DevRel writing spans technical documentation, blog posts, social media, and email. Clear, accurate, and well-structured writing builds trust and helps developers succeed without needing direct assistance.
 
 Visit the following resources to learn more:

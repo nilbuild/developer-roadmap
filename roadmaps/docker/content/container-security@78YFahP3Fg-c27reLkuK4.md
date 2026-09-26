@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Docker Security](https://docs.docker.com/engine/security/)
 - [@article@Kubernetes Security Best Practices](https://www.aquasec.com/cloud-native-academy/kubernetes-in-production/kubernetes-security-best-practices-10-steps-to-securing-k8s/)
+- [@course@Container Security Labs: Privileged Containers, Daemon Exposure, Image Layers](https://ransomleak.com/catalogue/cloud-security/)

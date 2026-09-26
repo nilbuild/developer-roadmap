@@ -1,6 +1,6 @@
 # TLS / SSL Encryption
 
-TLS/SSL encryption in MongoDB provides secure communication channels between clients and the database server, as well as between replica set members and sharded cluster components, ensuring that data transmitted over networks is protected from eavesdropping and tampering. This transport layer security encrypts all network traffic using industry-standard cryptographic protocols, supports certificate-based authentication for enhanced security, and can be configured for mutual authentication where both client and server verify each other's identities. Implementing TLS/SSL is essential for production deployments, especially in cloud environments or when MongoDB instances communicate across untrusted networks, as it prevents man-in-the-middle attacks and ensures data confidentiality during transmission.
+TLS (Transport Layer Security) and its predecessor, SSL (Secure Sockets Layer), are cryptographic protocols that establish an encrypted link between a client and a server. By using these protocols, data transmitted over a network is protected from eavesdropping, tampering, and forgery. When configured for a database, this ensures that all information exchanged between the application and the server remains private and secure throughout the entire connection process.
 
 Visit the following resources to learn more:
 

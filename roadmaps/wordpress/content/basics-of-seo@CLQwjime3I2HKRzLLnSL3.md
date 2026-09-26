@@ -4,7 +4,7 @@ Search Engine Optimization (SEO) is the practice of improving your website to in
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated SEO Roadmap](https://roadmap.sh/seo)
 - [@article@60 WordPress SEO Tips to Grow Your Organic Traffic by 280%](https://kinsta.com/blog/wordpress-seo/)
 - [@video@WordPress SEO Tutorial for Beginners 2025 | All in One SEO Plugin Tutorial](https://www.youtube.com/watch?v=es_7J3WgXAE)
-- [@video@Unlocking advanced SEO techniques: Part 1](https://www.youtube.com/watch?v=l7pG6M2Wn-A&list=PL1pJFUVKQ7ERioxFzW7z0zwh0OJW_-5jI&index=18)
 - [@video@Unlocking advanced SEO techniques: Part 2](https://www.youtube.com/watch?v=cBE2x-vtjbU&list=PL1pJFUVKQ7ERioxFzW7z0zwh0OJW_-5jI&index=19)

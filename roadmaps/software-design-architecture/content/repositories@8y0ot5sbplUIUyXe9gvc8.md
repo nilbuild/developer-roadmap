@@ -1,8 +1,6 @@
 # Repositories
 
-Repositories are a pattern used in enterprise application development to provide a consistent and abstracted way to access data storage. Repositories act as an abstraction layer between the application and the data storage, providing a consistent and simple API for data access and manipulation.
-
-A repository is a pattern that can be used to organize the data access code and encapsulate the logic of retrieving and storing objects. Repositories provide a way to separate the concerns of the data access from the rest of the application, allowing the application code to be written against an interface and not a specific data storage technology.
+A repository is a pattern that provides an abstraction over data storage, exposing methods to retrieve, add, update, or remove objects without exposing the details of how that data is persisted. Application code interacts with the repository's interface instead of writing database queries directly, which makes it easier to change the underlying storage technology or write tests using a fake implementation. Repositories are commonly paired with domain models in Domain-Driven Design.
 
 Visit the following resources to learn more:
 

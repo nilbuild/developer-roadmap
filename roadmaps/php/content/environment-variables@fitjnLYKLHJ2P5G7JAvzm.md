@@ -1,16 +1,6 @@
 # Environment Variables
-
-Environment variables provide a way to influence the behavior of software on your system. They consist of name/value pairs and are used for various purposes, such as to specify directory paths, usernames, or passwords that your PHP application might use. You can set PHP environment variables using the `putenv()` function, and retrieve them using `getenv()`. For example, if you want to set the environment variable "FOO" to "bar", you could do so like this:
-
-    putenv("FOO=bar");
-    
-
-And then you can retrieve the value with `getenv()` like:
-
-    echo getenv("FOO"); // returns "bar"
-    
-
-Keep in mind that environment variables set using `putenv()` are only available for the duration of the current request. If you want them to persist for future requests, you'll need to set them using your system's method for setting environment variables.
+ 
+Environment variables are key-value pairs set in the server environment and accessed in PHP via `$_ENV`, `getenv()`, or `$_SERVER`. They are the standard way to separate configuration from code, especially for secrets, database credentials, and feature flags. Libraries like Dotenv load `.env` files into the environment during local development.
 
 Visit the following resources to learn more:
 

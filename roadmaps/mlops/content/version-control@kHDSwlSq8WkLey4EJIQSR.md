@@ -1,5 +1,5 @@
 # Version Control
- 
+
 Version control tracks changes to files over time, so teams can see what changed, who changed it, and roll back if needed. In ML projects, this applies not just to code but also to datasets, model files, and configuration. Without it, reproducing a past result or debugging a regression becomes very difficult.
 
 Visit the following resources to learn more:

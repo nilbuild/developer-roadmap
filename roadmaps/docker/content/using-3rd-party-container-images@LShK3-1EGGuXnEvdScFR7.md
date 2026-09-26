@@ -5,3 +5,4 @@ Third-party images are pre-built Docker container images that are available on D
 Visit the following resources to learn more:
 
 - [@official@Docker Hub Registry](https://hub.docker.com/)
+- [@course@Malicious Base Images: Hands-on Exercise](https://ransomleak.com/exercises/malicious-base-images/)

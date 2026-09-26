@@ -1,8 +1,9 @@
 # Merge Sort
 
-**Merge sort** is a type of sorting algorithm that follows the divide-and-conquer paradigm. It was invented by John von Neumann in 1945. This algorithm works by dividing an unsorted list into `n` partitions, each containing one element (a list of one element is considered sorted), then repeatedly merging partitions to produce new sorted lists until there is only 1 sorted list remaining. This resulting list is the fully sorted list. The process of dividing the list is done recursively until it hits the base case of a list with one item. Merge sort has a time complexity of `O(n log n)` for all cases (best, average and worst), which makes it highly efficient for large data sets.
+Merge sort divides a list in half, recursively sorts each half, and then merges the two sorted halves into one sorted list. It runs in O(n log n) time in all cases and is stable, preserving the relative order of equal elements. The trade-off is O(n) additional memory for the merge step.
 
 Visit the following resources to learn more:
 
+- [@article@Merge Sort in Python: Step-by-Step Guide + Code](https://roadmap.sh/python/merge-sort)
 - [@article@Merge Sort Visualize](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/)
 - [@video@Merge Sort](https://www.youtube.com/watch?v=4VqmGXwpLqc)

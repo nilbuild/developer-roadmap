@@ -5,7 +5,7 @@ Git is like a save button for your code, allowing you to track changes, revert t
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Git & GitHub Roadmap](https://roadmap.sh/git-github)
+- [@course@What is Version Control? (Interactive Lesson)](https://inter-git.com/lessons/introduction)
 - [@official@Git](https://git-scm.com/)
 - [@official@GitHub](https://github.com)
 - [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=vA5TTz6BXhY)
-- [@course@What is Version Control? (Interactive Lesson)](https://inter-git.com/lessons/introduction)

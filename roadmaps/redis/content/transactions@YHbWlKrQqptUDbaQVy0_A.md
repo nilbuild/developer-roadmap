@@ -1,6 +1,6 @@
 # Transactions
 
-Redis Transactions allow the execution of a group of commands in a single step, they are centered around the commands MULTI, EXEC, DISCARD and WATCH.
+Redis Transactions group a sequence of commands that execute atomically using `MULTI` and `EXEC`. All commands queued between these two are executed in order without interruption from other clients. If a client disconnects before calling `EXEC`, the queued commands are discarded.
 
 Visit the following resources to learn more:
 

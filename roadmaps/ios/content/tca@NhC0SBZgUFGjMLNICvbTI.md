@@ -1,5 +1,5 @@
 # TCA
- 
+
 The Composable Architecture (TCA) is an opinionated architecture library for Swift developed by Point-Free. It organizes app logic around unidirectional data flow with state, actions, reducers, and effects. TCA emphasizes testability and composability, allowing large app features to be built from smaller, independently testable pieces.
 
 Visit the following resources to learn more:

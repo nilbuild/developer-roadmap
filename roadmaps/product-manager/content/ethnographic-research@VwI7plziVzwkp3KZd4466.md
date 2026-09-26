@@ -1,6 +1,6 @@
 # Ethnographic Research
-
-Ethnographic research, stemming from anthropology, is a significant methodology often adopted by product managers to gain a profound understanding of user behaviours, routines, cultures, and motivations in their natural surroundings. It is essential as it offers contextual and holistic insights on user behaviour that other methods, like surveys or interviews, may not provide. For a product manager, this research helps compose a more empathetic and comprehensive user point-of-view, thus successfully driving product decisions that meet users' needs more effectively. This may involve observing users interact with the product in their everyday life, carrying out contextual inquiry, or even studying competitors to understand the factors that drive users towards specific actions. Understanding the subtleties of user behaviour through ethnographic research can truly create the difference between a good product and a great one.
+ 
+Ethnographic research involves observing users in their natural environment to understand how they actually behave, rather than how they say they behave. It uncovers contextual factors, workarounds, and frustrations that users may not think to mention in an interview. Product teams use it to generate deep insight into real-world usage patterns.
 
 Visit the following resources to learn more:
 

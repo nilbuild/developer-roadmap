@@ -1,6 +1,6 @@
 # STRLEN
 
-The STRLEN command returns the length of a string value that is stored at the defined key, if no string value is help at the key then an error will be returned.
+`STRLEN` returns the length of the string stored at a key in bytes. It returns 0 if the key does not exist. This is useful for validating string size before processing or truncating values.
 
 Visit the following resources to learn more:
 

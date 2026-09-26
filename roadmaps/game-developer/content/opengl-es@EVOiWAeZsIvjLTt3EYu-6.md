@@ -1,6 +1,6 @@
 # OpenGL ES
 
-OpenGL ES (Open Graphics Library for Embedded Systems) is a simplified version of OpenGL, designed for use on systems with lower computational power, such as mobile devices and embedded systems. Despite its semantic simplifications, OpenGL ES still retains high versatility and capability, allowing for high-performance 2D and 3D graphics on these smaller, less powerful systems. OpenGL ES has become particularly popular in mobile game development, with major platforms like Android and iOS providing full support for it. The API is divided into several versions, the latest of which, OpenGL ES 3.2, was released in 2016.
+OpenGL ES (Open Graphics Library for Embedded Systems) is a subset of the OpenGL specification designed specifically for mobile and embedded devices, such as smartphones, tablets, and consoles. It provides a cross-platform API that allows developers to communicate directly with the device's Graphics Processing Unit (GPU) to render 2D and 3D computer graphics. By offering a streamlined set of commands for hardware acceleration, it enables high-performance rendering while managing the memory and power constraints typical of portable hardware.
 
 Visit the following resources to learn more:
 

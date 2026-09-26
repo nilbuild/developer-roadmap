@@ -7,6 +7,4 @@ Visit the following resources to learn more:
 - [@official@WordPress Block Editor](https://wordpress.org/documentation/article/wordpress-block-editor/)
 - [@official@Block Editor Handbook](https://developer.wordpress.org/block-editor/)
 - [@article@How to Use the WordPress Block Editor (+ 10 Advanced Tips)](https://jetpack.com/resources/wordpress-block-editor/)
-- [@article@How to Use the WordPress Block Editor (Beginner’s Tutorial)](https://thrivethemes.com/wordpress-block-editor-tutorial/)
 - [@video@Creating posts and pages with the WordPress Block Editor](https://www.youtube.com/watch?v=DaaCThv_NNM)
-- [@video@How To Use The WordPress Block Editor](https://www.youtube.com/watch?v=AaKhhIgPbNw)

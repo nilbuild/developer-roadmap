@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Lambda Expressions](https://en.cppreference.com/w/cpp/language/lambda)
 - [@video@Lambdas in C++](https://youtu.be/MH8mLFqj-n8)
-- [@feed@Explore top posts about AWS Lambda](https://app.daily.dev/tags/aws-lambda?ref=roadmapsh)

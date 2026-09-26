@@ -1,5 +1,5 @@
 # Git
- 
+
 Git is the standard distributed version control system. Core operations include committing changes, branching, merging, and pushing to remote repositories. DevRel professionals use Git daily when maintaining sample code, contributing to open-source projects, and collaborating on documentation.
 
 Visit the following resources to learn more:

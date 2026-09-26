@@ -1,8 +1,6 @@
-# Code First Migrations
+# Code First and Migrations in Entity Framework Core
 
-Code First Migrations is a feature of Entity Framework that enables you to change the model classes in your application and then propagate those changes to the database. When you use Code First Migrations, Entity Framework generates the necessary SQL commands to update the database schema to match the model classes.
-
-To use Code First Migrations, you need to enable it in your Entity Framework application. This can be done by adding a reference to the Entity Framework Migrations NuGet package, and then enabling Migrations in your application.
+Code First is a development approach where you define your application's data models as C# classes, and Entity Framework Core generates the corresponding database schema from those classes. Migrations serve as a version control system for your database, tracking changes made to your C# models over time. When you modify your classes, you create a migration file that captures the difference between the current state of your code and the previous database structure. These migration files are then applied to the database to ensure the schema remains synchronized with the application code.
 
 Visit the following resources to learn more:
 

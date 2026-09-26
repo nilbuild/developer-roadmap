@@ -1,6 +1,6 @@
 # Matrix
 
-In game development, a **matrix** is a fundamental part of game mathematics. It's a grid of numbers arranged into rows and columns that's particularly important in 3D game development. These matrices are typically 4x4, meaning they contain 16 floating point numbers, and they're used extensively for transformations. They allow for the scaling, rotation, and translation (moving) of 3D vertices in space. With matrices, these transformations can be combined, and transformed vertices can be used to draw the replicas of 3D models into 2D screen space for rendering.
+A matrix is a rectangular array of numbers used to represent linear transformations in 2D and 3D space. In games, matrices are used to transform vertices from object space to world space, view space, and clip space through multiplication. A 4x4 matrix can encode translation, rotation, scaling, and projection in a single compact form.
 
 Visit the following resources to learn more:
 

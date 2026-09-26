@@ -1,6 +1,6 @@
 # Terminology
 
-Spring Core, the base of the Spring Framework, provides a model for configuring Java applications. Key concepts include **Beans** (Java objects managed by Spring), **Inversion of Control (IoC)** (Spring managing bean lifecycles and dependencies), and **Dependency Injection (DI)** (Spring providing bean dependencies). The **Spring container** (specifically an **ApplicationContext**) creates and manages these beans. Spring also offers **Aspect-Oriented Programming (AOP)** for handling cross-cutting concerns, an **event model** for decoupled communication using **ApplicationEvent** and **listeners**, abstractions for **Data Access** and **Transactions**, and utilities for **Task Execution and Scheduling**.
+Spring Boot terminology includes core concepts such as beans, application context, dependency injection, and auto-configuration. A bean is an object managed by the Spring container, while the application context is the environment that holds and wires these beans together. These terms appear throughout Spring documentation and describe how the framework organizes and manages application components.
 
 Visit the following resources to learn more:
 

@@ -1,5 +1,5 @@
 # Pushing Presenting
- 
+
 Pushing a view controller adds it to the navigation stack with a standard slide animation from the right. Presenting a view controller modally overlays it on the current screen, often as a sheet or full-screen cover. The choice between pushing and presenting depends on whether the new screen is part of the current flow or a separate, interruptive task.
 
 Visit the following resources to learn more:

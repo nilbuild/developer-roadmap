@@ -1,24 +1,6 @@
 # switch
-
-The switch statement is a special conditional statement in PHP that can simplify code and improve readability when you need to compare one value with multiple different possibilities. It is an alternative to using a chain of "if...else" conditions, and is particularly useful when you have many different cases to compare. The switch expression is evaluated only once, and its value is compared to each case. When a match is found, PHP executes the associated code block.
-
-Here's a basic switch statement:
-
-    $fruit = "apple";
-    switch ($fruit) {
-      case "apple":
-        echo "You chose apple.";
-        break;
-      case "banana":
-        echo "You chose banana.";
-        break;
-      default:
-        echo "Invalid choice.";
-    }
-    // Outputs: You chose apple.
-    
-
-Switch statements can make your code cleaner and easier to manage, especially when dealing with multiple conditions.
+ 
+The `switch` statement compares a single expression against multiple possible values using `case` labels. PHP uses loose comparison (`==`) in switch cases. Each case should end with `break` to prevent fall-through into the next case. `default` handles any value not matched by a case.
 
 Visit the following resources to learn more:
 

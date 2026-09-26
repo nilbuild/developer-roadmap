@@ -7,5 +7,4 @@ Visit the following resources to learn more:
 - [@official@Hardening WordPress](https://developer.wordpress.org/advanced-administration/security/hardening/)
 - [@official@Keep your site safe and secure](https://wordpress.com/support/security/)
 - [@article@WordPress security & hardening, the definitive guide](https://melapress.com/wordpress-security/?utm_medium=referral&utm_source=roadmapsh&utm_campaign=wproadmap)
-- [@article@How to improve WordPress security: 22 methods to protect your website](https://www.hostinger.com/tutorials/how-to-secure-wordpress)
 - [@video@How to Secure Your WordPress Site in 2025](https://www.youtube.com/watch?v=D0Q6448Fpo8)

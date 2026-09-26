@@ -1,6 +1,6 @@
 # Two Heaps
 
-The two heaps method uses a max-heap to store the lower half of the numbers and a min-heap to store the upper half. This setup allows you to quickly access the largest value of the lower half and the smallest value of the upper half in constant time. Insertions and deletions take logarithmic time, and the heaps are balanced so that the median can be found in O(1) time. This approach is especially useful for dynamically maintaining the median of a long or streaming data sequence, where repeatedly sorting the data would be inefficient (O(n log n) per sort).
+The two heaps technique uses a max-heap and a min-heap together to efficiently track the median or partition a dataset. One heap holds the lower half of elements and the other holds the upper half, keeping them balanced so the median is always accessible in O(1). It is used in problems that require continuous median tracking over a data stream.
 
 Visit the following resources to learn more:
 

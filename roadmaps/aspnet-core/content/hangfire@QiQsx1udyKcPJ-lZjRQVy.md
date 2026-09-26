@@ -1,8 +1,6 @@
 # Hangfire
 
-Hangfire is an open-source, lightweight library for .NET that allows you to easily perform background processing in your [ASP.NET](http://ASP.NET) application. It provides a simple and elegant way to run background jobs, schedule future tasks, and monitor the progress of your background jobs.
-
-Hangfire uses a storage backend, such as SQL Server or Redis, to persist the state of your background jobs. This allows you to easily scale your background processing and to monitor and manage your background jobs, even if your application restarts or crashes.
+Hangfire is an open-source library that allows developers to create, process, and manage background jobs in .NET applications. It provides a persistent storage mechanism that ensures tasks are executed reliably even if the application restarts. The library features a built-in dashboard for monitoring job progress, retrying failed tasks, and scheduling recurring operations without requiring a separate Windows Service or external task scheduler.
 
 Visit the following resources to learn more:
 

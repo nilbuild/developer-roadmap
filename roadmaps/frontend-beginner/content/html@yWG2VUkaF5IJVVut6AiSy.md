@@ -1,6 +1,6 @@
 # HTML
 
-HTML, or HyperText Markup Language, is the standard language for creating web pages. It uses tags to structure content like headings, paragraphs, images, and links, telling the web browser how to display the information. Think of it as the skeleton of a website, providing the basic structure and content that users see.
+HTML is the standard language for creating web pages. It uses tags to structure content like headings, paragraphs, images, and links, telling the web browser how to display the information. Think of it as the skeleton of a website, providing the basic structure and content that users see.
 
 Visit the following resources to learn more:
 

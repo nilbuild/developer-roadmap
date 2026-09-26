@@ -1,8 +1,6 @@
 # Transactions
 
-A transaction simply represents a unit of work. In such case, if one step fails, the whole transaction fails (which is termed as atomicity). A transaction can be described by ACID properties (Atomicity, Consistency, Isolation and Durability).
-
-In hibernate framework, we have Transaction interface that defines the unit of work. It maintains abstraction from the transaction implementation (JTA,JDBC).
+A transaction is a group of database operations that are executed as a single unit, so that either all of them succeed or none of them take effect. Spring manages transactions declaratively through the `@Transactional` annotation, which wraps a method in a transaction and rolls back changes if an exception occurs. This keeps data consistent even when multiple related operations, like debiting one account and crediting another, need to happen together.
 
 Visit the following resources to learn more:
 

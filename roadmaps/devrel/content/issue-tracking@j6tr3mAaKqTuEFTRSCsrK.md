@@ -1,3 +1,3 @@
 # Issue Tracking
- 
+
 Issue tracking through tools like GitHub Issues provides a structured way for developers to report bugs, request features, and ask questions within the context of a specific project. DevRel teams triage incoming issues, reproduce bugs, route them to the right teams, and communicate status updates back to reporters. Responsive issue management signals that the company takes developer feedback seriously.

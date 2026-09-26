@@ -1,6 +1,6 @@
 # Remote User Testing
 
-Remote User Testing is a crucial aspect of the role of a Product Manager. This technique allows the validation of ideas, products, features, and updates with real users in their natural environment. This method of testing can provide invaluable insights into how users interact with a product, what challenges they might face, and what improvements can be made. For a Product Manager, implementing remote user testing into the development cycle can significantly aid in creating a user-centric product that meets the audience's needs and expectations. It is cost-effective, versatile, and applicable to a variery of stages in the product's lifecycle.
+Remote user testing allows researchers to collect usability data from participants in their own environment rather than a controlled lab. Sessions can be moderated (via video call) or unmoderated (using recorded task flows). It broadens the pool of testable users and reflects more realistic usage conditions.
 
 Visit the following resources to learn more:
 

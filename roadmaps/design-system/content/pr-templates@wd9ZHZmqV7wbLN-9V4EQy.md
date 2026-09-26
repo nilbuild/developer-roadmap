@@ -1,3 +1,3 @@
-# Pull Request Templates
+# PR Templates
 
-Create pull request templates that outline the change being proposed to facilitate productive discussions.
+A PR template is a predefined structure that appears when someone opens a pull request, prompting contributors to fill in information like a description of the change, screenshots, and a checklist of required steps. It ensures every contribution includes the context a reviewer needs, rather than relying on contributors to remember what to include. Design systems use PR templates to keep the review process consistent as the number of contributors grows.

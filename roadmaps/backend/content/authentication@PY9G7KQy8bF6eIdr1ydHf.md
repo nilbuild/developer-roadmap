@@ -10,3 +10,4 @@ Visit the following resources to learn more:
 - [@article@JWT Authentication](https://roadmap.sh/guides/jwt-authentication)
 - [@article@OAuth - Open Authorization](https://roadmap.sh/guides/oauth)
 - [@article@SSO - Single Sign On](https://roadmap.sh/guides/sso)
+- [@course@Broken Authentication: Hands-on Exercise](https://ransomleak.com/exercises/broken-user-authentication/)

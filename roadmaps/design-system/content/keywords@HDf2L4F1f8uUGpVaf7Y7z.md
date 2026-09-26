@@ -1,3 +1,3 @@
 # Keywords
 
-Adding keywords will improve the discoverability of each icon and provide a better user experience for anyone using your system.
+Keywords are the searchable terms associated with each icon, used to help designers and developers find the right icon in a large icon library. An icon representing a trash can might include keywords like "delete," "remove," and "bin" so it surfaces under multiple search terms. Well-chosen keywords reduce duplicate icon requests when someone can't find an existing icon that already covers their need.

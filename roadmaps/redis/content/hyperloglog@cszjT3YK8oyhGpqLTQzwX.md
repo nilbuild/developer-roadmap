@@ -1,6 +1,6 @@
 # HyperLogLog
 
-HyperLogLog is a probabilistic data structure in Redis used for efficiently estimating the cardinality (i.e., the number of unique elements) of large datasets with minimal memory usage. Instead of storing the actual elements, it maintains a compressed representation, allowing it to estimate cardinality with a typical error rate of only 0.81%. Commands like `PFADD`, `PFCOUNT`, and `PFMERGE` are used to add elements, get the count, and merge HyperLogLogs, respectively. This structure is ideal for applications like unique visitor tracking or counting events where exact counts are not required but low memory consumption is critical.
+HyperLogLog is a probabilistic data structure that estimates the cardinality (count of unique items) of a set using a fixed amount of memory, regardless of how many items are added. Redis implements it using at most 12 KB per key. The estimate has a standard error of about 0.81%.
 
 Visit the following resources to learn more:
 

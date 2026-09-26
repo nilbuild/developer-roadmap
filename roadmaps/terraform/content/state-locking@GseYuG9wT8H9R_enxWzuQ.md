@@ -1,6 +1,6 @@
 # State Locking
 
-Terraform state locking is a mechanism that prevents concurrent modifications to the same state file, avoiding potential conflicts and data corruption. When enabled, Terraform acquires a lock before performing operations that could modify the state, such as apply or destroy. If the lock is unavailable, Terraform waits or fails, depending on configuration. State locking is automatically supported by many backend types, including S3 with DynamoDB, Azure Blob Storage, and Terraform Cloud. It's crucial for team environments where multiple users or automation processes might attempt simultaneous changes. While essential for data integrity, it's important to implement proper lock management to prevent stuck locks from blocking operations.
+State locking prevents two Terraform operations from modifying state at the same time. When supported by the backend, Terraform acquires a lock before writing to state and releases it when the operation completes. If a lock is not released due to a crash or error, it can be manually removed with the `force-unlock` command.
 
 Visit the following resources to learn more:
 

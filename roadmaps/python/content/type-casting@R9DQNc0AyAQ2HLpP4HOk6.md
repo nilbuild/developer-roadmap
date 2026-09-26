@@ -5,3 +5,4 @@ The process of converting the value of one data type (integer, string, float, et
 Visit the following resources to learn more:
 
 - [@article@Type Conversion and Casting](https://www.programiz.com/python-programming/type-conversion-and-casting)
+- [@article@Python Division: Operators, Floor Division, and Examples](https://roadmap.sh/python/division)

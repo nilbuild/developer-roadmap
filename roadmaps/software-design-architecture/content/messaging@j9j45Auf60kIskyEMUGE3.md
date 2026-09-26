@@ -1,12 +1,6 @@
 # Messaging
 
-Messaging is a key concept in several architectural styles, including event-driven architecture (EDA), microservices, and message-driven architecture (MDA).
-
-*   Event-driven architecture (EDA)
-*   Microservices
-*   Message-driven architecture (MDA)
-
-In general, messaging is a powerful concept that allows for the decoupling and scalability of systems and it's used in different architectural styles to improve the flexibility and scalability of the system by allowing for loose coupling between components and making it easier to add new features or modify existing ones.
+Messaging is a way for different parts of a distributed system to communicate by sending and receiving discrete pieces of data called messages, instead of calling each other directly. It decouples the sender from the receiver, since the sender does not need to know who will process the message or when. Common messaging patterns include event-driven communication and publish-subscribe, both often implemented with message brokers like RabbitMQ or Kafka.
 
 Visit the following resources to learn more:
 

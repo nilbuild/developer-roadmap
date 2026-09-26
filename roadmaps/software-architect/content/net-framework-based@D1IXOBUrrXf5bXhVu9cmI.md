@@ -1,5 +1,5 @@
 # .NET Framework Based
- 
+
 The .NET ecosystem, built around languages like C#, is widely used for enterprise applications, especially in Windows centric environments. It provides a large set of libraries and tools for building web, desktop, and cloud applications. An architect working in enterprise settings often needs to understand .NET's strengths around tooling, performance, and integration with Microsoft infrastructure.
 
 Visit the following resources to learn more:

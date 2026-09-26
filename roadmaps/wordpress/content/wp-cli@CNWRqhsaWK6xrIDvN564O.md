@@ -6,6 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@WP-CLI](https://wp-cli.org/)
 - [@official@WP-CLI Commands](https://developer.wordpress.org/cli/commands/)
-- [@official@Quick Start](https://make.wordpress.org/cli/handbook/guides/quick-start/)
 - [@article@How to Use the WordPress Command Line Interface – WP-CLI Tutorial](https://www.freecodecamp.org/news/how-to-use-wordpress-cli/)
 - [@video@The Only WP CLI Tutorial You’ll Ever Need](https://www.youtube.com/watch?v=9E1lyVyh4xc)

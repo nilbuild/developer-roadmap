@@ -4,5 +4,6 @@ Claude Code offers multiple interfaces to cater to diverse development workflows
 
 Visit the following resources to learn more:
 
-- [@course@Claude 101](https://anthropic.skilljar.com/claude-101)
 - [@official@Use Claude Code everywhere](https://code.claude.com/docs/en/overview#use-claude-code-everywhere)
+- [@article@Claude Cowork vs. Code vs. Chat: When to use each](https://roadmap.sh/claude-code/vs-cowork-vs-chat)
+- [@course@Claude 101](https://anthropic.skilljar.com/claude-101)

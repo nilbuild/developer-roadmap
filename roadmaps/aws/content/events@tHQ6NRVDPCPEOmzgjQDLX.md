@@ -1,6 +1,6 @@
 # Events
 
-AWS CloudWatch Events is a service that provides a streamlined, systematic method to respond to system-wide changes in your AWS environment. This could range from a simple state change, like an EC2 instance being stopped or started, to a more complex series of conditions. You can set an Event Pattern to monitor AWS resources for specific changes or you can schedule cron jobs. The action resulting from the event pattern can be a Lambda function, SNS notification, or auto-scaling policy amongst other options. Essentially, AWS CloudWatch Events helps you automate your AWS services and respond automatically to system events.
+CloudWatch Events (now part of EventBridge) lets you respond to changes in your AWS environment by routing events to targets like Lambda functions, SQS queues, or SNS topics. You can trigger actions on a schedule using cron expressions or react to events like an EC2 instance stopping or an S3 object being created.
 
 Visit the following resources to learn more:
 

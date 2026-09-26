@@ -1,6 +1,6 @@
 # ISAM
 
-ISAM, which stands for Indexed Sequential Access Method, is a type of disk storage access method developed by IBM. It combines features of both sequential and direct access methods to store and retrieve data. ISAM primarily organizes data sequentially but creates an index to provide direct access to the data blocks. This index allows for quick retrieval of data records, improving efficiency and performance. A key feature of ISAM is that it maintains the data sequence even after insertions and deletions, ensuring that the data remains ordered for efficient processing.
+ISAM (Indexed Sequential Access Method) is a disk-based file organization method that stores records in sorted order and maintains a static index for fast access. It supports efficient sequential and random reads but handles insertions poorly once the structure is built. ISAM was widely used in early database systems and influenced the design of modern indexes.
 
 Visit the following resources to learn more:
 

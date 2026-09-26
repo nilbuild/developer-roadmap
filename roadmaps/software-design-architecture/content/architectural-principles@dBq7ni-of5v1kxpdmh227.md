@@ -1,3 +1,3 @@
 # Architectural Principles
 
-Architectural principles are fundamental rules that guide design decisions across a system, such as loose coupling, high cohesion, separation of concerns, and scalability. They are the "why" behind a structure, helping teams make consistent trade-offs and evolve software without reworking its foundations.
+Architectural principles are a set of fundamental guidelines and best practices used to inform the structural design of a software system. These rules provide a foundation for making consistent decisions regarding the organization of code, the interaction between components, and the management of data flow. By adhering to these concepts, developers can ensure that a system remains modular, scalable, and easier to maintain over time. These principles help teams establish a common technical language and prevent structural decay as an application grows in complexity.

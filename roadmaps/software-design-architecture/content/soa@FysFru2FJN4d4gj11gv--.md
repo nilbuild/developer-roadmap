@@ -1,6 +1,6 @@
 # SOA
 
-SOA (Service-Oriented Architecture) is an architectural pattern that is used to design and organize software systems as a collection of services that can be accessed over a network, these services are autonomous, self-contained units of functionality that can be reused and combined to create new functionality. SOA services are designed to be loosely coupled, meaning that they do not depend on the implementation details of other services, they communicate with each other through well-defined interfaces, usually using a protocol such as HTTP or SOAP. SOA provides several advantages over other architectural patterns, such as reusability, modularity, interoperability, and scalability. It can be implemented using a variety of technologies, such as Web Services, REST, and microservices.
+Service-Oriented Architecture, or SOA, structures an application as a collection of loosely coupled services that communicate over a network, typically through standardized protocols. Each service exposes a well-defined interface and can be reused across different applications within an organization. SOA often relies on an enterprise service bus to manage communication, routing, and integration between services, which distinguishes it from the more independent, lightweight services used in microservices.
 
 Visit the following resources to learn more:
 

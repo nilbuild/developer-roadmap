@@ -1,6 +1,6 @@
 # Monitoring
 
-Monitoring in Redis involves tracking the health, performance, and resource usage of the server to ensure optimal operation and early detection of issues. Tools and commands like `INFO` (providing statistics on memory, CPU, and clients), `MONITOR` (real-time command tracking), and `SLOWLOG` (logging slow queries) offer insights into server activity. Additionally, external tools like Redis Sentinel, Prometheus, and Grafana are often integrated for more comprehensive monitoring, alerting, and visualization. Effective monitoring helps maintain stability, optimize performance, and troubleshoot potential bottlenecks, making it crucial for managing Redis deployments at scale.
+Performance monitoring involves tracking metrics like command latency, memory usage, hit/miss ratios, and connection counts over time. Tools like `INFO`, `MONITOR`, and external metrics exporters (such as the Redis Prometheus exporter) are used to collect this data. Establishing baselines makes it easier to detect regressions.
 
 Visit the following resources to learn more:
 

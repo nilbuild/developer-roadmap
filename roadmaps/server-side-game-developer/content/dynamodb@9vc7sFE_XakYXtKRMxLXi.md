@@ -1,6 +1,6 @@
 # Dynamo DB
 
-DynamoDB is a NoSQL database service provided by Amazon that delivers reliable performance at any scale. It's a fully managed, multiregion, multimaster database that offers built-in security, backup and restore, and in-memory caching. It's meant to support applications with large scale, low latency requirements. Developers can create database tables that can store and fetch any amount of data and can serve traffic from a few requests per month to millions of requests per second. As a part of AWS, DynamoDB integrates well with other AWS services and provides developers with high availability across multiple geographical regions.
+DynamoDB is Amazon's fully managed NoSQL key-value and document database. It offers single-digit millisecond latency at any scale, automatic sharding, and pay-per-request pricing, making it a common choice for game backends hosted on AWS that need predictable performance without operational overhead.
 
 Visit the following resources to learn more:
 

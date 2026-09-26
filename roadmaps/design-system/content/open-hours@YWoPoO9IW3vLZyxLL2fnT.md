@@ -1,3 +1,3 @@
 # Open Hours
 
-Create open hours in which you can engage your audience in a more private setting where you can discuss things in more detail. You can also use these as peer coding or peer design opportunities.
+Open hours are scheduled time blocks during which the design system team is available for live questions, pairing sessions, or troubleshooting help from consuming teams. They give teams a predictable way to get direct support without waiting for a response in a ticket or chat channel. Open hours work especially well for onboarding teams that are new to using the design system.

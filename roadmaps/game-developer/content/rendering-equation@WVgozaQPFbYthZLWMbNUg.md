@@ -1,6 +1,6 @@
 # Rendering Equation
 
-The **Render Equation**, also known as the **Rendering Equation**, is a fundamental principle in computer graphics that serves as the basis for most advanced lighting algorithms today. First introduced by James Kajiya in 1986, it defines how light interacts with physical objects in a given environment. The equation tries to simulate light's behavior, taking into account aspects such as transmission, absorption, scattering, and emission. The equation can be computationally intensive to solve accurately. It's worth mentioning, however, that many methods have been developed to approximate and solve it, allowing the production of highly realistic images in computer graphics.
+The rendering equation, introduced by Kajiya in 1986, describes the total light leaving a surface point in a given direction as the sum of emitted light and incoming light reflected from all directions. It provides the theoretical basis for physically based rendering. Solving the rendering equation exactly is computationally intractable, so real-time and offline renderers use various approximations and importance sampling strategies.
 
 Visit the following resources to learn more:
 

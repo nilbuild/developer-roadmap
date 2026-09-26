@@ -4,10 +4,8 @@ You must master the fundamental commands you'll use every day to manage your pro
 
 Visit the following resources to learn more:
 
-- [@article@Learn Git with Tutorials, News and Tips - Atlassian](https://www.atlassian.com/git)
-- [@article@Git Cheat Sheet](https://cs.fyi/guide/git-cheatsheet)
-- [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=vA5TTz6BXhY)
 - [@course@Creating a Repository? (Interactive Lesson)](https://inter-git.com/lessons/creating-repository)
 - [@course@Adding Files to Index (Interactive Lesson)](https://inter-git.com/lessons/adding-files-to-index)
 - [@course@Making a Commit (Interactive Lesson)](https://inter-git.com/lessons/making-a-commit)
-- [@course@Git Introduction: init, add, commit, branches and remotes in a browser sandbox (Hands-on)](https://learn.webterm.app/en/courses/git-introduction)
+- [@article@Git Cheat Sheet](https://cs.fyi/guide/git-cheatsheet)
+- [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=vA5TTz6BXhY)

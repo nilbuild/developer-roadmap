@@ -5,3 +5,4 @@ Recursion is a method of solving a computational problem where the solution depe
 Visit the following resources to learn more:
 
 - [@article@Recursion in Python: An Introduction](https://realpython.com/python-recursion/)
+- [@article@Binary search in Python 101: Implementation and use cases](https://roadmap.sh/python/binary-search)

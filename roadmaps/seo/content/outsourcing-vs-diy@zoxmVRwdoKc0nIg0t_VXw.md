@@ -1,0 +1,3 @@
+# Outsourcing vs DIY
+ 
+This is the decision between handling SEO, GEO, and AEO work in-house or hiring an agency, consultant, or freelancer to do it. Outsourcing brings in specialized expertise and saves internal time, but costs more and depends on finding a trustworthy provider. Doing it in-house keeps control and institutional knowledge inside the team, but requires training and ongoing time investment.
