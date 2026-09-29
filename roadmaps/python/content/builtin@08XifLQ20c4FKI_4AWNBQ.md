@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@official@Python Module Index](https://docs.python.org/3/py-modindex.html)
 - [@article@Python Modules](https://www.digitalocean.com/community/tutorials/python-modules)
 - [@article@Python - Built-In Modules](https://www.knowledgehut.com/tutorials/python-tutorial/python-built-in-modules)
+- [@article@How to Set Environment Variables in Python (Step-by-Step)](https://roadmap.sh/python/set-environment-variable)

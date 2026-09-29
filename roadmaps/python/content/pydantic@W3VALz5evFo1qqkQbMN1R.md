@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Pydantic Documentation](https://docs.pydantic.dev/latest/)
 - [@article@Pydantic: Simplifying Data Validation in Python – Real Python](https://realpython.com/python-pydantic/)
-- [@article@Pydantic V2 Migration Guide](https://docs.pydantic.dev/latest/migration/)
+- [@article@How to Set Environment Variables in Python (Step-by-Step)](https://roadmap.sh/python/set-environment-variable)
 - [@video@Pydantic Tutorial – Complete Python Data Validation (ArjanCodes)](https://www.youtube.com/watch?v=XIdQ6gO3Anc)
