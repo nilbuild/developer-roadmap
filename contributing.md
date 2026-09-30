@@ -9,7 +9,6 @@ First of all, thank you for considering to contribute. Please look at the detail
   - [How To Structure Content](#how-to-structure-content)
 - [Guidelines](#guidelines)
 - [Good vs. Not So Good Contributions](#good-vs-not-so-good-contributions)
-- [Local Development](#local-development)
 
 ## New Roadmaps
 
