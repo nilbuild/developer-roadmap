@@ -4,4 +4,4 @@ C23 is the most recent major revision of the C standard, adding features such as
 
 Visit the following resources to learn more:
 
-- [@article@C23 (C standard revision) - Wikipedia](https://en.wikipedia.org/wiki/C23_(C_standard_revision))
+- [@article@C23 (C standard revision) - Wikipedia](https://en.wikipedia.org/wiki/C23_%28C_standard_revision%29)

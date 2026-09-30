@@ -4,5 +4,5 @@ A table is a fundamental structure for organizing data in a relational database.
 
 Visit the following resources to learn more:
 
-- [@article@Table (Database)](https://en.wikipedia.org/wiki/Table_(database))
+- [@article@Table (Database)](https://en.wikipedia.org/wiki/Table_%28database%29)
 - [@article@Introduction to Tables](https://support.microsoft.com/en-gb/office/introduction-to-tables-78ff21ea-2f76-4fb0-8af6-c318d1ee0ea7)

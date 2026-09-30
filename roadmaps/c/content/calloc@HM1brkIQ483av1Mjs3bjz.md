@@ -5,5 +5,5 @@
 Visit the following resources to learn more:
 
 - [@article@C Allocate Memory](https://www.w3schools.com/c/c_memory_allocate.php)
-- [@article@C stdlib calloc() Function](https://www.w3schools.com/c/ref_stdlib_calloc.php#:~:text=The%20calloc()%20function%20allocates,our%20C%20Memory%20Management%20tutorial.)
+- [@article@C stdlib calloc() Function](https://www.w3schools.com/c/ref_stdlib_calloc.php#:~:text=The%20calloc%28%29%20function%20allocates,our%20C%20Memory%20Management%20tutorial.)
 - [@video@Calloc in C is easy! 🧹](https://www.youtube.com/watch?v=l8DU9ZeT3o8)

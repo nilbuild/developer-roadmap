@@ -4,5 +4,5 @@ A matrix is a rectangular array of numbers, symbols, or expressions, arranged in
 
 Visit the following resources to learn more:
 
-- [@article@Matrix (mathematics)](https://en.wikipedia.org/wiki/Matrix_(mathematics))
+- [@article@Matrix (mathematics)](https://en.wikipedia.org/wiki/Matrix_%28mathematics%29)
 - [@video@Linear Algebra - Matrix Operations](https://www.youtube.com/watch?v=p48uw2vFWQs)

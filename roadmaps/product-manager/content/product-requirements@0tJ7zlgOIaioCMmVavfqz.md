@@ -4,6 +4,6 @@ Product requirements define what a product or feature must do in order to meet u
 
 Visit the following resources to learn more:
 
-- [@article@What is a PRD (Product Requirements Document) - Aha!](https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-prd-(product-requirements-document))
+- [@article@What is a PRD (Product Requirements Document) - Aha!](https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-prd-%28product-requirements-document%29)
 - [@article@Product Requirements Document - ProductPlan](https://www.productplan.com/glossary/product-requirements-document)
 - [@article@What is a Product Requirements Document (PRD)? - Atlassian](https://www.atlassian.com/agile/product-management/requirements)

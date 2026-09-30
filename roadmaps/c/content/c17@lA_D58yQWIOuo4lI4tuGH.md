@@ -4,4 +4,4 @@ C17, published in 2018, is primarily a bug-fix and clarification release for C11
 
 Visit the following resources to learn more:
 
-- [@article@C17 (C standard revision) - Wikipedia](https://en.wikipedia.org/wiki/C17_(C_standard_revision))
+- [@article@C17 (C standard revision) - Wikipedia](https://en.wikipedia.org/wiki/C17_%28C_standard_revision%29)

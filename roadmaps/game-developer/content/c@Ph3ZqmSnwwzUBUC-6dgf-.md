@@ -5,4 +5,4 @@ C# is a statically typed, object-oriented language developed by Microsoft and us
 Visit the following resources to learn more:
 
 - [@official@Learn C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
-- [@article@C Sharp Programming Language](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+- [@article@C Sharp Programming Language](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)

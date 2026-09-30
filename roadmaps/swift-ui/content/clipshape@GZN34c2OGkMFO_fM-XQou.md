@@ -4,6 +4,6 @@
 
 Visit the following resources to learn more:
 
-- [@official@ClipShape](https://developer.apple.com/documentation/swiftui/view/clipshape(_:style:))
+- [@official@ClipShape](https://developer.apple.com/documentation/swiftui/view/clipshape%28_:style:%29)
 - [@article@How to clip a view so only part is visible](https://www.hackingwithswift.com/quick-start/swiftui/how-to-clip-a-view-so-only-part-is-visible)
 - [@article@SwiftUI: Bring back cornerRadius](https://lukaspistrol.com/blog/swiftui-bring-back-corner-radius/)

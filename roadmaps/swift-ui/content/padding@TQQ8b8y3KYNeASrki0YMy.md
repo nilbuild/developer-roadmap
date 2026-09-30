@@ -4,6 +4,6 @@ Padding in Swift and SwiftUI is used to add space around the content of a view. 
 
 Visit the following resources to learn more:
 
-- [@official@Padding](https://developer.apple.com/documentation/SwiftUI/View/padding(_:_:))
+- [@official@Padding](https://developer.apple.com/documentation/SwiftUI/View/padding%28_:_:%29)
 - [@article@SwiftUI .padding()](https://www.codecademy.com/resources/docs/swiftui/viewmodifier/padding)
 - [@video@Adding Padding in SwiftUI View | Bootcamp #11](https://www.youtube.com/watch?v=MuOtLPQ4jR4)

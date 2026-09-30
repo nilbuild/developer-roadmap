@@ -4,5 +4,5 @@ Integer types in C, such as `int`, `short`, and `long`, store whole numbers with
 
 Visit the following resources to learn more:
 
-- [@article@Integer types](https://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)IntegerTypes.html)
+- [@article@Integer types](https://www.cs.yale.edu/homes/aspnes/pinewiki/C%282f%29IntegerTypes.html)
 - [@video@Fundamental Data Types − Integer (Part 1)](https://www.youtube.com/watch?v=_9bAlgRzlkc)

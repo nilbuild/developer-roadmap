@@ -5,6 +5,6 @@ C represents strings as arrays of `char` terminated by a null character (`\0`), 
 Visit the following resources to learn more:
 
 - [@article@C Strings](https://www.w3schools.com/c/c_strings.php)
-- [@article@C/Strings](https://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)Strings.html)
+- [@article@C/Strings](https://www.cs.yale.edu/homes/aspnes/pinewiki/C%282f%29Strings.html)
 - [@video@String Basics | C Programming Tutorial](https://www.youtube.com/watch?v=60OI5tzmkCw)
 - [@video@String In Char Array VS. Pointer To String Literal](https://www.youtube.com/watch?v=Qp3WatLL_Hc)

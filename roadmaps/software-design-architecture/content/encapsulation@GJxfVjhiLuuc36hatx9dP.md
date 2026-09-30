@@ -4,6 +4,6 @@ Encapsulation is a fundamental principle of object-oriented programming that bun
 
 Visit the following resources to learn more:
 
-- [@article@Overview of Encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+- [@article@Overview of Encapsulation](https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29)
 - [@video@Tutorial - What is encapsulation in programming?](https://www.youtube.com/watch?v=sNKKxc4QHqA)
 - [@feed@Explore top posts about General Programming](https://app.daily.dev/tags/general-programming?ref=roadmapsh)

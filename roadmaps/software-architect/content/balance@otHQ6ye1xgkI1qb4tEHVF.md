@@ -4,4 +4,4 @@ Balance refers to weighing competing priorities such as speed versus quality, or
 
 Visit the following resources to learn more:
 
-- [@article@Wikipedia](https://en.wikipedia.org/wiki/Balance_(architecture))
+- [@article@Wikipedia](https://en.wikipedia.org/wiki/Balance_%28architecture%29)

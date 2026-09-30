@@ -4,4 +4,4 @@ C11, published in 2011, introduced support for multithreading through `<threads.
 
 Visit the following resources to learn more:
 
-- [@article@C11 (C standard revision) - Wikipedia](https://en.wikipedia.org/wiki/C11_(C_standard_revision))
+- [@article@C11 (C standard revision) - Wikipedia](https://en.wikipedia.org/wiki/C11_%28C_standard_revision%29)

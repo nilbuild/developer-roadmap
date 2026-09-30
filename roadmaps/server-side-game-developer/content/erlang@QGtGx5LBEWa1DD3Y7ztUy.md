@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Learn You Some Erlang for Great Good!](https://learnyousomeerlang.com/introduction)
 - [@article@Erlang-powered Game-like Applications - Erlang Forums](https://erlangforums.com/t/ideas-projects-of-erlang-powered-game-like-applications/971)
-- [@article@Erlang Programming Language - Wikipedia](https://en.wikipedia.org/wiki/Erlang_(programming_language))
+- [@article@Erlang Programming Language - Wikipedia](https://en.wikipedia.org/wiki/Erlang_%28programming_language%29)

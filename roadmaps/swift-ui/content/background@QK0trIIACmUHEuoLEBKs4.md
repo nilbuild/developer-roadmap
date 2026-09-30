@@ -4,5 +4,5 @@ The `background` view modifier in SwiftUI allows you to set a background for a v
 
 Visit the following resources to learn more:
 
-- [@official@Background](https://developer.apple.com/documentation/swiftui/view/background(alignment:content:))
+- [@official@Background](https://developer.apple.com/documentation/swiftui/view/background%28alignment:content:%29)
 - [@official@Adding a background to your view](https://developer.apple.com/documentation/swiftui/adding-a-background-to-your-view)

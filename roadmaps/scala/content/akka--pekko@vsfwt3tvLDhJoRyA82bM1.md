@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@course@Akka/Pekko Essentials Course on Rock the JVM](https://rockthejvm.com/courses/akka-apache-pekko-essentials-with-scala)
 - [@official@Apache Pekko Official Website](https://pekko.apache.org/)
-- [@article@Akka Documentation on Wikipedia](https://en.wikipedia.org/wiki/Akka_(toolkit))
+- [@article@Akka Documentation on Wikipedia](https://en.wikipedia.org/wiki/Akka_%28toolkit%29)
 - [@article@Introduction to Apache Pekko on Baeldung](https://www.baeldung.com/scala/apache-pekko)

@@ -4,5 +4,5 @@ Explicit animations involve directly controlling the animation's behavior by spe
 
 Visit the following resources to learn more:
 
-- [@official@WithAnimation](https://developer.apple.com/documentation/swiftui/withanimation(_:_:))
+- [@official@WithAnimation](https://developer.apple.com/documentation/swiftui/withanimation%28_:_:%29)
 - [@video@Creating explicit animations – Animation SwiftUI Tutorial 4/8](https://www.youtube.com/watch?v=Sk24dfBUnmg)

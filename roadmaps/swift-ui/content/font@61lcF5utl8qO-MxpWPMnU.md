@@ -4,7 +4,7 @@ The `font` modifier in SwiftUI allows you to customize the appearance of text wi
 
 Visit the following resources to learn more:
 
-- [@official@Font](https://developer.apple.com/documentation/swiftui/view/font(_:))
+- [@official@Font](https://developer.apple.com/documentation/swiftui/view/font%28_:%29)
 - [@article@SwiftUI Font and Texts](https://www.swiftyplace.com/blog/swiftui-font-and-texts)
 - [@article@SwiftUI .font()](https://www.codecademy.com/resources/docs/swiftui/viewmodifier/font)
 - [@video@Why SwiftUI's Built-In Font is OP](https://www.youtube.com/watch?v=e4s37VcWCj0)

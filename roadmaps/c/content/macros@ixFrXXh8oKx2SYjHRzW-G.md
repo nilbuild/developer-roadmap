@@ -5,5 +5,5 @@ A macro, defined with `#define`, is a preprocessor directive that gives a name t
 Visit the following resources to learn more:
 
 - [@article@What are Macros in C? Types, Examples and Benefits](https://www.almabetter.com/bytes/articles/macros-in-c)
-- [@article@C/Macros](https://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)Macros.html)
+- [@article@C/Macros](https://www.cs.yale.edu/homes/aspnes/pinewiki/C%282f%29Macros.html)
 - [@video@How to Write Function-Like Preprocessor Macros (C example)](https://www.youtube.com/watch?v=w3iXBUbq4NY)

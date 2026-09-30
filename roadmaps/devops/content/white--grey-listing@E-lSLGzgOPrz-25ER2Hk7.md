@@ -4,6 +4,6 @@ White listing is a security practice that involves creating a list of trusted en
 
 Visit the following resources to learn more:
 
-- [@article@Detailed Introduction to greylisting](https://en.wikipedia.org/wiki/Greylisting_(email))
+- [@article@Detailed Introduction to greylisting](https://en.wikipedia.org/wiki/Greylisting_%28email%29)
 - [@video@Greylisting](https://www.youtube.com/watch?v=ljtU6I0sIiw)
 - [@video@How to Whitelist an Email Address?](https://www.youtube.com/watch?v=NqQIBtY7ySw)

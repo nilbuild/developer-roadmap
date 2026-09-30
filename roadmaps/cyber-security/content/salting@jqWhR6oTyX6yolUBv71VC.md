@@ -5,4 +5,4 @@ Salting is a crucial concept within the realm of cryptography. It is a technique
 Visit the following resources to learn more:
 
 - [@article@OWASP Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
-- [@article@Salt (Cryptography)](https://en.wikipedia.org/wiki/Salt_(cryptography))
+- [@article@Salt (Cryptography)](https://en.wikipedia.org/wiki/Salt_%28cryptography%29)

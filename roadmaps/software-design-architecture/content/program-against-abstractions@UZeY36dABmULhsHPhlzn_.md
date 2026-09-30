@@ -4,4 +4,4 @@ Programming against abstractions involves interacting with interfaces or abstrac
 
 Visit the following resources to learn more:
 
-- [@article@Overview of Abstraction principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming))
+- [@article@Overview of Abstraction principle](https://en.wikipedia.org/wiki/Abstraction_principle_%28computer_programming%29)

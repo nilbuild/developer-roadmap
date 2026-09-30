@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@TCP vs UDP: What's the Difference for Video Streaming? - Ant Media](https://antmedia.io/tcp-vs-udp-video-streaming/)
 - [@article@UDP vs. TCP and Which One to Use for Video Streaming - Wowza](https://www.wowza.com/blog/udp-vs-tcp)
-- [@article@Broadcasting (Networking) - Wikipedia](https://en.wikipedia.org/wiki/Broadcasting_(networking))
+- [@article@Broadcasting (Networking) - Wikipedia](https://en.wikipedia.org/wiki/Broadcasting_%28networking%29)

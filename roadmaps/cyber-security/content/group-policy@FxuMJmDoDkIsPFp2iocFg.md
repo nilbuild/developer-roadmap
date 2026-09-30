@@ -4,5 +4,5 @@ Group Policy is a feature within Microsoft Windows operating systems that provid
 
 Visit the following resources to learn more:
 
-- [@official@Group Policy overview](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831791(v=ws.11))
+- [@official@Group Policy overview](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831791%28v=ws.11%29)
 - [@video@Learn Windows Group Policy the easy way!](https://www.youtube.com/watch?v=rEhTzP-ScBo)

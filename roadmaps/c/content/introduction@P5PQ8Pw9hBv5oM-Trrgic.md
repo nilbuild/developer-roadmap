@@ -5,6 +5,6 @@ C is a general-purpose programming language created in the early 1970s at Bell L
 Visit the following resources to learn more:
 
 - [@course@Learn C](https://www.learn-c.org/)
-- [@book@The C Programming Language - 2nd Edition](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf)
+- [@book@The C Programming Language - 2nd Edition](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20%28OCR%29.pdf)
 - [@video@C Programming and Memory Management - Full Course](https://www.youtube.com/watch?v=rJrd2QMVbGM)
 - [@article@C Programming Full Course for free ⚙️](https://www.youtube.com/watch?v=xND0t1pr3KY)
