@@ -1,3 +1,3 @@
 # Omni-Modal Models
- 
+
 Omni models accept multiple input modalities and produce multiple output types in a single model. They avoid the latency of running separate specialized models in sequence but often lag behind dedicated models in quality within each modality. Production pipelines using VLMs typically coordinate preprocessing steps like OCR, audio transcription, and PDF extraction as separate independently scaling components.

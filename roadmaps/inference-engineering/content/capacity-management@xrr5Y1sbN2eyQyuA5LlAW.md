@@ -1,3 +1,3 @@
 # Capacity Management
- 
+
 Multi-cloud inference pools GPU capacity from multiple cloud providers and regions into a single schedulable resource, treating distinct compute pools as fungible. This requires a global control plane for deployment and scaling decisions alongside per-cluster workload planes that serve traffic and report utilization. True multi-cloud unlocks greater total capacity, improved reliability through redundancy, lower latency via geographic proximity, and data sovereignty compliance.

@@ -1,3 +1,3 @@
 # Zero-Downtime Deployment
- 
+
 Canary deployments update inference services without interrupting live traffic by routing a small percentage of requests to the new deployment, monitoring for issues, and gradually shifting traffic over. Blue-green deployments, which cut all traffic at once to a parallel environment, are impractical for large inference workloads because they require doubling GPU capacity during the transition. With autoscaling, canary deployments are low cost since the old service scales down as the new one takes traffic.

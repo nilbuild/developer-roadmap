@@ -1,3 +1,3 @@
 # Cold Starts
- 
+
 A cold start is the time from zero replicas to serving the first request, including GPU provisioning, container image loading, model weight loading, and inference engine startup or compilation. Reducing cold start time is essential for autoscaling systems to scale down confidently and scale up responsively. Key techniques include quantized weights, local weight caching near the GPU instances, and caching compiled inference engines to disk.

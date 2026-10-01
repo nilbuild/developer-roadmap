@@ -1,3 +1,3 @@
 # NIMs
- 
+
 NIMs are pre-built Docker containers provided by NVIDIA for popular open models, available as flexible multi-LLM containers or as GPU- and model-specific optimized containers. They provide a ready-made starting point for serving common architectures without building a custom container from scratch. For maximum control and custom configurations, starting from a less opinionated base image and building up is generally preferable.

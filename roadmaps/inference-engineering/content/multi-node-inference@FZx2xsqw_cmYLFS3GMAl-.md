@@ -1,3 +1,3 @@
 # Multi-Node Inference
- 
+
 Multi-node inference spreads a model across more than eight GPUs using InfiniBand for inter-node communication. It is necessary for the largest models where a single node lacks sufficient VRAM for weights and KV cache. InfiniBand bandwidth is an order of magnitude lower than NVLink, so parallelism strategies must minimize cross-node communication. For MoE models, Expert Parallelism is preferred over Tensor Parallelism between nodes.

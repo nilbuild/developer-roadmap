@@ -1,5 +1,5 @@
 # Embedding Models
- 
+
 Embedding models convert variable-length text or image input into a fixed-length vector that encodes semantic meaning. These vectors are used in RAG, search, recommendation, and agent memory systems. Embedding inference has two distinct traffic profiles: high-throughput backfills for bulk indexing and low-latency lookups for real-time user queries, which are best served by separate deployments.
 
 Visit the following resources to learn more:

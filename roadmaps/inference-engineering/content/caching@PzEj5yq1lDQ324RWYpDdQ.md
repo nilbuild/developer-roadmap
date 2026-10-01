@@ -1,3 +1,3 @@
 # Caching
- 
+
 Caching reuses previously computed KV values to avoid redundant prefill computation across requests that share common context. It is one of the most impactful techniques for reducing TTFT in workloads with long system prompts or multi-turn conversations. This group covers the approaches, storage tiers, routing implications, and long-context strategies that make caching effective at scale.

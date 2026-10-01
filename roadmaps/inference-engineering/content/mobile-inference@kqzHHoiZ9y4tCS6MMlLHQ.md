@@ -1,3 +1,3 @@
 # Mobile Inference
- 
+
 Mobile devices run inference using vendor frameworks: Google's AI Edge SDK for Android and Apple's Foundation Models and Core ML for iOS. Hardware limitations restrict practical model sizes to one to two billion parameters on current phones. Small fine-tuned models for tasks like transcription, translation, and on-device classification are the strongest fit for mobile edge inference.

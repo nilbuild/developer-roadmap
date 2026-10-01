@@ -1,3 +1,3 @@
 # Performance Benchmarking
- 
+
 Benchmarking measures inference service performance under realistic workloads. Good benchmarks simulate realistic input and output sequence lengths, concurrency patterns, and request contents rather than synthetic uniform inputs. Standard tools include SGLang Genai-bench, NVIDIA GenAI-Perf, and Locust. Always establish a baseline before applying optimizations and change one variable at a time.

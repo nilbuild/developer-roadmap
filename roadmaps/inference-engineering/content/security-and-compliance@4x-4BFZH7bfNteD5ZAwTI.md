@@ -1,3 +1,3 @@
 # Security and Compliance
- 
+
 Inference infrastructure must protect user inputs, model outputs, and model weights. Standard practices include data encryption, container security, network isolation, and access controls validated by third-party penetration testing. Regulated industries require compliance with frameworks like SOC 2 and HIPAA, which also apply to underlying cloud providers. Multi-cloud deployments support data residency requirements by routing each country's data to clusters in that country.

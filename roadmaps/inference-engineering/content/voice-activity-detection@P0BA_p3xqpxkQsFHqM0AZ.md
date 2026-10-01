@@ -1,3 +1,3 @@
 # Voice Activity Detection (VAD)
- 
+
 VAD is a lightweight model that monitors an audio stream or file and identifies segments containing speech, filtering out silence. It is a required preprocessing component in both real-time ASR pipelines and long-file transcription pipelines, splitting audio into discrete chunks at natural speech boundaries rather than fixed time intervals. VAD runs on dedicated hardware to avoid competing with the ASR model for GPU resources.

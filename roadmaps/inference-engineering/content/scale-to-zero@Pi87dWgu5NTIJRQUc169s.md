@@ -1,3 +1,3 @@
 # Scale to Zero
- 
+
 Scale to zero allows the system to run zero replicas during periods of no traffic and spin up on demand. It requires fast cold starts and robust queuing to hold incoming requests while a replica starts. Scale to zero is well-suited for development environments and periodically accessed workloads, but not for latency-sensitive production applications with unpredictable light traffic.

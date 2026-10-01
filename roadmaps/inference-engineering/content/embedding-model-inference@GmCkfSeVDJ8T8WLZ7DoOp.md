@@ -1,3 +1,3 @@
 # Embedding Model Inference
- 
+
 TensorRT-LLM with its optimized XQA attention kernel offers the best performance for embedding models with LLM backbones. FP8 quantization of weights provides performance gains with minimal quality loss, verified by checking cosine similarity between quantized and original output vectors. Embedding models are small enough that horizontal scaling across individual GPU replicas is more effective than multi-GPU parallelism.

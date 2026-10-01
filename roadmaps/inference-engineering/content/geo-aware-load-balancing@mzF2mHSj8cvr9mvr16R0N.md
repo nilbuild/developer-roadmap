@@ -1,3 +1,3 @@
 # Geo-Aware Load Balancing
- 
+
 A global load balancer routes requests to the GPU cluster geographically closest to the requesting user. Network latency accumulates at roughly 5 milliseconds per time zone traversed, so routing a request from Singapore to San Francisco adds 50 to 100 milliseconds of unnecessary overhead. Geo-aware routing ensures that spare capacity in a distant region is used only when nearby capacity is exhausted.

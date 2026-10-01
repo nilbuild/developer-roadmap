@@ -1,3 +1,3 @@
 # Measuring Quality Impact
- 
+
 After quantizing a model, quality must be validated against the original. Three methods are used: perplexity scoring (lower is better, with minimal increase after quantization), standard intelligence benchmarks like MMLU or SWE-bench, and product-specific evals tailored to the actual use case. All three should show differences indistinguishable from noise before a quantized model is deployed.

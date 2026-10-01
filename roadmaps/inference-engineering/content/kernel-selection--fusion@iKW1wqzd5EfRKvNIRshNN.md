@@ -1,3 +1,3 @@
 # Kernel Selection and Fusion
- 
+
 A CUDA kernel is a function that runs in parallel across thousands of GPU threads simultaneously. Kernel selection is choosing the best existing kernel for a specific operation; kernel fusion combines sequential kernels into one to eliminate unnecessary reads and writes to VRAM between operations. Libraries like cuBLAS, CUTLASS, CuTe, and FlashInfer provide pre-built kernels for common inference operations, and most inference engines perform kernel selection automatically.

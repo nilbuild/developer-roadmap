@@ -1,3 +1,3 @@
 # Cache-Aware Routing
- 
+
 In deployments with multiple replicas, cache-aware routing directs requests to the replica most likely to have a matching prefix already in its KV cache. Without this, a user in a long conversation may hit different replicas each turn, getting cache misses that increase latency. A global KV cache stored on networked SSD allows all replicas to eventually access any cached sequence.

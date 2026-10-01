@@ -1,3 +1,3 @@
 # Asynchronous Inference
- 
+
 Asynchronous inference is a fire-and-forget request model where the client submits a job, receives an immediate acknowledgment, and retrieves the result later via a webhook. It is suited for throughput-sensitive, latency-insensitive workloads like bulk document embedding or corpus transcription. Async jobs have much longer time limits than synchronous requests and require robust server-side queuing.

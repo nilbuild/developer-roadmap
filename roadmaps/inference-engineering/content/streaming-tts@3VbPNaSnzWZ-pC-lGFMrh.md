@@ -1,3 +1,3 @@
 # Streaming TTS
- 
+
 Real-time TTS streams audio continuously over WebSockets rather than returning a complete file after generation finishes. The audio decoder converts token streams to waveforms as they are generated, implemented in compiled PyTorch with dynamic batching. After tuning the inference engine and decoder, the primary performance lever is how many concurrent real-time streams a single GPU replica can sustain.

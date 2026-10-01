@@ -1,5 +1,5 @@
 # Attention Variants
- 
+
 Newer attention algorithms reduce the quadratic time complexity of standard attention. Sliding window attention limits each token to attending to the nearest w tokens, turning O(N²) into O(Nw). Linear attention approximates the softmax with a linear-time kernel. Compressed attention periodically compresses earlier context. These variants trade off some quality for better scaling on long sequences.
 
 Visit the following resources to learn more:

@@ -1,3 +1,3 @@
 # The Inference Stack
- 
+
 A complete inference system has three layers: runtime, infrastructure, and tooling. The runtime layer optimizes a single model on a single instance using techniques like batching, caching, quantization, and speculation. The infrastructure layer scales across clusters, regions, and cloud providers while maintaining uptime. The tooling layer provides the right level of abstraction for engineers to control the system productively. All three must work together for mission-critical inference at scale.

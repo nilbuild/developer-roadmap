@@ -1,3 +1,3 @@
 # Compute
- 
+
 A GPU's compute capability is determined by its Streaming Multiprocessors (SMs), each containing CUDA Cores for general arithmetic and Tensor Cores for matrix multiply-accumulate operations. Tensor Cores are the primary resource for inference, executing the matmuls that make up the majority of forward pass computation. GPU compute is measured in peak Tensor Core FLOPS at a given precision, and roughly doubles with each new NVIDIA architecture generation.
