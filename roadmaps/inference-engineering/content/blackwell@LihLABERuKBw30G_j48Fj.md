@@ -5,3 +5,5 @@ The Blackwell architecture, released in late 2024 with the B200 and B300, added 
 Visit the following resources to learn more:
 
 - [@official@NVIDIA Blackwell Architecture Technical Brief](https://resources.nvidia.com/en-us-blackwell-architecture)
+- [@official@NVIDIA Blackwell Architecture](https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/)
+- [@article@NVIDIA Blackwell GPUs: Architecture, Features, Specs](https://www.nexgencloud.com/blog/performance-benchmarks/nvidia-blackwell-gpus-architecture-features-specs)

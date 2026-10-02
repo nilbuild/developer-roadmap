@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@opensource@Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
 - [@article@FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
-- [@article@FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691)
-- [@article@FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](https://arxiv.org/abs/2407.08608)
+- [@video@Flash Attention: The Fastest Attention Mechanism?](https://www.youtube.com/watch?v=eJn6zsbrqUM)
+- [@video@FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://www.youtube.com/playlist?list=PLBWdTDczuFNrxnetcH-5CVLRP1u4Ua87m)

@@ -6,3 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@NVLink and NVSwitch](https://www.nvidia.com/en-us/data-center/nvlink/)
 - [@official@NVIDIA InfiniBand](https://www.nvidia.com/en-us/networking/products/infiniband/)
+- [@article@Instances](https://www.baseten.co/inference-engineering/book/03-hardware/instances/)
+- [@video@GPUs: Explained](https://www.youtube.com/watch?v=LfdK-v0SbGI)

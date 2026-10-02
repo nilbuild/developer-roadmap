@@ -5,3 +5,4 @@ Few-step image generation models produce usable images in eight or fewer denoisi
 Visit the following resources to learn more:
 
 - [@article@Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference](https://arxiv.org/abs/2310.04378)
+- [@article@Few-Step Diffusion Models](https://www.emergentmind.com/topics/few-step-diffusion-model)

@@ -4,4 +4,7 @@ Mixture of Experts models replace dense linear layers with a set of smaller expe
 
 Visit the following resources to learn more:
 
+- [@article@Mixture of Experts Explained](https://huggingface.co/blog/moe)
 - [@article@Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
+- [@video@What is Mixture of Experts?](https://www.youtube.com/watch?v=sYDlVVyJYn4)
+- [@video@A Visual Guide to Mixture of Experts (MoE) in LLMs](https://www.youtube.com/watch?v=sOPDGQjFcuM)

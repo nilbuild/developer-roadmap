@@ -4,7 +4,7 @@ Neural networks can be organized as encoder-only, decoder-only, or encoder-decod
 
 Visit the following resources to learn more:
 
-- [@article@What is an encoder-decoder model?](https://www.ibm.com/think/topics/encoder-decoder-model)
 - [@course@Encoder-Decoder Architecture](https://www.skills.google/course_templates/543)
+- [@article@What is an encoder-decoder model?](https://www.ibm.com/think/topics/encoder-decoder-model)
 - [@video@Encoder-decoder architecture: Overview](https://www.youtube.com/watch?v=zbdong_h-x4)
 - [@video@Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks,](https://www.youtube.com/watch?v=L8HKweZIOmg)

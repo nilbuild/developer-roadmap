@@ -5,3 +5,5 @@ PagedAttention stores the KV cache in fixed-size pages rather than a single cont
 Visit the following resources to learn more:
 
 - [@article@Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
+- [@article@PagedAttention](https://handbook.modular.com/inference-optimization/pagedattention/)
+- [@video@PagedAttention: Behind vLLM's Insane Speed](https://www.youtube.com/watch?v=6uPnLkCiy5g)

@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@official@Ollama](https://ollama.com/)
 - [@official@LM Studio](https://lmstudio.ai/)
 - [@opensource@ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+- [@article@What Is Local AI Inference — and Why It Might Change How You Use AI](https://www.merciaai.com/post/what-is-local-ai-inference-and-why-it-might-change-how-you-use-ai)

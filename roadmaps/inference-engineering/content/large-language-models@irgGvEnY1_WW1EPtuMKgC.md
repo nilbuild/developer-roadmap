@@ -4,7 +4,7 @@ An LLM is a decoder-only transformer with three main components: an embedding la
 
 Visit the following resources to learn more:
 
-- [@book@Build a Large Language Model From Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+- [@book@Build a Large Language Model From Scratch](https://dl.tehrandata.org/book/Build-a-large-language-models.pdf)
 - [@article@What is a Large Language Model (LLM)?](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/)
 - [@article@New to LLMs? Start Here](https://towardsdatascience.com/new-to-llms-start-here/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
 - [@video@How Large Language Models Work](https://www.youtube.com/watch?v=5sLYAQS9sWQ)
