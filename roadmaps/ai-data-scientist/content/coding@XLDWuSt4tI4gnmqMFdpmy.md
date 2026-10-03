@@ -8,4 +8,5 @@ Visit the following resources to learn more:
 - [@official@The R Manuals (CRAN)](https://cran.r-project.org/manuals.html)
 - [@course@Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai)
 - [@course@Kaggle Learn: Python](https://www.kaggle.com/learn/python)
-- [@article@Introduction to Data Science with Python (Harvard)](https://pll.harvard.edu/course/introduction-data-science-python)
+- [@course@Introduction to Data Science with Python (Harvard)](https://pll.harvard.edu/course/introduction-data-science-python)
+- [@book@Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
