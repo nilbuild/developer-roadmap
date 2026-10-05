@@ -4,6 +4,6 @@ React Router enables client-side routing in React applications, creating single-
 
 Visit the following resources to learn more:
 
-- [@official@React Router Website](https://reactrouter.com/en/main)
+- [@official@React Router Website](https://reactrouter.com/)
 - [@article@A Complete Guide to Routing in React](https://hygraph.com/blog/routing-in-react)
 - [@video@React Router - Complete tutorial](https://www.youtube.com/watch?v=oTIJunBa6MA)
