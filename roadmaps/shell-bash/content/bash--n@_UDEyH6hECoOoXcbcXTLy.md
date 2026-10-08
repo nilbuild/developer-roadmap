@@ -4,4 +4,4 @@ The `bash -n` option is a debugging tool that allows you to perform a syntax che
 
 Visit the following resources to learn more:
 
-- [@article@Bash Script ‘-n’ Operator Explained: Evaluating Expressions](https://ioflood.com/blog/n-flag-in-bash/)
+- [@official@The Set Builtin (-n option)](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html)
