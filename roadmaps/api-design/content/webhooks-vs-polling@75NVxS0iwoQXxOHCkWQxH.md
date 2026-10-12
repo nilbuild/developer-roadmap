@@ -1,8 +1,11 @@
 # Webhooks vs Polling in API Design
 
-When it comes to managing server communication and data exchange in API design, two commonly used methods are webhooks and polling. These two strategies handle updates and data synchronization in different ways. Polling is a technique where the client repeatedly makes a request to the server to check for updates. In this case, it's the client determining the rate of information exchange. Conversely, webhooks operate on a 'push' mechanism. The server sends updates to the client as they happen, providing real-time, efficient data synchronization. Determining which method to use often depends on the specifics of the API design requirement including the frequency of data changes, server load, and application's real-time need.
+Webhooks and polling are two ways for a client to learn about changes on a server. With polling, the client repeatedly asks the server whether anything has changed, so it controls the request rate but wastes calls when nothing is new and only sees a change on its next check. With webhooks, the server sends an HTTP request to a URL the client registered as soon as an event happens, which is faster and cheaper but requires the receiver to be publicly reachable and to handle delivery problems. Webhook delivery is usually at-least-once, so events can arrive more than once or out of order: receivers should verify each request's signature (typically an HMAC of the payload using a shared secret), respond quickly with a `2xx` status and process the event in the background, and ignore events whose ID they have already handled. Many integrations combine both approaches, using webhooks for real-time updates and occasional polling to catch any events that were missed. The right choice depends on how often data changes, how quickly the client needs to know, and the load each approach puts on both sides.
 
 Visit the following resources to learn more:
 
+- [@opensource@Standard Webhooks - Specification and Libraries](https://github.com/standard-webhooks/standard-webhooks)
 - [@article@When to Use Webhooks, WebSocket, Pub/Sub, and Polling](https://hookdeck.com/webhooks/guides/when-to-use-webhooks)
 - [@article@Polling vs webhooks: when to use one over the other](https://www.merge.dev/blog/webhooks-vs-polling)
+- [@article@Best practices for using webhooks - GitHub Docs](https://docs.github.com/en/webhooks/using-webhooks/best-practices-for-using-webhooks)
+- [@article@Validating webhook deliveries - GitHub Docs](https://docs.github.com/en/webhooks/using-webhooks/validating-webhook-deliveries)
