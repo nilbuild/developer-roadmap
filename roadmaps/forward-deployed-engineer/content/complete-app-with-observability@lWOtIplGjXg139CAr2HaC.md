@@ -1,3 +1,0 @@
-# Complete App with Observability
- 
-Take a complete application and make it production-ready by building a sandbox first: a replica of the deployment environment where you can run, test, and debug the system before it touches production. Then add the operational layer: structured logging, distributed tracing, error tracking, performance metrics, and alerts. Once it is running, break something intentionally and use those tools to find it. In a real customer engagement, you will not be there forever. Observability is what lets the customer's team keep the system running after you leave.
