@@ -1,6 +1,6 @@
 # Rust
 
-Java is an object-oriented, statically typed language that compiles to bytecode and runs on the Java Virtual Machine (JVM), which lets the same compiled code run on any platform with a JVM installed. It manages memory automatically through garbage collection. Java is widely used in enterprise backend systems, Android development, and large-scale distributed applications.
+Rust is a multi-paradigm programming language designed for performance and safety, especially safe concurrency. It achieves memory safety without a garbage collector by using a unique ownership model that tracks the lifetime of data at compile time. This allows developers to write low-level code that prevents common bugs like null pointer dereferences and buffer overflows, making it an increasingly popular choice for systems programming and high-performance applications.
 
 Visit the following resources to learn more:
 
