@@ -5,6 +5,6 @@ Rust is a systems programming language that focuses on safety, speed, and concur
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Rust Roadmap](https://roadmap.sh/rust)
-- [@official@Rust Programming Language](https://www.rust-lang.org/)
 - [@official@Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
 - [@opensource@Rust Book](https://edu.anarcho-copy.org/Programming%20Languages/Rust/rust-programming-language-steve-klabnik.pdf)
+- [@video@Rust Crash Course Tutorial for Beginners](https://www.youtube.com/playlist?list=PLPoSdR46FgI412aItyJhj2bF66cudB6Qs)

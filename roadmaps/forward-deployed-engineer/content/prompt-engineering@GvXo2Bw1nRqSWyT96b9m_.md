@@ -5,4 +5,5 @@ Prompt engineering is the practice of crafting inputs to language models in a wa
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
-- [@article@What is Generative AI? - LearnPrompting](https://learnprompting.org/docs/basics/generative_ai)
+- [@article@What is prompt engineering?](https://www.ibm.com/think/topics/prompt-engineering)
+- [@video@Prompt Engineering Full Course](https://www.youtube.com/watch?v=2BpCk4d2Cc0)

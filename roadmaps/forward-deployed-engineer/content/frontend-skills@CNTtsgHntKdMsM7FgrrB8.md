@@ -4,5 +4,6 @@ Frontend development refers to the part of web development concerned with what u
 
 Visit the following resources to learn more:
 
-- [@book@Frontend Development Handbook](https://github.com/FrontendMasters/front-end-handbook-2019/blob/master/exports/Front-end%20Developer%20Handbook%202019.pdf)
-- [@video@Frontend web development - a complete overview](https://www.youtube.com/watch?v=WG5ikvJ2TKA)
+- [@article@What Is Front-End Development?](https://www.coursera.org/articles/what-is-front-end-development)
+- [@video@Introduction to Front End Development](https://www.simplilearn.com/front-end-developer-free-course-skillup)
+- [@video@Front End Developer Learning Path](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E)

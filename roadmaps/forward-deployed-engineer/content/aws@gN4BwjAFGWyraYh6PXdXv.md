@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@roadmap@Visit the Dedicated AWS Roadmap](https://roadmap.sh/aws)
 - [@official@AWS Cloud Essentials](https://aws.amazon.com/getting-started/cloud-essentials/)
 - [@official@Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
+- [@video@AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE)

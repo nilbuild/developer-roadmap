@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@course@Linux for Noobs](https://labex.io/courses/linux-for-noobs)
 - [@article@Practice Linux Fundamentals](https://labex.io/linuxjourney)
 - [@video@Linux Fundamentals](https://www.youtube.com/watch?v=kPylihJRG70)
+- [@video@Bash Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=tK9Oc6AEnR4)

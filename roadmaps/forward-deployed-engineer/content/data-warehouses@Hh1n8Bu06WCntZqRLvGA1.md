@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@What Is a Data Warehouse?](https://www.oracle.com/database/what-is-a-data-warehouse/)
 - [@video@What is a Data Warehouse?](https://www.youtube.com/watch?v=k4tK2ttdSDg)
+- [@video@Database vs Data Warehouse vs Data Lake | What is the Difference?](https://www.youtube.com/watch?v=-bSkREem8dM)

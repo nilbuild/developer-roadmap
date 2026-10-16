@@ -6,4 +6,5 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated C++ Developer Roadmap](https://roadmap.sh/cpp)
 - [@article@Learn C++](https://www.learncpp.com/)
+- [@article@C++ vs. C: When (and when not) to use each language](https://roadmap.sh/cpp/vs-c)
 - [@video@C++ Tutorial for Beginners - Full Course](https://youtu.be/vLnPwxZdW4Y)

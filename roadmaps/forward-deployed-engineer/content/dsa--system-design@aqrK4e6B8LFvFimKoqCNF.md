@@ -4,6 +4,7 @@ Data structures are ways of organizing data in memory, such as arrays, linked li
 
 Visit the following resources to learn more:
 
-- [@roadmap@Visit the Dedicated Data Structures & Algorithms Roadmap](https://roadmap.sh/datastructures-and-algorithms)
+- [@article@What is System Design?](https://algomaster.io/learn/system-design/what-is-system-design)
 - [@article@Data Structures and Algorithms (DSA) Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 - [@video@What Are Data Structures?](https://www.youtube.com/watch?v=bum_19loj9A)
+- [@video@Learn Data Structures and Algorithms Visually – Crash Course](https://www.youtube.com/watch?v=RpLnQnurpLY)

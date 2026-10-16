@@ -4,5 +4,6 @@ Google Cloud Platform (GCP) is Google's cloud offering, known for strong data an
 
 Visit the following resources to learn more:
 
-- [@video@Cloud OnAir: Google Cloud Networking 101](https://www.youtube.com/watch?v=0hN-dyOV10c&t=146s)
-- [@video@Networking End to End](https://www.youtube.com/playlist?list=PLIivdWyY5sqJ0oXcnZYqOnuNRsLF9H48u)
+- [@official@Google Cloud Documentation](https://docs.cloud.google.com/docs)
+- [@article@What is Google Cloud Platform?](https://www.huntress.com/cybersecurity-101/topic/what-is-google-cloud-platform)
+- [@video@Google Cloud Platform playlist \[2027 Updated\] | Google Cloud Platform Tutorials](https://www.youtube.com/playlist?list=PLEiEAq2VkUUI0xT8VNpjBuWvmnLHxPcsE)

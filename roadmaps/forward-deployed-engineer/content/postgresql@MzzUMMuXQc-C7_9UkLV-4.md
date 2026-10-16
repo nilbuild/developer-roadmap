@@ -4,7 +4,7 @@ PostgreSQL is a powerful, open-source relational database system that supports a
 
 Visit the following resources to learn more:
 
-- [@roadmap@Visit the Dedicated PostgreSQL DBA Roadmap](https://roadmap.sh/postgresql)
-- [@official@PostgreSQL](https://www.postgresql.org/)
+- [@roadmap@Visit the Dedicated PostgreSQL DBA Roadmap](https://roadmap.sh/postgresql-dba)
 - [@official@PostgreSQL Documentation](https://www.postgresql.org/docs/)
-- [@article@History of POSTGRES to PostgreSQL](https://www.postgresql.org/docs/current/history.html)
+- [@article@Introduction to PostgreSQL](https://www.w3schools.com/postgresql/postgresql_intro.php)
+- [@video@Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)

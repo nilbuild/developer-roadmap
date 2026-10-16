@@ -4,5 +4,6 @@ Apache Spark is a distributed computing framework for processing large datasets 
 
 Visit the following resources to learn more:
 
-- [@official@ApacheSpark](https://spark.apache.org/documentation.html)
+- [@official@ApacheSpark Docs](https://spark.apache.org/docs/latest/)
 - [@article@Spark By Examples](https://sparkbyexamples.com)
+- [@video@PySpark - Zero to Hero | PySpark Tutorial](https://www.youtube.com/playlist?list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm)

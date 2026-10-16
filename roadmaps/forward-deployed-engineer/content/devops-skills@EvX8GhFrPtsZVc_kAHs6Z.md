@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@What Is DevOps? A Guide to the Basics](https://www.coursera.org/articles/what-is-devops)
 - [@video@DevOps In 5 Minutes](https://www.youtube.com/watch?v=Xrgk023l4lI)
+- [@video@DevOps Engineering Course for Beginners](https://www.youtube.com/watch?v=j5Zsa_eOXeY)

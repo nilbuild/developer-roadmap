@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@What is backend? A comprehensive intro to server-side development](https://alokai.com/blog/what-is-backend)
 - [@video@How The Backend Works](https://www.youtube.com/watch?v=4r6WdaY3SOA)
+- [@video@Complete Backend Course](https://www.youtube.com/watch?v=rOpEN1JDaD0)

@@ -4,7 +4,7 @@ Go is a statically typed, compiled language developed by Google, designed for si
 
 Visit the following resources to learn more:
 
-- [@roadmap@Visit the Dedicated Go Developer Roadmap](https://roadmap.sh/golang)
-- [@official@Go](https://go.dev/)
+- [@roadmap@Visit the Dedicated Go Roadmap](https://roadmap.sh/golang)
 - [@official@Go Documentation](https://go.dev/doc/)
 - [@official@Get Started with Go](https://go.dev/doc/tutorial/getting-started)
+- [@video@Learn GO Fast: Full Tutorial](https://www.youtube.com/watch?v=8uiZC0l4Ajw)

@@ -4,7 +4,7 @@ Context engineering is the practice of strategically curating, structuring, and 
 
 Visit the following resources to learn more:
 
-- [@article@What is a Context Window in AI?](https://www.ibm.com/think/topics/context-window)
-- [@article@What Is an AI Context Window?](https://www.coursera.org/articles/context-window)
-- [@article@Cutting Through the Noise: Smarter Context Management for LLM-Powered Agents](https://blog.jetbrains.com/research/2025/12/efficient-context-management/)
-- [@video@What is a Context Window? Unlocking LLM Secrets](https://www.youtube.com/watch?v=-QVoIxEpFkM)
+- [@article@What Is Context Engineering? | IBM](https://www.ibm.com/think/topics/context-engineering)
+- [@article@Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+- [@article@Context Engineering for AI Agents: A Deep Dive](https://towardsdatascience.com/deep-dive-into-context-engineering-for-ai-agents/)
+- [@video@Context engineering explained: What every AI developer should know](https://www.youtube.com/watch?v=BBPQYtR7oUk)

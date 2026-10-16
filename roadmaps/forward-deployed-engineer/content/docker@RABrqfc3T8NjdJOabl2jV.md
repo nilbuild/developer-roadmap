@@ -5,5 +5,5 @@ Docker is the leading platform for building, shipping, and running containers. A
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Docker Roadmap](https://roadmap.sh/docker)
-- [@official@Docker](https://www.docker.com/)
 - [@official@Docker Docs](https://docs.docker.com/)
+- [@video@Docker Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=pg19Z8LL06w)

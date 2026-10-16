@@ -5,6 +5,6 @@ JavaScript is the scripting language that runs in web browsers, giving web pages
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated JavaScript Roadmap](https://roadmap.sh/javascript)
-- [@opensource@You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
-- [@article@JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [@article@The Modern JavaScript Tutorial](https://javascript.info/)
+- [@course@JavaScript Essentials 1](https://www.netacad.com/courses/javascript-essentials-1?courseLang=en-US)
+- [@official@JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [@video@JavaScript Tutorial Full Course - Beginner to Pro](https://www.youtube.com/watch?v=EerdGm-ehJQ)

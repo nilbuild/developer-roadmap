@@ -5,4 +5,5 @@ User Acceptance Testing (UAT) is the process by which a customer's own team vali
 Visit the following resources to learn more:
 
 - [@article@What is User Acceptance Testing (UAT)?](https://www.guru99.com/user-acceptance-testing.html)
+- [@article@User Acceptance Testing (UAT): Definition, Types & Best Practices](https://www.splunk.com/en_us/blog/learn/user-acceptance-testing-uat.html)
 - [@video@How to plan your UAT](https://www.youtube.com/watch?v=AU8SV7091-s)

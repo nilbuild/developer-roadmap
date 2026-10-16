@@ -4,7 +4,8 @@ NoSQL databases store data in formats other than traditional relational tables, 
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated MongoDB Roadmap](https://roadmap.sh/mongodb)
+- [@roadmap@Visit the Dedicated Redis Roadmap](https://roadmap.sh/redis)
 - [@article@Types of NoSQL Databases: How to Choose the Right One](https://roadmap.sh/backend/types-of-nosql-databases)
-- [@article@NoSQL Explained](https://www.mongodb.com/nosql-explained)
 - [@video@How do NoSQL Databases work](https://www.youtube.com/watch?v=0buKQHokLK8)
 - [@video@SQL vs NoSQL Explained](https://www.youtube.com/watch?v=ruz-vK8IesE)

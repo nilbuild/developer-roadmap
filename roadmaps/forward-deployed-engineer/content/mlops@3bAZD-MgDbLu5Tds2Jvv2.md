@@ -4,7 +4,7 @@ MLOps applies DevOps principles to machine learning systems, covering the proces
 
 Visit the following resources to learn more:
 
-- [@roadmap@Visit the Dedicated MLOps Roadmap](https://roadmap.sh/mlops)
 - [@article@What is MLOps?](https://aws.amazon.com/what-is/mlops/)
 - [@article@Machine Learning Operations (MLOps) For Beginners](https://towardsdatascience.com/machine-learning-operations-mlops-for-beginners-a5686bfe02b2/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
 - [@article@MLOps: What It Is, Why It Matters, and How to Implement It](https://web.archive.org/web/20251126053103/https://neptune.ai/blog/mlops)
+- [@video@MLOps Course – Build Machine Learning Production Grade Projects](https://www.youtube.com/watch?v=-dJPoLm_gtE)

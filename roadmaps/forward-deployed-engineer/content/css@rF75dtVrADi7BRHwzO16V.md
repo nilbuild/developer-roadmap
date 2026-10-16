@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated CSS Roadmap](https://roadmap.sh/css)
 - [@article@Web.dev by Google — Learn CSS](https://web.dev/learn/css/)
+- [@video@CSS Tutorial – Full Course for Beginners](https://www.youtube.com/watch?v=OXGznpKZ_sA&t=25s)

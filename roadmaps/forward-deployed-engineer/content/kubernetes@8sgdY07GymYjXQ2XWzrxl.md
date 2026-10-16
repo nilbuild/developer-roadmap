@@ -5,6 +5,6 @@ Kubernetes is an open-source container orchestration system that automates the d
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Kubernetes Roadmap](https://roadmap.sh/kubernetes)
-- [@official@Kubernetes Documentation](https://kubernetes.io/)
+- [@official@Kubernetes Docs](https://kubernetes.io/docs/home/)
 - [@article@Introduction of Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)
 - [@video@Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do)

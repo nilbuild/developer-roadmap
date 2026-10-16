@@ -5,4 +5,6 @@ React is a JavaScript library for building user interfaces using a component-bas
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated React Developer Roadmap](https://roadmap.sh/react)
-- [@official@React Website](https://react.dev)
+- [@official@React Docs](https://es.react.dev/index)
+- [@article@Introduction to React](https://www.w3schools.com/react/react_intro.asp)
+- [@video@React Tutorial Full Course - Beginner to Pro](https://www.youtube.com/watch?v=TtPXvEcE11E)

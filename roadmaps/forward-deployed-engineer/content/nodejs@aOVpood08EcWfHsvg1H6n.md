@@ -5,6 +5,6 @@ Node.js is a JavaScript runtime built on Chrome's V8 engine that lets developers
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Node.js Developer Roadmap](https://roadmap.sh/nodejs)
-- [@official@Node.js](https://nodejs.org/en/about/)
 - [@official@Node.js - Getting Started](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-- [@video@What is Node.js?](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
+- [@article@Node.js Introduction](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+- [@video@Node.js Crash Course](https://www.youtube.com/watch?v=32M1al-Y6Ag)

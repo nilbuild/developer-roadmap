@@ -5,5 +5,4 @@ Containers are a lightweight way to package an application along with its depend
 Visit the following resources to learn more:
 
 - [@article@What are Containers?](https://cloud.google.com/learn/what-are-containers)
-- [@article@What is a Container?](https://www.docker.com/resources/what-container/)
 - [@video@What are Containers?](https://www.youtube.com/playlist?list=PLawsLZMfND4nz-WDBZIj8-nbzGFD4S9oz)

@@ -4,6 +4,6 @@ Gemini is Google DeepMind's family of multimodal AI models, capable of processin
 
 Visit the following resources to learn more:
 
-- [@official@Google Gemini](https://gemini.google.com/)
-- [@official@Google's Gemini Documentation](https://workspace.google.com/solutions/ai/)
-- [@video@Welcome to the Gemini era](https://www.youtube.com/watch?v=_fuimO6ErKI)
+- [@official@Google's Gemini Docs](https://workspace.google.com/solutions/ai/)
+- [@article@What is Google Gemini?](https://zapier.com/blog/google-gemini/)
+- [@article@How To Master Google Gemini in 2026 (Free Course)](https://www.youtube.com/watch?v=-_FizlRlfYs)

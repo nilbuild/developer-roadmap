@@ -5,5 +5,6 @@ SQL, or Structured Query Language, is the standard language for interacting with
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated SQL Roadmap](https://roadmap.sh/sql)
-- [@article@SQL Tutorial - Mode](https://mode.com/sql-tutorial/)
+- [@course@Complete Course to Master Practical SQL](https://roadmap.sh/courses/sql)
 - [@article@SQL Tutorial](https://www.sqltutorial.org/)
+- [@video@Learn SQL In 60 Minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo)

@@ -5,4 +5,5 @@ Three backgrounds tend to transition well into the FDE role: software engineers,
 Visit the following resources to learn more:
 
 - [@article@How to Become a Forward Deployed Engineer:](https://fde.academy/blog/how-to-become-a-forward-deployed-engineer)
+- [@article@How to Transition from a Developer or Architect to AI FDE roles](https://newsletter.bigtechcareers.com/p/how-to-transition-from-a-developer)
 - [@article@The Definitive Guide to Forward Deployed Engineer Interviews in 2026](https://www.sundeepteki.org/advice/the-definitive-guide-to-forward-deployed-engineer-interviews-in-2026)

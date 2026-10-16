@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Git and GitHub Roadmap](https://roadmap.sh/git-github)
 - [@official@Getting Started - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- [@official@Creating an account on GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 - [@article@What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [@video@Git & GitHub Crash Course for Beginners \[2026\]](https://www.youtube.com/watch?v=mAFoROnOfHs)

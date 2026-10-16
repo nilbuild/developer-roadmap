@@ -5,3 +5,5 @@ API design is the process of defining how services communicate with each other t
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated API Design Roadmap](https://roadmap.sh/api-design)
+- [@article@What is API design?](https://www.ibm.com/think/topics/api-design)
+- [@video@APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=WXsD0ZgxjRw)
