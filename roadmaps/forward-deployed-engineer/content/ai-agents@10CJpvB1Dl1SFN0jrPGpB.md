@@ -1,5 +1,5 @@
 # AI Agents
- 
+
 AI agents are systems where a language model is given tools and a goal, and takes a sequence of actions to complete a task rather than responding to a single prompt. Agents can call APIs, search the web, write and run code, and read files. In practice, most well-designed agents use one LLM call as an orchestrating layer with a series of tool calls around it. The guiding principle is to start with the smallest unit of autonomy, prove it works, and only then expand what the agent is allowed to do.
 
 Visit the following resources to learn more:

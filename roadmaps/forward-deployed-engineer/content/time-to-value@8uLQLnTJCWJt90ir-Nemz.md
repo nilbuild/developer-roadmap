@@ -1,3 +1,3 @@
 # Time-to-Value
- 
+
 Time-to-value is the elapsed time between the start of an engagement and the moment the customer has something they can actually use. Compressing it means shipping a working feature early rather than designing the perfect system, prioritizing the work that demonstrates the most value first, and sequencing deliverables so that trust builds incrementally. An engagement that produces something useful in week one and keeps improving is almost always better received than one that produces something polished in week six.

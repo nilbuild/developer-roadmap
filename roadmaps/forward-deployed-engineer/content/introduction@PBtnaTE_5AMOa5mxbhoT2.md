@@ -6,3 +6,5 @@ Visit the following resources to learn more:
 
 - [@article@Forward deployed engineer is AI’s hottest job](https://thenewstack.io/forward-deployed-engineer-fde-openai-google/)
 - [@article@Forward-deployed engineer: The complete guide](https://www.rocketlane.com/blogs/forward-deployed-engineer)
+- [@video@How to Become a Forward Deployed Engineer in 2026](https://www.youtube.com/watch?v=vLlIBT0HSSc)
+- [@video@Forward Deployed Engineer Full Course](https://www.youtube.com/playlist?list=PLWSlr9idVBc0)

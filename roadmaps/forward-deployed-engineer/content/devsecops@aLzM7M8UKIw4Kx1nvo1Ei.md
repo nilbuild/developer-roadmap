@@ -1,5 +1,5 @@
 # DevSecOps
- 
+
 DevSecOps integrates security practices directly into the DevOps pipeline rather than treating security as a final gate before release. This includes automated security scanning in CI/CD, dependency vulnerability checks, secrets management, and security review as part of the development process. The goal is to catch and fix security issues early and continuously rather than at the end.
 
 Visit the following resources to learn more:

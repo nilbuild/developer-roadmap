@@ -4,4 +4,6 @@ The FDE job has three phases: audit, evals, and deployment. In the audit phase, 
 
 Visit the following resources to learn more:
 
-- [@article@Forward-deployed engineer: The complete guide](https://www.rocketlane.com/blogs/forward-deployed-engineer)
+- [@article@Forward Deployed Engineer (FDE) : What Is It, Skills and Scope](https://fde.academy/blog/forward-deployed-engineer)
+- [@article@Forward Deployed Engineer: The Complete 2026 Report- Origin, Demand, Roles, Salary & More](https://www.uplers.com/article/forward-deployed-engineer-guide/)
+- [@video@This Is How Forward Deployed Engineering Is Actually Done](https://www.youtube.com/watch?v=AD-EmZ3v6-g)

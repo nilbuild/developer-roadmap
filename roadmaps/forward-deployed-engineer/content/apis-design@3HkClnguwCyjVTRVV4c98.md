@@ -1,5 +1,5 @@
 # APIs Design
- 
+
 API design is the process of defining how services communicate with each other through well-structured interfaces. Good API design involves choosing the right protocol (REST, GraphQL, gRPC), defining clear resource models, handling errors consistently, and versioning carefully. A well-designed API is predictable, easy to use, and stable over time.
 
 Visit the following resources to learn more:

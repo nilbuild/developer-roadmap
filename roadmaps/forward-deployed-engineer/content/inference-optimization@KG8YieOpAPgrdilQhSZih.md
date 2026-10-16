@@ -1,3 +1,3 @@
 # Inference Optimization
- 
+
 Inference optimization refers to techniques for making model predictions faster and cheaper without significantly reducing quality. Common approaches include quantization (reducing numerical precision), distillation (training a smaller model to mimic a larger one), caching repeated requests, and batching. These optimizations are especially relevant for LLMs, where inference costs can be substantial at scale.

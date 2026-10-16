@@ -1,5 +1,5 @@
 # Memory & State Management
- 
+
 Memory in AI agents refers to how information is stored and retrieved across steps in a conversation or task. Short-term memory lives in the context window, while long-term memory requires external storage like a database or vector store. Managing state well is important for agents that need to track progress, avoid repetition, and stay consistent over longer interactions.
 
 Visit the following resources to learn more:
