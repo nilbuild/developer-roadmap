@@ -1,0 +1,3 @@
+# Rust
+
+Rust is a systems programming language that focuses on safety, speed, and concurrency. It manages memory through a unique ownership model with strict compiler checks, which allows developers to prevent common bugs like null pointer dereferences and buffer overflows without needing a garbage collector. It offers high-level abstractions with the performance of low-level languages like C++, enabling the creation of efficient and reliable software for performance-critical applications.

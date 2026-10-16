@@ -1,0 +1,3 @@
+# System of Record
+ 
+A system of record is the authoritative source of truth for a particular type of data within an organization. For customer data it might be Salesforce. For financial data it might be SAP. For HR data it might be Workday. Identifying the system of record early in an engagement matters because any system that touches that data needs to integrate with it correctly, not with a copy or a cache that may be stale.

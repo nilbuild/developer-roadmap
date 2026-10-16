@@ -1,0 +1,3 @@
+# RAGs
+ 
+Retrieval-Augmented Generation (RAG) is a pattern where relevant documents or data are fetched from a knowledge source and injected into a model's context before generating a response. This gives the model access to specific or up-to-date information without requiring fine-tuning. RAG systems typically combine a retrieval step (using embeddings or search) with a generation step (using an LLM).

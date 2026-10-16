@@ -1,0 +1,3 @@
+# The Delta
+ 
+The Delta is the original term Palantir used for what is now called an FDE. It refers to the gap between what a software product does out of the box and what a specific customer actually needs. A Delta is both a role (the engineer who closes that gap) and a concept (the custom work required to make a product work in a real environment). In FDE interviews, you may be asked to identify the Delta in a given customer scenario, meaning the specific technical or workflow gap that needs to be bridged.

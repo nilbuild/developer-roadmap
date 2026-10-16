@@ -1,0 +1,3 @@
+# Data Warehouses
+ 
+A data warehouse is a system optimized for analytical queries across large volumes of structured data. The major platforms in enterprise environments are Snowflake, Google BigQuery, and Amazon Redshift. Unlike operational databases, warehouses are designed for reading and aggregating data rather than frequent writes, and they typically sit at the center of a company's analytics and BI infrastructure.

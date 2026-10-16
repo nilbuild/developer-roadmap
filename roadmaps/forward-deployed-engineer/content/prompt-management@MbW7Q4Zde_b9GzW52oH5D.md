@@ -1,0 +1,3 @@
+# Prompt Management
+
+Prompt management is the systematic process of creating, versioning, testing, and refining the text inputs used to guide large language models toward desired outputs. It involves maintaining a structured library of effective prompt templates, tracking how specific changes in phrasing impact model performance, and integrating these prompts into the application development lifecycle. By treating prompts as code, engineers can ensure consistency across different model versions, optimize for latency and cost, and provide a reliable interface for interacting with generative AI systems.

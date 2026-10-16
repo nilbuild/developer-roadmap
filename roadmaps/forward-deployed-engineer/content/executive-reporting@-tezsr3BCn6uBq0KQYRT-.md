@@ -1,0 +1,3 @@
+# Executive Reporting
+ 
+Executive reporting is the practice of communicating the status of a technical engagement to non-technical decision makers in a format they can act on. A good executive update leads with value delivered, not tasks completed. It flags risks clearly and pairs each one with a required action or decision. It connects technical milestones to business outcomes so the reader understands why the work matters, not just that it is happening.

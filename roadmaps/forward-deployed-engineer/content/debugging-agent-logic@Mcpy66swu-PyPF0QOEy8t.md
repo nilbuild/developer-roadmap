@@ -1,0 +1,3 @@
+# Debugging Agent Logic
+ 
+Debugging AI agent logic involves tracing through the sequence of reasoning steps, tool calls, and decisions an agent made to find where it went wrong. This is harder than debugging traditional code because agent behavior is non-deterministic and depends on model outputs. Structured logging, step-by-step traces, and replay capabilities are the main tools for making agent failures visible and reproducible.

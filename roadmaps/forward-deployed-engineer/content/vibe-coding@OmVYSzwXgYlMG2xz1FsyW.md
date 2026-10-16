@@ -1,0 +1,3 @@
+# Vibe Coding
+ 
+Vibe coding refers to using AI-assisted tools to write, edit, and iterate on code through natural language interaction, at a higher level of abstraction than traditional coding. Instead of writing every line manually, the developer describes intent and guides the AI to produce working code, reviewing and refining the output. It is a workflow shift made possible by capable code-generation models.

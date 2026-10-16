@@ -1,0 +1,3 @@
+# UAT
+ 
+User Acceptance Testing (UAT) is the process by which a customer's own team validates that a system works correctly before it goes into production. It typically involves preparing test scripts, defining acceptance criteria, and supporting the customer during testing. Passing UAT is usually the formal gate before a system is considered delivered, and it is often where last-minute scope issues surface.
