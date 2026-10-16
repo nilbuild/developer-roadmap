@@ -5,4 +5,5 @@ Codex is an AI model created by OpenAI that translates natural language into cod
 Visit the following resources to learn more:
 
 - [@official@Codex - Official Website](https://chatgpt.com/codex)
+- [@article@Claude Code or Codex? How to Pick the Right AI Agent](https://roadmap.sh/claude-code/vs-codex)
 - [@video@Getting started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I)

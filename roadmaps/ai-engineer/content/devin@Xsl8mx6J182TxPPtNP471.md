@@ -1,9 +1,10 @@
-# Devin
+# OpenCode
 
-Devin is an autonomous AI software engineer capable of handling entire development projects from start to finish. It functions by planning, writing, debugging, and deploying code through a simulated environment that mirrors a human developer’s workflow. Originally developed by Cognition, this tool—formerly known as Windsurf—integrates directly into the development process to execute complex tasks, manage terminal commands, and navigate browser-based documentation independently.
+OpenCode is an open-source, MIT-licensed, model-agnostic terminal agent built by Anomaly, formerly known as SST. It has grown rapidly over the years, garnering hundreds of thousands of GitHub stars and contributions from hundreds of developers. OpenCode is built around giving you control over which models and providers you use, rather than tying your workflow to a single provider.
 
 Visit the following resources to learn more:
 
-- [@official@Devin Docs](https://docs.devin.ai/get-started/devin-intro)
-- [@video@Devin AI Is the Future of Coding… Full Tutorial](https://www.youtube.com/watch?v=GFlFABWeqDc)
-- [@video@Devin AI Tutorial - 2026 | How to Use Devin AI? (Step-by-step Guide)](https://www.youtube.com/watch?v=X533xEtOEDo)
+- [@official@OpenCode Docs](https://opencode.ai/v2/docs)
+- [@article@OpenCode Tutorial](https://opencode-tutorial.com/en)
+- [@article@Claude Code vs OpenCode: Which Coding Agent Fits You?](https://roadmap.sh/claude-code/vs-opencode)
+- [@video@OpenCode Tutorial for Beginners: Learn 90% Of OpenCode in Under 25 Minutes](https://www.youtube.com/watch?v=QzqaZshQcJI)
