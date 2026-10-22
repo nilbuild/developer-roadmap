@@ -1,0 +1,3 @@
+# Public Cloud
+ 
+A public cloud is infrastructure owned and operated by a third-party provider and shared across multiple customers. AWS, GCP, and Azure are public clouds. Resources are provisioned on demand over the internet, and the provider is responsible for all physical hardware and data center operations. Public cloud is the default choice for most modern applications due to its scale, global reach, and breadth of managed services.

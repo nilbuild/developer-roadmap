@@ -1,0 +1,3 @@
+# Microservices Communication
+ 
+Services in a microservices architecture communicate either synchronously or asynchronously. Synchronous communication uses HTTP/REST or gRPC: the caller waits for a response before continuing. Asynchronous communication uses message queues (SQS, RabbitMQ) or event streams (Kafka, Pub/Sub): the caller publishes a message and continues without waiting. Asynchronous patterns improve resilience and decouple services from each other's availability, but make tracing and debugging more complex.

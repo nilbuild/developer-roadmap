@@ -1,0 +1,3 @@
+# Subnets & Routing
+ 
+A VPC is divided into subnets, each assigned a CIDR block and typically tied to a specific availability zone. Public subnets have a route to an internet gateway, making resources in them reachable from the internet. Private subnets have no direct internet route and are used for databases, internal services, and anything that should not be publicly accessible. Routing tables define how traffic moves between subnets, to the internet, or to connected on-premises networks.

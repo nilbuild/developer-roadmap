@@ -1,0 +1,3 @@
+# RBAC
+ 
+RBAC (Role-Based Access Control) assigns permissions to roles rather than to individual users. Users or service accounts are then assigned roles, inheriting the permissions those roles define. This simplifies permission management at scale: instead of editing hundreds of individual user policies, you manage a smaller set of roles. Cloud providers implement RBAC through IAM role policies (AWS), IAM roles and bindings (GCP), and Azure Role Assignments. Kubernetes also uses RBAC to control access to cluster resources.

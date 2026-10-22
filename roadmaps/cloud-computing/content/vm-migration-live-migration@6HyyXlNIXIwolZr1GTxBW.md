@@ -1,0 +1,3 @@
+# VM Migration, Live Migration
+ 
+VM migration moves a virtual machine from one physical host to another. Standard migration requires the VM to be powered off, causing downtime. Live migration transfers the VM's memory state while it continues running, making the move invisible to users and applications. Cloud providers use live migration for hardware maintenance, load balancing across physical hosts, and fault tolerance when hardware shows signs of failure.

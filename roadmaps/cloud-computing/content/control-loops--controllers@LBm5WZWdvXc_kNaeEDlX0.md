@@ -1,0 +1,3 @@
+# Control Loops & Controllers
+ 
+The core operating principle of Kubernetes is the control loop. A controller watches the current state of a resource, compares it to the desired state defined in the spec, and takes corrective action if they differ. If a Deployment specifies three replicas and only two are running, the controller creates a third. This reconciliation loop runs continuously, making Kubernetes self-healing by design. Custom controllers and operators extend this pattern to manage application-specific resources using the same model.

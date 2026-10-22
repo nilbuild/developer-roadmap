@@ -1,0 +1,3 @@
+# VPN & Direct Connect
+ 
+VPN (Virtual Private Network) tunnels encrypted traffic between an on-premises network and a cloud VPC over the public internet. It is quick to set up and low cost but shares bandwidth with internet traffic. Direct Connect (AWS), Cloud Interconnect (GCP), and ExpressRoute (Azure) provide dedicated private circuits between on-premises infrastructure and the cloud, offering lower and more consistent latency, higher throughput, and no exposure to public internet congestion. Direct connections are used for production hybrid architectures where VPN performance is insufficient.

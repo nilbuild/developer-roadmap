@@ -1,0 +1,3 @@
+# CI/CD
+ 
+CI/CD (Continuous Integration and Continuous Delivery) is the practice of automating the build, test, and deployment of software so that changes can be released reliably and frequently. In cloud environments, CI/CD pipelines integrate with container registries, IaC tools, and orchestration platforms to take code from a developer's commit to a running production workload with minimal manual steps.

@@ -1,0 +1,3 @@
+# Bare Metal Cloud
+ 
+Bare metal cloud gives you exclusive access to a physical server with no hypervisor layer. You get the full resources of the machine without virtualization overhead, which matters for workloads that require maximum I/O performance, low and predictable latency, or cannot run in a virtualized environment due to licensing or compliance constraints. AWS, GCP, and Azure all offer bare metal options alongside their standard VM instances.

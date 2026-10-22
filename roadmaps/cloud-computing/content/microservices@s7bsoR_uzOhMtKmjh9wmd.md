@@ -1,0 +1,3 @@
+# Microservices
+ 
+Microservices is an architectural style that structures an application as a collection of small, independently deployable services, each responsible for a specific business capability and owning its own data store. Services communicate over APIs or message queues rather than sharing a database. The approach enables teams to develop, deploy, and scale services independently, but introduces operational complexity in service discovery, distributed tracing, and failure handling that a monolithic application does not have.

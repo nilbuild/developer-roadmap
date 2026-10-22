@@ -1,0 +1,3 @@
+# Databases
+ 
+Databases in the cloud are available as managed services, where the provider handles provisioning, patching, backups, replication, and failover. This removes the operational burden of running database software on EC2 instances or bare metal, though it reduces configurability. Most cloud architectures use a mix of database types depending on the access patterns and consistency requirements of each workload.

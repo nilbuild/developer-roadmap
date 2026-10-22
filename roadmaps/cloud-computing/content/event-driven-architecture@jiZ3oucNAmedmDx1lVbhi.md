@@ -1,0 +1,3 @@
+# Event-Driven Architecture
+ 
+Event-driven architecture is a design pattern where services communicate by producing and consuming events rather than making direct calls to each other. An event (a file upload, a database write, a user action, a scheduled trigger) causes one or more functions or services to execute in response. This decouples producers from consumers, making systems easier to scale independently and more resilient to partial failures. It is the natural architectural pattern for serverless workloads.

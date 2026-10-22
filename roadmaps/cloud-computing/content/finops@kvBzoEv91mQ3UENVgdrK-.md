@@ -1,0 +1,3 @@
+# FinOps
+ 
+FinOps (Cloud Financial Operations) is a practice and organizational model for managing cloud spending collaboratively across engineering, finance, and business teams. It brings financial accountability to variable cloud costs by establishing processes for cost visibility, allocation, forecasting, and optimization. FinOps teams define tagging standards, review spending regularly, track unit economics (cost per request, cost per customer), and create feedback loops so engineering teams understand the cost impact of their architectural decisions.

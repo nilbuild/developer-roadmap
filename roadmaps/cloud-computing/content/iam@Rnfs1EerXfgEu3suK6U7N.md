@@ -1,0 +1,3 @@
+# IAM
+ 
+IAM (Identity and Access Management) is the system that controls who can access cloud resources and what they can do with them. Every action in a cloud environment (launching an instance, reading a bucket, calling an API) is authorized through IAM. Identities can be human users, service accounts, or cloud services. Policies attached to identities define allowed actions on specific resources. IAM is the foundation of cloud security; misconfigured IAM policies are one of the most common causes of cloud security incidents.

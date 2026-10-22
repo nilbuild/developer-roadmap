@@ -1,0 +1,3 @@
+# Docker
+ 
+Docker is the most widely used container platform. It provides a CLI and daemon for building container images, running containers, and managing their lifecycle on a single host. A Dockerfile defines the steps to assemble an image: base OS, dependencies, application code, and startup command. Docker also introduced the image registry model, with Docker Hub as the public registry, which became the foundation for how container images are distributed and versioned.

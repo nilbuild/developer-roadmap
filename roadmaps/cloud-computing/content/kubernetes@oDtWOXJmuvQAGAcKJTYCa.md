@@ -1,0 +1,3 @@
+# Kubernetes
+ 
+Kubernetes is the standard container orchestration platform. You define workloads as declarative specs (Pods, Deployments, StatefulSets, Services) and Kubernetes continuously reconciles the actual state of the cluster with the desired state. It handles scheduling, self-healing, scaling, service discovery, and rolling updates. All major cloud providers offer managed Kubernetes services (EKS, GKE, AKS) that handle the control plane, leaving teams responsible only for their workloads and node configuration.

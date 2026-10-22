@@ -1,0 +1,3 @@
+# SaaS
+ 
+SaaS (Software as a Service) delivers fully managed applications over the internet. The provider handles everything: infrastructure, runtime, application code, and updates. Users access the software through a browser or API without managing anything underneath. Gmail, Salesforce, and Slack are SaaS products. From a cloud computing perspective, SaaS is the highest level of abstraction in the service model stack.

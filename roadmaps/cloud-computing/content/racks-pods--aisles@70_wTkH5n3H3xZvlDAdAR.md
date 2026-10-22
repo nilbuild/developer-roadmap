@@ -1,0 +1,3 @@
+# Racks, Pods, & Aisles
+ 
+Servers are housed in vertical metal frames called racks. Racks are grouped into pods, a logical unit of co-located racks managed together for power, cooling, and network purposes. Pods are arranged in rows separated by aisles, which are alternated between hot aisles (where servers exhaust heat) and cold aisles (where cooled air is supplied) to maximize cooling efficiency.

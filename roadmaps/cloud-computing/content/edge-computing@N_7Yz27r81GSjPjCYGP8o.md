@@ -1,0 +1,3 @@
+# Edge Computing
+ 
+Edge computing moves compute closer to where data is generated or consumed, rather than sending everything to a centralized cloud region. This reduces latency for time-sensitive workloads and lowers bandwidth costs by processing data locally before sending summaries or results to the cloud. Edge nodes can be CDN points of presence, on-premises hardware, or small cloud deployments in regional facilities.

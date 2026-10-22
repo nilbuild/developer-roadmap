@@ -1,0 +1,3 @@
+# GitOps
+ 
+GitOps is an operational model where Git is the single source of truth for both application and infrastructure configuration. All changes are made through pull requests and code review; automated pipelines detect changes and apply them to the cluster without manual intervention. Tools like ArgoCD and Flux watch a Git repository and continuously reconcile the cluster state with what is defined there. GitOps combines the auditability and collaboration of version control with the automation of IaC and CI/CD.

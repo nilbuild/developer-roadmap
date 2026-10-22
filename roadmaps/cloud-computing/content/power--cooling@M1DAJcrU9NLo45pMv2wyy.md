@@ -1,0 +1,3 @@
+# Power & Cooling
+ 
+Data centers consume enormous amounts of electricity and generate significant heat. Power is delivered through redundant feeds, uninterruptible power supplies (UPS), and diesel generators to ensure no single failure causes an outage. Cooling systems, including precision air conditioning, liquid cooling, and hot/cold aisle containment, keep hardware within safe operating temperatures and account for a large portion of a data center's energy consumption.

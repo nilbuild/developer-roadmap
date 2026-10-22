@@ -1,0 +1,3 @@
+# Firewalls & Security Groups
+ 
+Security groups are stateful virtual firewalls attached to individual instances or network interfaces. They define which inbound and outbound traffic is allowed by port, protocol, and source IP or security group. Network ACLs (Access Control Lists) operate at the subnet level and are stateless, requiring explicit rules for both directions. Together they form the primary traffic filtering layer in a VPC, controlling what can reach your instances and what your instances can reach.

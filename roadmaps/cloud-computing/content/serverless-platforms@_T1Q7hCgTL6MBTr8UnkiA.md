@@ -1,0 +1,3 @@
+# Serverless Platforms
+ 
+The main serverless platforms are AWS Lambda, Google Cloud Functions, and Azure Functions. Each executes code in short-lived, stateless containers triggered by events from the provider's ecosystem: API Gateway requests, S3 uploads, Pub/Sub messages, database streams, and more. They differ in supported runtimes, maximum execution duration, cold start latency, concurrency limits, and how tightly they integrate with other services on the same platform.

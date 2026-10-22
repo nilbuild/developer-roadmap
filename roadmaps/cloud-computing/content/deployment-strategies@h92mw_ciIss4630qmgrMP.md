@@ -1,0 +1,3 @@
+# Deployment Strategies
+ 
+Deployment strategies control how new application versions are released to minimize risk and downtime. A blue/green deployment maintains two identical environments and switches all traffic from old to new instantly, with fast rollback by switching back. A canary deployment routes a small percentage of traffic to the new version first, monitors for errors, and gradually increases the percentage before full rollout. Rolling deployments replace instances one at a time. Each strategy trades deployment speed for risk control.

@@ -1,0 +1,3 @@
+# Edge vs Cloud
+ 
+Cloud computing centralizes compute in large, efficient data centers with global reach but introduces latency for users and devices far from those regions. Edge computing distributes compute to locations near the source of data or the end user, reducing round-trip time at the cost of smaller, less powerful hardware and more complex operations. The two are complementary: edge handles latency-sensitive or bandwidth-heavy processing locally, while cloud handles storage, analytics, and workloads where centralization is an advantage.

@@ -1,0 +1,3 @@
+# Auto Scaling
+ 
+Auto scaling automatically adjusts the number of running instances based on demand. A scaling policy monitors a metric (CPU utilization, request rate, queue depth) and triggers the addition or removal of instances to match load. Auto scaling groups in AWS, managed instance groups in GCP, and scale sets in Azure implement this pattern. It is the primary mechanism for achieving elasticity in cloud architectures and directly reduces costs by terminating unused capacity during low-traffic periods.

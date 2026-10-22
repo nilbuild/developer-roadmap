@@ -1,0 +1,3 @@
+# Cloud Deployment Models
+
+Cloud deployment models represent the specific environment where cloud resources, such as servers, storage, and networking, are hosted and made accessible to users. These models define who owns the infrastructure, how it is managed, and the level of control and security available to the organization. The primary categories include public clouds, which are managed by third-party providers over the internet; private clouds, which are dedicated to a single organization; and hybrid clouds, which combine both environments to allow data and applications to be shared between them.

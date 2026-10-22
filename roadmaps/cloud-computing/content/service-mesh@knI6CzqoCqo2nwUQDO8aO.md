@@ -1,0 +1,3 @@
+# Service Mesh
+ 
+A service mesh is an infrastructure layer that handles service-to-service communication in a microservices architecture. It manages traffic routing, load balancing, retries, timeouts, circuit breaking, and mutual TLS encryption between services, without any of that logic living in application code. A sidecar proxy (Envoy is the most common) runs alongside each service and intercepts all traffic. Istio and Linkerd are the main implementations. Service meshes add significant operational complexity and are most justified in large deployments with many services.

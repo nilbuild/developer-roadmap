@@ -1,0 +1,3 @@
+# Cloud Service Models
+
+Cloud service models are standardized frameworks that define the different ways computing resources, applications, and infrastructure are delivered to users over the internet. These models—primarily Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS)—categorize services based on how much control the provider manages versus the user. By selecting a specific model, organizations can choose the appropriate level of abstraction, ranging from full control over virtual hardware to simply consuming a finished software product.

@@ -1,0 +1,3 @@
+# Latency & Throughput
+ 
+Latency is the time it takes for a single request to travel from sender to receiver and back. Throughput is the amount of data or number of requests a system can handle per unit of time. Both are used to measure and design cloud system performance: low-latency systems respond quickly to individual requests, while high-throughput systems handle large volumes of work efficiently.

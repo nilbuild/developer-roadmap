@@ -1,0 +1,3 @@
+# Managed Relational DBs
+ 
+Managed relational databases provide SQL-compatible storage with ACID guarantees, automatic backups, and multi-AZ failover, without requiring manual database administration. AWS RDS, Google Cloud SQL, and Azure Database for PostgreSQL are examples. They support common engines (PostgreSQL, MySQL, SQL Server) and handle routine maintenance tasks, letting teams focus on schema design and query optimization rather than server management.

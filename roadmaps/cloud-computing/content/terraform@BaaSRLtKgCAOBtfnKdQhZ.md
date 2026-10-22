@@ -1,0 +1,3 @@
+# Terraform
+ 
+Terraform is a provider-agnostic IaC tool that uses a declarative configuration language (HCL) to define infrastructure across AWS, GCP, Azure, and hundreds of other providers. You describe the desired state of your resources, and Terraform calculates a plan showing what it will create, change, or destroy, then applies it. State is stored in a file or remote backend, enabling collaboration and drift detection. Terraform is the dominant tool for multi-cloud and cloud-agnostic infrastructure management.

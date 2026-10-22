@@ -1,0 +1,3 @@
+# AI/ML Services
+ 
+Cloud providers offer managed AI and machine learning services that remove the need to build and maintain ML infrastructure from scratch. These range from pre-trained model APIs (vision, speech, translation, natural language) to fully managed training and serving platforms (SageMaker, Vertex AI, Azure ML). GPU and TPU instances handle compute-intensive training workloads. Managed vector databases, embedding APIs, and inference endpoints have become standard parts of the cloud AI stack alongside traditional ML pipelines.

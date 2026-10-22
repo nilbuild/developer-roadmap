@@ -1,0 +1,3 @@
+# Cloud Storage
+ 
+Cloud storage provides durable, scalable, and managed storage for different types of data and access patterns. Providers offer multiple storage types suited to different use cases: object storage for unstructured data at scale, block storage for low-latency database volumes, and file storage for shared filesystems. Managing the lifecycle and compliance of stored data is as important as choosing the right storage type

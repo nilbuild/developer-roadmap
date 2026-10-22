@@ -1,0 +1,3 @@
+# Stateless Functions
+
+Stateless functions are small, single-purpose code segments that process data and return a result without saving any information or "state" from previous executions. Each time the function runs, it treats the request as a completely new event, independent of any prior interactions. Because these functions do not rely on stored data on the local server, they can be easily scaled across multiple instances, allowing cloud platforms to instantly spin up or shut down resources based on real-time demand.

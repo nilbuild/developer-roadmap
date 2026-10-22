@@ -1,0 +1,3 @@
+# Cloud vs On-Premises
+ 
+On-premises infrastructure means owning and operating physical servers in your own data center or server room. Cloud infrastructure means renting virtualized resources from a provider who manages the physical layer. The trade-off is control versus convenience: on-premises gives full hardware control and predictable costs at scale, while cloud offers speed, elasticity, and lower upfront investment.

@@ -1,0 +1,3 @@
+# VMs vs Containers
+ 
+Virtual machines virtualize hardware, giving each VM its own OS kernel, which provides strong isolation but comes with significant overhead in memory and startup time. Containers share the host OS kernel and isolate processes using Linux namespaces and cgroups, making them faster to start and more resource-efficient. VMs are preferred when strong isolation or a different OS is required; containers are preferred for running many small, stateless workloads efficiently on shared infrastructure.

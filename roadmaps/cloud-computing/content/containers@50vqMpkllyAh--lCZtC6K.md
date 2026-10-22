@@ -1,0 +1,3 @@
+# Containers
+
+Containers are lightweight, standalone, and executable software packages that include everything needed to run an application, such as code, runtime, system tools, libraries, and settings. They ensure that software runs reliably and consistently regardless of the computing environment. This approach isolates applications from the underlying infrastructure, allowing them to start quickly, share the host system's kernel, and move seamlessly between different development, testing, and production environments.
