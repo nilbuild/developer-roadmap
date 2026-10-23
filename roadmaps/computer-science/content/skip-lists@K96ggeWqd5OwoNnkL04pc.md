@@ -1,6 +1,6 @@
 # Skip Lists
 
-Skip lists are a data structure that allows you to perform operations on a sorted list in O(log n) time. Skip lists are a probabilistic data structure, which means that the probability of a certain operation taking a certain amount of time is a certain value. In the case of skip lists, the probability of an operation taking O(log n) time is 1.
+Skip lists are a data structure that allows you to search, insert and delete in a sorted list in O(log n) time on average. Skip lists are a probabilistic data structure: the level of each element is chosen at random, so O(log n) is the expected time of an operation, not a guarantee. In the worst case, an operation takes O(n) time.
 
 Visit the following resources to learn more:
 
