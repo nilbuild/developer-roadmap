@@ -5,4 +5,4 @@ REST (Representational State Transfer) is an important architectural style used 
 Visit the following resources to learn more:
 
 - [@article@REST API Principles | A Comprehensive Overview](https://blog.dreamfactory.com/rest-apis-an-overview-of-basic-principles)
-- [@article@REST principles](https://ninenines.eu/docs/en/cowboy/2.12/guide/rest_principles/)
+- [@article@REST principles](https://ninenines.eu/docs/en/cowboy/2.20/guide/rest_principles/)
