@@ -9,3 +9,4 @@ Visit the following resources to learn more:
 - [@official@Artifact Registry](https://cloud.google.com/artifact-registry)
 - [@official@Amazon ECR](https://aws.amazon.com/ecr/)
 - [@official@Azure Container Registry](https://azure.microsoft.com/en-in/products/container-registry)
+- [@course@Docker Tag, Push & Pull: Push Images to a Registry (Hands-on)](https://prepare.sh/tutorial/docker-tag-push-pull-push-images-to-a-registry)

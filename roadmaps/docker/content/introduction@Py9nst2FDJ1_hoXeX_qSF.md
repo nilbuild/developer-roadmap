@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Docker](https://www.docker.com/)
 - [@official@Docker Docs](https://docs.docker.com/)
+- [@course@Introduction to Docker: Containers, Images & Your First Container (Hands-on)](https://prepare.sh/tutorial/introduction-to-docker-containers-images-your-first-container)

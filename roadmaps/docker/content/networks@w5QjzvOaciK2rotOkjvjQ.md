@@ -6,4 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Docker Networks](https://docs.docker.com/network/)
 - [@official@Docker Network Commands](https://docs.docker.com/engine/reference/commandline/network/)
+- [@course@Docker Networking Explained: Connect Containers by Name (Hands-on)](https://prepare.sh/tutorial/docker-networking-explained-connect-containers-by-name)
 - [@video@Docker Networking](https://www.youtube.com/watch?v=bKFMS5C4CG0)

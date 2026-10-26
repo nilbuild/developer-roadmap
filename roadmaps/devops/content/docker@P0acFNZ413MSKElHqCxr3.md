@@ -7,4 +7,5 @@ Visit the following resources to learn more:
 - [@roadmap@Visit Dedicated Docker Roadmap](https://roadmap.sh/docker)
 - [@course@DevOps with Docker](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker)
 - [@official@Docker Documentation](https://docs.docker.com/)
+- [@course@Docker Course: Hands-on Tutorials in a Live Docker Sandbox](https://prepare.sh/course/docker-course)
 - [@video@Docker Tutorial](https://www.youtube.com/watch?v=RqTEHSBrYFw)

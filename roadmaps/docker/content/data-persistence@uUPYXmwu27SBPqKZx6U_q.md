@@ -5,3 +5,4 @@ Docker enables you to run containers that are isolated pieces of code, including
 Visit the following resources to learn more:
 
 - [@official@Data Persistence - Docker Documentation](https://docs.docker.com/get-started/docker-concepts/running-containers/persisting-container-data/)
+- [@course@Docker Volumes vs Bind Mounts: How to Persist Container Data (Hands-on)](https://prepare.sh/tutorial/docker-volumes-vs-bind-mounts-how-to-persist-container-data)

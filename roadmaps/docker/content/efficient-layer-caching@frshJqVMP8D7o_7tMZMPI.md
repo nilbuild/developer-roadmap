@@ -5,4 +5,5 @@ When building container images, Docker caches the newly created layers. These la
 Visit the following resources to learn more:
 
 - [@official@Docker Layer Caching](https://docs.docker.com/build/cache/)
+- [@course@Docker Fundamentals: Layers, Directives & Port Mapping (Hands-on)](https://prepare.sh/tutorial/docker-fundamentals-layers-directives-port-mapping)
 - [@video@Layer Caching](https://www.youtube.com/watch?v=_nMpndIyaBU)

@@ -5,3 +5,4 @@ The `docker run` command creates and starts a new container from a specified ima
 Visit the following resources to learn more:
 
 - [@official@Docker Run](https://docs.docker.com/engine/reference/commandline/run/)
+- [@course@Docker Run Flags Explained: -p, -e, --name, logs & exec (Hands-on)](https://prepare.sh/tutorial/docker-run-flags-explained-p-e-name-logs-exec)
