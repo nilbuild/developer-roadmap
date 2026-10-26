@@ -1,6 +1,6 @@
 # Modes
 
-Permission modes are settings that control the level of autonomy the AI has when interacting with your computer. By default, the system operates in Default Mode, where it must ask for your approval before it edits any files or executes shell commands. You can cycle through other levels of authority, such as Accept-Edits Mode, which allows the AI to modify files automatically while still prompting you for terminal commands, or Plan Mode, which restricts the AI to read-only tools so it can research and outline a strategy without making any actual changes. For advanced workflows, specialized states like Delegate Mode exist to limit a "lead" agent to coordinating other sub-agents, while the high-risk Bypass-Permissions Mode removes all approval prompts entirely for use in secure, isolated environments.
+Modes set the level of autonomy Claude Code has in a session. Manual mode asks before edits and shell commands, Accept Edits mode approves file changes and common filesystem commands automatically, and Plan mode keeps Claude read-only while it outlines a strategy. Auto mode has a classifier model check actions in the background instead of prompting you, dontAsk denies every call that would prompt, and Bypass Permissions removes all checks. You switch between modes during a session with the mode shortcut, or you start in one with the --permission-mode flag.
 
 Visit the following resources to learn more:
 

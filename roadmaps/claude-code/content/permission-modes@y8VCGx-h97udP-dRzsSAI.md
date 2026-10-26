@@ -1,6 +1,6 @@
 # Permission Modes
 
-Claude Code features several permission modes that define the balance between autonomy and safety during your session, ranging from Plan mode, which restricts Claude to a read-only state for exploration and strategy without any tool execution, to BypassPermissions mode (often called "YOLO mode"), which grants the AI full autonomy to run any command or edit any file without interruption.
+Permission modes control how much Claude Code can do without asking you first. Manual (default) only runs reads without approval, acceptEdits also allows file edits and common filesystem commands, and plan restricts Claude to research and planning. auto lets a separate classifier model review each action and block risky ones, and it is the built-in starting mode in interactive sessions on recent versions. dontAsk denies anything that would prompt, and bypassPermissions runs everything and should only be used in isolated containers or VMs.
 
 Visit the following resources to learn more:
 

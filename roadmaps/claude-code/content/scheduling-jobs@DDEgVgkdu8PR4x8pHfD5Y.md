@@ -1,6 +1,6 @@
 # Scheduling Jobs
 
-Scheduled tasks let you run prompts automatically on a schedule in Claude Code. You can use the `/loop` command to repeat a prompt at regular intervals (like every 5 minutes or every 2 hours) while your session is open. You can also set one-time reminders for specific times. The tasks run in the background and stop when you close Claude Code. If you need tasks to keep running after you close the program, you should use Cloud or Desktop scheduled tasks instead.
+Scheduling jobs means running Claude Code prompts automatically, without you starting them each time. There are three options. /loop repeats a prompt inside an open session, desktop scheduled tasks run on your machine, and cloud scheduled tasks (formerly called routines) run on Anthropic infrastructure even when your laptop is closed. A cloud task can start from a schedule, an API call, or a GitHub event such as a new pull request. You create them with the /schedule command or on the web.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # Headless mode
 
-Headless mode in Claude Code, enabled by the `-p` (or `--print`) flag, transforms the interactive terminal assistant into a programmable Unix-style utility designed for automation and CI/CD pipelines.
+Headless mode runs Claude Code without the interactive interface by passing the -p (or --print) flag with a prompt. It is part of the Agent SDK and is meant for scripts and CI/CD pipelines. Output can be plain text, json or stream-json, and --json-schema forces the result into a defined structure. Flags like --allowedTools, --permission-mode and --bare control which tools can run and how fast the session starts. For full programmatic control with callbacks and message objects, the Python and TypeScript Agent SDK packages offer the same agent loop.
 
 Visit the following resources to learn more:
 
