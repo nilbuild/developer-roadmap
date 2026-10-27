@@ -29,3 +29,5 @@ Below are some essential Docker commands you'll use frequently:
 *   `docker container stop <container>`: Stop a running container.
 *   `docker container rm <container>`: Remove a stopped container.
 *   `docker image rm <image>`: Remove an image from your local machine.
+*   `docker logs -f <container>`: View live output and logs from a running container.
+*   `docker exec -it <container> sh`: Open an interactive terminal session inside a running container.
