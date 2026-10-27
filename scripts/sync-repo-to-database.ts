@@ -202,13 +202,7 @@ try {
               };
             })
             .sort((a, b) => {
-              const order = [
-                'official',
-                'opensource',
-                'article',
-                'video',
-                'feed',
-              ];
+              const order = allowedOfficialRoadmapTopicResourceType;
               return order.indexOf(a.type) - order.indexOf(b.type);
             })
         : [];
