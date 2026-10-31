@@ -4,8 +4,8 @@ As AI agents capable of autonomous action become more common, AI Red Teamers mus
 
 Visit the following resources to learn more:
 
+- [@course@Agentic Goal Hijacking: Hands-on Exercise](https://ransomleak.com/exercises/agentic-goal-hijack/)
+- [@official@Model Context Protocol - Authorization Specification](https://modelcontextprotocol.io/specification/2025-11-25/basic/authorization)
 - [@article@AI Agents - Learn Prompting](https://learnprompting.org/docs/intermediate/ai_agents)
 - [@article@EmbraceTheRed](https://embracethered.com/)
-- [@official@Model Context Protocol - Authorization Specification](https://modelcontextprotocol.io/specification/2025-11-25/basic/authorization)
 - [@article@GitHub MCP Exploited: Accessing Private Repositories via MCP - Invariant Labs](https://invariantlabs.ai/blog/mcp-github-vulnerability)
-- [@course@Agentic Goal Hijacking: Hands-on Exercise](https://ransomleak.com/exercises/agentic-goal-hijack/)

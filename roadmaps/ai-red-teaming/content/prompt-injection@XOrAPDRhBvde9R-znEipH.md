@@ -5,8 +5,8 @@ Prompt injection is a critical vulnerability tested by AI Red Teamers. They atte
 Visit the following resources to learn more:
 
 - [@course@Advanced Prompt Hacking - Learn Prompting](https://learnprompting.org/courses/advanced-prompt-hacking)
+- [@course@Prompt Injection: Hands-on Exercise Against a Live Assistant](https://ransomleak.com/exercises/clawdbot-prompt-injection/)
 - [@article@Prompt Injection & the Rise of Prompt Attacks](https://www.lakera.ai/blog/guide-to-prompt-injection)
 - [@article@Prompt Injection (Learn Prompting)](https://learnprompting.org/docs/prompt_hacking/injection)
 - [@article@Prompt Injection Attack Explanation (IBM)](https://www.ibm.com/think/insights/prompt-injection-attacks-against-llms)
 - [@article@Prompt Injection: Impact, How It Works & 4 Defense Measures](https://www.tigera.io/learn/guides/llm-security/prompt-injection/)
-- [@course@Prompt Injection: Hands-on Exercise Against a Live Assistant](https://ransomleak.com/exercises/clawdbot-prompt-injection/)
