@@ -4,7 +4,6 @@ Multi-cloud inference distributes GPU capacity across providers and regions to m
 
 Visit the following resources to learn more:
 
-- [@roadmap@Visit the Dedicated Cloud Computing Roadmap](https://roadmap.sh/cloud-computing)
 - [@article@How to Do Agentic AI Inference in a Multicloud, Multi-Model World](https://blog.equinix.com/blog/2025/03/19/how-to-do-agentic-ai-inference-in-a-multicloud-multi-model-world/)
 - [@article@What is multicloud?](https://cloud.google.com/learn/what-is-multicloud?hl=en)
 - [@article@Multi-Cloud GPU Strategy: How to Avoid AI Infrastructure Vendor Lock-In](https://lyceum.technology/magazine/multi-cloud-gpu-avoid-vendor-lock-in/)
