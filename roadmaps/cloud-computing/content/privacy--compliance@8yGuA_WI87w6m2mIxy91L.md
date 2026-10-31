@@ -1,6 +1,6 @@
 # Privacy & Compliance
 
-Cloud compliance means meeting regulatory and legal requirements for how data is stored, processed, and accessed. Common frameworks include GDPR (EU data privacy), HIPAA (US healthcare data), SOC 2 (service organization controls), and PCI DSS (payment card data). Cloud providers offer compliance-ready services and share audit reports, but customers remain responsible for configuring those services correc
+Cloud compliance means meeting regulatory and legal requirements for how data is stored, processed, and accessed. Common frameworks include GDPR (EU data privacy), HIPAA (US healthcare data), SOC 2 (service organization controls), and PCI DSS (payment card data). Cloud providers offer compliance-ready services and share audit reports, but customers remain responsible for configuring those services correctly.
 
 Visit the following resources to learn more:
 
