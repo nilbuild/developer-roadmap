@@ -5,3 +5,5 @@ Claude Code GitLab CI/CD runs Claude Code in GitLab pipeline jobs. You add a job
 Visit the following resources to learn more:
 
 - [@official@Claude Code GitLab CI/C](https://code.claude.com/docs/en/gitlab-ci-cd)
+- [@article@Secure every commit to production with Claude and GitLab](https://about.gitlab.com/blog/claude-security-and-gitlab/)
+- [@video@How To Use Claude Code With GitLab (Full Guide) \[Step By Step Guide\]](https://www.youtube.com/watch?v=-t8Lk16YQpo)

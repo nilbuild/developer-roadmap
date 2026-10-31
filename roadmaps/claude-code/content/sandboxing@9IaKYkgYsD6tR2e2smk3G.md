@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Configure the sandboxed Bash tool](https://code.claude.com/docs/en/sandboxing)
 - [@official@Security](https://code.claude.com/docs/en/security)
+- [@article@Claude Code Sandboxing](https://cobusgreyling.medium.com/claude-code-sandboxing-b33d42b61888)

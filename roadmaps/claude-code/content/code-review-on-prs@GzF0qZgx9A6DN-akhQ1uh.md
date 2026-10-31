@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@official@Code Review](https://code.claude.com/docs/en/code-review)
 - [@official@Set up Code Review](https://code.claude.com/docs/en/code-review-setup)
 - [@official@Customize Code Review](https://code.claude.com/docs/en/code-review-customize)
+- [@article@Claude Code Review: /code-review for Diffs and PRs](https://claudcod.com/blog/claude-code-review-command/)

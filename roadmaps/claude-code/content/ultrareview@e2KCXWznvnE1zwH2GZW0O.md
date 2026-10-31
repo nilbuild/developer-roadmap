@@ -5,3 +5,6 @@ Ultrareview is a deep code review that runs as a cloud session on Anthropic's in
 Visit the following resources to learn more:
 
 - [@official@Find bugs with ultrareview](https://code.claude.com/docs/en/ultrareview)
+- [@article@Claude Code /ultra review: 5 Things You Need to Know Before Running It](https://www.mindstudio.ai/blog/claude-code-ultra-review-5-things-to-know-before-running)
+- [@article@Claude Code Ultrareview: A Verified Multi-Agent Review](https://www.matthewswong.com/en/blog/claude-code-code-review-ultrareview/)
+- [@video@Claude Code advanced features: /review and the new /ultrareview](https://www.youtube.com/watch?v=vzbkBc3PyUY)
