@@ -4,5 +4,5 @@ IPSec (Internet Protocol Security) VPNs operate at the network layer, encrypting
 
 Visit the following resources to learn more:
 
-- [@article@VPN IPsec vs. VPN SSL](https://www.cloudflare.com/es-es/learning/network-layer/ipsec-vs-ssl-vpn/)
+- [@article@IPsec VPNs vs. SSL VPNs](https://www.cloudflare.com/learning/network-layer/ipsec-vs-ssl-vpn/)
 - [@video@What Are the Differences Between SSL VPN and IPsec VPN?](https://www.youtube.com/watch?v=At44WU9EKjQ)

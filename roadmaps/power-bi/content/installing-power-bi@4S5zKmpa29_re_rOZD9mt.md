@@ -4,5 +4,5 @@ Installing Power BI Desktop involves downloading it from the Microsoft Store or 
 
 Visit the following resources to learn more:
 
-- [@official@Download Microsoft Power BI Desktop](https://www.microsoft.com/es-es/download/details.aspx?id=58494)
+- [@official@Download Microsoft Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - [@video@Install Power BI Desktop the RIGHT WAY!](https://www.youtube.com/watch?v=qIt2n46Qa7s)
