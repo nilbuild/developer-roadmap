@@ -1,6 +1,6 @@
 # /permissions
 
-`/permissions` changes what Codex can do without asking, in the middle of a session. You can switch between profiles such as Ask for approval, Approve for me and Full access. Tighten it for risky work and relax it when you trust the task.
+`/permissions` changes what Codex can do without asking, in the middle of a session. You can switch between profiles such as Ask for approval, Approve for me and Full access, the same profiles the desktop app and IDE extension offer. Tighten it for risky work and relax it when you trust the task.
 
 Visit the following resources to learn more:
 
