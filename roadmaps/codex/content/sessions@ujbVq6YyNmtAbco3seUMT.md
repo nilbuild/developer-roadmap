@@ -1,6 +1,6 @@
 # Sessions
 
-A session is a saved Codex conversation, including its context and history. Codex stores your sessions so you can come back to them, branch them and clean them up. You can resume the latest one, fork an earlier one into a new chat, and archive or delete the ones you no longer need.
+A session is a saved Codex chat, including its context and history. Every surface keeps them: the desktop app keeps your projects and chats visible, the mobile app lets you pick up existing conversations, and the CLI stores sessions you can resume, fork, archive or delete. You can return to a session later, branch it to try another approach, and clean up the ones you no longer need.
 
 Visit the following resources to learn more:
 
