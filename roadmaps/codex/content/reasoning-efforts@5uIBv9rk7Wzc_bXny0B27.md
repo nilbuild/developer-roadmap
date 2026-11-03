@@ -1,6 +1,6 @@
 # Reasoning Efforts
 
-Reasoning effort controls how much reasoning budget the model uses before answering. Higher effort helps with planning and hard debugging, and lower effort reduces latency and cost. The levels run from low to extra high, and the options depend on the model. Change it from the composer on the web, with `/model` in the CLI, or with `model_reasoning_effort` in `config.toml`.
+Reasoning effort controls how much reasoning budget the model uses before answering. Higher effort helps with planning and hard debugging, and lower effort reduces latency and cost. The levels run from low to extra high, and the options depend on the model. Change it with `/model` or `model_reasoning_effort` in `config.toml`.
 
 Visit the following resources to learn more:
 
