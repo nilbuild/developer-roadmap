@@ -4,4 +4,4 @@ Typing `@` opens a fuzzy file search in the composer. Choosing a result inserts 
 
 Visit the following resources to learn more:
 
-- [@official@Codex CLI](https://learn.chatgpt.com/docs/cli)
+- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)

@@ -4,5 +4,6 @@
 
 Visit the following resources to learn more:
 
+- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
 - [@official@Models](https://learn.chatgpt.com/docs/models)
 - [@official@Model selection](https://learn.chatgpt.com/docs/model-selection)
