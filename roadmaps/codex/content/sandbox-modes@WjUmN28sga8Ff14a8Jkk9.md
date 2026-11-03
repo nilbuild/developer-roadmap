@@ -5,3 +5,5 @@ The sandbox is an enforced boundary around the commands Codex runs. `read-only` 
 Visit the following resources to learn more:
 
 - [@official@Sandboxing and approvals](https://learn.chatgpt.com/docs/sandboxing)
+- [@article@A Deep Dive into Codex Windows Sandbox](https://jonny-johnson.medium.com/a-deep-dive-into-codex-windows-sandbox-a2489bf4ae91)
+- [@article@Codex Sandbox, Explained](https://www.agent37.com/blog/codex-sandbox)

@@ -6,3 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Non-interactive mode](https://learn.chatgpt.com/docs/non-interactive-mode)
 - [@official@Codex GitHub Action](https://learn.chatgpt.com/docs/github-action)
+- [@article@Codex Security CI/CD overview](https://learn.chatgpt.com/docs/security/cli/ci)
+- [@article@Codex Exec in CI: Practical Guide to Headless OpenAI Agents](https://www.developersdigest.tech/blog/codex-exec-ci-headless-guide)

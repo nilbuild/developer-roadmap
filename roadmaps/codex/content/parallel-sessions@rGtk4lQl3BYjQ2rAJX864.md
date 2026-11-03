@@ -4,5 +4,6 @@ You can run several Codex chats at the same time, each with its own context. Par
 
 Visit the following resources to learn more:
 
-- [@official@Long-running work](https://learn.chatgpt.com/docs/long-running-work)
-- [@official@ChatGPT desktop app](https://learn.chatgpt.com/docs/app)
+- [@article@How to Run Multiple Codex CLI Sessions at Once](https://www.codeagentswarm.com/en/guides/run-multiple-codex-sessions)
+- [@article@Codex CLI multiple sessions: parallel work without branch chaos](https://getbaton.dev/guides/codex-cli-multiple-sessions)
+- [@video@OpenAI Codex Tutorial #11 - Running Tasks in Parallel](https://www.youtube.com/watch?v=Xt7BZYhJXkg)

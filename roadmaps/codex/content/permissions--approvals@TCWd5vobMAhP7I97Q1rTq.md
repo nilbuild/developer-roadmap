@@ -4,5 +4,7 @@ Permissions decide what Codex can do without asking you. Two settings work toget
 
 Visit the following resources to learn more:
 
+- [@official@Permissions](https://learn.chatgpt.com/docs/permissions)
 - [@official@Permission modes](https://learn.chatgpt.com/docs/permission-modes)
+- [@official@Agent approvals & security](https://learn.chatgpt.com/docs/agent-approvals-security#sandbox-and-approvals)
 - [@official@Sandboxing and approvals](https://learn.chatgpt.com/docs/sandboxing)

@@ -5,3 +5,5 @@ A plugin is an installable bundle of capabilities. It can include skills, MCP se
 Visit the following resources to learn more:
 
 - [@official@Plugins](https://learn.chatgpt.com/docs/plugins)
+- [@article@Best Codex Plugins and Tools to Up Your Productivity in 2026](https://composio.dev/content/best-codex-plugins)
+- [@video@Codex Plugins Just Dropped: Skills, Apps, and MCP in One Place](https://www.youtube.com/watch?v=3Q-KGwcsCZY)

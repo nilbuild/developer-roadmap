@@ -4,5 +4,6 @@ Fast mode is a service tier that returns results sooner at a higher credit cost.
 
 Visit the following resources to learn more:
 
-- [@official@Codex pricing](https://learn.chatgpt.com/docs/pricing)
-- [@official@Model selection](https://learn.chatgpt.com/docs/model-selection)
+- [@official@Managing Codex Speed](https://learn.chatgpt.com/docs/agent-configuration/speed)
+- [@official@Fast mode](https://developers.openai.com/api/docs/guides/fast-mode)
+- [@article@Is Codex Fast Mode Worth It? 2.5x the Credits for 1.5x the Speed (I Tested It Live)](https://openclawdc.com/blog/codex-fast-mode-worth-it/)

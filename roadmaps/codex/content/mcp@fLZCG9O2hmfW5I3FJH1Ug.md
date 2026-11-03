@@ -5,3 +5,5 @@ The Model Context Protocol connects Codex to external tools and data. Each serve
 Visit the following resources to learn more:
 
 - [@official@MCP in Codex](https://learn.chatgpt.com/docs/extend/mcp)
+- [@article@OpenAI Codex CLI with the Bright Data MCP Server](https://brightdata.com/blog/ai/codex-cli-with-web-mcp)
+- [@video@OpenAI Codex Tutorial #9 - MCP Servers](https://www.youtube.com/watch?v=zfYEZ3_Nnkc)

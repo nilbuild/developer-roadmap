@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Image inputs](https://learn.chatgpt.com/docs/image-inputs)
 - [@official@Web search](https://learn.chatgpt.com/docs/web-search)
+- [@article@Codex images: attach screenshots, generate images and know the limits](https://kipt.me/guides/codex-images)

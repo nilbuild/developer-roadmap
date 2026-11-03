@@ -5,3 +5,5 @@ The approval policy controls when Codex stops to ask you. The supported values a
 Visit the following resources to learn more:
 
 - [@official@Sandboxing and approvals](https://learn.chatgpt.com/docs/sandboxing)
+- [@official@Agent approvals & security](https://learn.chatgpt.com/docs/agent-approvals-security#sandbox-and-approvals)
+- [@article@Codex CLI approval_policy Configuration: on-request, never, Granular Policies, and Rules](https://smartscope.blog/en/generative-ai/chatgpt/codex-cli-approval-policy-implementation/)

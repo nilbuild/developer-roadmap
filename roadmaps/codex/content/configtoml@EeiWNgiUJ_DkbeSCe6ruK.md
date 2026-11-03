@@ -5,3 +5,6 @@
 Visit the following resources to learn more:
 
 - [@official@Codex configuration](https://learn.chatgpt.com/docs/configuration)
+- [@official@Config basics](https://learn.chatgpt.com/docs/config-file/config-basic)
+- [@article@Codex config.toml (2026): Add Any Custom Provider in 6 Lines](https://www.morphllm.com/codex-provider-configuration)
+- [@article@Codex CLI config.toml Guide 2026](https://majesticlabs.dev/blog/202607/codex-cli-configuration-guide)

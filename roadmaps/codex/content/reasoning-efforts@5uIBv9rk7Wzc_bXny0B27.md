@@ -5,4 +5,5 @@ Reasoning effort controls how much reasoning budget the model uses before answer
 Visit the following resources to learn more:
 
 - [@official@Model selection](https://learn.chatgpt.com/docs/model-selection)
-- [@official@Glossary](https://learn.chatgpt.com/docs/glossary)
+- [@official@Reasoning effort](https://learn.chatgpt.com/docs/config-file/config-basic#reasoning-effort)
+- [@article@Codex Thinking Effort Guide: Levels, Models, Max vs Ultra](https://agiflow.io/blog/codex-model-thinking-effort-guide)
