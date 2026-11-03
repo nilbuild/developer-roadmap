@@ -4,4 +4,4 @@ Resuming reopens a saved chat with its context, so you can continue across days 
 
 Visit the following resources to learn more:
 
-- [@official@CLI commands and flags](https://learn.chatgpt.com/docs/developer-commands?surface=cli)
+- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)

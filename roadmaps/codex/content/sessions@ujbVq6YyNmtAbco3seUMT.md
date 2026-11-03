@@ -4,4 +4,4 @@ A session is a saved Codex chat, including its context and history. Every surfac
 
 Visit the following resources to learn more:
 
-- [@official@CLI commands and flags](https://learn.chatgpt.com/docs/developer-commands?surface=cli)
+- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
