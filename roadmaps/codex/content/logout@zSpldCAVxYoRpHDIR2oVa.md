@@ -4,4 +4,4 @@
 
 Visit the following resources to learn more:
 
-- [@official@CLI command overview](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-command-overview)
+- [@official@codex logout](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-codex-logout)
