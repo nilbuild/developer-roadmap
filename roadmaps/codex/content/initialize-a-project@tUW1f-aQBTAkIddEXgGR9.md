@@ -5,4 +5,4 @@ Initializing a project means creating its first `AGENTS.md`. Run `/init` in the 
 Visit the following resources to learn more:
 
 - [@official@AGENTS.md](https://learn.chatgpt.com/docs/agent-configuration/agents-md)
-- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
+- [@official@CLI built-in slash commands](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-built-in-slash-commands)

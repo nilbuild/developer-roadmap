@@ -4,5 +4,6 @@
 
 Visit the following resources to learn more:
 
-- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
+- [@official@CLI global flags](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-global-flags)
+- [@official@CLI flag combinations and safety tips](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-flag-combinations-and-safety-tips)
 - [@official@Sandboxing and approvals](https://learn.chatgpt.com/docs/sandboxing)

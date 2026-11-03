@@ -4,4 +4,4 @@
 
 Visit the following resources to learn more:
 
-- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
+- [@official@CLI global flags](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-global-flags)
