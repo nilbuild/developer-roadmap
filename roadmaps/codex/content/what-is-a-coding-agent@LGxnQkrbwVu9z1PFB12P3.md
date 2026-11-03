@@ -4,5 +4,7 @@ A coding agent is an AI system that can write, test and debug code on its own to
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated AI Agents Roadmap](https://roadmap.sh/ai-agents)
 - [@official@Codex CLI](https://learn.chatgpt.com/docs/cli)
 - [@official@Glossary](https://learn.chatgpt.com/docs/glossary)
+- [@video@AI Agents, Clearly Explained](https://www.youtube.com/watch?v=FwOTs4UxQS4)

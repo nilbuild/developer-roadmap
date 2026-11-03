@@ -4,6 +4,6 @@ Codex is OpenAI's coding agent. It reads your codebase, edits files, runs comman
 
 Visit the following resources to learn more:
 
-- [@official@Codex CLI](https://learn.chatgpt.com/docs/cli)
 - [@official@Quickstart](https://learn.chatgpt.com/docs/quickstart)
-- [@official@Codex overview](https://learn.chatgpt.com/docs)
+- [@official@Codex 101 - Introduction and Onboarding](https://academy.openai.com/public/clubs/builders-etkn1/resources/codex-101-introduction-and-onboarding-2026-03-18)
+- [@video@OpenAI Codex Crash Course – Build & Deploy Apps with Autonomous AI](https://www.youtube.com/watch?v=o3CX_Y59_74)
