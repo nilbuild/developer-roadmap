@@ -4,4 +4,4 @@ Pressing `Esc` twice on an empty composer lets you edit your previous message. P
 
 Visit the following resources to learn more:
 
-- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
+- [@official@CLI interactive shortcuts](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-interactive-shortcuts)

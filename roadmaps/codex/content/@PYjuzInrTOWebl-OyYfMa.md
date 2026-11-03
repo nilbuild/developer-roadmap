@@ -4,4 +4,4 @@ Starting a prompt with `!` runs the rest as a local shell command instead of sen
 
 Visit the following resources to learn more:
 
-- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
+- [@official@CLI interactive shortcuts](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-interactive-shortcuts)

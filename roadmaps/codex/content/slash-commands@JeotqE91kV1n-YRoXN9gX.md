@@ -4,4 +4,4 @@ Typing `/` in the composer opens the list of built-in slash commands. They contr
 
 Visit the following resources to learn more:
 
-- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
+- [@official@CLI built-in slash commands](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-built-in-slash-commands)

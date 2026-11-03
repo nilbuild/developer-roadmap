@@ -4,6 +4,6 @@
 
 Visit the following resources to learn more:
 
-- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
+- [@official@CLI built-in slash commands](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-built-in-slash-commands)
 - [@official@Models](https://learn.chatgpt.com/docs/models)
 - [@official@Model selection](https://learn.chatgpt.com/docs/model-selection)

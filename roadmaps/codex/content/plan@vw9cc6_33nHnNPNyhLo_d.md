@@ -4,6 +4,6 @@
 
 Visit the following resources to learn more:
 
-- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
+- [@official@CLI built-in slash commands](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-built-in-slash-commands)
 - [@official@Prompting](https://learn.chatgpt.com/docs/prompting)
 - [@official@Long-running work](https://learn.chatgpt.com/docs/long-running-work)
