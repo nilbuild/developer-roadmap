@@ -4,6 +4,6 @@ Deployment strategies control how new application versions are released to minim
 
 Visit the following resources to learn more:
 
-- [@article@CI/CD deployment: top 6 strategies and how to make them work](https://octopus.com/devops/ci-cd/ci-cd-deployment/)
 - [@course@Deployment strategies: Types, trade-offs, and how to choose](https://circleci.com/blog/deployment-strategies-types-trade-offs-and-how-to-choose/#c-consent-modal)
+- [@article@CI/CD deployment: top 6 strategies and how to make them work](https://octopus.com/devops/ci-cd/ci-cd-deployment/)
 - [@video@Top 5 Most-Used Deployment Strategies](https://www.youtube.com/watch?v=AWVTKBUnoIg)
