@@ -4,4 +4,4 @@ Resuming reopens a saved session with its context. Use `codex resume` to pick on
 
 Visit the following resources to learn more:
 
-- [@official@CLI commands and flags](https://learn.chatgpt.com/docs/developer-commands?surface=cli)
+- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
