@@ -83,7 +83,7 @@ Visit the following resources to learn more:
 - `@video@`
 - `@book@`
 
-It's important to add a valid type, this will help us categorize the content and display it properly on the roadmap. The order of the links based on type is same as above.
+It's important to add a valid type, this will help us categorize the content and display it properly on the roadmap. The order of the links based on type is the same as above.
 
 ## Guidelines
 
@@ -93,7 +93,7 @@ It's important to add a valid type, this will help us categorize the content and
 
 - <p><strong>Adding everything available out there is not the goal!</strong><br/>
 
-  The roadmaps represent the skillset most valuable today, i.e., if you were to enter any of the listed fields today, what would you learn? There might be things that are of-course being used today, but prioritize the things that are most in demand today, e.g., agree that lots of people are using angular.js today, but you wouldn't want to learn that instead of React, Angular, or Vue. Use your critical thinking to filter out non-essential stuff. Give honest arguments for why the resource should be included.</p>
+  The roadmaps represent the skillset most valuable today, i.e., if you were to enter any of the listed fields today, what would you learn? There might be things that are of course being used today, but prioritize the things that are most in demand today, e.g., agree that lots of people are using angular.js today, but you wouldn't want to learn that instead of React, Angular, or Vue. Use your critical thinking to filter out non-essential stuff. Give honest arguments for why the resource should be included.</p>
 
 - <p><strong>Do not add things you have not evaluated personally!</strong><br/>
 
@@ -105,7 +105,7 @@ It's important to add a valid type, this will help us categorize the content and
 
 - <p><strong>Write meaningful commit messages</strong><br/>
 
-  Meaningful commit messages help speed up the review process as well as help other contributors gain a good overview of the repositories commit history without having to dive into every commit.
+  Meaningful commit messages help speed up the review process as well as help other contributors gain a good overview of the repository's commit history without having to dive into every commit.
 
   </p>
 - <p><strong>Look at the existing issues/pull requests before opening new ones</strong></p>
@@ -125,7 +125,7 @@ It's important to add a valid type, this will help us categorize the content and
 - Adding whitespace that doesn't add to the readability of the content.
 - Rewriting content in a way that doesn't add any value.
 - Non-English content.
-- PR's that don't follow our style guide, have no description, and a default title.
+- PRs that don't follow our style guide, have no description, and a default title.
 - Links to your own blog articles.
 
 ## Working Locally
