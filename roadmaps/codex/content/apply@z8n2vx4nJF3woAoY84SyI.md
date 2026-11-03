@@ -4,5 +4,5 @@
 
 Visit the following resources to learn more:
 
+- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
 - [@official@Codex Cloud](https://learn.chatgpt.com/docs/cloud)
-- [@official@CLI commands and flags](https://learn.chatgpt.com/docs/developer-commands?surface=cli)

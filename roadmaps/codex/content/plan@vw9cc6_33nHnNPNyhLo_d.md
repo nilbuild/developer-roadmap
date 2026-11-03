@@ -4,5 +4,6 @@
 
 Visit the following resources to learn more:
 
+- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
 - [@official@Prompting](https://learn.chatgpt.com/docs/prompting)
 - [@official@Long-running work](https://learn.chatgpt.com/docs/long-running-work)
