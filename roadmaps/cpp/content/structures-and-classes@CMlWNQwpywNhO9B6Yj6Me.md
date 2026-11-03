@@ -4,5 +4,5 @@ Structures and classes in C++ are blueprints for creating user-defined data type
 
 Visit the following resources to learn more:
 
-- [@article@Clases y structs (C++)](https://learn.microsoft.com/es-es/cpp/cpp/classes-and-structs-cpp?view=msvc-170)
+- [@article@Classes and Structs (C++)](https://learn.microsoft.com/en-us/cpp/cpp/classes-and-structs-cpp?view=msvc-170)
 - [@video@CLASSES vs STRUCTS in C++](https://www.youtube.com/watch?v=fLgTtaqqJp0)
