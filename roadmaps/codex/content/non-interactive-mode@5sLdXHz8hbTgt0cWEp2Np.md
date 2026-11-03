@@ -5,3 +5,5 @@ Non-interactive mode runs Codex without the terminal UI through `codex exec`. Yo
 Visit the following resources to learn more:
 
 - [@official@Non-interactive mode](https://learn.chatgpt.com/docs/non-interactive-mode)
+- [@article@Codex Exec: Run OpenAI Codex Safely from the Terminal](https://www.deployhq.com/blog/codex-exec-terminal-guide)
+- [@article@Codex Exec in CI: Practical Guide to Headless OpenAI Agents](https://www.developersdigest.tech/blog/codex-exec-ci-headless-guide)

@@ -5,3 +5,6 @@ Hooks run your own scripts at points in Codex's lifecycle. Events include `Sessi
 Visit the following resources to learn more:
 
 - [@official@Hooks](https://learn.chatgpt.com/docs/hooks)
+- [@article@Hooks vs. Skills in Codex Plugins](https://www.mindstudio.ai/blog/hooks-vs-skills-codex-plugins-deterministic-checks-never-left-to-model)
+- [@article@Hooks in Codex: What They Are and How to Use](https://www.c-sharpcorner.com/article/hooks-in-codex-what-they-are-and-how-to-use?srsltid=AYCX9vJDbSkDLtY5NRYe4o1zUgQFeccfhPigZvRSYmAAt7yMbLw8KsG6)
+- [@article@Codex Hooks Reference: PreToolUse, PostToolUse, Examples](https://agenticcontrolplane.com/blog/codex-cli-hooks-reference)

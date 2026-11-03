@@ -5,3 +5,5 @@ Subagents are specialized agents that Codex spawns to work in parallel and repor
 Visit the following resources to learn more:
 
 - [@official@Subagents](https://learn.chatgpt.com/docs/agent-configuration/subagents)
+- [@article@OpenAI Codex Subagents: Complete Beginner Guide](https://proflead.dev/posts/codex-subagents-explained/)
+- [@video@Master Codex Subagents In 8 Minutes](https://www.youtube.com/watch?v=1XB22Jx2YXI)

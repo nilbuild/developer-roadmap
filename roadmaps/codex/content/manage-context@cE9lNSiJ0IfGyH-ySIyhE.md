@@ -4,4 +4,6 @@ The context window is the amount of information the model can consider at once. 
 
 Visit the following resources to learn more:
 
-- [@official@Glossary](https://learn.chatgpt.com/docs/glossary)
+- [@official@Prompting](https://learn.chatgpt.com/docs/prompting#context)
+- [@official@Managing the context window](https://developers.openai.com/api/docs/guides/conversation-state?api-mode=responses#managing-the-context-window)
+- [@article@Codex Context Window: Limits, Compaction, and AGENTS.md](https://iceberglakehouse.com/posts/2026-03-context-openai-codex/)

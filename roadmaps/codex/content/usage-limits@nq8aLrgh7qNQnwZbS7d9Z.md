@@ -5,3 +5,6 @@ Included usage is measured in estimated messages per five-hour window for each m
 Visit the following resources to learn more:
 
 - [@official@Codex pricing](https://learn.chatgpt.com/docs/pricing)
+- [@official@Understanding ChatGPT and Codex usage limits](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits)
+- [@article@Codex Usage Limits and Pricing in 2026](https://www.developersdigest.tech/blog/codex-usage-limits-pricing-2026)
+- [@video@Never hit your codex usage limit again!](https://www.youtube.com/watch?v=13_-mbhsbpE)

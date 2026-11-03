@@ -4,5 +4,7 @@ A Git worktree is a second checkout of the same repository, so each task gets it
 
 Visit the following resources to learn more:
 
-- [@official@Glossary](https://learn.chatgpt.com/docs/glossary)
-- [@official@Scheduled tasks](https://learn.chatgpt.com/docs/automations)
+- [@official@Worktrees](https://learn.chatgpt.com/docs/environments/git-worktrees)
+- [@article@Codex App: Worktrees, Automations and Your First Commit](https://omidsaffari.com/blog/codex-app)
+- [@video@Codex App Worktrees: A Practical Workflow](https://www.youtube.com/watch?v=yVU_nqyZ35Q)
+- [@video@Codex Multi-Agent Workflow with Git Worktrees](https://www.youtube.com/watch?v=fVdBEgVE0wI)

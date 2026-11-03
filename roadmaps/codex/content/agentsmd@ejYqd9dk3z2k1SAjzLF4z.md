@@ -5,3 +5,5 @@
 Visit the following resources to learn more:
 
 - [@official@AGENTS.md](https://learn.chatgpt.com/docs/agent-configuration/agents-md)
+- [@article@Codex AGENTS.md: Team Instructions Explained](https://www.verdent.ai/guides/codex-agents-md-explained)
+- [@video@OpenAI Codex Tutorial #6 - Using the AGENTS.md file](https://www.youtube.com/watch?v=NlNuoH5PPl4)
