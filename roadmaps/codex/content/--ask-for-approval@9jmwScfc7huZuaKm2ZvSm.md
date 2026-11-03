@@ -4,4 +4,5 @@
 
 Visit the following resources to learn more:
 
+- [@official@Developer commands](https://learn.chatgpt.com/docs/developer-commands)
 - [@official@Sandboxing and approvals](https://learn.chatgpt.com/docs/sandboxing)
