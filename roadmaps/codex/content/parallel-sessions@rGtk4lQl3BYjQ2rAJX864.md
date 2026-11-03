@@ -1,6 +1,6 @@
 # Parallel Sessions
 
-You can run several Codex chats at the same time, each with its own context. The desktop app keeps every chat and project visible, and the CLI has `codex agents` as a command center. Parallel chats should not edit the same files, so give each one a separate worktree or a separate part of the code. Avoid giving two tasks write access to the same connected source.
+You can run several Codex chats at the same time, each with its own context. Parallel chats should not edit the same files, so give each one a separate worktree or a separate part of the code. Avoid giving two tasks write access to the same connected source. The desktop app and `codex agents` help you track many sessions in one place.
 
 Visit the following resources to learn more:
 

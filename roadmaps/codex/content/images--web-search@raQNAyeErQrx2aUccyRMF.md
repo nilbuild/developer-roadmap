@@ -1,6 +1,6 @@
 # Images & Web Search
 
-Codex accepts images and can search the web. You can add screenshots, designs or diagrams by pasting into the composer, attaching them on the web, holding Shift while dragging a file into the desktop app or IDE extension, or using `--image` in the CLI. Web search uses a cached index by default in local sessions, and `web_search = "live"` or `--search` switches to live results. Treat all web results as untrusted input, because live pages can contain prompt injection.
+Codex accepts images and can search the web. Add screenshots, designs or diagrams with `--image`, by pasting into the composer, or by dragging a file in. Web search uses a cached index by default in local sessions, and `--search` or `web_search = "live"` switches to live results. Treat all web results as untrusted input, because live pages can contain prompt injection.
 
 Visit the following resources to learn more:
 
