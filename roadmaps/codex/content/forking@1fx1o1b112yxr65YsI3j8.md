@@ -4,4 +4,4 @@ Forking copies a session into a new chat and keeps the original transcript uncha
 
 Visit the following resources to learn more:
 
-- [@official@CLI command overview](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-command-overview)
+- [@official@codex fork](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-codex-fork)
