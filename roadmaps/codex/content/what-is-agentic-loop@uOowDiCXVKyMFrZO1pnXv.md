@@ -4,5 +4,7 @@ An agentic loop is the cycle an agent repeats until a task is done. The model re
 
 Visit the following resources to learn more:
 
-- [@official@Glossary](https://learn.chatgpt.com/docs/glossary)
+- [@official@Codex Glossary](https://learn.chatgpt.com/docs/glossary)
 - [@official@Permissions and sandboxing](https://learn.chatgpt.com/docs/sandboxing)
+- [@article@What Is an Agentic Loop? The New Meta for AI Coding Agents](https://www.mindstudio.ai/blog/what-is-an-agentic-loop-ai-coding-agents)
+- [@article@Loop Engineering explained in 8min..](https://www.youtube.com/watch?v=4biXYSNkn9Y&t=404s)
