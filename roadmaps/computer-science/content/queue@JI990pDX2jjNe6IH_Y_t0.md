@@ -4,7 +4,7 @@ A queue is a data structure that processes elements in the order they arrived, f
 
 Visit the following resources to learn more:
 
-- [@course@Data Structures - Coursera](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+- [@course@Queues - Coursera](https://www.coursera.org/lecture/data-structures/queues-EShpq)
 - [@article@Circular Buffer - Wikipedia](https://en.wikipedia.org/wiki/Circular_buffer)
 - [@video@Queue Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=mDCi1lXd9hc)
 - [@video@Queue in 3 Minutes](https://www.youtube.com/watch?v=D6gu-_tmEpQ)
