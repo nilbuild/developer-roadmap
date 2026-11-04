@@ -1,6 +1,6 @@
 # io_uring
 
-io_uring is a Linux kernel interface for asynchronous I/O that uses shared ring buffers between kernel and user space to submit and complete I/O operations with minimal system call overhead. It significantly reduces context switch costs for high-throughput game server networking on Linux.
+io\_uring is a Linux kernel interface for asynchronous I/O that uses shared ring buffers between kernel and user space to submit and complete I/O operations with minimal system call overhead. It significantly reduces context switch costs for high-throughput game server networking on Linux.
 
 Visit the following resources to learn more:
 
