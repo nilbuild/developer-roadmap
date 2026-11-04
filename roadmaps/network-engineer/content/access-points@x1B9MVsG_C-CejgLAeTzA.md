@@ -1,6 +1,6 @@
-# Access Points
+# Access Points & Controllers
 
-A wireless access point (AP) is a networking device that creates a Wi-Fi network by broadcasting a wireless signal and acting as a bridge between wireless clients and the wired network infrastructure. APs connect to the network via an Ethernet uplink to a switch and allow devices like laptops, phones, and tablets to join the network without a physical cable. In home environments, the AP function is typically built into the router, while in enterprise deployments, standalone APs are deployed throughout a building and managed either individually or through a centralized wireless controller.
+Wireless access points (APs) are devices that broadcast Wi-Fi signals and connect wireless clients to a wired network. In larger deployments, multiple access points are managed by a wireless controller, which centralizes configuration, monitoring, and roaming policies across all APs. This controller-based architecture simplifies management and ensures consistent performance and security across the entire wireless network.
 
 Visit the following resources to learn more:
 
