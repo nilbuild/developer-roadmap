@@ -1,6 +1,6 @@
 # Structural Directives
 
-Structural directives are instructions used to modify the layout of the DOM by adding, removing, or manipulating elements. These directives are identified by an asterisk (*) prefix and control the structure of the application view based on specific conditions or data collections. Common examples include *ngIf for conditional rendering and *ngFor for repeating elements based on an array.
+Structural directives are instructions used to modify the layout of the DOM by adding, removing, or manipulating elements. These directives are identified by an asterisk (\*) prefix and control the structure of the application view based on specific conditions or data collections. Common examples include \*ngIf for conditional rendering and \*ngFor for repeating elements based on an array.
 
 Visit the following resources to learn more:
 
