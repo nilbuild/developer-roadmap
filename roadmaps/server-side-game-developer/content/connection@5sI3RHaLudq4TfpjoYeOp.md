@@ -1,6 +1,6 @@
 # Connection
 
-A TCP connection is established through a three-way handshake (SYN, SYN-ACK, ACK) and torn down through a four-way FIN exchange. The connection state machine tracks phases from LISTEN through ESTABLISHED to TIME_WAIT, and understanding it helps diagnose issues like half-open connections and port exhaustion on game servers.
+A TCP connection is established through a three-way handshake (SYN, SYN-ACK, ACK) and torn down through a four-way FIN exchange. The connection state machine tracks phases from LISTEN through ESTABLISHED to TIME\_WAIT, and understanding it helps diagnose issues like half-open connections and port exhaustion on game servers.
 
 Visit the following resources to learn more:
 

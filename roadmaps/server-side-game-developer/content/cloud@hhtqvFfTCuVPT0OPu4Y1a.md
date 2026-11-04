@@ -4,7 +4,6 @@ Cloud platforms provide on-demand compute, networking, storage, and managed serv
 
 Visit the following resources to learn more:
 
-- [@roadmap@Visit the Dedicated Cloud Computing Roadmap](https://roadmap.sh/cloud-computing)
 - [@official@What is Cloud Computing - AWS](https://aws.amazon.com/what-is-cloud-computing/)
 - [@official@Google Cloud Documentation Overview](https://cloud.google.com/docs/overview)
 - [@article@Cloud Computing - Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing)
