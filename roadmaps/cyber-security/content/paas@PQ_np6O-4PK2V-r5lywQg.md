@@ -4,6 +4,5 @@ Platform as a Service (PaaS) is a cloud computing model that delivers a complete
 
 Visit the following resources to learn more:
 
-- [@roadmap@Visit the Dedicated Cloud Computing Roadmap](https://roadmap.sh/cloud-computing)
 - [@article@What is PaaS?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas)
 - [@video@PaaS Explained](https://www.youtube.com/watch?v=QAbqJzd0PEE)

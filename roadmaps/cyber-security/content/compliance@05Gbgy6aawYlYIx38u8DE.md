@@ -4,6 +4,6 @@ Compliance in cybersecurity refers to the adherence to laws, regulations, standa
 
 Visit the following resources to learn more:
 
+- [@course@GDPR and EU AI Act Compliance Exercises](https://ransomleak.com/catalogue/privacy-compliance/)
 - [@article@What is Cyber Security Compliance?](https://www.comptia.org/content/articles/what-is-cybersecurity-compliance)
 - [@article@Cyber Security Compliance 101](https://sprinto.com/blog/cyber-security-compliance/)
-- [@course@GDPR and EU AI Act Compliance Exercises](https://ransomleak.com/catalogue/privacy-compliance/)

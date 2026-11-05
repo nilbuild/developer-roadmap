@@ -4,6 +4,5 @@ Cloud deployment refers to the process of releasing and making an application or
 
 Visit the following resources to learn more:
 
-- [@roadmap@Visit the Dedicated Cloud Computing Roadmap](https://roadmap.sh/cloud-computing)
 - [@article@What is Cloud Deployment?](https://www.cognizant.com/us/en/glossary/cloud-deployment)
 - [@video@Deploying a Website to AWS in Under 1 Minute](https://www.youtube.com/watch?v=goiW0g7A0WE)
