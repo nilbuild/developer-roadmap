@@ -4,6 +4,5 @@ Infrastructure as a Service (IaaS) is a type of cloud computing service that pro
 
 Visit the following resources to learn more:
 
-- [@roadmap@Visit the Dedicated Cloud Computing Roadmap](https://roadmap.sh/cloud-computing)
 - [@article@What is IaaS?](https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-iaas)
 - [@video@IaaS Explained](https://www.youtube.com/watch?v=XRdmfo4M_YA)

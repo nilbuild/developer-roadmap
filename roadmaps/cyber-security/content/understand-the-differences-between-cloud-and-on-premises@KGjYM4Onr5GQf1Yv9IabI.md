@@ -4,6 +4,5 @@ Cloud computing involves using shared computing resources, like servers and soft
 
 Visit the following resources to learn more:
 
-- [@roadmap@Visit the Dedicated Cloud Computing Roadmap](https://roadmap.sh/cloud-computing)
 - [@article@What is On-Premises Data Centers vs. Cloud Computing?](https://www.hpe.com/uk/en/what-is/on-premises-vs-cloud.html)
 - [@video@On Premise vs Cloud : Is Cloud Computing the future?](https://www.youtube.com/watch?v=FuPh2o-GMDA)
