@@ -4,6 +4,5 @@ Cloud architectures describe how systems are designed to run on cloud infrastruc
 
 Visit the following resources to learn more:
 
-- [@roadmap@Visit the Dedicated Cloud Computing Roadmap](https://roadmap.sh/cloud-computing)
 - [@article@What is cloud architecture? - Google](https://cloud.google.com/learn/what-is-cloud-architecture)
 - [@video@WWhat is Cloud Architecture and Common Models?](https://www.youtube.com/watch?v=zTP-bx495hU)

@@ -4,4 +4,4 @@ Monitoring is the practice of collecting and analyzing metrics, logs, and events
 
 Visit the following resources to learn more:
 
-- [@article@Top Monitoring Tools](https://thectoclub.com/tools/best-application-monitoring-software/)
+- [@article@12 Best Data Observability Tools: Pros, Cons and Pricing](https://roadmap.sh/data-engineer/observability-tools)
