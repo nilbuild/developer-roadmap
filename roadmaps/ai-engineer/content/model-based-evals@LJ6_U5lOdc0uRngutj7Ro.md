@@ -4,6 +4,5 @@ Model-based evals use a separate AI model to automatically score or assess the o
 
 Visit the following resources to learn more:
 
-- [@article@A pragmatic guide to LLM evals for devs](https://newsletter.pragmaticengineer.com/p/evals)
-- [@article@LLM-as-a-judge: a complete guide to using LLMs for evaluations](https://www.evidentlyai.com/llm-guide/llm-as-a-judge)
+- [@article@LLM as a Judge: What It Is, How It Works, and Best Practices](https://roadmap.sh/ai-engineer/llm-as-a-judge)
 - [@video@LLM as a Judge: Scaling AI Evaluation Strategies](https://www.youtube.com/watch?v=trfUBIDeI1Y)
