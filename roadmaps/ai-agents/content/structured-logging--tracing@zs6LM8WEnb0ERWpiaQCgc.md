@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Understanding Structured Logging: A Comprehensive Guide](https://www.graphapp.ai/blog/understanding-structured-logging-a-comprehensive-guide)
 - [@article@Structured Logging & Cloud Logging](https://cloud.google.com/logging/docs/structured-logging)
+- [@article@What Is AI Observability? A Guide for Developers](https://roadmap.sh/ai-engineer/ai-observability)
