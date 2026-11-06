@@ -4,5 +4,6 @@ LLM observability is the practice of monitoring and understanding what happens i
 
 Visit the following resources to learn more:
 
+- [@article@What Is AI Observability? A Guide for Developers](https://roadmap.sh/ai-engineer/ai-observability)
 - [@article@What is LLM observability?](https://www.ibm.com/think/topics/llm-observability)
 - [@article@LLM Evaluation and AI Observability for Agent Monitoring](https://blog.jetbrains.com/pycharm/2026/05/llm-evaluation-and-ai-observability-for-agent-monitoring/)
