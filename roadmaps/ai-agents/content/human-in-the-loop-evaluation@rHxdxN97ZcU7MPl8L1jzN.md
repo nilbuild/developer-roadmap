@@ -5,6 +5,5 @@ Human-in-the-loop evaluation checks an AI agent by letting real people judge its
 Visit the following resources to learn more:
 
 - [@article@Human in the Loop · Cloudflare Agents](https://developers.cloudflare.com/agents/concepts/human-in-the-loop/)
-- [@article@What is Human-in-the-Loop: A Guide](https://logifusion.com/what-is-human-in-the-loop-htil/)
-- [@article@Human-in-the-Loop ML](https://docs.aws.amazon.com/sagemaker/latest/dg/sms-human-review-workflow.html)
+- [@article@LLM as a Judge: What It Is, How It Works, and Best Practices](https://roadmap.sh/ai-engineer/llm-as-a-judge)
 - [@article@The Importance of Human Feedback in AI (Hugging Face Blog)](https://huggingface.co/blog/rlhf)
