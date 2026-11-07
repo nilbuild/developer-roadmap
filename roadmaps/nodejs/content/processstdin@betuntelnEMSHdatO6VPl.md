@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@official@process.stdin](https://nodejs.org/api/process.html#processstdin)
 - [@official@Accept input from the command line in Node.js](https://nodejs.org/en/learn/command-line/accept-input-from-the-command-line-in-nodejs#accept-input-from-the-command-line-in-nodejs)
 - [@article@Node.js Process stdin & stdout](https://nodecli.com/node-stdin-stdout)
+- [@article@Node.js Standard I/O: File Descriptors, TTYs, Pipes, and Backpressure](https://www.thenodebook.com/process-os/standard-io)
