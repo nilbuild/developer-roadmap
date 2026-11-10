@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@15 Advantages and Disadvantages of RDBMS](https://trainings.internshala.com/blog/advantages-and-disadvantages-of-rdbms/)
 - [@article@Top 11 Advantages and Disadvantages of RDBMS You Should Know](https://webandcrafts.com/blog/advantages-disadvantages-rdbms)
-- [@video@Limitations of Relational Databases](https://www.youtube.com/watch?v=t62DXEfIFy4)
