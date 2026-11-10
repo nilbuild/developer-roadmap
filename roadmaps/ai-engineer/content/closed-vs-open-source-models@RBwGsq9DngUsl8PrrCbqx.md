@@ -4,6 +4,7 @@ Open-source models are freely available for customization and collaboration, pro
 
 Visit the following resources to learn more:
 
-- [@article@https://hatchworks.com/blog/gen-ai/open-source-vs-closed-llms-guide/](https://hatchworks.com/blog/gen-ai/open-source-vs-closed-llms-guide/)
+- [@article@Open-Source LLMs vs Closed: Unbiased Guide for Innovative Companies](https://hatchworks.com/blog/gen-ai/open-source-vs-closed-llms-guide/)
+- [@article@7 Small Specialist Models That Beat Giant LLMs at One Job](https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job)
 - [@video@Open Source vs Closed AI: LLMs, Agents & the AI Stack Explained](https://www.youtube.com/watch?v=_QfxGZGITGw)
 - [@video@Open-Source vs Closed-Source LLMs](https://www.youtube.com/watch?v=710PDpuLwOc)
