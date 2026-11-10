@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@article@How to Build a Context Layer and a Company Brain](https://towardsdatascience.com/how-to-build-a-context-layer-and-a-company-brain/)
 - [@article@What is a context layer? AI agent infrastructure](https://redis.io/blog/what-is-a-context-layer/)
-- [@article@Context Layer vs Semantic Layer: What the Debate Gets Right and What It Misses](https://datahub.com/blog/context-layer-vs-semantic-layer/)
+- [@article@The Enterprise Context Layer](https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/)
 - [@video@What Is a Context Layer for AI Systems? Complete Guide \[2026\]](https://www.youtube.com/watch?v=ldDwueG18YE)
