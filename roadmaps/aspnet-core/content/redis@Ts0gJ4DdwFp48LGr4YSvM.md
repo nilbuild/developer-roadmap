@@ -5,6 +5,6 @@ Redis is an open-source, in-memory data store used as a distributed cache to imp
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Redis Roadmap](https://roadmap.sh/redis)
-- [@official@Learn how to build with Redis Stack and .NET](https://redis.io/docs/stack/get-started/tutorials/stack-dotnet/)
+- [@official@Learn how to build with Redis Stack and .NET](https://redis.io/docs/latest/develop/clients/dotnet/nredisstack/)
 - [@article@Redis Cache In ASP.NET 6.0 Web API](https://www.c-sharpcorner.com/article/easily-use-redis-cache-in-asp-net-6-0-web-api/)
 - [@video@ASP.Net Core Distributed Caching - Redis Caching](https://www.youtube.com/watch?v=4Br-QnBo6Yw)
