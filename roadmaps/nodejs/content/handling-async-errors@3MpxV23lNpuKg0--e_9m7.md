@@ -1,6 +1,6 @@
 # Async errors
 
-Errors must always be handled. If you are using synchronous programming you could use a try catch. But this does not work if you work asynchronous! Async errors will only be handled inside the callback function!
+Asynchronous errors are handled according to the API. For promise-based code, use `.catch()` or wrap an awaited promise in `try...catch`; a surrounding `try...catch` does not catch an exception thrown later inside a callback. Error-first callbacks report failures through their first argument, and event emitters may emit an `'error'` event that needs a listener.
 
 Visit the following resources to learn more:
 
