@@ -4,6 +4,6 @@ Standard library package for parsing command-line flags. Supports string, int, b
 
 Visit the following resources to learn more:
 
-- [@official@Flag](https://go-language.org/go-docs/flag/)
+- [@official@Flag](https://pkg.go.dev/flag)
 - [@article@How To Use the Flag Package](https://www.digitalocean.com/community/tutorials/how-to-use-the-flag-package-in-go)
 - [@article@Advanced Golang Flag Techniques](https://www.golinuxcloud.com/golang-flags-examples/)

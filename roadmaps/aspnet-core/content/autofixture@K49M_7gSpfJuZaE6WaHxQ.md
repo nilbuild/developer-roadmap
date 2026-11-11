@@ -4,4 +4,4 @@ AutoFixture is an open-source .NET library designed to minimize the 'Arrange' ph
 
 Visit the following resources to learn more:
 
-- [@official@Quick start to AutoFixture](https://autofixture.github.io/docs/quick-start/)
+- [@official@Quick start to AutoFixture](https://autofixture.com/docs/get-started/introduction)

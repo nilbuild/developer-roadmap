@@ -6,7 +6,7 @@ PostgreSQL's development community offers a variety of mailing lists for discuss
 
 Visit the following resources to learn more:
 
-- [@official@Mailing List Etiquette](https://www.postgresql.org/community/lists/etiquette/)
+- [@official@Mailing List Etiquette](https://wiki.postgresql.org/wiki/Mailing_Lists#Email_etiquette_mechanics)
 - [@official@pgsql-hackers Subscription](https://www.postgresql.org/list/pgsql-hackers/)
 - [@official@pgsql-announce Subscription](https://www.postgresql.org/list/pgsql-announce/)
 - [@official@pgsql-general Subscription](https://www.postgresql.org/list/pgsql-general/)

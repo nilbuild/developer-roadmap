@@ -5,5 +5,5 @@ Loco is a web framework for Rust that is inspired by Ruby on Rails, designed to 
 Visit the following resources to learn more:
 
 - [@official@Loco.rs - Productivity-first Rust Fullstack Web Framework](https://loco.rs/)
-- [@official@The Loco Guide - Loco.rs](https://loco.rs/docs/getting-started/guide/)
+- [@official@Documentation - Loco.rs](https://loco.rs/docs/)
 - [@article@Getting Started with Loco in Rust](https://www.shuttle.dev/blog/2023/12/28/using-loco-rust-rails)
