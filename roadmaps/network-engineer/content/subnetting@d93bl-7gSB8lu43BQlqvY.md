@@ -5,4 +5,5 @@ Subnetting is the process of dividing a large network into smaller, more managea
 Visit the following resources to learn more:
 
 - [@article@What is a subnet? | How subnetting works](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-subnet/)
+- [@article@Free Subnet Calculator (IPv4 / CIDR)](https://www.examwizardz.app/subnet-calculator)
 - [@video@Subnetting Explained: Networking Basics](https://www.youtube.com/watch?v=hbdT_Q9DM8w)
