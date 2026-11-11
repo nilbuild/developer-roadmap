@@ -5,8 +5,8 @@ In Linux, navigation between directories and files is a fundamental, yet essenti
 Visit the following resources to learn more:
 
 - [@course@Linux for Noobs (Hands-on)](https://labex.io/courses/linux-for-noobs)
+- [@course@Terminal Introduction: navigate the filesystem in a browser sandbox (Hands-on)](https://learn.webterm.app/en/courses/terminal-introduction)
 - [@article@Linux Filesystem Navigation Basics](https://linuxconfig.org/filesystem-basics)
 - [@article@Basic Navigation Commands: cd, ls, and pwd](https://www.linuxbash.sh/post/basic-navigation-commands-cd-ls-and-pwd)
 - [@article@Practice on Linux Fundamentals](https://linuxjourney.com/)
 - [@video@Linux fundamentals](https://www.youtube.com/watch?v=kPylihJRG70&t=1381s&ab_channel=TryHackMe)
-- [@course@Terminal Introduction: navigate the filesystem in a browser sandbox (Hands-on)](https://learn.webterm.app/en/courses/terminal-introduction)
