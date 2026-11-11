@@ -1,6 +1,6 @@
 # Async Programming
 
-Asynchronous code means that things can happen independently of the main program flow, async functions in JavaScript are processed in the background without blocking other requests. It ensures non-blocking code execution. Asynchronous code executes without having any dependency and no order. This improves the system efficiency and throughput. Making web apps requires knowledge of asynchronous concepts since we will be dealing with actions that require some time to get processed.
+Asynchronous APIs let an operation complete later while other JavaScript continues to run. Declaring a function `async` does not move its code onto a background thread: it runs synchronously until it reaches an `await`, which suspends that function. Promises and `await` can express dependencies and control ordering; CPU-intensive synchronous work still blocks the event loop.
 
 Visit the following resources to learn more:
 

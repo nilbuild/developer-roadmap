@@ -1,6 +1,6 @@
 # Async/Await
 
-Async/Await is a special syntax to work with promises in a more comfortable fashion. It's easy to understand and use. Adding the keyword async before a function ensures that the function returns a promise and the keyword await makes JavaScript wait until that promise settles and returns the result.
+An `async` function always returns a promise. Inside an async function, `await` pauses execution until a promise settles, then yields its fulfillment value or throws its rejection reason. It suspends the function rather than blocking the event loop, so other work can continue. Code before the first `await` still runs synchronously.
 
 Visit the following resources to learn more:
 
