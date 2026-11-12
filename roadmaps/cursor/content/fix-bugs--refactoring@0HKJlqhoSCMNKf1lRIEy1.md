@@ -4,5 +4,6 @@ Give the agent the error message, the steps to reproduce and the expected behavi
 
 Visit the following resources to learn more:
 
+- [@official@Debugging with Cursor](https://cursor.com/for/debugging)
 - [@official@Debug Mode](https://cursor.com/docs/agent/debug-mode)
-- [@official@Prompting](https://cursor.com/docs/agent/prompting)
+- [@video@Coding agents for the hardest bugs](https://www.youtube.com/watch?v=UVTh8af8uy4)

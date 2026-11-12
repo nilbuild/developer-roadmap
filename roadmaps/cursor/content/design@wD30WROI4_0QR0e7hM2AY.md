@@ -5,3 +5,6 @@ Design Mode lets you leave notes on your running app inside the browser of the A
 Visit the following resources to learn more:
 
 - [@official@Design Mode](https://cursor.com/docs/agent/design-mode)
+- [@article@Direct agents with visual prompts in Design Mode](https://cursor.com/blog/design-mode)
+- [@article@Cursor’s Design Mode (Visual Editing) Explained](https://www.builder.io/blog/cursor-design-mode-visual-editing)
+- [@video@Design 10X Faster with the NEW Cursor Design Mode](https://www.youtube.com/watch?v=Reui4qJ1_qg)

@@ -4,5 +4,5 @@ Every agent edit appears as a diff, so you can read, accept, reject or ask for c
 
 Visit the following resources to learn more:
 
-- [@official@Agent overview](https://cursor.com/docs/agent/overview)
-- [@official@Agents Window](https://cursor.com/docs/agent/agents-window)
+- [@official@Reviewing Code with Cursor](https://cursor.com/for/code-review)
+- [@official@How You Can Automate Code Reviews in 3 Minutes with Cursor AI](https://medium.com/@yonatanmh/cursor-ai-code-review-tutorial-cc652aaab92e)

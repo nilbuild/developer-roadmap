@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Models & Pricing](https://cursor.com/docs/models-and-pricing)
 - [@official@Available models](https://cursor.com/help/models-and-usage/available-models)
+- [@article@Cursor First-Party vs Third-Party Usage Pools: 2026 Split Explained](https://vexp.dev/blog/cursor-first-party-vs-third-party-usage-pools-2026-split)

@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Pricing](https://cursor.com/help/account-and-billing/pricing)
 - [@official@Models & Pricing](https://cursor.com/docs/models-and-pricing)
+- [@article@Cursor Pricing in 2026: Every Plan, and Why Bills Surprise People](https://coworker.ai/blog/cursor-pricing)

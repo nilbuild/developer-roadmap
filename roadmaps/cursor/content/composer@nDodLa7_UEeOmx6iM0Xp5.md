@@ -4,5 +4,6 @@ Composer is Cursor's own agentic model family. The current version, Composer 2.5
 
 Visit the following resources to learn more:
 
+- [@official@Introducing Composer 2.5](https://cursor.com/en-US/blog/composer-2-5)
 - [@official@Composer 2.5](https://cursor.com/docs/models/cursor-composer-2-5)
 - [@official@Models and pricing](https://cursor.com/docs/models-and-pricing)

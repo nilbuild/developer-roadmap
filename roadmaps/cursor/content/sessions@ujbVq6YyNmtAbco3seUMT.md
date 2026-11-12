@@ -6,4 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Agent overview](https://cursor.com/docs/agent/overview)
 - [@official@Using the CLI](https://cursor.com/docs/cli/using)
-- [@official@CLI slash commands](https://cursor.com/docs/cli/reference/slash-commands)
+- [@official@What are agent sessions? Claude Code, Codex, Cursor and Grok](https://flaviocopes.com/ai-glossary/sessions/)
+- [@article@How to Carry Cursor Context Across Sessions (2026 Guide)](https://www.memorylake.ai/en/blogs/carry-cursor-context-across-sessions)

@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@official@Agent security](https://cursor.com/docs/agent/security)
 - [@official@Run modes](https://cursor.com/docs/agent/security/run-modes)
 - [@official@Privacy](https://cursor.com/help/security-and-privacy/privacy)
+- [@article@The Cursor control model, explained](https://agenticcontrolplane.com/controls/cursor)

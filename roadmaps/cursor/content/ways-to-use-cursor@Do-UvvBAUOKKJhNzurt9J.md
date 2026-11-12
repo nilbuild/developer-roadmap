@@ -4,5 +4,7 @@ Cursor runs in several places, and they share the same agent, rules and MCP conf
 
 Visit the following resources to learn more:
 
-- [@official@Cursor documentation](https://cursor.com/docs)
 - [@official@Quickstart](https://cursor.com/docs/get-started/quickstart)
+- [@official@Cursor Agent](https://cursor.com/docs/agent/overview)
+- [@article@Unlocking Cursor: Features and Workflow Tips](https://alan.is/insights/unlocking-cursor-features-and-workflow-tips/)
+- [@video@Cursor Deep Dive: How Senior Engineers Actually Use Cursor for 10x Productivity](https://www.youtube.com/watch?v=CZUtIIK4fdw)

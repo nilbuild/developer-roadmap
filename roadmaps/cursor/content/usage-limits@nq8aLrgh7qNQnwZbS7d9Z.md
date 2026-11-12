@@ -6,3 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Usage limits](https://cursor.com/help/models-and-usage/usage-limits)
 - [@official@Models & Pricing](https://cursor.com/docs/models-and-pricing)
+- [@article@Cursor Limits: Usage Caps Explained](https://www.verdent.ai/guides/cursor-usage-limits-explained)
+- [@video@I Tested Usage Limits for Claude, Codex, and Cursor](https://www.youtube.com/watch?v=3d2RRFL8ZFw)

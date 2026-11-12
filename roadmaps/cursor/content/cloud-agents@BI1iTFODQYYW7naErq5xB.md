@@ -6,3 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Cloud Agents](https://cursor.com/docs/cloud-agent)
 - [@official@Cloud Agent setup](https://cursor.com/docs/cloud-agent/setup)
+- [@article@Cursor cloud agents and automations: what to automate first](https://www.spotdev.co.uk/blog/cursor-cloud-agents-and-automations)
+- [@video@How To Use Cursor Agents For Beginners](https://www.youtube.com/watch?v=tm94DULupNc)

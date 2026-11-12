@@ -5,3 +5,4 @@ A `.cursorignore` file in the project root lists files and folders that Cursor s
 Visit the following resources to learn more:
 
 - [@official@Ignore files](https://cursor.com/help/customization/ignore-files)
+- [@article@Cursor Ignore File (.cursorignore): Syntax, Setup and Context Optimization](https://fast.io/resources/cursor-ignore-file/)

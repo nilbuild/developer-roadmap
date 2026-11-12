@@ -5,3 +5,5 @@ Canvases are interactive views that open next to the chat, such as dashboards, a
 Visit the following resources to learn more:
 
 - [@official@Canvas tool](https://cursor.com/docs/agent/tools/canvas)
+- [@article@Cursor Canvas Guide: What It Is and What to Build With It](https://www.learncursor.dev/guides/cursor-canvas)
+- [@video@How to Use Cursor as a Designer](https://www.youtube.com/watch?v=SDhOpwVv25c)

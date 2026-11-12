@@ -4,5 +4,6 @@ Ask the agent to explain how a project is organized, where a feature lives or ho
 
 Visit the following resources to learn more:
 
-- [@official@Quickstart](https://cursor.com/docs/get-started/quickstart)
-- [@official@Agent overview](https://cursor.com/docs/agent/overview)
+- [@official@Understanding your codebase](https://cursor.com/learn/understanding-your-codebase)
+- [@official@Understanding Unfamiliar Code with Cursor](https://cursor.com/for/code-understanding)
+- [@article@How AI Cursor Coding Agent Actually Explore Your Codebase: An End-to-End Look at Context Gathering](https://medium.com/@hari8185008552/how-ai-cursor-coding-agent-actually-explore-your-codebase-an-end-to-end-look-at-context-gathering-98f36a33b36a)

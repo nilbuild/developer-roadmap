@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Cloud Agents](https://cursor.com/docs/cloud-agent)
 - [@official@Cloud Agent best practices](https://cursor.com/docs/cloud-agent/best-practices)
+- [@article@Parallel AI Agents in Cursor 2.0: A Practical Guide](https://medium.com/towards-data-engineering/parallel-ai-agents-in-cursor-2-0-a-practical-guide-e808f89cffb9)

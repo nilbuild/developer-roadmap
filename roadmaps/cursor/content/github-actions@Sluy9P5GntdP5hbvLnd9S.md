@@ -5,3 +5,4 @@ You can run Cursor CLI inside a GitHub Actions workflow to review code, fix lint
 Visit the following resources to learn more:
 
 - [@official@GitHub Actions](https://cursor.com/docs/cli/github-actions)
+- [@article@Cursor CLI in GitHub Actions: 12 Steps, 60 Min \[2026\]](https://shattered.io/cursor-cli-github-actions-headless-agent-2026/)

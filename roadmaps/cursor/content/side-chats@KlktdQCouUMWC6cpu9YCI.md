@@ -5,4 +5,5 @@ A side chat is a full agent conversation linked to your main chat. It gets the m
 Visit the following resources to learn more:
 
 - [@official@Side chats](https://cursor.com/help/ai-features/side-chats)
-- [@official@Agent overview](https://cursor.com/docs/agent/overview)
+- [@official@Side Chats and Conversation Search](https://cursor.com/changelog/side-chat)
+- [@article@Cursor Side Chats: Branch a Question Without Derailing](https://www.learncursor.dev/learn/cursor-agents/side-chats)

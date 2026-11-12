@@ -5,3 +5,5 @@ Skills are portable, version-controlled packages that teach the agent how to do 
 Visit the following resources to learn more:
 
 - [@official@Skills](https://cursor.com/docs/skills)
+- [@official@Cursor Skills](https://cursor.com/help/customization/skills)
+- [@video@How to Create & Use SKILLS.md in Cursor](https://www.youtube.com/watch?v=DfLL5_zbWGc)

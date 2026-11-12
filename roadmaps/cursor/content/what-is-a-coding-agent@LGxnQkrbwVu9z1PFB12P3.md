@@ -5,3 +5,6 @@ A coding agent is an AI system that completes programming tasks by taking action
 Visit the following resources to learn more:
 
 - [@official@Agent overview](https://cursor.com/docs/agent/overview)
+- [@official@What are coding agents?](https://cursor.com/help/ai-features/coding-agents)
+- [@article@What Are Coding Agents? A Developer's Guide to Agentic Coding (2026)](https://www.openhands.dev/blog/what-are-coding-agents)
+- [@video@AI Agents, Clearly Explained](https://www.youtube.com/watch?v=FwOTs4UxQS4)

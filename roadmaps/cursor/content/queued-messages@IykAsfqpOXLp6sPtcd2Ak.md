@@ -4,4 +4,5 @@ While the agent is working, pressing `Enter` queues your next message to run whe
 
 Visit the following resources to learn more:
 
-- [@official@Agent overview](https://cursor.com/docs/agent/overview)
+- [@official@Queued messages](https://cursor.com/docs/agent/overview#queued-messages)
+- [@official@Steer a running agent](https://cursor.com/docs/agent/overview#steer-a-running-agent)
