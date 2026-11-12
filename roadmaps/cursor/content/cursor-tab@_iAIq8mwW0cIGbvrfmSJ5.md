@@ -6,3 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Tab](https://cursor.com/help/ai-features/tab)
 - [@official@Tab issues](https://cursor.com/help/troubleshooting/tab-issues)
+- [@article@Meet Cursor Tab and Never Look Back: The Future of AI-Assisted Coding](https://neon.com/blog/tab-coding-cursor)
+- [@article@Cursor Tab: How Autocomplete Predicts Your Next Edit](https://www.learncursor.dev/learn/cursor-basics/cursor-tab)

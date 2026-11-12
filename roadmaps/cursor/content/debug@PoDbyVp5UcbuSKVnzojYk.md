@@ -5,3 +5,6 @@ Debug Mode finds root causes by collecting runtime evidence before changing code
 Visit the following resources to learn more:
 
 - [@official@Debug Mode](https://cursor.com/docs/agent/debug-mode)
+- [@official@Introducing Debug Mode: Agents with runtime logs](https://cursor.com/blog/debug-mode)
+- [@article@Cursor's Debug Mode Is Arguably Its Best Feature](https://davidgomes.com/cursor-debug-mode/)
+- [@video@Debug Mode Fixed My Bugs Automatically (Multi-Agent Features)](https://www.youtube.com/watch?v=ejRcMxeU0oc)

@@ -5,4 +5,5 @@ A good first task is small and low risk. Open a project, open the agent with `Cm
 Visit the following resources to learn more:
 
 - [@official@Quickstart](https://cursor.com/docs/get-started/quickstart)
-- [@official@First project](https://cursor.com/help/getting-started/first-project)
+- [@article@Your First Project in Cursor: Open a Folder and Run Agent](https://www.learncursor.dev/learn/cursor-basics/your-first-project)
+- [@video@Cursor 3 minute demo - the most popular AI code editor](https://www.youtube.com/watch?v=LR04bU_yV5k)

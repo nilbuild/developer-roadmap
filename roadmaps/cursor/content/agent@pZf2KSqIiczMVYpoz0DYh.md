@@ -5,3 +5,4 @@ Agent is the default mode, with full access to tools: searching files, reading a
 Visit the following resources to learn more:
 
 - [@official@Agent overview](https://cursor.com/docs/agent/overview)
+- [@official@Agent mode](https://cursor.com/help/ai-features/agent)

@@ -5,3 +5,5 @@ The Agents Window is an agent-first interface for working with many agents acros
 Visit the following resources to learn more:
 
 - [@official@Agents Window](https://cursor.com/docs/agent/agents-window)
+- [@article@Cursor Agents Window: Multi-Agent UI, Cloud Runs & PR Handoff](https://www.learncursor.dev/learn/cursor-agents/agents-window)
+- [@video@Setting Up the NEW Cursor Agent Window](https://www.youtube.com/watch?v=JCn-4Ith0bM)

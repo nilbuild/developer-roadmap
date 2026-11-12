@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Run modes](https://cursor.com/docs/agent/security/run-modes)
 - [@official@Agent security](https://cursor.com/docs/agent/security)
+- [@article@Cursor Auto-review Run Mode Guide](https://www.learncursor.dev/guides/cursor-auto-review-run-mode)

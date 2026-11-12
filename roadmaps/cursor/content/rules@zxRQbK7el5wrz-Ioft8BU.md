@@ -5,3 +5,5 @@ Rules are persistent instructions placed at the start of the model context. Proj
 Visit the following resources to learn more:
 
 - [@official@Rules](https://cursor.com/docs/rules)
+- [@article@Cursor Rules: How They Work and When a Rule Beats a Skill](https://www.shiplight.ai/blog/cursor-rules)
+- [@video@Cursor Rules guide for lazy devs. Setup rules in minutes with this quick tutorial!](https://www.youtube.com/watch?v=FpJ48a5S5lU)

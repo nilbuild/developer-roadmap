@@ -4,7 +4,7 @@ Agent modes set how much the agent is allowed to do. Agent has full tool access,
 
 Visit the following resources to learn more:
 
-- [@official@Agent overview](https://cursor.com/docs/agent/overview)
 - [@official@Plan Mode](https://cursor.com/docs/agent/plan-mode)
 - [@official@Debug Mode](https://cursor.com/docs/agent/debug-mode)
 - [@official@Design Mode](https://cursor.com/docs/agent/design-mode)
+- [@article@Cursor Modes Explained: Agent, Ask, Plan, and Debug](https://www.cursorforpms.com/guides/cursor-modes-explained)

@@ -4,5 +4,6 @@ Cursor is an AI code editor built around a coding agent. The agent searches your
 
 Visit the following resources to learn more:
 
-- [@official@Cursor documentation](https://cursor.com/docs)
 - [@official@Quickstart](https://cursor.com/docs/get-started/quickstart)
+- [@video@Cursor 3.0 - Full Course for Beginners](https://www.youtube.com/watch?v=Tv8mLrLtyxo)
+- [@video@Cursor Crash Course & AI Coding For Beginners](https://www.youtube.com/watch?v=5zR1ZE5aqho)

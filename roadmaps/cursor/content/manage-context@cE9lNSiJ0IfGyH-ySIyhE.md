@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@official@Using the CLI](https://cursor.com/docs/cli/using)
 - [@official@Context](https://cursor.com/help/customization/context)
 - [@official@Side chats](https://cursor.com/help/ai-features/side-chats)
+- [@article@Cursor Context Management: Rules, AGENTS.md, and MCP](https://datalakehousehub.com/blog/2026-03-context-management-cursor/)

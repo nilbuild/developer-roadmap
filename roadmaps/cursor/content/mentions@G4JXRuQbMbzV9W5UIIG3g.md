@@ -5,3 +5,5 @@ Typing `@` in the chat input adds specific context to your prompt. You can menti
 Visit the following resources to learn more:
 
 - [@official@Context](https://cursor.com/help/customization/context)
+- [@official@@ mentions and context](https://cursor.com/help/customization/context)
+- [@article@@ Mentions in Cursor: Attaching Context to a Chat](https://www.learncursor.dev/learn/cursor-basics/at-mentions-and-context)

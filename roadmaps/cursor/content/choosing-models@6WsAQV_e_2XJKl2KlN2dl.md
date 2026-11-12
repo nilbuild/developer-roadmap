@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Models and pricing](https://cursor.com/docs/models-and-pricing)
 - [@official@CLI parameters](https://cursor.com/docs/cli/reference/parameters)
+- [@article@Cursor model selection — there is a guide you can follow that actually helps](https://medium.com/@chrisdunlop_37984/cursor-model-selection-there-is-a-guide-you-can-follow-that-actually-helps-fbfd35c42e61)

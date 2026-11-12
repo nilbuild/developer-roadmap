@@ -4,4 +4,7 @@ Integrations connect Cursor to the tools where your team already works. You can 
 
 Visit the following resources to learn more:
 
-- [@official@Integrations overview](https://cursor.com/docs/integrations/github)
+- [@official@Model and Integration Management](https://cursor.com/docs/enterprise/model-and-integration-management)
+- [@official@GitHub Integration](https://cursor.com/docs/integrations/github)
+- [@official@Slack Integration](https://cursor.com/docs/integrations/slack)
+- [@official@IDE integrations](http://cursor.com/docs/cli/acp#ide-integrations)

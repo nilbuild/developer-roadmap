@@ -5,3 +5,6 @@ Subagents are specialized assistants that the main agent delegates tasks to, eac
 Visit the following resources to learn more:
 
 - [@official@Subagents](https://cursor.com/docs/subagents)
+- [@official@Introducing subagents](https://cursor.com/changelog/2-4#subagents)
+- [@article@Subagents: How They Work in Claude Code, Cursor, Codex, and VS Code](https://www.morphllm.com/subagent)
+- [@video@Cursor Subagents: The Feature Everyone's Talking About](https://www.youtube.com/watch?v=pFJW8D_oHtU)

@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Plan Mode](https://cursor.com/docs/agent/plan-mode)
 - [@official@Prompting](https://cursor.com/docs/agent/prompting)
+- [@video@The Best Cursor Feature | Cursor Plan Mode Explained](https://www.youtube.com/watch?v=E8y-jmeFeJg)

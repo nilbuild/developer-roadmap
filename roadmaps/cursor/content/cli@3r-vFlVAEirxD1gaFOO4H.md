@@ -6,3 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@CLI overview](https://cursor.com/docs/cli/overview)
 - [@official@Installation](https://cursor.com/docs/cli/installation)
+- [@article@Getting Started with Cursor CLI: A Complete Guide](https://www.codecademy.com/article/getting-started-with-cursor-cli)
+- [@video@Cursor CLI Tutorial for Beginners (should you use it?)](https://www.youtube.com/watch?v=4RN1ufZU-rk)

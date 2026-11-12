@@ -5,3 +5,5 @@ Plugins bundle rules, skills, agents, commands, MCP servers and hooks into one p
 Visit the following resources to learn more:
 
 - [@official@Plugins](https://cursor.com/docs/plugins)
+- [@official@Plugins reference](https://cursor.com/docs/reference/plugins)
+- [@article@What is plugin?](https://www.learncursor.dev/learn/glossary/plugin)

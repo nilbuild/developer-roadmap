@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Quickstart](https://cursor.com/docs/get-started/quickstart)
 - [@official@Agent overview](https://cursor.com/docs/agent/overview)
+- [@video@The VS Code/Cursor Setup to INCREASE Productivity (2025)](https://www.youtube.com/watch?v=fG6HV3pxtOI)

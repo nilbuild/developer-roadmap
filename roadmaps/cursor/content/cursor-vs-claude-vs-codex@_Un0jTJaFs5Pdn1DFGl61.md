@@ -4,7 +4,7 @@ Cursor, Claude Code and Codex are all coding agents that read a repository, edit
 
 Visit the following resources to learn more:
 
-- [@official@Cursor documentation](https://cursor.com/docs)
-- [@official@Skills](https://cursor.com/docs/skills)
-- [@official@Claude Code overview](https://code.claude.com/docs/en/overview)
-- [@official@Codex overview](https://learn.chatgpt.com/docs)
+- [@roadmap@Visit the Dedicated Claude Code Roadmap](https://roadmap.sh/claude-code)
+- [@roadmap@SkillsVisit the Dedicated Codex Roadmap](https://roadmap.sh/codex)
+- [@article@Claude Code vs Cursor: Which AI Coding Tool To Choose](https://roadmap.sh/claude-code/vs-cursor)
+- [@article@Codex vs Cursor Review: Which AI Coding Tool Actually Wins?](https://medium.com/realworld-ai-use-cases/codex-vs-cursor-review-which-ai-coding-tool-actually-wins-648b7d8d7e7a)

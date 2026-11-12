@@ -5,3 +5,4 @@ Voice chat is a realtime spoken conversation with an agent: you talk, it talks b
 Visit the following resources to learn more:
 
 - [@official@Voice chat](https://cursor.com/docs/agent/voice-chat)
+- [@official@Voice Chat with Agents](https://cursor.com/changelog/voice-chat)

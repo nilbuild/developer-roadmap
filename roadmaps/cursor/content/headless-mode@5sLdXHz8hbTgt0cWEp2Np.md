@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Headless CLI](https://cursor.com/docs/cli/headless)
 - [@official@Output format](https://cursor.com/docs/cli/reference/output-format)
+- [@article@Cursor CLI: Headless, Terminal-Native Coding (2026)](https://www.learncursor.dev/guides/cursor-cli)

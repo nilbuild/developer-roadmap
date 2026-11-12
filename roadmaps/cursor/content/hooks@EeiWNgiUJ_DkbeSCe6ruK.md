@@ -5,3 +5,4 @@ Hooks are scripts that observe, control or extend the agent loop. You define the
 Visit the following resources to learn more:
 
 - [@official@Hooks](https://cursor.com/docs/hooks)
+- [@article@Deep Dive into the new Cursor Hooks](https://blog.gitbutler.com/cursor-hooks-deep-dive)

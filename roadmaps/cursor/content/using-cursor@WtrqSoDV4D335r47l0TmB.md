@@ -4,5 +4,6 @@ Once Cursor is installed, most daily work follows one loop. You describe a task,
 
 Visit the following resources to learn more:
 
-- [@official@Agent overview](https://cursor.com/docs/agent/overview)
-- [@official@Quickstart](https://cursor.com/docs/get-started/quickstart)
+- [@course@Cursor Learn](https://cursor.com/learn)
+- [@article@Cursor Tutorial 2026: Beginner Guide to Agent in 15 Minutes](https://www.nxcode.io/resources/news/cursor-tutorial-beginners-2026)
+- [@video@Cursor Crash Course for Beginners 2026 | Learn to Use Cursor FAST](https://www.youtube.com/watch?v=eMyTGLq_NJQ)
