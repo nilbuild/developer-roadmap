@@ -7,4 +7,5 @@ Visit the following resources to learn more:
 - [@article@Automated Regression Testing: The Complete 2026 Guide](https://roadmap.sh/ai-engineer/automated-regression-testing)
 - [@article@Performance Regression Testing as a CI/CD Gate](https://www.evaluat.com/blog/performance-regression-testing)
 - [@article@What is Regression Testing? Definition, Tools and Examples](https://katalon.com/resources-center/blog/regression-testing)
+- [@article@Visual Testing Tool for Web, Mobile, Figma and PDFs](https://www.testmuai.com/visual-testing-tool/)
 - [@video@What is Regression Testing? A Software Testing FAQ - Why? How? When?](https://www.youtube.com/watch?v=xmQuLTarGI4)
