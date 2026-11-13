@@ -6,4 +6,5 @@ Visit the following resources to learn more:
 
 - [@course@CompTIA SY0-701 Security+ Exam Course Playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
 - [@course@CompTIA Security+ Course](https://www.youtube.com/watch?v=yLf2jRY39Rc&list=PLIhvC56v63IIyU0aBUed4qwP0nSCORAdB)
+- [@course@Free CompTIA Security+ Practice Test (SY0-801)](https://www.examwizardz.app/practice-test/comptia-security-plus)
 - [@official@CompTIA Security+ Website](https://www.comptia.org/certifications/security)
