@@ -6,5 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Getting Started with Claude Code](https://code.claude.com/docs/en/quickstart)
 - [@official@Optimize your terminal setup](https://code.claude.com/docs/en/terminal-config)
-- [@official@CLI quickstart](https://platform.claude.com/docs/en/cli-sdks-libraries/cli/quickstart)
-- [@article@Claude Code CLI: Command-Line AI Coding for Real Developer Workflows](https://www.datacamp.com/tutorial/claude-code-cli)
