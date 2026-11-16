@@ -5,3 +5,4 @@ End-to-end latency includes inference time, network round-trip, queue time, and 
 Visit the following resources to learn more:
 
 - [@article@10 LLM Inference Metrics Every AI Engineer Must Know](https://www.intoai.pub/p/llm-inference-metrics)
+- [@article@9 Key LLM Inference Metrics Explained in 5 Minutes](https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes)
