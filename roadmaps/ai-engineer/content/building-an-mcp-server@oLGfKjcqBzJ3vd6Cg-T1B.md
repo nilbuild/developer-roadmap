@@ -6,4 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Build an MCP server](https://modelcontextprotocol.io/docs/develop/build-server#build-an-mcp-server)
 - [@article@MCP server: A step-by-step guide to building from scratch](https://composio.dev/blog/mcp-server-step-by-step-guide-to-building-from-scrtch)
+- [@official@Exploring File Uploads and Downloads in MCP](https://blog.modelcontextprotocol.io/posts/exploring-file-uploads-and-downloads-in-mcp/)
 - [@video@Build and Ship Any MCP Server in MINUTES (Full Guide)](https://www.youtube.com/watch?v=Zw3sfAIpeH8)
