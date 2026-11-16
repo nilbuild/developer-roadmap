@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@article@Human in the Loop · Cloudflare Agents](https://developers.cloudflare.com/agents/concepts/human-in-the-loop/)
 - [@article@LLM as a Judge: What It Is, How It Works, and Best Practices](https://roadmap.sh/ai-engineer/llm-as-a-judge)
 - [@article@The Importance of Human Feedback in AI (Hugging Face Blog)](https://huggingface.co/blog/rlhf)
+- [@article@How to Estimate the Recall of AI Agents with Capture-Recapture](https://towardsdatascience.com/how-to-estimate-the-recall-of-ai-agents-with-capture-recapture/)

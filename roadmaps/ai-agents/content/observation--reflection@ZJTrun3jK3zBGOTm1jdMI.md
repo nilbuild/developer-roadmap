@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Best Practices for Prompting and Self-checking](https://platform.openai.com/docs/guides/prompt-engineering)
 - [@article@Self-Reflective AI: Building Agents That Learn by Observing Themselves](https://arxiv.org/abs/2302.14045)
+- [@article@Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors](https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/)

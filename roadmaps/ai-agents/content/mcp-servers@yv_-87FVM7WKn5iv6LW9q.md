@@ -5,6 +5,6 @@ An MCP server exposes a set of tools, data, or capabilities to any compatible cl
 Visit the following resources to learn more:
 
 - [@opensource@punkeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-- [@article@Introducing the Azure MCP Server](https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-mcp-server/)
+- [@article@Security Holes in MCP Servers and How To Plug Them](https://www.solo.io/blog/security-holes-in-mcp-servers-and-how-to-plug-them)
 - [@article@The Ultimate Guide to MCP](https://guangzhengli.com/blog/en/model-context-protocol)
 - [@article@AWS MCP Servers for Code Assistants](https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/)
