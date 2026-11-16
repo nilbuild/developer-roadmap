@@ -6,6 +6,5 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit Dedicated GraphQL Roadmap](https://roadmap.sh/graphql)
 - [@official@GraphQL](https://graphql.org/)
-- [@official@GraphQL over HTTP Specification](https://http-spec.graphql.org/September2026/)
-- [@article@Announcing the GraphQL over HTTP Spec](https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/)
+- [@official@AServing over HTTP](https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/)
 - [@video@Tutorial - GraphQL Explained in 100 Seconds](https://www.youtube.com/watch?v=eIQh02xuVw4)
