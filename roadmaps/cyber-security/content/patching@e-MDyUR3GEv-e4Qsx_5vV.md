@@ -5,4 +5,5 @@
 Visit the following resources to learn more:
 
 - [@article@What is Patch Management?](https://www.ibm.com/topics/patch-management)
+- [@article@Open-source security in the AI exploit era: Patch without changing a thing](https://thenewstack.io/patchmageddon-open-source-security22842502/)
 - [@video@What Is Patch Management, and Why Does Your Company Need It?](https://www.youtube.com/watch?v=O5XXlJear0w)
