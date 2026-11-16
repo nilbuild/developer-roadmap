@@ -1,6 +1,6 @@
 # Parcel
 
-Parcel is a zero-configuration web app bundler handling JavaScript, CSS, HTML automatically. Features dependency resolution, code transformation, optimization, live reloading, code splitting, and tree-shaking by default. Known for simplicity and speed, ideal for rapid prototyping. Parcel 3 is in alpha as a ground-up rewrite in Rust that ships as a standalone native binary with no Node dependency, and reports much faster cold builds than v2.
+Parcel is a zero-configuration web app bundler that handles JavaScript, CSS and HTML out of the box. It resolves dependencies, transforms and optimizes code, and provides live reloading, code splitting and tree-shaking by default, which makes it a good fit for rapid prototyping. Parcel 3, currently in alpha, rewrites the bundler in Rust and ships it as a single native binary that does not depend on Node, and its authors report much faster builds than version 2.
 
 Visit the following resources to learn more:
 
