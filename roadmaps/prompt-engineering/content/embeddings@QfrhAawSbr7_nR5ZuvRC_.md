@@ -1,0 +1,3 @@
+# Embeddings
+
+Embeddings are numerical representations of data, such as words, phrases, or entire documents, converted into lists of floating-point numbers known as vectors. By mapping these items into a high-dimensional space, mathematical relationships are established that allow machines to interpret the semantic meaning and context of the data. This process ensures that items with similar meanings are positioned closer together in the vector space, enabling models to perform efficient similarity searches and better understand relationships between different pieces of information.

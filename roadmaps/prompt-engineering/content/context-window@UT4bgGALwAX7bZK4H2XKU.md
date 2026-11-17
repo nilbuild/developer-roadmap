@@ -1,0 +1,3 @@
+# Context Window
+
+A context window is the maximum amount of information, measured in tokens, that an AI model can process and "remember" during a single interaction. It acts like a temporary workspace where the model holds the input text and previous parts of the conversation to generate coherent responses. When the total length of the conversation or the provided input exceeds this limit, the model begins to "forget" the earliest information provided to it.

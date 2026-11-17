@@ -1,0 +1,3 @@
+# LLM Basics
+
+Large Language Models (LLMs) are advanced artificial intelligence systems trained on vast amounts of text data to understand, generate, and manipulate human language. These models use deep learning architectures, specifically transformer networks, to predict the next word in a sequence based on the input they receive. By processing patterns and relationships within language, they can perform a wide variety of tasks such as answering questions, summarizing text, writing code, and translating languages.
