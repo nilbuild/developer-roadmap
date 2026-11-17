@@ -4,6 +4,5 @@ Developer marketing focuses on reaching, attracting, and retaining developers as
 
 Visit the following resources to learn more:
 
-- [@article@What is developer marketing?](https://appsembler.com/glossary/developer-marketing/)
 - [@article@What is developer marketing? IronHorse.io](https://ironhorse.io/blog/what-is-developer-marketing/)
 - [@article@What is developer marketing (B2D)](https://www.productmarketingalliance.com/what-is-developer-marketing/)
