@@ -6,6 +6,5 @@ Visit the following resources to learn more:
 
 - [@course@Responsive Web Design Certification - Co-Learn HTML & CSS with guided projects](https://www.freecodecamp.org/learn/responsive-web-design-v9/)
 - [@course@Web.dev by Google — Learn CSS](https://web.dev/learn/css/)
-- [@article@Visit Dedicated JavaScript Roadmap](https://roadmap.sh/css)
 - [@video@CSS Complete Course](https://www.youtube.com/watch?v=n4R2E7O-Ngo)
 - [@video@HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc)
