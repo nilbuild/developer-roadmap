@@ -1,9 +1,11 @@
-# Prompt vs Context Engineering
+# Prompt vs Context Eng.
 
-Prompt engineering focuses on crafting the specific input instructions and queries that guide an AI model to produce a desired output. Context engineering, on the other hand, involves managing and structuring the background information, retrieved data, or conversation history provided to the model to ensure its responses are relevant and accurate. While prompting dictates the "what" and "how" of a task, context engineering provides the necessary knowledge base that informs the model's reasoning process.
+Prompt engineering focuses on the wording and structure of the instructions you send to a model. Context engineering decides what information goes into the model's context window at each step, including documents, tool results, memory and history. The prompt is one part of the context. For a single chat request the prompt matters most, while for agents and RAG applications the quality of the surrounding context usually decides the result.
 
 Visit the following resources to learn more:
 
-- [@article@Prompt engineering - Wikipedia](https://en.wikipedia.org/wiki/Prompt_engineering)
-- [@article@Introduction to Prompt Engineering - LearnPrompting](https://learnprompting.org/docs/basics/prompt_engineering)
-- [@video@RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models](https://youtu.be/zYGDpG-pTho?si=yov4dDrcsHBAkey-&t=522)
+- [@official@Effective context engineering for AI agents - Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+- [@article@Context Engineering vs. Prompt Engineering - DataHub](https://datahub.com/blog/context-engineering-vs-prompt-engineering/)
+- [@article@Context engineering vs. prompt engineering - Elastic](https://www.elastic.co/search-labs/blog/context-engineering-vs-prompt-engineering)
+- [@article@Beyond Prompting: The Power of Context Engineering - Towards Data Science](https://towardsdatascience.com/beyond-prompting-the-power-of-context-engineering/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@video@Context Engineering vs. Prompt Engineering: Smarter AI with RAG & Agents](https://www.youtube.com/watch?v=vD0E3EUb8-8)

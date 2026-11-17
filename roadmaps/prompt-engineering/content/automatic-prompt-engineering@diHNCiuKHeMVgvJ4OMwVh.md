@@ -1,6 +1,6 @@
 # Automatic Prompt Engineering
 
-Automatic Prompt Engineering (APE) uses LLMs to generate and optimize prompts automatically, reducing human effort while enhancing model performance. The process involves prompting a model to create multiple prompt variants, evaluating them using metrics like BLEU or ROUGE, then selecting the highest-scoring candidate. For example, generating 10 variants of customer order phrases for chatbot training, then testing and refining the best performers. This iterative approach helps discover effective prompts that humans might not consider, automating the optimization process.
+Automatic prompt engineering uses a model or an optimization tool to generate, test and select better prompts. You give it a task, example inputs and a way to score outputs, and it tries many variations. Frameworks such as DSPy follow this approach. Results depend on having a good eval set to score against.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
-# Output Control
+# Output Limits
 
-Output control encompasses techniques and parameters for managing LLM response characteristics including length, format, style, and content boundaries. Key methods include max tokens for length limits, stop sequences for precise boundaries, temperature for creativity control, and structured output requirements for format consistency. Effective output control combines prompt engineering techniques with model parameters to ensure responses meet specific requirements. This is crucial for production applications where consistent, appropriately formatted outputs are essential for user experience and system integration.
+Output limits control how much a model writes and where it stops. They keep responses short enough for your use case and keep cost and latency down. The main tools are a maximum token count, stop sequences and, for reasoning models, an effort setting.
 
 Visit the following resources to learn more:
 

@@ -1,7 +1,8 @@
 # Model Weights / Parameters
 
-Model weights and parameters are the learned values that define an LLM's behavior and knowledge. Parameters are the trainable variables adjusted during training, while weights represent their final values. Understanding parameter count helps gauge model capabilities - larger models typically have more parameters and better performance but require more computational resources.
+Weights, also called parameters, are the numbers a model learns during training. They determine how it responds to any input. Bigger models have more parameters, often billions. Prompting does not change them, while fine-tuning does.
 
 Visit the following resources to learn more:
 
 - [@article@What are LLM parameters? - IBM](https://www.ibm.com/think/topics/llm-parameters)
+- [@article@Understanding Tokens and Parameters in Model Training - Functionize](https://www.functionize.com/blog/understanding-tokens-and-parameters-in-model-training)

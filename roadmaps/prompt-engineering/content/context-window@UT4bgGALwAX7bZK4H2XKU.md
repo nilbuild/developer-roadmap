@@ -1,3 +1,9 @@
 # Context Window
 
-A context window is the maximum amount of information, measured in tokens, that an AI model can process and "remember" during a single interaction. It acts like a temporary workspace where the model holds the input text and previous parts of the conversation to generate coherent responses. When the total length of the conversation or the provided input exceeds this limit, the model begins to "forget" the earliest information provided to it.
+The context window is the maximum number of tokens a model can process in one request. It covers the prompt, the conversation history, any retrieved material and the model's own reply. Text beyond the limit has to be cut or left out. Larger windows allow more material, although quality can drop as they fill up.
+
+Visit the following resources to learn more:
+
+- [@official@Context windows - Anthropic](https://platform.claude.com/docs/en/build-with-claude/context-windows)
+- [@article@What is a context window? - IBM](https://www.ibm.com/think/topics/context-window)
+- [@video@Why LLMs get dumb (Context Windows Explained)](https://www.youtube.com/watch?v=TeQDr4DkLYo)

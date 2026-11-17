@@ -1,6 +1,6 @@
-# Self-Consistency Prompting
+# Self-Consistency
 
-Self-consistency prompting generates multiple reasoning paths for the same problem using higher temperature settings, then selects the most commonly occurring answer through majority voting. This technique combines sampling and voting to improve accuracy and provides pseudo-probability of answer correctness. While more expensive due to multiple API calls, it significantly enhances reliability for complex reasoning tasks by reducing the impact of single incorrect reasoning chains and leveraging diverse problem-solving approaches.
+Self-consistency runs the same reasoning prompt several times with some randomness, then picks the answer that appears most often. It improves accuracy on tasks with one correct answer, such as math problems. The cost is more calls, so it raises both price and latency.
 
 Visit the following resources to learn more:
 

@@ -1,8 +1,9 @@
 # Contextual Prompting
 
-Contextual prompting provides specific background information or situational details relevant to the current task, helping LLMs understand nuances and tailor responses accordingly. Unlike system or role prompts, contextual prompts supply immediate, task-specific information that's dynamic and changes based on the situation. For example: "Context: You are writing for a blog about retro 80's arcade video games. Suggest 3 topics to write articles about." This technique ensures responses are relevant, accurate, and appropriately framed for the specific context provided.
+Contextual prompting means adding background information the model needs for the task, such as who the audience is, what has happened so far or what constraints apply. Without it the model has to guess. It is the small-scale version of context engineering: deciding which facts to include in one prompt.
 
 Visit the following resources to learn more:
 
 - [@official@Prompting Best Practices - Anthropic](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)
 - [@article@Prompt Structure and Key Parts - LearnPrompting](https://learnprompting.org/docs/basics/prompt_structure)
+- [@article@What is Context in Prompt Engineering? - God of Prompt](https://www.godofprompt.ai/blog/what-is-context-in-prompt-engineering)

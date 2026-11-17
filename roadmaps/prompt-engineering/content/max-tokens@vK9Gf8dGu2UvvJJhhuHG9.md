@@ -1,6 +1,6 @@
 # Max Tokens
 
-Max tokens setting controls the maximum number of tokens an LLM can generate in response, directly impacting computation cost, response time, and energy consumption. Setting lower limits doesn't make models more concise—it simply stops generation when the limit is reached. This parameter is crucial for techniques like ReAct where models might generate unnecessary tokens after the desired response. Balancing max tokens involves considering cost efficiency, response completeness, and application requirements while ensuring critical information isn't truncated.
+Max tokens sets the largest number of tokens the model can generate in a response. It protects against very long outputs and limits cost. The model does not know about the limit, so a response that hits it is cut off mid-sentence. To get shorter answers that still end properly, ask for a specific length in the prompt too.
 
 Visit the following resources to learn more:
 
