@@ -1,0 +1,3 @@
+# Agent
+
+An agent is an autonomous system that uses a large language model as its core engine to reason, plan, and execute tasks to achieve a specific goal. Unlike a standard chatbot that only responds to text, an agent can interact with external tools, browse the internet, or perform multi-step workflows independently. It acts by observing its environment, deciding which actions are necessary, and executing those steps until the objective is reached.
