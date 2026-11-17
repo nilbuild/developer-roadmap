@@ -1,6 +1,6 @@
 # Prompt Ensembling
 
-Prompt ensembling combines multiple different prompts or prompt variations to improve output quality and consistency. This technique involves running the same query with different prompt formulations and aggregating results through voting, averaging, or selection. Ensembling reduces variance and increases reliability by leveraging diverse prompt perspectives.
+Prompt ensembling asks the same question in several different ways, or with several models, and combines the answers by voting or merging. Different phrasings make different mistakes, so the combined result is often more reliable than any single one. It trades extra cost and latency for accuracy.
 
 Visit the following resources to learn more:
 
