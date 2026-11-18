@@ -1,6 +1,6 @@
 # Context Security
 
-Context security protects the information that goes into the context window. It covers untrusted retrieved content, poisoned documents, and secrets or personal data that should not be exposed in a prompt or reply. The main practice is keeping trusted instructions separate from untrusted content and limiting what sensitive data enters the context at all.
+Context security protects the information that goes into the context window. It deals with untrusted retrieved content, poisoned documents, and secrets or personal data that should not be exposed in a prompt or reply. The main practice is keeping trusted instructions separate from untrusted content and limiting what sensitive data enters the context at all.
 
 Visit the following resources to learn more:
 

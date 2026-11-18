@@ -1,6 +1,6 @@
 # Context Rot
 
-Context rot is the drop in output quality as the context gets longer, even when it is within the window limit. Models can miss or misuse information buried in the middle of long inputs, and irrelevant text adds noise. The practical lesson is to keep context short and relevant rather than filling the window.
+Context rot is the drop in output quality as the context gets longer, even when it is within the window limit. Models can miss or misuse information buried in the middle of long inputs, and irrelevant text adds noise. In practice, it is better to keep context short and relevant than to fill the window.
 
 Visit the following resources to learn more:
 
