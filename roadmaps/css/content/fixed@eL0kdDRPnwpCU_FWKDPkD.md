@@ -4,4 +4,4 @@ Fixed positioning in CSS allows an element to be locked in place relative to the
 
 Visit the following resources to learn more:
 
-- [@article@CSS position deep dive](https://www.youtube.com/watch?v=fF_NVrd1s14)
+- [@video@CSS position deep dive](https://www.youtube.com/watch?v=fF_NVrd1s14)
