@@ -1,7 +1,8 @@
 # Sampling Parameters
 
-Sampling parameters (temperature, top-K, top-P) control how LLMs select tokens from probability distributions, determining output randomness and creativity. These parameters interact: at extreme settings, one can override others (temperature 0 makes top-K/top-P irrelevant). A balanced starting point is temperature 0.2, top-P 0.95, top-K 30 for coherent but creative results. Understanding their interactions is crucial for optimal prompting—use temperature 0 for factual tasks, higher values for creativity, and combine settings strategically based on your specific use case.
+Sampling parameters control how a model picks the next token from its probability distribution. They set how random or repetitive the output is. The main ones are temperature, top-K, top-P and repetition controls. Some newer models fix or limit these settings, so check what your model allows.
 
 Visit the following resources to learn more:
 
 - [@article@LLM Settings (Temperature, Top-K, Top-P) - DAIR.AI](https://www.promptingguide.ai/introduction/settings)
+- [@article@LLM Parameters Explained: A Practical Guide with Examples - LearnPrompting](https://learnprompting.org/blog/llm-parameters)
