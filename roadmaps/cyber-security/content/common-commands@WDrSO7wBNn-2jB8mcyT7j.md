@@ -4,6 +4,5 @@ Common operating system (OS) commands are essential for interacting with a syste
 
 Visit the following resources to learn more:
 
-- [@article@Essential Unix Commands](https://www.geeksforgeeks.org/essential-linuxunix-commands/)
 - [@video@60 Linux commands you must know](https://www.youtube.com/watch?v=gd7BXuUQ91w)
 - [@video@Top 40 Windows commands to know](https://www.youtube.com/watch?v=Jfvg3CS1X3A)

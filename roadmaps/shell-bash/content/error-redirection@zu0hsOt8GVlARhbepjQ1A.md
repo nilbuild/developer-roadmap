@@ -4,5 +4,4 @@ Error redirection in shell scripting involves capturing and managing error messa
 
 Visit the following resources to learn more:
 
-- [@article@How to Redirect Standard (stderr) Error in Bash](https://www.geeksforgeeks.org/linux-unix/how-to-redirect-standard-stderr-error-in-bash/)
 - [@video@Understanding stdin, stdout, stderr in Python](https://www.youtube.com/watch?v=4HY0VBBY7ok)

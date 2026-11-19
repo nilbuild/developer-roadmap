@@ -4,6 +4,5 @@ The Agile model is an iterative, incremental approach to software development th
 
 Visit the following resources to learn more:
 
-- [@article@Agile Methodology: What is Agile Methodology in Software Testing?](https://www.geeksforgeeks.org/software-testing/what-is-agile-methodology/)
 - [@article@Agile Methodology: What is Agile Model in Software Testing?](https://www.guru99.com/agile-scrum-extreme-testing.html)
 - [@article@Manifesto for Agile Software Development](https://agilemanifesto.org/)

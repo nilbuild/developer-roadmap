@@ -5,5 +5,4 @@ In Bash, strings are sequences of characters. They can be enclosed in single quo
 Visit the following resources to learn more:
 
 - [@article@Bash Data Types](https://www.w3schools.com/bash/bash_data_types.php)
-- [@article@Bash Scripting - String](https://www.geeksforgeeks.org/linux-unix/bash-scripting-string/)
 - [@article@Manipulating Strings](https://tldp.org/LDP/abs/html/string-manipulation.html)
