@@ -12,8 +12,12 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const args = process.argv.slice(2);
-const roadmapSlug = args?.[0]?.replace('--roadmap-slug=', '');
-const secret = args?.[1]?.replace('--secret=', '');
+const roadmapSlug = args
+  .find((arg) => arg.startsWith('--roadmap-slug='))
+  ?.replace('--roadmap-slug=', '');
+const secret = args
+  .find((arg) => arg.startsWith('--secret='))
+  ?.replace('--secret=', '');
 if (!secret) {
   throw new Error('Secret is required');
 }

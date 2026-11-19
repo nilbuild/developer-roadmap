@@ -14,6 +14,9 @@ import {
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const RESOURCES_LEAD_IN_PATTERN =
+  /^(visit|learn more from) the following resources/i;
+
 const args = process.argv.slice(2);
 const allFiles = args
   .find((arg) => arg.startsWith('--files='))
@@ -201,16 +204,14 @@ try {
                 type: linkType as AllowedOfficialRoadmapTopicResourceType,
               };
             })
-            .sort((a, b) => {
-              const order = [
-                'official',
-                'opensource',
-                'article',
-                'video',
-                'feed',
-              ];
-              return order.indexOf(a.type) - order.indexOf(b.type);
-            })
+            // Order resources the same way as the list of allowed types
+            // (roadmap, official, opensource, article, course, podcast, video,
+            // book, feed), which matches the order in contributing.md.
+            .sort(
+              (a, b) =>
+                allowedOfficialRoadmapTopicResourceType.indexOf(a.type) -
+                allowedOfficialRoadmapTopicResourceType.indexOf(b.type),
+            )
         : [];
 
     const title = rootHtml.querySelector('h1');
@@ -219,9 +220,17 @@ try {
 
     const allParagraphs = rootHtml.querySelectorAll('p');
     if (listLinks.length > 0 && allParagraphs.length > 0) {
-      // to remove the view more see more from the description
+      // Remove the "Visit the following resources to learn more:" lead-in
+      // that introduces the resource list. Only remove the last paragraph if
+      // it actually is that lead-in, so a topic that is missing the line
+      // doesn't lose the last paragraph of its description.
       const lastParagraph = allParagraphs[allParagraphs.length - 1];
-      lastParagraph?.remove();
+      if (
+        lastParagraph &&
+        RESOURCES_LEAD_IN_PATTERN.test(lastParagraph.textContent.trim())
+      ) {
+        lastParagraph.remove();
+      }
     }
 
     const htmlStringWithoutLinks = rootHtml.toString();
