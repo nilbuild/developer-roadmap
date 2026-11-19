@@ -4,6 +4,6 @@ Networking involves understanding how devices communicate with each other over a
 
 Visit the following resources to learn more:
 
-- [@article@Khan Academy - Networking](ttps://www.khanacademy.org/computing/code-org/computers-and-the-internet)
+- [@article@Khan Academy - Networking](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
 - [@video@Computer Networking Course - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw)
 - [@video@Networking Video Series (21 videos)](https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)

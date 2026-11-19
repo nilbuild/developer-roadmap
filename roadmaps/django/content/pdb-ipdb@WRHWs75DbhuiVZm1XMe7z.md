@@ -5,6 +5,6 @@ PDB (Python Debugger) is an interactive source code debugger for Python programs
 Visit the following resources to learn more:
 
 - [@official@pdb](https://docs.python.org/3/library/pdb.html)
-- [@official@ipdb](vhttps://pypi.org/project/ipdb/)
+- [@official@ipdb](https://pypi.org/project/ipdb/)
 - [@article@Python Debugging With Pdb](https://realpython.com/python-debugging-pdb/)
 - [@video@How to use ipdb the interactive python debugger](https://www.youtube.com/watch?v=EnC9ciDkXqA)
