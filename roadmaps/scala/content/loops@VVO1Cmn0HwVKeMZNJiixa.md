@@ -5,4 +5,3 @@ Loops are used to execute a block of code repeatedly. Scala supports the followi
 Visit the following resources to learn more:
 
 - [@official@for loops | Scala Book | Scala Documentation](https://docs.scala-lang.org/overviews/scala-book/for-loops.html)
-- [@article@Scala | Loops (while, do..while, for, nested loops)](https://www.geeksforgeeks.org/scala/scala-loopswhile-do-while-for-nested-loops/)

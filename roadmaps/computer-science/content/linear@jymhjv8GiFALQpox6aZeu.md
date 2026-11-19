@@ -4,6 +4,5 @@ Linear algorithms are algorithms that have a runtime that is directly proportion
 
 Visit the following resources to learn more:
 
-- [@article@Linear Search Algorithm](https://www.geeksforgeeks.org/linear-search/)
 - [@video@Big O Notation — Calculating Time Complexity](https://www.youtube.com/watch?v=Z0bH0cMY0E8)
 - [@video@Big O Notations](https://www.youtube.com/watch?v=V6mKVRU1evU)
