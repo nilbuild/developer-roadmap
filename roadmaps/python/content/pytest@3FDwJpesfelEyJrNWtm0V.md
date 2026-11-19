@@ -1,6 +1,6 @@
 # pytest
 
-pytest is a mature full-featured Python testing tool that helps you write better programs.
+pytest is a popular, full-featured testing framework for Python. Tests are plain functions whose names start with `test_`, placed in files named `test_*.py` or `*_test.py`, and they use Python's built-in `assert` statement; when an assertion fails, pytest shows a detailed explanation of the values involved. Fixtures provide reusable setup and teardown that are injected into tests by name, `@pytest.mark.parametrize` runs the same test with different inputs, and a large plugin ecosystem adds features such as coverage reporting and parallel test runs. pytest can also run existing `unittest`-style tests.
 
 Visit the following resources to learn more:
 
