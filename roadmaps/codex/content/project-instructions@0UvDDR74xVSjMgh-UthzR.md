@@ -5,4 +5,3 @@ Project instructions give Codex standing guidance so you do not repeat yourself 
 Visit the following resources to learn more:
 
 - [@official@AGENTS.md](https://learn.chatgpt.com/docs/agent-configuration/agents-md)
-- [@official@Custom instructions with AGENTS.md](https://learn.chatgpt.com/docs/agent-configuration/agents-md)
