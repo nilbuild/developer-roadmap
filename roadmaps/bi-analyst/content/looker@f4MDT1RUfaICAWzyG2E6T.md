@@ -5,4 +5,4 @@ Looker is a Google cloud-based business intelligence and data analytics platform
 Visit the following resources to learn more:
 
 - [@official@ooker business intelligence platform embedded analytics](https://cloud.google.com/looker)
-- [@official@What is Looker?](ttps://www.youtube.com/watch?v=EmkNPAzla0Y&pp=0gcJCfwAo7VqN5tD)
+- [@official@What is Looker?](https://www.youtube.com/watch?v=EmkNPAzla0Y&pp=0gcJCfwAo7VqN5tD)

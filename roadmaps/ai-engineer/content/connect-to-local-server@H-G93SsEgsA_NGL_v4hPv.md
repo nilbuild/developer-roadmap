@@ -5,5 +5,5 @@ A Local Desktop deployment means running the MCP server directly on your own com
 Visit the following resources to learn more:
 
 - [@official@Connect to local MCP servers](https://modelcontextprotocol.io/docs/develop/connect-local-servers)
-- [@article@How to Build and Host Your Own MCP Servers in Easy Steps](ttps://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/)
+- [@article@How to Build and Host Your Own MCP Servers in Easy Steps](https://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/)
 - [@video@Local MCP Servers for Cursor (Step by step)](https://www.youtube.com/watch?v=_Qr0WTgR5EM)

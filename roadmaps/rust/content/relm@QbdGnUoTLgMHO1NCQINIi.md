@@ -4,6 +4,6 @@ Iced is a cross-platform GUI library for Rust that focuses on simplicity and typ
 
 Visit the following resources to learn more:
 
-- [@official@Iced](ttps://iced.rs/)
-- [@official@Iced Guide](ttps://iced.rs/index.html)
+- [@official@Iced](https://iced.rs/)
+- [@official@Iced Guide](https://iced.rs/index.html)
 - [@article@Building a Modern Rust GUI with Iced](https://medium.com/@k8scat/building-a-modern-rust-gui-with-iced-a-comprehensive-guide-fc272704f7a5)

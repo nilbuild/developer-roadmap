@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Codex Docs](https://developers.openai.com/codex)
 - [@article@Claude Code or Codex? How to Pick the Right AI Agent](https://roadmap.sh/claude-code/vs-codex)
-- [@video@Codex Crash Course](ttps://www.youtube.com/playlist?list=PL4cUxeGkcC9iDBeA8IyR1IE1kl4w5IDEG)
+- [@video@Codex Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iDBeA8IyR1IE1kl4w5IDEG)
