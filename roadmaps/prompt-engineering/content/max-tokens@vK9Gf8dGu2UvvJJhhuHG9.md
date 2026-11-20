@@ -4,5 +4,6 @@ Max tokens sets the largest number of tokens the model can generate in a respons
 
 Visit the following resources to learn more:
 
-- [@official@Token Counting - Anthropic](https://platform.claude.com/docs/en/build-with-claude/token-counting)
+- [@article@Token Limits: What They Mean for Your Prompts](https://prompt-architects.com/blog/605-token-limits-what-they-mean-for-your-prompts)
+- [@article@Token Counting - Anthropic](https://platform.claude.com/docs/en/build-with-claude/token-counting)
 - [@article@Max Tokens - LLM Parameter Guide - Vellum](https://www.vellum.ai/llm-parameters/max-tokens)

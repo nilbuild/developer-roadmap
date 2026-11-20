@@ -7,3 +7,4 @@ Visit the following resources to learn more:
 - [@official@ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io/)
 - [@article@ReAct - DAIR.AI](https://www.promptingguide.ai/techniques/react)
 - [@article@ReAct Systems: Enhancing LLMs with Reasoning and Action - LearnPrompting](https://learnprompting.org/docs/agents/react)
+- [@video@4 Methods of Prompt Engineering](https://www.youtube.com/watch?v=1c9iyoVIwDs&t=390s)

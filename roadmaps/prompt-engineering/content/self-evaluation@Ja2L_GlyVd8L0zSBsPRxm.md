@@ -5,4 +5,5 @@ Self-evaluation asks a model to review its own output against criteria and then 
 Visit the following resources to learn more:
 
 - [@article@LLM Self-Evaluation - LearnPrompting](https://learnprompting.org/docs/reliability/lm_self_eval)
+- [@article@The definitive guide to LLM evaluations](https://arize.com/resources/llm-evaluation/self-improving-llm-evaluation/)
 - [@article@Reflection Agents - LangChain](https://blog.langchain.com/reflection-agents/)

@@ -1,9 +1,10 @@
-# Spec-First Prompts
+# Spec-Driven Prompts
 
-A spec-first prompt means writing a short specification before asking a coding agent to build something. It states the goal, constraints, relevant files and how you will check that the work is done. Many people also ask the agent for a plan and review it before any code is written. This reduces rework and keeps the agent from guessing.
+Spec-driven prompts are structured inputs that rely on predefined schemas, such as JSON, XML, or YAML, to dictate the format and constraints of an AI's output. By providing a formal "specification" or template, you ensure that the model follows specific structural requirements, data types, and field naming conventions. This approach reduces ambiguity and ensures the generated content is machine-readable and ready for integration into larger software systems or automated workflows.
 
 Visit the following resources to learn more:
 
-- [@official@Explore first, then plan, then code - Claude Code](https://code.claude.com/docs/en/best-practices#explore-first-then-plan-then-code)
-- [@official@How to use Plan Mode - Claude Code](https://code.claude.com/docs/en/common-workflows#how-to-use-plan-mode)
-- [@article@What Actually Is Claude Code's Plan Mode?](https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/)
+- [@course@Full Course: Spec-Driven Development with Coding Agents](https://www.youtube.com/watch?v=hy8UstR2NEg)
+- [@article@Structured-Prompt-Driven Development (SPDD)](https://martinfowler.com/articles/structured-prompt-driven/)
+- [@article@Spec-Driven Prompt Engineering for Developers](https://www.augmentcode.com/guides/spec-driven-prompt-engineering-for-developers)
+- [@video@Spec-Driven Development: AI Assisted Coding Explained](https://www.youtube.com/watch?v=mViFYTwWvcM)

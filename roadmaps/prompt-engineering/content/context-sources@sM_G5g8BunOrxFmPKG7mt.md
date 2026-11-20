@@ -4,6 +4,6 @@ Context sources are the places where information in the context comes from. Comm
 
 Visit the following resources to learn more:
 
+- [@article@What is context engineering?](https://www.youtube.com/watch?v=BBPQYtR7oUk)
 - [@article@The Context Layer for AI: What Enterprises Get Wrong - DataHub](https://datahub.com/blog/context-layer-for-ai/)
-- [@article@Context Engineering for AI Agents: The Complete Guide - Medium](https://medium.com/@khanzzirfan/context-engineering-for-ai-agents-the-complete-guide-5047f84595c7)
 - [@video@Most devs don't understand how context windows work](https://www.youtube.com/watch?v=-uW5-TaVXu4)

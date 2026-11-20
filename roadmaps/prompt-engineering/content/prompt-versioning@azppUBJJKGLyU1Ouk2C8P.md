@@ -4,5 +4,5 @@ Prompt versioning means keeping a history of each prompt change, with the date, 
 
 Visit the following resources to learn more:
 
-- [@official@Langfuse Overview](https://langfuse.com/docs)
-- [@article@A guide to LLM debugging, tracing, and monitoring - Weights & Biases](https://wandb.ai/onlineinference/genai-research/reports/A-guide-to-LLM-debugging-tracing-and-monitoring--VmlldzoxMzk1MjAyOQ)
+- [@article@What is prompt versioning? Best practices for iteration without breaking production](https://www.braintrust.dev/articles/what-is-prompt-versioning)
+- [@article@What Is Prompt Versioning? A Complete Guide for Engineering Teams in 2026](https://www.truefoundry.com/blog/what-is-prompt-versioning)

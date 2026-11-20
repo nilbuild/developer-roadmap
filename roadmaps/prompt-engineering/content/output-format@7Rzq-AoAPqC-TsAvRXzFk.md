@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Increase output consistency - Anthropic](https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/increase-consistency)
 - [@article@Mastering Prompt Engineering: Format, Length, and Audience - Techlasi](https://techlasi.com/savvy/mastering-prompt-engineering-format-length-and-audience-examples-for-2024/)
+- [@article@How to Specify Output Format in AI Prompts (2026 Guide)](https://prompt-eval.com/en/blog/how-to-specify-output-format-in-ai-prompts)

@@ -5,3 +5,4 @@ Calibration is how well a model's stated confidence matches how often it is righ
 Visit the following resources to learn more:
 
 - [@article@Calibrating LLMs - LearnPrompting](https://learnprompting.org/docs/reliability/calibration)
+- [@article@Model Calibration Assessment](https://apxml.com/courses/fine-tuning-adapting-large-language-models/chapter-6-evaluation-analysis-fine-tuned-models/model-calibration-assessment)

@@ -4,10 +4,6 @@ Closed models, such as GPT, Claude and Gemini, are used through a provider's API
 
 Visit the following resources to learn more:
 
-- [@official@Llama](https://www.llama.com/)
-- [@official@Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
-- [@official@OpenAI API Documentation](https://developers.openai.com/api/docs)
+- [@opensource@Open Source vs Closed Source LLMs: Which to Choose (2026)](https://aicomparison.ai/open-source-vs-closed-source-llms/)
 - [@article@Open Source vs Closed LLMs Guide - HatchWorks](https://hatchworks.com/blog/gen-ai/open-source-vs-closed-llms-guide/)
-- [@article@Open-source Models vs. Closed-Source Models: A Simple Guide - Koat](https://koat.ai/blog/open-source-models-vs-closed-source-models-a-simple-guide)
-- [@opensource@Llama Models (GitHub)](https://github.com/meta-llama/llama-models)
 - [@video@Open Source vs Closed AI: LLMs, Agents & the AI Stack Explained](https://www.youtube.com/watch?v=_QfxGZGITGw)

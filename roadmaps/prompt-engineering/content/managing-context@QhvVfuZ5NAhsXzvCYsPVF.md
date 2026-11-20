@@ -4,7 +4,7 @@ Managing context means choosing what goes into the context window, in what order
 
 Visit the following resources to learn more:
 
-- [@official@Effective context engineering for AI agents - Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
-- [@article@Context Engineering for Agents - LangChain](https://blog.langchain.com/context-engineering-for-agents/)
-- [@article@4 context engineering strategies every AI engineer needs to know - Owain Lewis](https://newsletter.owainlewis.com/p/4-context-engineering-strategies)
-- [@video@Context Engineering for Agents](https://www.youtube.com/watch?v=4GiqzUHD5AA)
+- [@article@Effective context engineering for AI agents - Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+- [@article@Context Engineering as Your Competitive Edge](https://towardsdatascience.com/context-engineering-as-your-competitive-edge/)
+- [@article@Context Engineering Guide](https://www.promptingguide.ai/guides/context-engineering-guide)
+- [@video@Context Engineering Clearly Explained](https://www.youtube.com/watch?v=jLuwLJBQkIs)

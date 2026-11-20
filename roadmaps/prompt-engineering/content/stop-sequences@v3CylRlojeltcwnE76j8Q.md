@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Handling Stop Reasons - Anthropic](https://platform.claude.com/docs/en/build-with-claude/handling-stop-reasons)
 - [@article@Stop Sequence - LLM Parameter Guide - Vellum](https://www.vellum.ai/llm-parameters/stop-sequence)
+- [@article@Better Prompt Guide: Mastering Stop Sequences in AI](https://betterprompt.com.au/prompt/stop-sequences)

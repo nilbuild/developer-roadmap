@@ -4,6 +4,7 @@ A prompt is the input you give a model to get a response. It usually combines an
 
 Visit the following resources to learn more:
 
+- [@course@Prompt engineering: overview and guide](https://cloud.google.com/discover/what-is-prompt-engineering)
 - [@article@Basics of Prompting - DAIR.AI](https://www.promptingguide.ai/introduction/basics)
-- [@article@Prompt Elements - DAIR.AI](https://www.promptingguide.ai/introduction/elements)
+- [@article@Introduction to Prompting](https://emergent.sh/glossary/prompt)
 - [@article@What is Prompt Engineering? - AWS](https://aws.amazon.com/what-is/prompt-engineering/)

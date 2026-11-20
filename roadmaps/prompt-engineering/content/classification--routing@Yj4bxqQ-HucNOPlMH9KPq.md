@@ -4,5 +4,5 @@ Classification and routing use a first model call to decide what a request is, t
 
 Visit the following resources to learn more:
 
-- [@official@Increase output consistency - Anthropic](https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/increase-consistency)
-- [@article@Building effective agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+- [@official@Prompt Routing](https://nhimg.org/glossary/prompt-routing/)
+- [@article@LLM-Based Prompt Routing](https://www.emergentmind.com/topics/llm-based-prompt-routing)

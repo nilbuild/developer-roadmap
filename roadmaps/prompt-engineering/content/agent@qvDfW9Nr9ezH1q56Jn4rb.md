@@ -4,7 +4,7 @@ An agent is a system where an LLM decides its own next steps in a loop. It calls
 
 Visit the following resources to learn more:
 
-- [@official@Tool use overview - Anthropic](https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview)
+- [@roadmap@Visit the Dedicated AI Agents Roadmap](https://roadmap.sh/ai-agents)
 - [@article@Building effective agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
 - [@article@What are AI Agents? - AWS](https://aws.amazon.com/what-is/ai-agents/)
 - [@video@What are AI Agents?](https://www.youtube.com/watch?v=F8NKVhkZZWI)

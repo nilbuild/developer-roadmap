@@ -4,7 +4,6 @@ Output validation checks a model's response before it is shown to a user or pass
 
 Visit the following resources to learn more:
 
-- [@official@Moderation API - OpenAI](https://platform.openai.com/docs/guides/moderation)
-- [@official@Structured Outputs - OpenAI](https://platform.openai.com/docs/guides/structured-outputs)
-- [@article@How to use the moderation API - OpenAI Cookbook](https://cookbook.openai.com/examples/how_to_use_moderation)
-- [@article@How to Build Safe AI Agents: Best Practices for Guardrails - Medium](https://medium.com/@sahin.samia/how-to-build-safe-ai-agents-best-practices-for-guardrails-and-oversight-a0085b50c022)
+- [@article@Output Validation](https://prefactor.tech/glossary/output-validation)
+- [@article@LLM output validation: 5 patterns that actually work in production](https://dev.to/ayinedjimi-consultants/llm-output-validation-5-patterns-that-actually-work-in-production-1edi)
+- [@article@LLM Ops Architecture: Implementing Output Validation and Structured AI Responses](https://www.youtube.com/watch?v=smzw0JCWxlE)

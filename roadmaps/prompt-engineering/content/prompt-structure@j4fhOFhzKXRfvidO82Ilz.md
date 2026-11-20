@@ -7,4 +7,4 @@ Visit the following resources to learn more:
 - [@official@Prompting best practices - Anthropic](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)
 - [@article@Prompt Structure and Key Parts - LearnPrompting](https://learnprompting.org/docs/basics/prompt_structure)
 - [@article@Elements of a Prompt - DAIR.AI](https://www.promptingguide.ai/introduction/elements)
-- [@article@Does Prompt Formatting Have Any Impact on LLM Performance? - arXiv](https://arxiv.org/html/2411.10541v1)
+- [@video@Google's 9 Hour AI Prompt Engineering Course In 20 Minutes](https://www.youtube.com/watch?v=p09yRj47kNM&t=20s)

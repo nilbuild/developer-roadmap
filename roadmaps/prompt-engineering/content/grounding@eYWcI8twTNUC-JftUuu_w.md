@@ -4,5 +4,6 @@ Grounding means tying the model's answer to supplied sources. The prompt tells t
 
 Visit the following resources to learn more:
 
-- [@official@Reduce hallucinations - Anthropic](https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)
-- [@article@Retrieval Augmented Generation (RAG) - DAIR.AI](https://www.promptingguide.ai/techniques/rag)
+- [@article@What Is Agentic Context Grounding? The Pattern Behind Claude Design and Vertical AI Apps](https://www.mindstudio.ai/blog/agentic-context-grounding-claude-design-patterns)
+- [@article@Context Grounding](https://nhimg.org/glossary/context-grounding/)
+- [@article@Context Grounding, RAG Strategies and Escalations-Giving Your Agent the Right Knowledge at the Right Time](https://medium.com/@kotla.gunasekhar/context-grounding-rag-strategies-escalations-giving-your-agent-the-right-knowledge-at-the-right-c27f3608204f)
