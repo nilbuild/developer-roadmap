@@ -4,7 +4,7 @@ Tool calling, also called function calling, lets a model request that your code 
 
 Visit the following resources to learn more:
 
-- [@official@Tool use overview - Anthropic](https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview)
 - [@article@Function Calling with LLMs - DAIR.AI](https://www.promptingguide.ai/applications/function_calling)
-- [@article@A Comprehensive Guide to Function Calling in LLMs - The New Stack](https://thenewstack.io/a-comprehensive-guide-to-function-calling-in-llms/)
+- [@article@Function Calling vs. Tool Calling in LLMs: What’s the Difference?](https://www.siliconflow.com/blog/function-calling-vs-tool-calling)
+- [@video@What is Tool Calling? Connecting LLMs to Your Data](https://www.youtube.com/watch?v=h8gMhXYAv1k)
 - [@video@LLM Function Calling - AI Tools Deep Dive](https://www.youtube.com/watch?v=gMeTK6zzaO4)

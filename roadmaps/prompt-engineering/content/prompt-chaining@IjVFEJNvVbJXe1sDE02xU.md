@@ -4,6 +4,7 @@ Prompt chaining splits a large task into a sequence of smaller prompts, where th
 
 Visit the following resources to learn more:
 
-- [@official@Chain complex prompts for stronger performance - Anthropic](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/chain-prompts)
+- [@article@What is prompt chaining?](https://www.ibm.com/think/topics/prompt-chaining)
 - [@article@Prompt Chaining - DAIR.AI](https://www.promptingguide.ai/techniques/prompt_chaining)
-- [@article@Building effective agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+- [@article@Chain complex prompts for stronger performance - Anthropic](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/chain-prompts)
+- [@article@Prompt Engineering Course Part 3 - Prompt Chaining](https://www.youtube.com/watch?v=IGdiKtCzhRc)

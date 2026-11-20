@@ -4,5 +4,6 @@ Context isolation gives each sub-task or sub-agent its own separate context. A s
 
 Visit the following resources to learn more:
 
-- [@article@4 context engineering strategies every AI engineer needs to know - Owain Lewis](https://newsletter.owainlewis.com/p/4-context-engineering-strategies)
+- [@article@What Is Context Isolation?](https://tacnode.io/glossary/context-isolation)
 - [@article@Context Engineering for Agents - LangChain](https://blog.langchain.com/context-engineering-for-agents/)
+- [@video@Building Reliable AI Agents with Sub-Agent Context Isolation in Claude Code](https://www.youtube.com/watch?v=_uDsRFM8s2M)

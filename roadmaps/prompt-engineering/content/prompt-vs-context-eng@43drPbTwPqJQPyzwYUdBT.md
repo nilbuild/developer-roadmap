@@ -4,7 +4,6 @@ Prompt engineering focuses on the wording and structure of the instructions you 
 
 Visit the following resources to learn more:
 
-- [@official@Effective context engineering for AI agents - Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - [@article@Context Engineering vs. Prompt Engineering - DataHub](https://datahub.com/blog/context-engineering-vs-prompt-engineering/)
 - [@article@Context engineering vs. prompt engineering - Elastic](https://www.elastic.co/search-labs/blog/context-engineering-vs-prompt-engineering)
 - [@article@Beyond Prompting: The Power of Context Engineering - Towards Data Science](https://towardsdatascience.com/beyond-prompting-the-power-of-context-engineering/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)

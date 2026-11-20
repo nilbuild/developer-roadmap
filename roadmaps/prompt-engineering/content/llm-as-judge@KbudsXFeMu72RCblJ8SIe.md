@@ -4,6 +4,6 @@ LLM-as-judge uses a model to score another model's outputs against criteria, suc
 
 Visit the following resources to learn more:
 
-- [@article@LLM-as-a-judge: a complete guide to using LLMs for evaluations - Evidently AI](https://www.evidentlyai.com/llm-guide/llm-as-a-judge)
+- [@article@LLM as a Judge: What It Is, How It Works, and Best Practices](https://roadmap.sh/ai-engineer/llm-as-a-judge)
 - [@article@LLM-as-a-judge vs. human evaluation: Why together is better - SuperAnnotate](https://www.superannotate.com/blog/llm-as-a-judge-vs-human-evaluation)
 - [@video@LLM as a Judge: Scaling AI Evaluation Strategies](https://www.youtube.com/watch?v=trfUBIDeI1Y)

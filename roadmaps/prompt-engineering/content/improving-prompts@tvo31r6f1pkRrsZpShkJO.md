@@ -4,7 +4,7 @@ Improving prompts is the loop of testing, finding failures and changing the prom
 
 Visit the following resources to learn more:
 
+- [@course@ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - [@official@Prompt engineering overview - Anthropic](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)
 - [@article@Tips for Writing Better Prompts - LearnPrompting](https://learnprompting.org/docs/basics/ai_prompt_tips)
-- [@course@ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - [@video@Prompt Engineering: The Iterative Process](https://www.youtube.com/watch?v=dOxUroR57xs)

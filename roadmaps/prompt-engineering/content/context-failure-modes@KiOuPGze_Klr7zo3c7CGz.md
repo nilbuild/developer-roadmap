@@ -5,5 +5,6 @@ Context failure modes are common ways that context causes bad output. Poisoning 
 Visit the following resources to learn more:
 
 - [@article@How Long Contexts Fail - Drew Breunig](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html)
-- [@article@Understanding LLM Failure Modes (And Why They Matter More Than the Model Itself) - Medium](https://medium.com/@RamPrakashD/understanding-llm-failure-modes-and-why-they-matter-more-than-the-model-itself-2104edccf3cd)
+- [@article@The 4 Failure Modes of Agent Context in Production](https://redis.io/blog/the-4-failure-modes-of-agent-context/)
 - [@video@RAG Failure Patterns, Explained](https://www.youtube.com/watch?v=1nI0hX9dvD4)
+- [@video@Context Engineering for AI Agents: 4 Failure Modes to Avoid](https://www.youtube.com/watch?v=BwXremQ-i6I)

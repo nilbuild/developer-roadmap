@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Self-Consistency - DAIR.AI](https://www.promptingguide.ai/techniques/consistency)
 - [@article@Self-Consistency - LearnPrompting](https://learnprompting.org/docs/intermediate/self_consistency)
+- [@article@Self-Consistency: A Better Approach for Reasoning in LLMs](https://medium.com/@lince-mathew/self-consistency-a-better-approach-for-reasoning-in-llms-1a1b6798d443)

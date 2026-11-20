@@ -4,6 +4,5 @@ Prompt management is how a team stores, versions, reviews and monitors the promp
 
 Visit the following resources to learn more:
 
-- [@official@Langfuse Overview](https://langfuse.com/docs)
-- [@article@What is LLM observability? - IBM](https://www.ibm.com/think/topics/llm-observability)
-- [@article@A guide to LLM debugging, tracing, and monitoring - Weights & Biases](https://wandb.ai/onlineinference/genai-research/reports/A-guide-to-LLM-debugging-tracing-and-monitoring--VmlldzoxMzk1MjAyOQ)
+- [@article@What is Prompt Management?](https://jfrog.com/learn/mlops/prompt-management/)
+- [@video@Prompt Management 101 - Full Guide for AI Engineers](https://www.youtube.com/watch?v=Qddc_DNo9qY)

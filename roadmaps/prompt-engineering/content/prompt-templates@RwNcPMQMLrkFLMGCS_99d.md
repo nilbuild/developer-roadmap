@@ -4,5 +4,6 @@ A prompt template is a prompt with placeholders, such as `{{customer_name}}`, th
 
 Visit the following resources to learn more:
 
-- [@official@Prompt engineering overview - Anthropic](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)
+- [@article@Prompt templates](https://developers.cloudflare.com/style-guide/how-we-docs/how-we-ai/prompt-templates/)
 - [@article@Elements of a Prompt - DAIR.AI](https://www.promptingguide.ai/introduction/elements)
+- [@article@Prompt Templates: The Secret Sauce for Smarter AI Prompts 🚀](https://raghunitb.medium.com/blog-6-prompt-templates-the-secret-sauce-for-smarter-ai-prompts-e28475ff651b)

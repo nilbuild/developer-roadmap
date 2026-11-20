@@ -4,7 +4,7 @@ RAG retrieves relevant documents and adds them to the prompt. Dynamic filters na
 
 Visit the following resources to learn more:
 
-- [@article@4 context engineering strategies every AI engineer needs to know - Owain Lewis](https://newsletter.owainlewis.com/p/4-context-engineering-strategies)
-- [@article@Context Engineering for Agents - LangChain](https://blog.langchain.com/context-engineering-for-agents/)
+- [@article@Increase web search accuracy and efficiency with dynamic filtering - Claude](https://claude.com/resources/articles/improved-web-search-with-dynamic-filtering)
+- [@article@Context Engineering Guide: RAG, Memory Systems & Dynamic Context for Production AI](https://www.meta-intelligence.tech/en/insight-context-engineering)
 - [@article@Is RAG Dead? The Rise of Context Engineering and Semantic Layers for Agentic AI - Towards Data Science](https://towardsdatascience.com/beyond-rag/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@article@Chunking Strategies for LLM Applications - Pinecone](https://www.pinecone.io/learn/chunking-strategies/)
+- [@video@Context Engineering vs. Prompt Engineering: Smarter AI with RAG & Agents](https://www.youtube.com/watch?v=vD0E3EUb8-8)

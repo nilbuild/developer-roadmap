@@ -4,6 +4,6 @@ Context budgeting is deciding how many tokens each part of the context gets. Sys
 
 Visit the following resources to learn more:
 
-- [@official@Token Counting - Anthropic](https://platform.claude.com/docs/en/build-with-claude/token-counting)
 - [@article@LLM Cost Optimization: 5 Levers That Cut API Spend 70-85% - Morph](https://www.morphllm.com/llm-cost-optimization)
 - [@article@The LLM Inference Trilemma: Throughput, Latency, Cost - DigitalOcean](https://www.digitalocean.com/blog/llm-inference-tradeoffs)
+- [@article@Context Budget Allocation: Spending Every Token Wisely¶](https://agentpatterns.ai/context-engineering/context-budget-allocation/)

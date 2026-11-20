@@ -4,7 +4,7 @@ Context evaluation checks whether the information given to the model is good, se
 
 Visit the following resources to learn more:
 
-- [@official@Ragas Docs](https://docs.ragas.io/en/stable/)
+- [@article@4 RAG Metrics to Improve Retrieval and Generation](https://www.splunk.com/en_us/blog/artificial-intelligence/rag-metrics.html)
+- [@article@AI Agent Context Evaluation: How to Test a Context Change](https://alignbase.com/blogs/ai-agent-context-evaluation/)
 - [@article@AI Agent Evaluation - Machine Learning Mastery](https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/)
-- [@opensource@ragas - GitHub](https://github.com/vibrantlabsai/ragas)
 - [@video@RAGAS: How to Evaluate a RAG Application](https://www.youtube.com/watch?v=5fp6e5nhJRk)

@@ -4,6 +4,7 @@ Context rot is the drop in output quality as the context gets longer, even when 
 
 Visit the following resources to learn more:
 
-- [@article@How Long Contexts Fail - Drew Breunig](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html)
+- [@article@What is context rot? - Redis](https://redis.io/blog/context-rot/)
+- [@article@What Is Context Rot? - Salesforce](https://www.salesforce.com/artificial-intelligence/ai-context/context-rot/)
 - [@article@Coding Agents Don't Need Bigger Context Windows - Towards Data Science](https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/)
-- [@video@Why LLMs get dumb (Context Windows Explained)](https://www.youtube.com/watch?v=TeQDr4DkLYo)
+- [@video@Context Rot: How Increasing Input Tokens Impacts LLM Performance](https://www.youtube.com/watch?v=TUjQuC4ugak)

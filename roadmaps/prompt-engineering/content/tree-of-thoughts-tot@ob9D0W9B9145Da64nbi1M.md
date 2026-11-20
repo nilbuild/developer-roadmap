@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Tree of Thoughts - DAIR.AI](https://www.promptingguide.ai/techniques/tot)
 - [@article@What is tree-of-thoughts? - IBM](https://www.ibm.com/think/topics/tree-of-thoughts)
+- [@video@Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://www.youtube.com/watch?v=ut5kp56wW_4)

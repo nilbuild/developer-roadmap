@@ -4,7 +4,6 @@ Context compaction shortens the context when it grows too long. The usual method
 
 Visit the following resources to learn more:
 
-- [@official@Context editing - Anthropic](https://platform.claude.com/docs/en/build-with-claude/context-editing)
-- [@article@Context Engineering for Agents - LangChain](https://blog.langchain.com/context-engineering-for-agents/)
-- [@article@Context Compaction - GitHub Gist](https://gist.github.com/badlogic/cd2ef65b0697c4dbe2d13fbecb0a0a5f)
-- [@video@Context Engineering for Agents](https://www.youtube.com/watch?v=4GiqzUHD5AA)
+- [@official@Context compaction for AI agents: a complete guide](https://redis.io/blog/context-compaction/)
+- [@article@Context engineering: memory, compaction, and tool clearing](https://platform.claude.com/cookbook/tool-use-context-engineering-context-engineering-tools)
+- [@article@What Do You Do When the Context Is Almost Full? How Does Context Compaction Work?](https://labuladong.online/en/interview/agent/context-compaction/)

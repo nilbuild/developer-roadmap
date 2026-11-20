@@ -4,6 +4,6 @@ Effort levels control how much a reasoning model thinks before it answers. Provi
 
 Visit the following resources to learn more:
 
-- [@official@Building with extended thinking - Anthropic](https://platform.claude.com/docs/en/build-with-claude/extended-thinking)
-- [@official@Reasoning models - OpenAI](https://platform.openai.com/docs/guides/reasoning)
-- [@article@What is a reasoning model? - IBM](https://www.ibm.com/think/topics/reasoning-model)
+- [@article@Choosing the right reasoning level for LLM tasks](https://www.blazity.com/blog/llm-reasoning-levels)
+- [@article@Building with extended thinking - Anthropic](https://platform.claude.com/docs/en/build-with-claude/extended-thinking)
+- [@video@Anthropic Just Revealed Which Effort Level to Use](https://www.youtube.com/watch?v=Q876SRB_-1M)

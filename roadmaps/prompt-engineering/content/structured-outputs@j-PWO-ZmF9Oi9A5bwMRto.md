@@ -6,6 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Structured Output - Google Gemini API](https://ai.google.dev/gemini-api/docs/structured-output)
 - [@official@Structured Outputs - Anthropic](https://platform.claude.com/docs/en/build-with-claude/structured-outputs)
-- [@article@Structured Outputs - LLM Parameter Guide - Vellum](https://www.vellum.ai/llm-parameters/structured-outputs)
 - [@article@Generating Structured Outputs from LLMs - Towards Data Science](https://towardsdatascience.com/generating-structured-outputs-from-llms/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@opensource@Instructor - Structured Output Library](https://github.com/jxnl/instructor)

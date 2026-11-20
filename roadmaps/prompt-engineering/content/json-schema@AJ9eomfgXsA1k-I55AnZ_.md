@@ -4,7 +4,7 @@ JSON Schema is a standard way to describe the fields, types and required values 
 
 Visit the following resources to learn more:
 
-- [@official@Structured Outputs - OpenAI](https://platform.openai.com/docs/guides/structured-outputs)
-- [@official@Structured Outputs - Anthropic](https://platform.claude.com/docs/en/build-with-claude/structured-outputs)
-- [@official@Structured Output - Google Gemini API](https://ai.google.dev/gemini-api/docs/structured-output)
-- [@article@How do Structured Outputs Work? - Cohere](https://docs.cohere.com/docs/structured-outputs)
+- [@article@Mastering JSON Prompting for LLMs](https://machinelearningmastery.com/mastering-json-prompting-for-llms/)
+- [@article@JSON Prompts Explained: What They Are and When to Use Them](https://prompt-architects.com/blog/42-json-prompts-explained)
+- [@article@Structured model outputs](https://developers.openai.com/api/docs/guides/structured-outputs?api-mode=responses)
+- [@video@What Are JSON Prompts? Veo 3 JSON Prompting Explained.](https://www.youtube.com/watch?v=bWDQw9bJVpw)

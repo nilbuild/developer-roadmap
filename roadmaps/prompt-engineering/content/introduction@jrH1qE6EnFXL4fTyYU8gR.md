@@ -4,6 +4,7 @@ Prompt engineering is the practice of writing inputs that get useful, reliable o
 
 Visit the following resources to learn more:
 
-- [@official@Effective context engineering for AI agents - Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
-- [@article@What is Generative AI? - LearnPrompting](https://learnprompting.org/docs/basics/generative_ai)
-- [@article@Context Engineering Guide - DAIR.AI](https://www.promptingguide.ai/guides/context-engineering-guide)
+- [@article@What is prompt engineering?](https://www.ibm.com/think/topics/prompt-engineering)
+- [@article@What is context engineering?](https://www.ibm.com/think/topics/context-engineering)
+- [@video@What Is Prompt Engineering? | Introduction to Prompt Engineering In 6 Minutes | Simplilearn](https://www.youtube.com/watch?v=BzIF4hrEgyk)
+- [@video@Context engineering explained: What every AI developer should know](https://www.youtube.com/watch?v=BBPQYtR7oUk)

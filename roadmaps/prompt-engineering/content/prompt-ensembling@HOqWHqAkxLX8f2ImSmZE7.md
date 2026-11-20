@@ -5,3 +5,5 @@ Prompt ensembling asks the same question in several different ways, or with seve
 Visit the following resources to learn more:
 
 - [@article@Introduction to Ensembling - LearnPrompting](https://learnprompting.org/docs/advanced/ensembling/introduction)
+- [@article@What is Prompt ensembling?](https://www.promptlayer.com/glossary/prompt-ensembling/)
+- [@article@Prompt ensembling](https://webiano.digital/knowledge-base/artificial-intelligence/prompting/prompt-ensembling/)

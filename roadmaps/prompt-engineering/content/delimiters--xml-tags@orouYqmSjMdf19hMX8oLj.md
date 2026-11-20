@@ -4,5 +4,7 @@ Delimiters are markers such as triple backticks, quotes or headings that separat
 
 Visit the following resources to learn more:
 
-- [@official@Use XML tags to structure your prompts - Anthropic](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/use-xml-tags)
-- [@official@Prompting best practices - Anthropic](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)
+- [@article@Use XML tags to structure your prompts - Anthropic](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/use-xml-tags)
+- [@article@Delimiters and Separators in Prompts (Why They Matter)](https://prompt-architects.com/blog/397-delimiters-and-separators-in-prompts-why-they-matter)
+- [@article@Prompting best practices - Anthropic](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)
+- [@article@Mastering XML Tags for Clarity, Precision, and Security in LLMs](https://medium.com/@TechforHumans/effective-prompt-engineering-mastering-xml-tags-for-clarity-precision-and-security-in-llms-992cae203fdc)

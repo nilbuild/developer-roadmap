@@ -4,6 +4,7 @@ Multimodal inputs let a model work with images, PDFs, audio and sometimes video,
 
 Visit the following resources to learn more:
 
-- [@official@Vision - Anthropic](https://platform.claude.com/docs/en/build-with-claude/vision)
-- [@official@Images and vision - OpenAI](https://platform.openai.com/docs/guides/images)
-- [@article@What Is Multimodal AI? A Complete Introduction - Splunk](https://www.splunk.com/en_us/blog/learn/multimodal-ai.html)
+- [@article@How to Write Multimodal Prompts for Images, Video, Audio, and Files](https://promptessor.com/blog/multimodal-prompting-guide)
+- [@article@Multimodal Prompts: Concepts & Applications](https://www.emergentmind.com/topics/multimodal-prompts)
+- [@article@Multimodal text and image prompting](https://developers.google.com/solutions/ai-images)
+- [@video@What is Multimodal AI? How LLMs Process Text, Images, and More](https://www.youtube.com/watch?v=J51oZYcNvP8)

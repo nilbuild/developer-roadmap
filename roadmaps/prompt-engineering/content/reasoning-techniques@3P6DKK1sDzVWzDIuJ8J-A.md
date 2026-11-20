@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Reasoning LLMs Guide - DAIR.AI](https://www.promptingguide.ai/guides/reasoning-llms)
 - [@article@Prompting Techniques - DAIR.AI](https://www.promptingguide.ai/techniques)
+- [@article@What Are Large Reasoning Models (LRMs)? Smarter AI Beyond LLMs](https://www.youtube.com/watch?v=enLbj0igyx4)

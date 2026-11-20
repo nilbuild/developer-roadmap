@@ -4,8 +4,7 @@ Agent and tool security limits what an agent can do if it is misled or makes a m
 
 Visit the following resources to learn more:
 
-- [@official@LLM06:2025 Excessive Agency - OWASP](https://genai.owasp.org/llmrisk/llm062025-excessive-agency/)
-- [@official@Model Context Protocol - Authorization Specification](https://modelcontextprotocol.io/specification/2025-11-25/basic/authorization)
-- [@article@GitHub MCP Exploited: Accessing Private Repositories via MCP - Invariant Labs](https://invariantlabs.ai/blog/mcp-github-vulnerability)
+- [@article@What Is LLM (Large Language Model) Security? | Starter Guide](https://www.paloaltonetworks.com/cyberpedia/what-is-llm-security)
+- [@article@AI Agent Security Cheat Sheet¶](https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html)
+- [@article@LLM06:2025 Excessive Agency - OWASP](https://genai.owasp.org/llmrisk/llm062025-excessive-agency/)
 - [@article@Human in the Loop - Cloudflare Agents](https://developers.cloudflare.com/agents/concepts/human-in-the-loop/)
-- [@course@Agentic Goal Hijacking: Hands-on Exercise](https://ransomleak.com/exercises/agentic-goal-hijack/)

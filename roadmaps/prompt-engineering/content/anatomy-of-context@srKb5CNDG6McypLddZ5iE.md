@@ -4,6 +4,7 @@ The context is everything the model sees in one request. It usually includes the
 
 Visit the following resources to learn more:
 
-- [@official@Effective context engineering for AI agents - Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
-- [@article@Context Engineering Guide - DAIR.AI](https://www.promptingguide.ai/guides/context-engineering-guide)
+- [@article@What is context engineering?](https://www.ibm.com/think/topics/context-engineering)
+- [@article@Effective context engineering for AI agents - Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - [@video@Context Engineering Clearly Explained](https://www.youtube.com/watch?v=jLuwLJBQkIs)
+- [@video@Context engineering explained: What every AI developer should know](https://www.youtube.com/watch?v=BBPQYtR7oUk)

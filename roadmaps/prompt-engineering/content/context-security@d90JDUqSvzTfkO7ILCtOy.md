@@ -4,6 +4,5 @@ Context security protects the information that goes into the context window. It 
 
 Visit the following resources to learn more:
 
-- [@official@LLM01:2025 Prompt Injection - OWASP](https://genai.owasp.org/llmrisk/llm01-prompt-injection/)
+- [@official@Securing Context Engineering](https://www.pillar.security/blog/securing-context-engineering)
 - [@article@Context Engineering Is Security Engineering. RSA 2026 Made the Case. - Zenity](https://zenity.io/blog/events/context-engineering-security-engineering)
-- [@article@When Data Becomes Instructions: AI Agents Need a Chain of Custody for Context - Check Point](https://blog.checkpoint.com/ai-security/ai-agent-context-chain-of-custody/)

@@ -5,6 +5,6 @@ The Model Context Protocol (MCP) is an open standard for connecting AI applicati
 Visit the following resources to learn more:
 
 - [@official@Model Context Protocol](https://modelcontextprotocol.io/)
-- [@article@MCP Explained: How Modern AI Agents Connect to the Real World - Towards Data Science](https://towardsdatascience.com/mcp-explained-how-modern-ai-agents-connect-to-the-real-world/)
 - [@opensource@Model Context Protocol - GitHub](https://github.com/modelcontextprotocol)
+- [@article@MCP Explained: How Modern AI Agents Connect to the Real World - Towards Data Science](https://towardsdatascience.com/mcp-explained-how-modern-ai-agents-connect-to-the-real-world/)
 - [@video@What is MCP? Integrate AI Agents with Databases & APIs](https://www.youtube.com/watch?v=eur8dUO9mvE)

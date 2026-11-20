@@ -4,6 +4,6 @@ Regression testing reruns your eval set every time a prompt, model or context se
 
 Visit the following resources to learn more:
 
-- [@article@Watch the language: A tutorial on regression testing for LLMs - Evidently AI](https://www.evidentlyai.com/blog/llm-regression-testing-tutorial)
 - [@article@Automated Regression Testing: The Complete 2026 Guide](https://roadmap.sh/ai-engineer/automated-regression-testing)
+- [@article@Watch the language: A tutorial on regression testing for LLMs - Evidently AI](https://www.evidentlyai.com/blog/llm-regression-testing-tutorial)
 - [@video@Regression Testing for LLMs: Golden Datasets Explained](https://www.youtube.com/watch?v=7vqU_Yj5kUc)
