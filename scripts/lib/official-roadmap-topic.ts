@@ -67,3 +67,28 @@ export function prepareOfficialRoadmapTopicContent(
 
   return content;
 }
+
+/**
+ * Picks the heading for a topic description. Uses the `# Heading` from the
+ * content file when there is one, and falls back to the node label from the
+ * roadmap otherwise, so a file without a heading never produces `# undefined`.
+ */
+export function resolveTopicHeading(
+  heading: string | null | undefined,
+  label: string,
+): string {
+  const fromFile = heading?.trim();
+  return fromFile ? fromFile : label.trim();
+}
+
+/**
+ * Whether a line of plain text is the topic label written without `#`, i.e. a
+ * heading that lost its marker. Comparison ignores case and surrounding spaces.
+ */
+export function isTopicLabelLine(
+  text: string | null | undefined,
+  label: string,
+): boolean {
+  const line = text?.trim().toLowerCase();
+  return Boolean(line) && line === label.trim().toLowerCase();
+}
