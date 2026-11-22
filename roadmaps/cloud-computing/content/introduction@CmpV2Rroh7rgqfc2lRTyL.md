@@ -1,6 +1,6 @@
-# Introduction
+# Cloud Computing
 
-Cloud computing is the delivery of computing resources over the internet, including servers, storage, databases, networking, and software, provided on demand by third-party providers. Instead of owning and maintaining physical hardware, you rent what you need and pay for what you use. This model shifts infrastructure from a capital expense to an operational one, enabling teams to move f
+Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, and analytics—over the internet. Instead of owning and maintaining physical data centers and servers, users can rent access to these resources from a cloud provider on an as-needed basis. This model allows businesses and individuals to access technology tools through a web browser, paying only for the specific resources they use while the service provider manages the underlying infrastructure.
 
 Visit the following resources to learn more:
 
