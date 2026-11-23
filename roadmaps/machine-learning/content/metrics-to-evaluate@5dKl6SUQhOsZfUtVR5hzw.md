@@ -5,3 +5,4 @@ Model evaluation metrics are quantitative measures used to assess the performanc
 Visit the following resources to learn more:
 
 - [@article@Metrics and scoring: quantifying the quality of predictions | scikit-learn](https://scikit-learn.org/stable/modules/model_evaluation.html)
+- [@article@How to Calibrate Your Classifier’s Probabilities in Scikit-learn](https://www.kdnuggets.com/how-to-calibrate-your-classifiers-probabilities-in-scikit-learn)
