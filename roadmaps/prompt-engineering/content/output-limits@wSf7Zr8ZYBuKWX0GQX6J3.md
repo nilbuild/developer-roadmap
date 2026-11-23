@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Increase Output Consistency - Anthropic](https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/increase-consistency)
 - [@article@General Tips for Designing Prompts - DAIR.AI](https://www.promptingguide.ai/introduction/tips)
+- [@article@ChatGPT Prompt Limit: Maximum Length, Character Limits, and Workarounds](https://fast.io/resources/chatgpt-prompt-limit/)
