@@ -6,4 +6,5 @@ Visit the following resources to learn more:
 
 - [@opensource@astral-sh/uv](https://github.com/astral-sh/uv)
 - [@article@How to Manage Python Environments with uv Instead of venv and pip](https://towardsdatascience.com/how-to-manage-python-environments-with-uv-instead-of-venv-and-pip/)
-- [@article@@UV for Python](https://www.youtube.com/watch?v=qh98qOND6MI&t)
+- [@article@What makes uv slow?](https://blog.schuetze.link/what-makes-uv-slow/)
+- [@video@UV for Python](https://www.youtube.com/watch?v=qh98qOND6MI&t)

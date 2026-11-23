@@ -7,4 +7,4 @@ Visit the following resources to learn more:
 - [@roadmap@Visit Dedicated DSA Roadmap](https://roadmap.sh/datastructures-and-algorithms)
 - [@article@Hashmaps in Python: Master Implementation and Use Cases](https://roadmap.sh/python/hashmap)
 - [@article@Binary search in Python 101: Implementation and use cases](https://roadmap.sh/python/binary-search)
-- [@video@Data Structures Illustrated](https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
+- [@video@Learn Data Structures and Algorithms in Python with Visualizations](https://www.youtube.com/watch?v=ybe6EGe_wjo)
