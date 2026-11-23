@@ -6,4 +6,5 @@ Visit the following resources to learn more:
 
 - [@article@A Practical Guide to Memory for Autonomous LLM Agents](https://towardsdatascience.com/a-practical-guide-to-memory-for-autonomous-llm-agents/)
 - [@article@The Ultimate Guide to LLM Memory: From Context Windows to Advanced Agent Memory Systems](https://medium.com/@sonitanishk2003/the-ultimate-guide-to-llm-memory-from-context-windows-to-advanced-agent-memory-systems-3ec106d2a345)
+- [@article@Your AI agent’s “memory problem” may be something else](https://thenewstack.io/ai-agent-memory-boundaries/)
 - [@video@CAG vs Long Context: How AI Models Use and Remember Information](https://www.youtube.com/watch?v=B_RrXwDupIg)
