@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Discover and install prebuilt plugins through marketplaces - Claude Code Docs](https://code.claude.com/docs/en/discover-plugins)
 - [@official@Plugins](https://claude.com/plugins)
-- [@opensource@plugins](https://github.com/anthropics/claude-code/tree/main/plugins)
+- [@article@How to Govern Coding Agent Skills Across Repos With Plugins](https://towardsdatascience.com/how-to-govern-coding-agent-skills-across-repos-with-plugins/)
 - [@video@Claude Code Now Has SUPERPOWERS! (plugin)](https://www.youtube.com/watch?v=vfVQP2AbUHo)

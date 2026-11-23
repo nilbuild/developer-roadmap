@@ -1,6 +1,6 @@
 # Hook Types
 
-In Claude Code, you can configure three distinct handler types for your hooks—Command, Prompt, and Agent—depending on whether you need a script, an AI "judgement call," or a specialized researcher to validate actions. Command hooks (`type: "command"`) are deterministic shell scripts that execute standard commands (like `npm run lint`) and use exit codes to either approve the action or block it with an error message. Prompt hooks (`type: "prompt"`) use a lightweight Claude model for single-turn evaluation, where the model analyzes the context (e.g., "Is this commit message descriptive?") and returns a simple JSON yes/no decision. Finally, Agent hooks (`type: "agent"`) are the most sophisticated, spawning a multi-turn subagent with tool access (like `Read` or `Grep`) to conduct deep, autonomous verification before deciding if the main agent should proceed.
+Claude Code supports five hook handler types. Command hooks run a shell script and use exit codes to allow or block an action. HTTP hooks send the event as JSON to a URL, and MCP tool hooks call a tool on a connected MCP server. Prompt hooks ask a Claude model for a single yes/no judgement, while agent hooks start a subagent that can read files and search code before deciding. Command, HTTP and MCP tool hooks also accept "onFailure": "block", which stops the action if the hook itself fails instead of letting it continue.
 
 Visit the following resources to learn more:
 
