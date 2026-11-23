@@ -5,3 +5,4 @@ An effective prompt states the goal, gives the context, names the constraints an
 Visit the following resources to learn more:
 
 - [@official@Prompting](https://learn.chatgpt.com/docs/prompting)
+- [@official@Prompting GPT-6.2 in Codex](https://learn.chatgpt.com/guides/prompting-gpt-6-2-astra)
