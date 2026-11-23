@@ -5,4 +5,5 @@ LangChain is a development framework that simplifies building applications power
 Visit the following resources to learn more:
 
 - [@official@Langchain](https://www.langchain.com/)
+- [@course@Langchain Academy](https://academy.langchain.com/collections)
 - [@video@What is LangChain?](https://www.youtube.com/watch?v=1bUy-1hGZpI)

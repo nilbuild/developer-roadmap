@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Prompt Injection in LLMs](https://www.promptingguide.ai/prompts/adversarial-prompting/prompt-injection)
 - [@article@What is a Prompt Injection Attack?](https://www.wiz.io/academy/prompt-injection-attack)
+- [@article@How AI Agents Become a Tool for Attackers, and How to Stop It](https://towardsdatascience.com/how-ai-agents-become-a-tool-for-attackers-and-how-to-stop-it/)
