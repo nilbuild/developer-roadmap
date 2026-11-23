@@ -1,8 +1,6 @@
 # SolidJS
 
-SolidJS is a JavaScript tool for building website interfaces that is known for being very fast and efficient. It updates only the parts of the page that change, which makes it perform well. SolidJS doesn't use a virtual DOM; instead, it directly changes the real DOM. Its syntax is like React, so many developers find it familiar. It supports JSX, has built-in ways to manage data, and is small in size. SolidJS is getting popular for its speed, simplicity, and smart way of handling updates.
-
-Solid 2.0 is now stable. It lets computations return Promises or async iterators directly in the reactive graph, with `<Loading>` and `isPending` for loading states and automatic handling of race conditions. Server functions now live in core, and the API surface is smaller: `createResource`, `batch`, `startTransition`, `on`, `produce`, `createComputed` and `createMutable` have been removed in favor of simpler primitives like `createMemo` and `createSignal`. SolidStart has been retired, since its primitives moved into core and framework-agnostic Vite plugins.
+SolidJS is a JavaScript tool for building website interfaces that is known for being very fast and efficient. It updates only the parts of the page that change, which makes it perform well. SolidJS doesn't use a virtual DOM; instead, it directly changes the real DOM. Its syntax is like React, so many developers find it familiar. It supports JSX, has built-in ways to manage data, and is small in size. SolidJS is getting popular for its speed, simplicity, and smart way of handling updates. Solid 2.0, now stable, adds built-in async handling in the reactive system and moves server functions into core.
 
 Visit the following resources to learn more:
 
