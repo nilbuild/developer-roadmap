@@ -7,4 +7,5 @@ Visit the following resources to learn more:
 - [@book@AI-Assisted Programming](https://www.hkdca.com/wp-content/uploads/2025/06/ai-assisted-programming-oreilly.pdf)
 - [@article@How to Become an Expert in AI-Assisted Coding](https://www.freecodecamp.org/news/how-to-become-an-expert-in-ai-assisted-coding-a-handbook-for-developers/)
 - [@article@The 10 Best Vibe Coding Tools in 2026: Our Choices](https://roadmap.sh/vibe-coding/best-tools)
+- [@article@Top 10 Things AI Gets Wrong in Web Dev](https://developer.chrome.com/blog/top-10-things-ai-gets-wrong-in-web-dev)
 - [@video@How to elevate software development with AI-assisted coding](https://www.youtube.com/watch?v=S2GqQ4gJAH0)
