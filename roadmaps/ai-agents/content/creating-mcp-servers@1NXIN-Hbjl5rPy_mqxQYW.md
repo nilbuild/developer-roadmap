@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Model Context Protocol (MCP) Specification](https://www.anthropic.com/news/model-context-protocol)
 - [@article@How to Build and Host Your Own MCP Servers in Easy Steps?](https://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/)
+- [@article@How to Design MCP Servers That Leave Orchestration to the Host](https://towardsdatascience.com/how-to-design-mcp-servers-that-leave-orchestration-to-the-host/)

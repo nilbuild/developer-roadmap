@@ -5,6 +5,6 @@ Agent memory is the part of an AI agent that keeps track of what has already hap
 Visit the following resources to learn more:
 
 - [@article@Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110)
-- [@article@Memory Management in AI Agents](https://python.langchain.com/docs/how_to/chatbots_memory/)
 - [@article@Storing and Retrieving Knowledge for Agents](https://www.pinecone.io/learn/langchain-retrieval-augmentation/)
+- [@article@Your AI agent’s “memory problem” may be something else](https://thenewstack.io/ai-agent-memory-boundaries/)
 - [@video@Building Brain-Like Memory for AI Agents](https://www.youtube.com/watch?v=VKPngyO0iKg)
