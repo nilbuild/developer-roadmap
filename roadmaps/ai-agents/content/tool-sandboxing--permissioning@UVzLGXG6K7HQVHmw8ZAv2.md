@@ -6,4 +6,5 @@ Visit the following resources to learn more:
 
 - [@article@How to Set Up AI Sandboxes to Maximize Adoption](https://medium.com/@emilholmegaard/how-to-set-up-ai-sandboxes-to-maximize-adoption-without-compromising-ethics-and-values-637c70626130)
 - [@article@Sandboxes for AI - The Datasphere Initiative](https://www.thedatasphere.org/datasphere-publish/sandboxes-for-ai/)
+- [@article@How AI Agents Become a Tool for Attackers, and How to Stop It](https://towardsdatascience.com/how-ai-agents-become-a-tool-for-attackers-and-how-to-stop-it/)
 - [@article@Building an Agent Sandbox from Scratch in Python](https://muhammadraza.me/2026/building-agent-sandbox-python/)
