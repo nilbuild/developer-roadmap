@@ -1,6 +1,6 @@
 # Cloud Agents
 
-Cloud Agents run in isolated cloud VMs with a full development environment, so they keep working when your laptop is closed. Each agent clones your repository, works on its own branch, tests what it builds and opens a pull request with artifacts such as screenshots and logs. You can run many in parallel and start them from the editor, web, mobile, Slack, GitHub, Linear or the API. They were previously called Background Agents.
+Cloud Agents run in isolated cloud VMs with a full development environment, so they keep working when your laptop is closed. Each agent clones your repository, works on its own branch, tests what it builds and opens a pull request with artifacts such as screenshots and logs. When a task needs more than one repository, an agent can get access to extra repositories, environments and self-hosted machines while it works, and Projects can do the same. You can run many in parallel and start them from the editor, web, mobile, Slack, GitHub, Linear or the API.
 
 Visit the following resources to learn more:
 
