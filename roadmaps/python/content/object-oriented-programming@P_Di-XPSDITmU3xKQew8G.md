@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@article@Object Oriented Programming in Python](https://realpython.com/python3-object-oriented-programming/)
 - [@article@Encapsulation in Python: All You Need to Know](https://roadmap.sh/python/encapsulation)
-- [@video@Object Oriented Programming (OOP) In Python - Beginner Crash Course](https://www.youtube.com/watch?v=-pEs-Bss8Wc/)
+- [@video@Object Oriented Programming (OOP) In Python - Beginner Crash Course](https://www.youtube.com/watch?v=-pEs-Bss8Wc)
 - [@video@Python OOP Tutorial](https://www.youtube.com/watch?v=IbMDCwVm63M)

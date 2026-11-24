@@ -7,4 +7,4 @@ Visit the following resources to learn more:
 - [@official@Update a document](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-update)
 - [@official@Update a document](https://www.elastic.co/docs/reference/elasticsearch/rest-apis/update-document)
 - [@article@Elasticsearch Update Document Field](https://opster.com/guides/elasticsearch/operations/elasticsearch-update-document-field/)
-- [@video@How to Update a Document in Elasticsearch that Has Already Been Indexed](https://www.youtube.com/watch?v=Uo_Avtu_aY4v)
+- [@video@How to Update a Document in Elasticsearch that Has Already Been Indexed](https://www.youtube.com/watch?v=Uo_Avtu_aY4)
