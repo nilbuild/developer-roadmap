@@ -5,4 +5,3 @@ Beyond formal certifications, recognition in the AI Red Teaming field comes from
 Visit the following resources to learn more:
 
 - [@article@HackAPrompt](https://hackaprompt.com)
-- [@article@RedTeam Arena](https://redarena.ai)

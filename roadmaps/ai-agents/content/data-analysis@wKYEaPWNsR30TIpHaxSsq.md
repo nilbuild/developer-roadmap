@@ -5,4 +5,3 @@ AI agents can automate data analysis by pulling information from files, database
 Visit the following resources to learn more:
 
 - [@article@How AI Will Transform Data Analysis in 2025](https://www.devfi.com/ai-transform-data-analysis-2025/)
-- [@article@How AI Has Changed The World Of Analytics And Data Science](https://www.forbes.com/councils/forbestechcouncil/2025/01/28/how-ai-has-changed-the-world-of-analytics-and-data-science/k)

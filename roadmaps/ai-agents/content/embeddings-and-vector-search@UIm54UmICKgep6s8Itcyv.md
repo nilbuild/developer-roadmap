@@ -4,5 +4,4 @@ Embeddings turn words, pictures, or other data into lists of numbers called vect
 
 Visit the following resources to learn more:
 
-- [@official@OpenAI Embeddings API Documentation](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)
 - [@article@Understanding Embeddings and Vector Search (Pinecone Blog)](https://www.pinecone.io/learn/vector-embeddings/)

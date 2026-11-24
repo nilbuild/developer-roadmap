@@ -5,5 +5,4 @@ Gemini is a multimodal AI model developed by Google. It's designed to understand
 Visit the following resources to learn more:
 
 - [@official@Google Gemini](https://gemini.google.com/)
-- [@official@Helpful Tips for using Gemini at work](https://services.google.com/fh/files/misc/quick_start_guide_to_google_ai_at_work.pdf)
 - [@video@Welcome to the Gemini era](https://www.youtube.com/watch?v=_fuimO6ErKI)
