@@ -4,5 +4,4 @@ Infinite refers to concept that deals with rendering scenes or objects that exte
 
 Visit the following resources to learn more:
 
-- [@article@Unlocking Infinite Worlds In Gaming](https://sdlccorp.com/post/procedural-generation-unlocking-infinite-worlds-in-gaming/)
 - [@article@Creating Infinite Game Worlds](https://medium.com/@lemapp09/beginning-game-development-creating-infinite-game-worlds-56f8a2ad5ae5)

@@ -5,4 +5,3 @@ Game AI is a subfield of artificial intelligence (AI) that is used to create vid
 Visit the following resources to learn more:
 
 - [@article@Game AI](https://medium.com/@alidrsn/game-development-with-ai-strategy-tools-and-examples-7ae77257c062)
-- [@article@AI Game Development](https://modl.ai/ai-game-development/)

@@ -4,5 +4,4 @@ Community guidelines define the norms of behavior expected from all members. The
 
 Visit the following resources to learn more:
 
-- [@article@Community Guidelines: How to Write and Enforce Them](https://www.commsor.com/post/community-guidelines)
 - [@article@Community Guidelines Mastery: From Creation to Enforcement](https://bettermode.com/blog/community-guidelines)

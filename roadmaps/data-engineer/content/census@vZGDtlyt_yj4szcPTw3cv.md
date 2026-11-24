@@ -5,5 +5,4 @@ Census is a reverse ETL platform that synchronizes data from a data warehouse to
 Visit the following resources to learn more:
 
 - [@official@Census Documentation](https://developers.getcensus.com/getting-started/introduction)
-- [@article@A starter guide to reverse ETL with Census](https://www.getcensus.com/blog/starter-guide-for-first-time-census-users)
 - [@video@How to "Reverse ETL" with Census](https://www.youtube.com/watch?v=XkS7DQFHzbA)

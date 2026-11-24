@@ -4,5 +4,4 @@ GraphQL HTTP is a specification for serving GraphQL over HTTP protocol. It defin
 
 Visit the following resources to learn more:
 
-- [@official@Overview of GraphQL HTTP](https://graphql.org/graphql-js/express-graphql/#graphqlhttp)
 - [@official@Get Started with GraphQL HTTP](https://graphql.org/learn/serving-over-http/)

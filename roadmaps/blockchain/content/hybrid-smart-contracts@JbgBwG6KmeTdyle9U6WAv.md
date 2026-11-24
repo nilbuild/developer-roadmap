@@ -5,4 +5,3 @@ Hybrid smart contracts combine the benefits of blockchain-based smart contracts 
 Visit the following resources to learn more:
 
 - [@article@Hybrid Smart Contracts Explained](https://blog.chain.link/hybrid-smart-contracts-explained/)
-- [@article@Guide to Hybrid Smart Contracts](https://www.leewayhertz.com/hybrid-smart-contracts/)

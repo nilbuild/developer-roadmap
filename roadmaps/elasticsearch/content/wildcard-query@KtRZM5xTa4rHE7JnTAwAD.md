@@ -6,5 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Find strings within strings faster with the new wildcard field](https://www.elastic.co/blog/find-strings-within-strings-faster-with-the-new-elasticsearch-wildcard-field)
 - [@article@Elasticsearch Wildcard Queries](https://opster.com/guides/elasticsearch/search-apis/elasticsearch-wildcard-queries/)
-- [@article@Elasticsearch Wildcard Query - Syntax, Example, and Tips](https://pulse.support/kb/elasticsea)
 - [@video@Elasticsearch Query DSL part 6 | Prefix query, wildcard query | Elk Stack](https://www.youtube.com/watch?v=lTJzT8sZmXs)

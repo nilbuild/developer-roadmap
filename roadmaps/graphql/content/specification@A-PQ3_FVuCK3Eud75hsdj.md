@@ -5,4 +5,3 @@ The GraphQL specification is the official standard that defines the GraphQL quer
 Visit the following resources to learn more:
 
 - [@official@GraphQL Specification](https://spec.graphql.org/)
-- [@official@GraphQL Foundation](https://foundation.graphql.org/)

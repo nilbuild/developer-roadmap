@@ -4,6 +4,5 @@ Textures are 2D images applied to 3D surfaces to provide color, detail, or surfa
 
 Visit the following resources to learn more:
 
-- [@article@Textures and Materials](https://gamedevinsider.com/making-games/game-artist/texturing-and-materials/)
 - [@video@How Nintendo Textures Work](https://www.youtube.com/watch?v=WrCMzHngLxI)
 - [@video@How Pixar Textures work](https://www.youtube.com/watch?v=o_I6jxlN-Ck)

@@ -4,5 +4,4 @@ Encouraging participation means reducing the barriers and increasing the motivat
 
 Visit the following resources to learn more:
 
-- [@article@12 tips to encourage activity in an online community](https://www.yunits.com/en/blogs/12-tips-to-encourage-activity-in-an-online-community/)
 - [@article@How To Increase Community Engagement](https://www.aluminati.net/how-to-increase-community-engagement/)
