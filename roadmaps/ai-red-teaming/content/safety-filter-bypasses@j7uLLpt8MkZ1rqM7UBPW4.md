@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Bypassing AI Content Filters](https://www.restack.io/p/ai-driven-content-moderation-answer-bypass-filters-cat-ai)
 - [@article@How to Bypass Azure AI Content Safety Guardrails](https://mindgard.ai/blog/bypassing-azure-ai-content-safety-guardrails)
-- [@article@The Best Methods to Bypass AI Detection: Tips and Techniques](https://www.popai.pro/resources/the-best-methods-to-bypass-ai-detection-tips-and-techniques/)

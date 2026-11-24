@@ -4,5 +4,4 @@ Selecting the appropriate large language model (LLM) involves considering factor
 
 Visit the following resources to learn more:
 
-- [@article@Choosing the right model](https://bentoml.com/llm/getting-started/choosing-the-right-model)
 - [@article@Beyond vibes: How to properly select the right LLM for the right task](https://aws.amazon.com/blogs/machine-learning/beyond-vibes-how-to-properly-select-the-right-llm-for-the-right-task/)

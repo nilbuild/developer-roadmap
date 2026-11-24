@@ -5,5 +5,4 @@ A critical practice for AI Red Teamers is responsible disclosure: privately repo
 Visit the following resources to learn more:
 
 - [@article@0din.ai Policy](https://0din.ai/policy)
-- [@article@Huntr Guidelines](https://huntr.com/guidelines)
 - [@article@Google Vulnerability Reward Program (VRP)](https://bughunters.google.com/)

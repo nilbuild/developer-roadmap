@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@article@Why Agentic Inference Needs Prefix-Aware Routing Infrastructure](https://www.coreweave.com/blog/why-agentic-inference-needs-prefix-aware-routing-infrastructure)
 - [@article@Enabling inference at massive scale with hybrid storage for KV cache offloading.](https://www.seagate.com/es/es/resources/enabling-inference-at-massive-scale-with-hybrid-storage-for-kv-cache-offloading/)
 - [@article@KV Cache Aware Routing](https://docs.vllm.ai/projects/production-stack/en/vllm-stack-0.1.5/tutorials/kvaware.html)
-- [@article@Prefix-Cache Aware Routing](https://llm-d.ai/docs/architecture/advanced/kv-management/prefix-cache-aware-routing)
