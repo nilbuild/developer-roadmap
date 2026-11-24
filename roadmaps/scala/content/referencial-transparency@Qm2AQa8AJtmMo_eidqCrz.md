@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@Scala Best Practices - Referential transparency](https://nrinaudo.github.io/scala-best-practices/definitions/referential_transparency.html)
 - [@article@Referential Transparency in Scala - liveBook by Manning](https://livebook.manning.com/concept/scala/referential-transparency)
 - [@article@Referential Transparency - Learning Journal](https://www.learningjournal.guru/article/scala/functional-programming/referential-transparency/)
-- [@article@Scala Tutorials Part #21 - Referential transparency](https://madusudanan.com/blog/scala-tutorials-part-21-referential-transparency/)

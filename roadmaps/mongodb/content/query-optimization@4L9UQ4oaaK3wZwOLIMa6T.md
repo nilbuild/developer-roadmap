@@ -5,4 +5,3 @@ Query optimization in MongoDB involves analyzing and improving query performance
 Visit the following resources to learn more:
 
 - [@course@Query Optimization Skill Badge](https://learn.mongodb.com/courses/query-optimization)
-- [@official@Optimize Query Performance](https://www.mongodb.com/docs/manual/tutorial/optimize-query-performance-with-indexes-and-projections/)

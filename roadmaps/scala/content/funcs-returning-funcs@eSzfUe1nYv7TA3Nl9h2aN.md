@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Currying in Scala | Baeldung on Scala](https://www.baeldung.com/scala/currying)
 - [@article@Currying Functions in Scala](https://www.tutorialspoint.com/scala/currying_functions.htm)
-- [@article@Partially Applied Functions and Currying](https://www.scalamatters.io/post/partially-applied-functions-and-currying)

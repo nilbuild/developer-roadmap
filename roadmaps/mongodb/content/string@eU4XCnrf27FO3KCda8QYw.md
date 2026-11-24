@@ -4,5 +4,4 @@ String data type in MongoDB stores UTF-8 encoded text data with no length restri
 
 Visit the following resources to learn more:
 
-- [@article@String Data Type](https://www.sqliz.com/mongodb-ref/string/5)
 - [@article@How to Handle Special Characters in MongoDB Connection String](https://medium.com/@monisykhan/how-to-handle-special-characters-in-mongodb-connection-strings-655967139452)

@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
 - [@article@HTML Attributes Reference](https://www.w3schools.com/tags/ref_attributes.asp)
-- [@article@Understanding HTML Attributes](https://www.freecodecamp.org/news/html-attributes-and-how-to-use-them/)

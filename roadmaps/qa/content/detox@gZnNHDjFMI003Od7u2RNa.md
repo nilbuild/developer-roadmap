@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Detox](https://wix.github.io/Detox/)
 - [@official@Getting Started with Detox](https://wix.github.io/Detox/docs/introduction/getting-started)
-- [@article@Test Automation Tools: Detox](https://www.spritecloud.com/test-automation-tools-detox/)

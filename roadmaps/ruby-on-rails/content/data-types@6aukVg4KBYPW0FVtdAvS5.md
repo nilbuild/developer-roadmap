@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@ActiveRecord::Type](https://api.rubyonrails.org/classes/ActiveRecord/Type.html)
 - [@article@Rails ActiveRecord Data Types](https://dev.to/asyraf/rails-activerecord-data-types-32ip)
-- [@article@List of Rails data types for ActiveRecord migrations](https://www.jdeen.com/blog/list-of-rails-data-types-for-activerecord-migrations)

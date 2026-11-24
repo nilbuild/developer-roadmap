@@ -4,5 +4,4 @@ Dependency Injection is a design pattern where a component receives its dependen
 
 Visit the following resources to learn more:
 
-- [@article@Complete Guide to Dependency Injection in Swift](https://www.swiftanytime.com/blog/dependency-injection-in-swift)
 - [@article@Dependency Injection in SwiftUI: From Basics to Advanced DI Containers](https://medium.com/@nimjea/dependency-injection-in-swiftui-from-basics-to-advanced-di-containers-241b8de76d7a)

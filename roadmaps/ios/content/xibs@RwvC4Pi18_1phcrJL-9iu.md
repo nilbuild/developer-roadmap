@@ -5,5 +5,4 @@ UIKit Xibs (XML Interface Builder files) are resource files used to design indiv
 Visit the following resources to learn more:
 
 - [@article@Building a Custom Component with XIB (iOS)](https://medium.com/@fsamuelsmartins/building-a-custom-component-with-xib-ios-f712840b651c)
-- [@article@Working with XIBs and Storyboards](https://entangleddev.com/posts/uikit/workingwithxibstoryboards/)
 - [@video@UITableView Tutorial with Custom Cells, XIB](https://www.youtube.com/watch?v=OOc-RhNQnLc)
