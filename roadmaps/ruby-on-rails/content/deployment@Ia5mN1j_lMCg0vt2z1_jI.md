@@ -5,4 +5,4 @@ Deployment is the process of making your Ruby on Rails application accessible to
 Visit the following resources to learn more:
 
 - [@official@Deploying to Production](https://guides.rubyonrails.org/getting_started.html)
-- [@video@Deploying with Kamal 2.0 | Rails 8 Unpacked](https://www.youhttps://www.youtube.com/watch?v=sPUk9-1WVXItube.com/watch?v=sPUk9-1WVXI)
+- [@video@Deploying with Kamal 2.0 | Rails 8 Unpacked](https://www.youtube.com/watch?v=sPUk9-1WVXI)
