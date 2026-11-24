@@ -5,4 +5,3 @@ Lifetime elision allows the compiler to infer lifetimes in common patterns, redu
 Visit the following resources to learn more:
 
 - [@official@Lifetime Elision](https://doc.rust-lang.org/reference/lifetime-elision.html)
-- [@article@Understanding Lifetime Elision in Rust](https://masteringbackend.com/posts/understanding-lifetime-elision-in-rust)

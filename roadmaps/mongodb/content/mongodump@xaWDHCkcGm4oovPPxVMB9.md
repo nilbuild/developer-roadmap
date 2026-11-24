@@ -5,4 +5,3 @@ mongodump is a MongoDB utility that creates binary backups of database content b
 Visit the following resources to learn more:
 
 - [@official@mongodump](https://www.mongodb.com/docs/database-tools/mongodump/)
-- [@article@How To Use mongodump for MongoDB Backups](https://www.bmc.com/blogs/mongodb-mongodump/3)

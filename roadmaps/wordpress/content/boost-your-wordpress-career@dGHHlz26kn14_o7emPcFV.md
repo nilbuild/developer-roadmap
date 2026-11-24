@@ -5,6 +5,5 @@ Want to level up your WordPress career? It's all about exploring different paths
 Visit the following resources to learn more:
 
 - [@article@WordPress Career Options – How to Make a Living With WordPress](https://www.wpbeginner.com/opinion/wordpress-career-options-how-to-make-living-wordpress/)
-- [@article@Unlock a Promising Future: A Comprehensive Guide to a WordPress Developer Career](https://teamcubate.com/blogs/wordpress-developer-career)
 - [@article@How to use WordPress: A complete guide to building a WordPress website](https://www.hostinger.com/tutorials/how-to-use-wordpress)
 - [@article@A WordPress Tutorial for Beginners: Create Your First Site in 10 Steps](https://wpmudev.com/blog/a-wordpress-tutorial-for-beginners-create-your-first-site-in-10-steps/)

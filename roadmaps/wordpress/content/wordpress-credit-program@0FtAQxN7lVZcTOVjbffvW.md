@@ -5,4 +5,3 @@ The WordPress Credit Program recognizes and rewards individuals who contribute t
 Visit the following resources to learn more:
 
 - [@official@WordPress Credits](https://learn.wordpress.org/course/wordpress-credits/)
-- [@official@WordPress Credits: Contribution Program for Students](https://make.wordpress.org/handbook/wordpress-credits-contribution-internship-program/)

@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Read Concerns](https://www.mongodb.com/docs/manual/reference/read-concern/)
 - [@official@Replication in MongoDB](https://learn.mongodb.com/learn/course/replication-in-mongodb/lesson-5-read-and-write-concerns-with-mongodb-deployments/learn?client=customer&page=2)
-- [@official@Set Global Read and Write Concerns in MongoDB 4.4](https://www.mongodb.com/developer/products/mongodb/global-read-write-concerns/)
