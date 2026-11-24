@@ -99,3 +99,7 @@ Example
     
 
 These are just a few examples of C++ containers. There are other container types, such as `set`, `multiset`, `deque`, `stack`, `queue`, and `priority_queue`. Each container has its own use cases and unique characteristics. Learning about these containers and when to use them can greatly improve your efficiency and effectiveness in using C++.
+
+Visit the following resources to learn more:
+
+- [@official@Containers library](https://en.cppreference.com/w/cpp/container)

@@ -1,3 +1,8 @@
 # C++11 and C++14
 
 C++11 and C++14 are significant updates to the C++ language, introducing features to enhance its power and usability. C++11 brought in features like `auto` for type inference, range-based for loops for simpler iteration, lambda functions for creating anonymous functions, `nullptr` for safer null pointer representation, and a standard thread support library. Building upon this, C++14 refined these features and added new capabilities, including generic lambdas, binary literals, `decltype(auto)` for precise type deduction, and variable templates. These standards made C++ more modern, expressive, and efficient.
+
+Visit the following resources to learn more:
+
+- [@official@C++11](https://en.cppreference.com/w/cpp/11)
+- [@official@C++14](https://en.cppreference.com/w/cpp/14)

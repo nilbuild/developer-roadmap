@@ -1,3 +1,7 @@
 # SFINAE (Substitution Failure Is Not An Error)
 
 SFINAE is a core principle in C++ template metaprogramming that enables the compiler to choose the most suitable function or class template specialization during compilation. It leverages the idea that when the compiler attempts to substitute template arguments into a template and the substitution results in an invalid type or expression, this failure is not immediately treated as a compilation error. Instead, the compiler silently discards that specialization and continues searching for other viable options, thus allowing for conditional compilation based on type traits and other compile-time properties.
+
+Visit the following resources to learn more:
+
+- [@official@SFINAE](https://en.cppreference.com/w/cpp/language/sfinae)

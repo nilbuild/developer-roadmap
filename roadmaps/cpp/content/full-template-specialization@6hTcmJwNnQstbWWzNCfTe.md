@@ -1,3 +1,7 @@
 # Full Template Specialization
 
 Full template specialization in C++ provides a way to define specific implementations of a template (class or function) for particular types. This allows you to customize the behavior of a template when it's instantiated with a specific set of template arguments, enabling optimized code or special handling for certain types while the generic template handles other cases. This involves creating a specialized version of the template for a specific type or set of types.
+
+Visit the following resources to learn more:
+
+- [@official@Explicit (full) template specialization](https://en.cppreference.com/w/cpp/language/template_specialization)
