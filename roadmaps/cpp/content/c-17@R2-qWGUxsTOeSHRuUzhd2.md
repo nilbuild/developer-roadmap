@@ -1,3 +1,7 @@
 # C++17
 
 C++17 is a significant update to the C++ language, offering new features and enhancements that improve code expressiveness and efficiency. This version introduces features such as structured bindings for easier data unpacking, `if` and `constexpr if` statements for compile-time conditional logic, and inline variables for simplified header usage. Furthermore, C++17 incorporates the `std::filesystem` library for file system operations, as well as `std::string_view`, `std::any`, `std::optional`, and `std::variant` for enhanced data handling, alongside parallel algorithms to boost performance.
+
+Visit the following resources to learn more:
+
+- [@official@C++17](https://en.cppreference.com/w/cpp/17)

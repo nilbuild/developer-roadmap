@@ -1,3 +1,7 @@
 # Iterators
 
 Iterators in C++'s Standard Template Library (STL) are essential tools for traversing and accessing elements within containers like vectors, lists, and arrays. They act as generalized pointers, offering a way to interact with container elements without needing to know the container's underlying implementation. C++ provides different iterator types, including input, output, forward, bidirectional, reverse, and random access iterators, each with specific capabilities for reading, writing, and navigating through container elements. For most use cases, you would use `auto` keyword with `begin()` and `end()` methods to work with iterators. C++ algorithms often leverage iterators for tasks such as searching and sorting.
+
+Visit the following resources to learn more:
+
+- [@official@Iterator library](https://en.cppreference.com/w/cpp/iterator)

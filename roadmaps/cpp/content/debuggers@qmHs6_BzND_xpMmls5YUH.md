@@ -1,3 +1,7 @@
 # Debuggers
 
 Debuggers are indispensable tools in C++ development, enabling developers to identify, analyze, and resolve defects within their code. These tools allow you to step through your code, inspect variables, and understand the program's execution flow, ultimately leading to more robust and reliable software. Several options are available, including GDB (GNU Debugger), LLDB, Microsoft Visual Studio Debugger, Intel Debugger (IDB), and TotalView Debugger, each offering unique features and catering to different development environments and application types.
+
+Visit the following resources to learn more:
+
+- [@official@GDB documentation](https://sourceware.org/gdb/documentation/)

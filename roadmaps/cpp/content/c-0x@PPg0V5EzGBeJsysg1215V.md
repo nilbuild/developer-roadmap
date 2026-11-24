@@ -1,3 +1,7 @@
 # C++11
 
 C++11, formerly known as C++0x, represents a significant evolution of the C++ language standard, finalized in 2011. This version introduced features like automatic type inference with `auto`, simplified container iteration using range-based for loops, the ability to create anonymous functions via lambda expressions, and a safer way to represent null pointers using `nullptr`. Furthermore, C++11 optimized temporary object handling through rvalue references and move semantics, enabled templates to accept a variable number of arguments with variadic templates, facilitated compile-time assertions via static assertions, and integrated thread support for concurrent programming.
+
+Visit the following resources to learn more:
+
+- [@official@C++11](https://en.cppreference.com/w/cpp/11)

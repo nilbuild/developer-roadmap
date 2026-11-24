@@ -1,3 +1,7 @@
 # Makefile
 
 A Makefile is a configuration file used by the `make` utility to automate the process of compiling and linking code in a project. It defines a set of rules and dependencies that specify how to build the final executable or library from source code. It consists of variables, rules with targets, prerequisites, recipes, and phony targets, which do not represent actual files, but execute related actions. Makefiles streamline the build process, reducing errors and ensuring consistency by specifying dependencies between source files and the commands to generate output files, such as object files and executables.
+
+Visit the following resources to learn more:
+
+- [@official@GNU Make manual](https://www.gnu.org/software/make/manual/make.html)
