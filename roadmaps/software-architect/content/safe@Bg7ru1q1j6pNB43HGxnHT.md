@@ -4,5 +4,4 @@
 
 Visit the following resources to learn more:
 
-- [@official@SAFe 6.0](https://scaledagileframework.com/SAFE)
 - [@video@SAFe explained in five minutes](https://www.youtube.com/watch?v=aW2m-BtCJyE&t=2s)

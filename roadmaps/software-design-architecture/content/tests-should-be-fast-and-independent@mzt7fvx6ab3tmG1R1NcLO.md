@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Unit Testing Best Practices](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [@article@Test Pyramid Explained](https://martinfowler.com/bliki/TestPyramid.html)
-- [@article@Writing Reliable Tests](https://testing.googleblog.com/2014/05/testing-on-toilet-how-much.html)

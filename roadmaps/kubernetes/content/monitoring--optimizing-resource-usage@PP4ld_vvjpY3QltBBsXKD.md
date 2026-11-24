@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Monitoring Resources in Kubernetes](https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-metrics-pipeline/)
 - [@official@Metrics Server](https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-metrics-pipeline/#metrics-server)
 - [@official@Horizontal Pod Autoscaling](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
-- [@article@Kubernetes Resource Monitoring: Best Practices](https://www.redhat.com/en/blog/kubernetes-resource-monitoring-best-practices)

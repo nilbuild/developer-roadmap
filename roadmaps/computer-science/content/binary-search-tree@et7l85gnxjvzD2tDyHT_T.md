@@ -4,7 +4,6 @@ A binary search tree (BST) is a binary tree where, for every node, all values in
 
 Visit the following resources to learn more:
 
-- [@course@Binary Search Trees - Coursera](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
 - [@video@Tree | Illustrated Data Structures](https://www.youtube.com/watch?v=S2W3SXGPVyU)
 - [@video@Binary Search Trees - MIT](https://www.youtube.com/watch?v=76dhtgZt38A)
 - [@video@Binary Search Tree Implementation in C++](https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=29)

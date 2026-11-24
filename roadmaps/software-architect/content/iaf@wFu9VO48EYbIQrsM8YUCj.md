@@ -5,4 +5,3 @@ The Integrated Architecture Framework is a methodology for enterprise architectu
 Visit the following resources to learn more:
 
 - [@article@Wikipedia](https://en.wikipedia.org/wiki/Integrated_Architecture_Framework)
-- [@article@IAF PDF](https://www.capgemini.com/wp-content/uploads/2018/03/architecture-for-the-information-age.pdf)

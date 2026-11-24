@@ -5,4 +5,3 @@ Cisco Packet Tracer is a visual simulation and modeling tool that allows users t
 Visit the following resources to learn more:
 
 - [@article@Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer)
-- [@article@What is Cisco Packet Tracer? | Free Training and Download](https://www.netcomlearning.com/blog/what-is-cisco-packet-tracer)

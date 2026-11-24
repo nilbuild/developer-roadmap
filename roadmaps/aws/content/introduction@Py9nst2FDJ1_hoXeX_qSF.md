@@ -6,5 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@AWS Documentation](https://docs.aws.amazon.com/)
 - [@official@Introduction of AWS](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
-- [@article@How to Create an AWS Account](https://grapplingdev.com/tutorials/how-to-create-aws-account)
 - [@video@AWS Tutorial for Beginners](https://www.youtube.com/watch?v=zA8guDqfv40)

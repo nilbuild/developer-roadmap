@@ -4,6 +4,5 @@ Ansible is an open-source automation tool that uses simple, human-readable YAML 
 
 Visit the following resources to learn more:
 
-- [@official@Ansible for Network Automation](https://docs.ansible.com/projects/ansible/latest/network/index.html)
 - [@official@Ansible Docs](https://docs.ansible.com/)
 - [@video@Introduction to Ansible - Automating Network Configuration](https://www.youtube.com/watch?v=il5IjFehoMA)
