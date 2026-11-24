@@ -4,4 +4,5 @@ Retrofit is a type-safe HTTP client for Android. It's designed to connect your a
 
 Visit the following resources to learn more:
 
+- [@official@Retrofit Documentation](https://github.com/lysine-dev/retrofit)
 - [@video@Retrofit in Android Studio](https://www.youtube.com/watch?v=KJSBsRKqNwU)
