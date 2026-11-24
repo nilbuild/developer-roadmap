@@ -4,4 +4,4 @@ Monte Carlo Tree Search (MCTS) is a search algorithm that builds a game tree by 
 
 Visit the following resources to learn more:
 
-- [@article@MCTS Algorithm](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search/)
+- [@article@MCTS Algorithm](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)

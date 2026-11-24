@@ -5,4 +5,3 @@ In Retrieval-Augmented Generation (RAG), embeddings are essential for linking in
 Visit the following resources to learn more:
 
 - [@article@Understanding the role of embeddings in RAG LLMs](https://www.aporia.com/learn/understanding-the-role-of-embeddings-in-rag-llms/)
-- [@article@Mastering RAG: How to Select an Embedding Model](https://www.rungalileo.io/blog/mastering-rag-how-to-select-an-embedding-model)

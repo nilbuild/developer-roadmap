@@ -6,6 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Cross-cluster replication](https://www.elastic.co/docs/deploy-manage/tools/cross-cluster-replication)
 - [@official@Set up cross-cluster replication](https://www.elastic.co/docs/deploy-manage/tools/cross-cluster-replication/set-up-cross-cluster-replication)
-- [@official@Replicate Elasticsearch Data with Cross-Cluster Replication (CCR)](https://www.elastic.co/virtual-events/replicate-elasticsearch-data-cross-cluster-replication-ccr)
 - [@official@Follow the Leader: An Introduction to Cross-Cluster Replication in Elasticsearch](https://www.elastic.co/blog/follow-the-leader-an-introduction-to-cross-cluster-replication-in-elasticsearch)
 - [@video@Elasticsearch Cross-Cluster Replication (CCR)](https://www.youtube.com/watch?v=2Uwh-H_qazE)

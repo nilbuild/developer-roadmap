@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Melody Package](https://pkg.go.dev/github.com/olahol/melody)
 - [@opensource@olahol/melody: Minimalist websocket framework](https://github.com/olahol/melody)
-- [@article@Build a Realtime Chat Server With Go and WebSockets](https://gabrieltanner.org/blog/realtime-chat-go-websockets/)

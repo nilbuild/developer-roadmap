@@ -4,6 +4,5 @@ Testing is how you make sure your app actually works the way it's supposed to. A
 
 Visit the following resources to learn more:
 
-- [@article@Vibe Coding Testing Gap: AI Apps Need Tests - Autonoma](https://getautonoma.com/blog/vibe-coding-testing)
 - [@article@Test-Driven Development with AI - Builder.io](https://www.builder.io/blog/test-driven-development-ai)
 - [@article@Stop Vibe Coding Your Unit Tests - Andy Gallagher](https://www.andy-gallagher.com/blog/stop-vibe-coding-your-unit-tests/)

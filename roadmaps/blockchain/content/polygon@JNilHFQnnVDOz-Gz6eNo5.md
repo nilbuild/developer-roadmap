@@ -9,4 +9,3 @@ Visit the following resources to learn more:
 - [@official@Polygon PoS](https://polygon.technology/polygon-pos)
 - [@official@Polygon CDK](https://polygon.technology/polygon-cdk)
 - [@official@Polygon ID](https://polygon.technology/polygon-id)
-- [@official@Polygon POL whitepaper](https://polygon.technology/papers/pol-whitepaper)

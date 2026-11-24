@@ -4,5 +4,4 @@ Tone reproduction, also called tone mapping, is the process of converting high d
 
 Visit the following resources to learn more:
 
-- [@article@Tone Mapping](https://graphics-programming.org/resources/tonemapping/index.html)
 - [@article@Sound Design for Video Games](https://www.gamedeveloper.com/audio/sound-design-for-video-games-a-primer)

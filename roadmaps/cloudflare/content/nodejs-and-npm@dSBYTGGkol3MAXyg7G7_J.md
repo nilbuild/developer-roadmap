@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit Dedicated Node.js Roadmap](https://roadmap.sh/nodejs)
 - [@official@Node.js Documentation](https://nodejs.org/en/)
-- [@official@NPM](https://www.docs.npmjs.com/)
+- [@official@NPM](https://docs.npmjs.com/)
 - [@official@An Introduction to NPM](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager)

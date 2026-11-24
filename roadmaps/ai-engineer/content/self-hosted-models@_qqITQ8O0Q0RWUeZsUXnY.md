@@ -5,4 +5,3 @@ Self-hosted AI models are machine learning models that are deployed and run on y
 Visit the following resources to learn more:
 
 - [@article@Self-Hosted LLM: A Practical Guide for DevOps](https://www.plural.sh/blog/self-hosting-large-language-models/)
-- [@article@Serverless vs. self-hosted LLM inference](https://bentoml.com/llm/llm-inference-basics/serverless-vs-self-hosted-llm-inference)

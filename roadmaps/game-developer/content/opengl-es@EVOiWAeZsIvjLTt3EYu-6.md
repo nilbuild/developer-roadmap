@@ -5,4 +5,3 @@ OpenGL ES (Open Graphics Library for Embedded Systems) is a subset of the OpenGL
 Visit the following resources to learn more:
 
 - [@article@LVGL — Light and Versatile Embedded Graphics Library](https://lvgl.io/)
-- [@article@Embedded Lighting](http://embeddedlightning.com/ugui/)

@@ -4,5 +4,4 @@ OpenAI-compatible APIs are interfaces that mimic the structure and functionality
 
 Visit the following resources to learn more:
 
-- [@article@OpenAI-compatible API](https://bentoml.com/llm/llm-inference-basics/openai-compatible-api)
 - [@article@OpenAI compatibility - Gemini](https://ai.google.dev/gemini-api/docs/openai)

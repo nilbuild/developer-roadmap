@@ -5,5 +5,4 @@ Geospatial indexes in MongoDB enable efficient querying of geographic coordinate
 Visit the following resources to learn more:
 
 - [@official@Geospatial Queries](https://www.mongodb.com/docs/manual/geospatial-queries/)
-- [@article@Geospatial Indexes in MongoDB](https://netsharpdev.com/2021/09/09/geoindexes-in-mongodb/)
 - [@article@Geospatial Data in MongoDB: Storage, Indexing, and Queries](https://medium.com/@AbbasPlusPlus/geospatial-data-in-mongodb-storage-indexing-and-queries-1c6db21b7970)

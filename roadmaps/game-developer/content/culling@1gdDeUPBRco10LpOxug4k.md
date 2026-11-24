@@ -5,4 +5,3 @@
 Visit the following resources to learn more:
 
 - [@article@Culling in Game Development](https://medium.com/@niitwork0921/what-is-culling-in-game-design-a97c0b6344dd)
-- [@article@Object Culling in Unreal Engine](https://gamedevinsider.com/object-culling-in-unreal-engine/)

@@ -4,5 +4,4 @@ The Knuth-Morris-Pratt (KMP) algorithm searches for a pattern in text by preproc
 
 Visit the following resources to learn more:
 
-- [@course@Knuth-Morris Pratt](https://www.coursera.org/learn/algorithms-part2/lecture/TAtDr/knuth-morris-pratt)
 - [@video@9.1 Knuth-Morris-Pratt KMP String Matching Algorithm](https://www.youtube.com/watch?v=V5-7GzOfADQ)

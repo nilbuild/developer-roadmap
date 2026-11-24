@@ -5,4 +5,3 @@ The GraphQL specification defines the core language, type system, execution mode
 Visit the following resources to learn more:
 
 - [@official@GraphQL Specification](https://spec.graphql.org/)
-- [@official@GraphQL Foundation](https://foundation.graphql.org/)

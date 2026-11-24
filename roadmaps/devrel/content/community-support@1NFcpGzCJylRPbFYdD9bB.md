@@ -4,6 +4,5 @@ Community support involves being present in the spaces where developers ask ques
 
 Visit the following resources to learn more:
 
-- [@article@Community and DevRel](https://developerrelations.com/podcast/community-and-devrel)
 - [@article@New to DevRel? Talk to your community!](https://dev.to/amandamartindev/new-to-devrel-talk-to-your-community-hmf)
 - [@video@DevRel & Community](https://www.youtube.com/watch?v=CfXkY2m_0dU)

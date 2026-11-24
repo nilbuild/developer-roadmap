@@ -5,5 +5,4 @@ Cloudflare Workers provide a simple API for reading and writing data to a Key-Va
 Visit the following resources to learn more:
 
 - [@official@Read Key Value Pairs](https://developers.cloudflare.com/kv/api/read-key-value-pairs/)
-- [@official@Cloudflare KV Binding API](https://developers.cloudflare.com/workers/runtime-apis/kv)
 - [@official@Cloudflare Workers KV — Cloudflare Docs](https://developers.cloudflare.com/workers/runtime-apis/kv/)

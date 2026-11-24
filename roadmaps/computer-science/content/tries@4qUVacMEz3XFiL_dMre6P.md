@@ -5,6 +5,3 @@ Tries are a data structure that can be used to store strings. The idea is to sto
 Visit the following resources to learn more:
 
 - [@course@0. Tries - Coursera](https://www.coursera.org/learn/algorithms-part2/home/week/4)
-- [@course@1. R Way Tries](https://www.coursera.org/learn/algorithms-part2/lecture/CPVdr/r-way-tries)
-- [@course@2. Ternary Search Tries](https://www.coursera.org/learn/algorithms-part2/lecture/yQM8K/ternary-search-tries)
-- [@course@3. Character Based Operations](https://www.coursera.org/learn/algorithms-part2/lecture/jwNmV/character-based-operations)

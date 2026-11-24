@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@article@Common Linux Text Processing Commands](https://www.commandinline.com/linux/common-linux-text-processing-commands/)
 - [@article@Linux Filters](https://ryanstutorials.net/linuxtutorial/filters.php)
 - [@article@Linux Text Processing Command](https://earthly.dev/blog/linux-text-processing-commands/)
-- [@article@Master Linux Text Processing Commands](https://everythingdevops.dev/linux-text-processing-commands/)

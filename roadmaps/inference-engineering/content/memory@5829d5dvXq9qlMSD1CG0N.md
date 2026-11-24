@@ -4,7 +4,6 @@ GPU memory determines what fits on a single device and how fast data can move th
 
 Visit the following resources to learn more:
 
-- [@article@What is GPU Memory and Why it Matters for LLM Inference](https://www.bentoml.com/blog/what-is-gpu-memory-and-why-it-matters-for-llm-inference)
 - [@article@What is GPU Memory (VRAM)?](https://www.ertas.ai/glossary/gpu-memory)
 - [@video@NPU vs. CPU vs. GPU vs. TPU: AI Hardware Compared](https://www.youtube.com/watch?v=d3SqH0UBLEY&t=58s)
 - [@video@Memory Hierarchy | GPU Programming](https://www.youtube.com/watch?v=Zrbw0zajhJM)

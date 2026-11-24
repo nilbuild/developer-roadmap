@@ -4,6 +4,5 @@ MongoDB tuning configuration involves optimizing various server parameters and s
 
 Visit the following resources to learn more:
 
-- [@official@Comprehensive Guide to Optimising MongoDB Performance](https://www.mongodb.com/developer/products/mongodb/guide-to-optimizing-mongodb-performance/)
 - [@article@Optimizing Performance in MongoDB](https://medium.com/@halimebardakci/optimizing-performance-in-mongodb-tips-and-tricks-b1d635220eec)
 - [@article@How To Optimize MongoDB Performance & Security](https://medium.com/@noel.benji/how-to-optimize-mongodb-performance-security-6fd3ba1304c1)

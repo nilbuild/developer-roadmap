@@ -5,6 +5,5 @@ Tools and functions are the mechanisms through which AI agents interact with the
 Visit the following resources to learn more:
 
 - [@article@What are Tools? - Hugging Face](https://huggingface.co/learn/agents-course/en/unit1/tools)
-- [@article@What is Tool Calling?](https://aimultiple.https://www.databricks.com/blog/what-is-tool-calling/ai-agent-tools)
 - [@article@AI Agents Explained in Simple Terms for Beginners](https://www.geeky-gadgets.com/ai-agents-explained-for-beginners/)
 - [@video@What is Tool Calling? Connecting LLMs to Your Data](https://www.youtube.com/watch?v=h8gMhXYAv1k)

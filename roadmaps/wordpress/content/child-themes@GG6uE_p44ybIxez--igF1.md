@@ -6,5 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
 - [@official@Create a child theme](https://wordpress.com/support/themes/child-themes/)
-- [@article@How to create a WordPress child theme + customization tips](https://www.hostinger.com/tutorials/how-to-create-wordpress-child-theme)
 - [@video@Child Themes](https://www.youtube.com/watch?v=XTzWivuH10I)

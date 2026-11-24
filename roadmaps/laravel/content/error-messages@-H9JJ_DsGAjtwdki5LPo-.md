@@ -4,7 +4,7 @@ Error messages in validation are the feedback provided to users when the data th
 
 Visit the following resources to learn more:
 
-- [@official@Working With Error Messages](https://laravel.com/docs/1validation#working-with-error-messages)
+- [@official@Working With Error Messages](https://laravel.com/docs/validation#working-with-error-messages)
 - [@article@Form Validation and Error Messages](https://laraveldaily.com/lesson/laravel-from-scratch/form-validation-error-messages)
 - [@article@The ultimate guide to Laravel Validation](https://laravel-news.com/laravel-validation)
 - [@video@😤Laravel 12 Custom Validation Messages | Display & Customize Error Messages in Laravel | Laravel 12](https://www.youtube.com/watch?v=2uTHfPzyEZ4)

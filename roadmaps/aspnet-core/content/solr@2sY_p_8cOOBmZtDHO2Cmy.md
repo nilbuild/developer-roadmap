@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Guide to Solr in ASP.NET](https://www.codeproject.com/Tips/480091/Using-Solr-for-Search-with-NET-Csharp)
 - [@article@How to get Started with Solr.NET?](https://stackoverflow.com/questions/5646615/how-to-get-started-with-solr-net)
-- [@article@Integrate Solr Instance With .NET Core](https://stacksecrets.com/dot-net-core/integrate-solr-instance-with-net-core)
