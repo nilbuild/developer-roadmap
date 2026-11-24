@@ -11,4 +11,3 @@ Visit the following resources to learn more:
 - [@official@Cluster Networking - Kubernetes Documentation](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
 - [@official@Network Policies - Kubernetes Documentation](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 - [@article@Kubernetes Networking Explained](https://www.tigera.io/learn/guides/kubernetes-networking/)
-- [@video@Kubernetes Networking Deep Dive](https://www.youtube.com/watch?v=t98ekMiz0hQ)

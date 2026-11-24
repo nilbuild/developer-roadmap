@@ -5,4 +5,3 @@ Workers KV is a data storage that allows you to store and retrieve data globally
 Visit the following resources to learn more:
 
 - [@official@Cloudflare Workers KV Documentation](https://developers.cloudflare.com/kv/)
-- [@official@How to Use Cloudflare Workers and KV Storage](https://www.youtube.com/watch?v=NGk2HxV0Xkg)

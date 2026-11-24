@@ -5,4 +5,3 @@ The Risk Management Framework (RMF) is a structured, comprehensive process for m
 Visit the following resources to learn more:
 
 - [@official@About the Risk Management Framework (RMF)](https://csrc.nist.gov/projects/risk-management/about-rmf)
-- [@video@RMF explained in 5 minutes](https://www.youtube.com/watch?v=X5yqPFp__rc)

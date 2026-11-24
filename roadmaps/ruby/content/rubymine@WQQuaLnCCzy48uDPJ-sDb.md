@@ -6,5 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@RubyMine](https://www.jetbrains.com/ruby/)
 - [@article@Introduction to RubyMine — A Powerful Ruby Development Tool](https://medium.com/@AlexanderObregon/introduction-to-rubymine-a-powerful-ruby-development-tool-4127851de5f9)
-- [@video@RubyMine vs VSCode (2026): Which Is The Best IDE For Ruby on Rails?](https://www.youtube.com/watch?v=WIc1de6_1MM)
 - [@video@Episode #526 - RubyMine](https://www.youtube.com/watch?v=j3hv7pz1ROc)

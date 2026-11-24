@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Providers Documentation](https://developer.hashicorp.com/terraform/language/providers#providers)
 - [@article@Understanding Terraform Providers](https://docs.aws.amazon.com/prescriptive-guidance/latest/getting-started-terraform/providers.html)
-- [@video@What are terraform providers and how to use them?](https://www.youtube.com/watch?v=Kd7ddHBR2ec)
