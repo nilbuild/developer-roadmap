@@ -5,4 +5,4 @@ Architectural styles are established approaches to organizing the high level str
 Visit the following resources to learn more:
 
 - [@video@Types of Architectural Styles in Software Engineering](https://www.youtube.com/watch?v=2Pp0BcXN9YY)
-- [@video@10 Architecture Patterns Used In Enterprise Software Development Today](https://www.youtube.com/watch?v=brt3ao8bvqy)
+- [@video@10 Architecture Patterns Used In Enterprise Software Development Today](https://www.youtube.com/watch?v=BrT3AO8bVQY)
