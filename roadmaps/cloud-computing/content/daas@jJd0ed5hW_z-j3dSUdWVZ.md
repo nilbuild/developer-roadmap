@@ -5,4 +5,4 @@ DaaS (Desktop as a Service) delivers a virtual desktop environment from the clou
 Visit the following resources to learn more:
 
 - [@article@What is desktop as a service (DaaS)?](https://www.ibm.com/think/topics/desktop-as-a-service)
-- [@video@Introduction to Desktop-as-a-Service | Desktop as a Service (DaaS) | Examples & Advantages](https://www.youtube.com/watch?v=5Em7GEso1x0https://www.youtube.com/watch?v=C4U9woDXKWY)
+- [@video@Introduction to Desktop-as-a-Service | Desktop as a Service (DaaS) | Examples & Advantages](https://www.youtube.com/watch?v=5Em7GEso1x0)

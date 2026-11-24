@@ -5,4 +5,4 @@ GoF Design Patterns are a set of reusable solutions to common problems encounter
 Visit the following resources to learn more:
 
 - [@article@Gangs of Four (GoF) Design Patterns](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns)
-- [@video@Tutorial - Builder Pattern (Gang of Four Design Patterns Series)](https://www.youtube.com/watch?v=_sa2WlAFWQos)
+- [@video@Tutorial - Builder Pattern (Gang of Four Design Patterns Series)](https://www.youtube.com/watch?v=_sa2WlAFWQo)

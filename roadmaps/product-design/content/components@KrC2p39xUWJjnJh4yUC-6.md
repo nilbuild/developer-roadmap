@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@The Largest Library of Open-Source UI](https://uiverse.io/)
 - [@article@What Are UI Components? Types, Benefits, Limitations & More](https://magicui.design/blog/what-are-ui-components)
-- [@video@UI Components Every Programmer Should Know (Probably)](https://www.youtube.com/watch?v=cjSpnReY3Xwhttps://www.youtube.com/watch?v=cjSpnReY3Xw)
+- [@video@UI Components Every Programmer Should Know (Probably)](https://www.youtube.com/watch?v=cjSpnReY3Xw)
