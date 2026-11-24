@@ -4,4 +4,5 @@
 
 Visit the following resources to learn more:
 
-- [@opensource@OkHttp on GitHub](https://github.com/square/okhttp)
+- [@opensource@OkHttp on GitHub](https://github.com/lysine-dev/okhttp)
+- [@official@OkHttp](https://lysine.dev/okhttp/)
