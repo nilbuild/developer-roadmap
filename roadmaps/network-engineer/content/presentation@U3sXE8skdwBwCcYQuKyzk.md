@@ -5,4 +5,3 @@ The Presentation layer is the sixth layer of the OSI model, responsible for tran
 Visit the following resources to learn more:
 
 - [@article@Understanding Layer 6: The Presentation Layer of the OSI Model](https://jumpcloud.com/it-index/understanding-layer-6-the-presentation-layer-of-the-osi-model)
-- [@video@Layer 6 (Presentation Layer)](https://www.youtube.com/watch?v=AtITX-U2mL4)

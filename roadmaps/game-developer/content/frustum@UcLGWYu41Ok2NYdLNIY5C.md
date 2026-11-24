@@ -5,4 +5,3 @@ Frustum culling is a standard practice in computer graphics, used in virtually a
 Visit the following resources to learn more:
 
 - [@article@Frustum Culling](https://gamedev.net/tutorials/programming/general-and-gameplay-programming/frustum-culling-r4613/)
-- [@video@Frustum Culling - Game Optimization 101 - Unreal Engine](https://www.youtube.com/watch?v=Ql56s1erTMI)

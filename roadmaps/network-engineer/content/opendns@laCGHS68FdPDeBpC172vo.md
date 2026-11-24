@@ -5,4 +5,3 @@ OpenDNS is a cloud-based DNS service operated by Cisco that provides fast DNS re
 Visit the following resources to learn more:
 
 - [@official@OpenDNS](https://www.opendns.com/)
-- [@video@OpenDNS vs Google DNS (2026) - Which One Is BETTER?](https://www.youtube.com/watch?v=b3fYQ77VOrk)

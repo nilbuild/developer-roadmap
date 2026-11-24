@@ -5,4 +5,3 @@ In Flutter, you can use Firebase Storage to store and retrieve binary data, such
 Visit the following resources to learn more:
 
 - [@official@Firebase Storage](https://firebase.google.com/docs/storage)
-- [@video@How to Upload and Retrieve Images from Firebase Storage](https://www.youtube.com/watch?v=sM-WMcX66FI)

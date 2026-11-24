@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@What Are Tokens per Second?](https://www.cerebras.ai/glossary/what-are-tokens-per-second)
 - [@article@Tokens Per Second](https://www.taskade.com/wiki/ai/tokens-per-second)
-- [@video@LLM Speed Tiers Explained: What TPS (Token Per Second) Actually Feels Like](https://www.youtube.com/watch?v=EZE-2xYpvOw)

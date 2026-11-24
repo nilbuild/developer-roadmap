@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Azure Virtual Machines](https://azure.microsoft.com/en-us/products/virtual-machines)
 - [@official@Virtual Machines in Azure](https://learn.microsoft.com/en-us/azure/virtual-machines/overview)
-- [@video@AVirtual Machines in Azure | Beginner's Guide](https://www.youtube.com/watch?v=_abaWXoQFZU)

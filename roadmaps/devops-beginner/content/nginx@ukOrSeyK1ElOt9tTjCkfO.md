@@ -7,5 +7,4 @@ Visit the following resources to learn more:
 - [@official@Nginx](https://nginx.org/)
 - [@article@Basic NGINX Setup on Ubuntu: Guide to a Functional and Secure Website Serving](https://swissmade.host/en/blog/basic-nginx-setup-ubuntu-guide-to-a-functional-and-secure-website-serving)
 - [@article@Understanding the Nginx Configuration File Structure](https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts)
-- [@video@NGINX Full Course](https://www.youtube.com/watch?v=0VGEgXfNMIE)
 - [@video@NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)

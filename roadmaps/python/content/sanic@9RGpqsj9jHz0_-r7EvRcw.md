@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Sanic Official Website](https://sanic.dev/en/)
 - [@official@Sanic User Guide – Getting Started](https://sanic.dev/en/guide/getting-started.html)
 - [@opensource@Sanic on GitHub](https://github.com/sanic-org/sanic)
-- [@video@Sanic Python Framework Tutorial (Tech With Tim)](https://www.youtube.com/watch?v=w4UQkgxKuaI)
