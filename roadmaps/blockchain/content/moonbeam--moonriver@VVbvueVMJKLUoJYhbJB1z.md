@@ -5,5 +5,3 @@ Moonbeam and Moonriver are developer-friendly blockchain environments designed t
 Visit the following resources to learn more:
 
 - [@official@Moonbeam](https://moonbeam.network/)
-- [@official@About Moonbeam](https://docs.moonbeam.network/learn/platform/networks/moonbeam/)
-- [@official@Moonbeam Vision](https://docs.moonbeam.network/learn/platform/vision/)

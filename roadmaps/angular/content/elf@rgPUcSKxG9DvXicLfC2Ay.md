@@ -4,7 +4,4 @@ Elf is a reactive immutable state management solution built on top of RxJS. It u
 
 Visit the following resources to learn more:
 
-- [@official@What is Elf?](https://ngneat.github.io/elf/)
-- [@opensource@Elf](https://github.com/ngneat/elf)
-- [@opensource@Elf NG Router Store](https://github.com/ngneat/elf-ng-router-store)
 - [@article@Case Study: Elf](https://medium.com/@gronichomer/case-study-elf-%EF%B8%8F%EF%B8%8F-part-1-fe5e87c31c89)

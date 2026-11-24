@@ -7,7 +7,6 @@ Visit the following resources to learn more:
 - [@official@Vector search in Elasticsearch](https://www.elastic.co/docs/solutions/search/vector)
 - [@official@What is vector search?](https://www.elastic.co/what-is/vector-search)
 - [@official@How to set up vector search in Elasticsearch](https://www.elastic.co/search-labs/blog/vector-search-set-up-elasticsearch)
-- [@official@A quick introduction to vector search](https://search-labs-redesign.vercel.app/search-labs/blog/introduction-to-vector-search)
 - [@article@Elasticsearch Was Great, But Vector Databases Are the Future](https://thenewstack.io/elasticsearch-was-great-but-vector-databases-are-the-future/)
 - [@video@What Is Vector Search? Difference Between Vector & Semantic Search Explained [Quick Question Ep. 5]](https://www.youtube.com/watch?v=BKbScJ2P2P0)
 - [@video@Elastic Snackable Series: Elasticsearch Vector Search](https://www.youtube.com/watch?v=GYtLxyvWE0w)

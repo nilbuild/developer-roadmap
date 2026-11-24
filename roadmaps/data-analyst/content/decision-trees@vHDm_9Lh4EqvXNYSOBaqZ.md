@@ -4,5 +4,4 @@ A decision tree is a supervised learning algorithm that splits data into branche
 
 Visit the following resources to learn more:
 
-- [@article@What is machine learning for analytics?](https://www.oracle.com/business-analytics/what-is-machine-learning-for-analytics/)
 - [@article@The Role of Machine Learning in Data Analysis](https://www.ironhack.com/gb/blog/the-role-of-machine-learning-in-data-analysis)

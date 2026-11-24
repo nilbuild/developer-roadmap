@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Moralis](https://moralis.com/)
 - [@official@Moralis Docs](https://docs.moralis.com/)
-- [@opensource@Moralis SDK](https://github.com/MoralisWeb3/Moralis-JS-SDK)

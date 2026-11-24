@@ -5,6 +5,5 @@ GraphQL is a query language for APIs that allows clients to request exactly the 
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated GraphQL Roadmap](https://roadmap.sh/graphql)
-- [@article@How to implement GraphQL in ASP.Net](https://blog.christian-schou.dk/how-to-implement-graphql-in-asp-net-core/)
 - [@article@Intro to GraphQL](https://graphql-dotnet.github.io/docs/getting-started/introduction/)
 - [@article@Developing API In .NET Core With GraphQL](https://www.c-sharpcorner.com/article/building-api-in-net-core-with-graphql2/)
