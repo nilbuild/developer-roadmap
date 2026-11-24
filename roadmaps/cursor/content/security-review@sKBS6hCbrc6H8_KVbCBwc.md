@@ -4,5 +4,5 @@ Security Review checks pull requests for security bugs, risky patterns and vulne
 
 Visit the following resources to learn more:
 
-- [@official@Security Review](ttps://cursor.com/docs/security-review)
+- [@official@Security Review](https://cursor.com/docs/security-review)
 - [@official@Bots for the last mile: Rollouts, Security Review](https://cursor.com/blog/rollouts-and-security-reviewer)
