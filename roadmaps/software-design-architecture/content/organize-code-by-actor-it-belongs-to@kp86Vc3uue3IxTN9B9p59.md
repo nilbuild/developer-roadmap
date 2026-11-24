@@ -4,5 +4,4 @@ Organizing code by the actor it belongs to involves grouping components, classes
 
 Visit the following resources to learn more:
 
-- [@article@Package by Feature vs Package by Layer](https://www.baeldung.com/java-packaging-structures)
 - [@article@Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html)

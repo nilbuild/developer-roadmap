@@ -4,5 +4,4 @@ The `provider` meta-argument assigns a specific provider configuration to a reso
 
 Visit the following resources to learn more:
 
-- [@official@Terraform Docs - provider](https://developer.hashicorp.com/terraform/language/meta-arguments/resource-provider)
 - [@article@Terraform by Example - provider](https://www.terraformbyexample.com/providers/)

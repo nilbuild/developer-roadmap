@@ -5,5 +5,4 @@ Network design principles are the guidelines and frameworks used to plan and bui
 Visit the following resources to learn more:
 
 - [@article@Network design principles](https://docs.fortinet.com/document/fortiswitch/7.6.0/switching-reference-architecture-guide/527614/network-design-principles)
-- [@article@What is Network Design?](https://www.netcomlearning.com/blog/what-is-network-design)
 - [@video@Network Design Principles](https://www.youtube.com/watch?v=wwwAXlE4OtU&list=PL8PlHKTsX2zENCbExeCNmDuEbExOBWMvL)

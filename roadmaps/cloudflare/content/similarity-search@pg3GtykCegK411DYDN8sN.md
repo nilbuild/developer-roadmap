@@ -5,4 +5,3 @@ Cloudflare offers Vectorize, a vector database, which enables similarity search.
 Visit the following resources to learn more:
 
 - [@official@Cloudflare Vectorize - Cloudflare](https://developers.cloudflare.com/vectorize/)
-- [@opensource@seemueller-io/hyphalbase](https://github.com/seemueller-io/hyphalbase)

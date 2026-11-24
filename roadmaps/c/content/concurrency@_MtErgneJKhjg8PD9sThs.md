@@ -6,5 +6,4 @@ Visit the following resources to learn more:
 
 - [@book@Introduction to Concurrent Programming in C](https://storm-lang.org/progvis-book/book.pdf)
 - [@article@Threads, Mutexes and Concurrent Programming in C](https://www.codequoi.com/en/threads-mutexes-and-concurrent-programming-in-c/)
-- [@article@Concurrency in C](https://www.classes.cs.uchicago.edu/archive/2017/spring/12300-1/lab5.html)
 - [@video@Introduction To Threads (pthreads) | C Programming Tutorial](https://www.youtube.com/watch?v=ldJ8WGZVXZk)

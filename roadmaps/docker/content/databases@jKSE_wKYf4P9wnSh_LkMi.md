@@ -4,5 +4,4 @@ Running your database in a Docker container can help streamline your development
 
 Visit the following resources to learn more:
 
-- [@official@Containerized Databases](https://docs.docker.com/guides/use-case/databases/)
 - [@video@How to Setup MySQL Database with Docker](https://www.youtube.com/watch?v=igc2zsOKPJs)

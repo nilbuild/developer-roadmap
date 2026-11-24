@@ -4,5 +4,4 @@ Troubleshooting is a systematic approach to problem-solving used to identify, di
 
 Visit the following resources to learn more:
 
-- [@article@Problem Solve](https://www.techtarget.com/searchsecurity/info/problemsolve)
 - [@video@Steps for Network Troubleshooting](https://www.youtube.com/watch?v=1i3XdhC2ZAs)
