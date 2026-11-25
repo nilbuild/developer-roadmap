@@ -1,4 +1,4 @@
-# c
+# Synonyms Graph
 
 Synonyms Graph is a feature in Elasticsearch that allows you to expand your search queries by including words or phrases that have similar meanings. Instead of just searching for the exact terms entered by a user, Elasticsearch can also search for related terms defined as synonyms, improving the recall of search results. The "graph" aspect refers to how these synonyms are represented internally, allowing for more complex relationships between terms, including multi-word synonyms and different synonym types.
 
