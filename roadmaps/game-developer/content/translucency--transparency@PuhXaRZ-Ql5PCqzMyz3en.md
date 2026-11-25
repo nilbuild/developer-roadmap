@@ -1,4 +1,4 @@
-# Conservation of Energy
+# Translucency & Transparency
 
 Translucency and transparency describe different ways light passes through a material. Transparent materials allow light to pass through without scattering, like glass, while translucent materials scatter light as it passes through, like skin or wax. Rendering these effects in real time requires techniques like alpha blending, order-independent transparency, and subsurface scattering approximations.
 
