@@ -1,5 +1,5 @@
 # Reference Materials
- 
+
 Reference materials are documents, standards, or research that inform the product strategy without being part of the product itself. They may include competitive benchmarks, industry reports, user research archives, and regulatory guidelines. Keeping them accessible ensures decisions are grounded in evidence rather than memory.
 
 Visit the following resources to learn more:

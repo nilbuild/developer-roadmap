@@ -1,5 +1,5 @@
 # Timeframe
- 
+
 A timeframe defines the period over which a goal is expected to be achieved. Product goals are typically set across quarterly or annual cycles, with shorter milestones tracked within those periods. Clear timeframes create accountability and allow teams to assess whether their pace of progress is on track.
 
 Visit the following resources to learn more:

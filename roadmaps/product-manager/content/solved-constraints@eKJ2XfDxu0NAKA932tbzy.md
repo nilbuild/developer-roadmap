@@ -1,5 +1,5 @@
 # Solved Constraints
- 
+
 Solved constraints are limitations that once blocked a product's development but have since been addressed. Identifying them matters because teams sometimes continue to work around problems that no longer exist, slowing progress unnecessarily. Revisiting past constraints can open up new strategic options.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # Identifying Market Needs
- 
+
 Identifying market needs means finding gaps between what customers want and what existing solutions provide. This involves combining quantitative data like surveys and search trends with qualitative input from interviews and support tickets. The output helps teams prioritize what to build and for whom.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # Blue Ocean Strategy
- 
+
 Blue Ocean Strategy is a framework for finding uncontested market space by creating demand rather than competing in existing markets. It involves identifying factors competitors compete on, eliminating or reducing those that are taken for granted, and introducing new ones that create differentiated value. The goal is to make competition irrelevant by shifting the playing field.
 
 Visit the following resources to learn more:

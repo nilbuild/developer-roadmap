@@ -1,5 +1,5 @@
 # Key Skills
- 
+
 Effective product managers combine analytical thinking with strong communication and the ability to influence without authority. Core skills include user research, data analysis, prioritization, roadmapping, and stakeholder management. Writing clearly and making decisions under uncertainty are also consistently important across product roles.
 
 Visit the following resources to learn more:

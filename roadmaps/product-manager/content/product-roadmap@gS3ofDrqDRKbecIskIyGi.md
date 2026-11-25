@@ -1,5 +1,5 @@
 # Product Roadmap
- 
+
 A product roadmap is a high-level plan that shows where a product is going and the sequence of priorities that will get it there. It communicates strategy to internal and external stakeholders and helps teams align on what comes next. Roadmaps should reflect current priorities and be updated regularly as conditions change.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # Product vs Project Management
- 
+
 Product management focuses on what to build and why, with ongoing responsibility for outcomes after launch. Project management focuses on how to deliver a defined scope on time and within budget, with a clear end date. Many product teams use project management practices to execute, but the strategic ownership belongs to the product manager.
 
 Visit the following resources to learn more:

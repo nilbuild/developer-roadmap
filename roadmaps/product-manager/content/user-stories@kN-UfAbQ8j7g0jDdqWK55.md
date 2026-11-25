@@ -1,6 +1,6 @@
 # User Stories
- 
-User stories are short descriptions of a feature from the user's perspective, typically written in the format: "As a [type of user], I want [some goal], so that [some reason]." They focus on intent rather than implementation and make it easier to prioritize based on user value. Teams often add acceptance criteria to clarify when a story is complete.
+
+User stories are short descriptions of a feature from the user's perspective, typically written in the format: "As a \[type of user\], I want \[some goal\], so that \[some reason\]." They focus on intent rather than implementation and make it easier to prioritize based on user value. Teams often add acceptance criteria to clarify when a story is complete.
 
 Visit the following resources to learn more:
 

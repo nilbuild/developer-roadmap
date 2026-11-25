@@ -1,5 +1,5 @@
 # Proposition
- 
+
 A product proposition defines the core promise the product makes to its users. It captures what the product does, for whom, and what value it delivers. A strong proposition is specific, differentiated, and grounded in genuine user needs.
 
 Visit the following resources to learn more:

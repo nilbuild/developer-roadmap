@@ -1,5 +1,5 @@
 # User Personas
- 
+
 User personas are fictional but research-based profiles that represent distinct segments of a product's target audience. Each persona captures a user's goals, frustrations, behaviors, and context. Teams use personas to build shared understanding and to evaluate decisions from the user's point of view.
 
 Visit the following resources to learn more:

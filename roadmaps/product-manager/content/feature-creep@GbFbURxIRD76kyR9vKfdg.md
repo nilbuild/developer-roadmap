@@ -1,5 +1,5 @@
 # Feature Creep
- 
+
 Feature creep is the gradual accumulation of features that are added without clear strategic rationale. Each addition seems reasonable in isolation but together they make the product complex, harder to maintain, and harder for users to understand. Preventing it requires strong prioritization discipline and clear product principles.
 
 Visit the following resources to learn more:

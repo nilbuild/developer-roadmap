@@ -1,5 +1,5 @@
 # Statement
- 
+
 A vision or mission statement is a short, written expression of a product's purpose and long-term direction. It should be concise enough to remember and specific enough to be useful when making decisions. Statements that are too generic provide no real guidance.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # Positioning
- 
+
 Positioning defines how a product is perceived relative to competitors in the minds of its target users. A strong position makes clear who the product is for, what problem it solves, and why it is the best choice for that audience. Positioning guides messaging, pricing, and feature decisions across the product lifecycle.
 
 Visit the following resources to learn more:
