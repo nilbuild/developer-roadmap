@@ -1,5 +1,5 @@
 # Value vs Features
- 
+
 Value vs features is the distinction between what a product delivers to users in terms of outcomes versus what it technically does. Features are capabilities; value is the benefit those capabilities create. Product teams that focus on value avoid shipping features that users do not actually care about.
 
 Visit the following resources to learn more:

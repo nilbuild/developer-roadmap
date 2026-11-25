@@ -1,5 +1,5 @@
 # Roles and Responsibilities
- 
+
 A product manager's core responsibilities include defining the product vision, writing requirements, prioritizing the backlog, and communicating decisions to stakeholders. They represent the user inside the organization and the business constraints to the team. The exact scope varies by company size and structure, but the PM is ultimately accountable for the product's direction and outcomes.
 
 Visit the following resources to learn more:

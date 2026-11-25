@@ -1,5 +1,5 @@
 # Identify Partners
- 
+
 Identifying partners means evaluating which organizations or individuals can add value to a product's growth or capabilities. Criteria include complementary strengths, shared audiences, and strategic alignment. The goal is to find relationships where both sides benefit from collaborating.
 
 Visit the following resources to learn more:

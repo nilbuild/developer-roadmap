@@ -1,5 +1,5 @@
 # Capabilities
- 
+
 Capabilities describe what a product or organization can actually do, as distinct from what it aspires to do. Understanding current capabilities helps teams assess whether a strategy is realistic and where gaps need to be addressed. Roadmap planning should account for capability constraints alongside market opportunities.
 
 Visit the following resources to learn more:

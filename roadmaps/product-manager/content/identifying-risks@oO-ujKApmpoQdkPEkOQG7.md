@@ -1,5 +1,5 @@
 # Identifying Risks
- 
+
 Identifying risks is the first step in risk management, involving the systematic process of recognizing what could go wrong in a product initiative. Sources of risk include technical complexity, market uncertainty, regulatory requirements, and dependency on third parties. Early identification gives teams time to assess and respond before risks become problems.
 
 Visit the following resources to learn more:

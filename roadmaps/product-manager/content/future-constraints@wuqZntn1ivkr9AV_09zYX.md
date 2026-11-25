@@ -1,5 +1,5 @@
 # Future Constraints
- 
+
 Future constraints are anticipated limitations that will affect the product's ability to grow or evolve. These may include technical debt, regulatory changes, scaling challenges, or resource limits. Planning for them early reduces the risk of being caught unprepared.
 
 Visit the following resources to learn more:

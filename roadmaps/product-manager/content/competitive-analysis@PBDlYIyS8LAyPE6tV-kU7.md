@@ -1,5 +1,5 @@
 # Competitive Analysis
- 
+
 Competitive analysis is the structured review of competing products to understand their strengths, weaknesses, positioning, and market share. It informs product differentiation and helps teams avoid building features that competitors already do well. A good competitive analysis is updated regularly, not just at launch.
 
 Visit the following resources to learn more:

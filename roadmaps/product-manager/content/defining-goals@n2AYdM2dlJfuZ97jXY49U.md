@@ -1,5 +1,5 @@
 # Defining Goals
- 
+
 Defining goals means translating a product vision into specific, measurable outcomes the team is working toward. Good goals are time-bound and linked to user or business value, not just feature delivery. Clear goals help teams prioritize and evaluate whether their work is making a difference.
 
 Visit the following resources to learn more:

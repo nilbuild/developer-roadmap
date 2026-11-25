@@ -1,5 +1,5 @@
 # Strategic Partners
- 
+
 Strategic partners are organizations or individuals whose capabilities, distribution, or resources complement the product's own. Partnerships can accelerate growth, expand reach, or unlock capabilities the team cannot build alone. Managing them requires clarity on mutual value and shared goals.
 
 Visit the following resources to learn more:

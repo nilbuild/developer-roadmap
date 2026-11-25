@@ -1,6 +1,6 @@
 # Job Stories
- 
-Job stories are an alternative to user stories that focus on the context and motivation behind a task rather than the user's identity. The format is: "When [situation], I want to [motivation], so I can [expected outcome]." They reduce persona bias and push teams to focus on causality rather than demographics.
+
+Job stories are an alternative to user stories that focus on the context and motivation behind a task rather than the user's identity. The format is: "When \[situation\], I want to \[motivation\], so I can \[expected outcome\]." They reduce persona bias and push teams to focus on causality rather than demographics.
 
 Visit the following resources to learn more:
 

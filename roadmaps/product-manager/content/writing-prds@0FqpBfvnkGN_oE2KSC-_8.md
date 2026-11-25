@@ -1,5 +1,5 @@
 # Writing PRDs
- 
+
 A product requirements document (PRD) is a written artifact that describes the purpose, scope, and requirements of a product or feature. It typically includes the problem statement, user stories, success metrics, constraints, and open questions. A good PRD gives the team enough context to make decisions without prescribing implementation details.
 
 Visit the following resources to learn more:

@@ -1,5 +1,5 @@
 # Five Forces Analysis
- 
+
 Five Forces Analysis is a framework developed by Michael Porter to assess the competitive intensity and attractiveness of a market. The five forces are: competitive rivalry, threat of new entrants, threat of substitutes, bargaining power of buyers, and bargaining power of suppliers. Product teams use it to understand structural market dynamics when evaluating new opportunities.
 
 Visit the following resources to learn more:

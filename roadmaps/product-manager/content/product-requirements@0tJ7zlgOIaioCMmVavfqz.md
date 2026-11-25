@@ -1,5 +1,5 @@
 # Product Requirements
- 
+
 Product requirements define what a product or feature must do in order to meet user needs and business goals. They translate strategy and user research into specific, actionable descriptions of functionality. Well-written requirements reduce ambiguity and help engineering and design make decisions without constant escalation.
 
 Visit the following resources to learn more:

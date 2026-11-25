@@ -1,5 +1,5 @@
 # Managing Partnerships
- 
+
 Managing partnerships involves maintaining alignment, trust, and mutual value between organizations over time. It includes setting expectations, defining success metrics, and resolving conflicts when they arise. Poorly managed partnerships deteriorate quickly, so proactive communication and clear agreements are essential.
 
 Visit the following resources to learn more:
