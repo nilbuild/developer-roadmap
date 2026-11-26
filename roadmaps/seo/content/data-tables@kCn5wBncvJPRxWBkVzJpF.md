@@ -4,4 +4,4 @@ Data tables present information in rows and columns rather than paragraphs of pr
 
 Visit the following resources to learn more:
 
-- [@article@How to Optimize Content for AI Search Engines [2026 Guide]](https://www.semrush.com/blog/how-to-optimize-content-for-ai-search-engines/)
+- [@article@Optimizing Content for AI Search - Semrush](https://www.semrush.com/blog/how-to-optimize-content-for-ai-search-engines/)

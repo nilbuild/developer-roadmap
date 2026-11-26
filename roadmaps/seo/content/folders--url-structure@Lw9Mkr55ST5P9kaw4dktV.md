@@ -4,7 +4,7 @@ This is the organization of a website's URLs into logical folders that reflect t
 
 Visit the following resources to learn more:
 
-- [@article@10 Essentials To Create The Most Effective SEO URL Structure](https://fatjoe.com/blog/seo-url-structure/)
+- [@article@SEO URL Structure Essentials - FatJoe](https://fatjoe.com/blog/seo-url-structure/)
 - [@article@URL structure best practices for Google Search](https://developers.google.com/search/docs/crawling-indexing/url-structure)
 - [@video@HTML & CSS for Beginners: File Structure](https://www.youtube.com/watch?v=ta3Oxx7Yqbo)
-- [@video@The Perfect URL Structure for SEO!](https://www.youtube.com/watch?v=GIZKm91Dkqo)
+- [@video@The Perfect URL Structure for SEO - FatJoe](https://www.youtube.com/watch?v=GIZKm91Dkqo)

@@ -4,6 +4,6 @@ Organic traffic comes from unpaid search results. Paid traffic comes from search
 
 Visit the following resources to learn more:
 
-- [@article@The Differences Between Paid And Organic Content On Social Media](https://www.forbes.com/councils/forbescommunicationscouncil/2022/05/06/the-differences-between-paid-and-organic-content-on-social-media/)
+- [@article@Paid vs. Organic Content on Social Media - Forbes](https://www.forbes.com/councils/forbescommunicationscouncil/2022/05/06/the-differences-between-paid-and-organic-content-on-social-media/)
 - [@article@Paid, organic and direct – What’s the difference?](https://embryo.com/blog/organic-vs-direct-traffic/)
-- [@video@Organic VS Paid Marketing Search Strategies The Pros and Cons | Neil Patel](https://www.youtube.com/watch?v=7V3HMRJ8U40)
+- [@video@Organic vs Paid Search Strategies - Neil Patel](https://www.youtube.com/watch?v=7V3HMRJ8U40)

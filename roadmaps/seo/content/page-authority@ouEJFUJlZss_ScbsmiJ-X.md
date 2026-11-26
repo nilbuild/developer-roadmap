@@ -4,4 +4,4 @@ Page Authority is a Moz metric similar to Domain Authority, but measured for a s
 
 Visit the following resources to learn more:
 
-- [@official@What Is Page Authority? How Do I Influence Page Authority?](https://moz.com/learn/seo/page-authority)
+- [@official@What Is Page Authority? - Moz](https://moz.com/learn/seo/page-authority)

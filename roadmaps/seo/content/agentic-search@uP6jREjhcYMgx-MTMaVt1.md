@@ -5,4 +5,4 @@ Agentic search is when an AI system does not just answer a question, but takes a
 Visit the following resources to learn more:
 
 - [@official@Build agent-friendly websites](https://web.dev/articles/ai-agent-site-ux)
-- [@article@The Future of AI: How to Make Your Website Agent-Ready with NLWeb and MCP](https://techcommunity.microsoft.com/blog/aiplatformblog/-/4434189)
+- [@article@Agent-Ready Websites with NLWeb and MCP](https://techcommunity.microsoft.com/blog/aiplatformblog/-/4434189)

@@ -4,5 +4,5 @@ Primary data and visuals encompass original research, proprietary data, or custo
 
 Visit the following resources to learn more:
 
-- [@article@How to Earn LLM Citations to Build Traffic & Authority](https://ahrefs.com/blog/llm-citations/)
-- [@article@AI SEO Tips: How to Earn Citations & Mentions in AI Search](https://www.semrush.com/blog/ai-seo-tips/)
+- [@article@How to Earn LLM Citations - Ahrefs](https://ahrefs.com/blog/llm-citations/)
+- [@article@AI SEO Tips for AI Search Citations - Semrush](https://www.semrush.com/blog/ai-seo-tips/)

@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Image SEO Best Practices](https://developers.google.com/search/docs/appearance/google-images)
 - [@official@Video SEO Best Practices](https://developers.google.com/search/docs/appearance/video)
-- [@official@Video (VideoObject, Clip, BroadcastEvent) Schema Markup](https://developers.google.com/search/docs/appearance/structured-data/video)
-- [@article@Image SEO: 12 Actionable Tips (for More Organic Traffic)](https://ahrefs.com/blog/image-seo/)
+- [@official@VideoObject, Clip, BroadcastEvent Schema - Google](https://developers.google.com/search/docs/appearance/structured-data/video)
+- [@article@Image SEO: 12 Actionable Tips - Ahrefs](https://ahrefs.com/blog/image-seo/)

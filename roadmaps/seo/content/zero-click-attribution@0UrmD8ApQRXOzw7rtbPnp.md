@@ -5,4 +5,4 @@ Zero-click attribution is the practice of measuring the value of searches where 
 Visit the following resources to learn more:
 
 - [@article@How to Win in a Zero-Click Search Market](https://www.semrush.com/blog/zero-click-searches/)
-- [@article@How to Measure AI Search Visibility When Attribution Falls Short](https://ahrefs.com/blog/how-to-measure-ai-search-visibility/)
+- [@article@How to Measure AI Search Visibility - Ahrefs](https://ahrefs.com/blog/how-to-measure-ai-search-visibility/)

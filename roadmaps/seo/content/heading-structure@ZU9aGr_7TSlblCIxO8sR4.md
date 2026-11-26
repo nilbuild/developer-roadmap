@@ -4,6 +4,6 @@ Heading structure refers to how a page uses heading tags, from a single main hea
 
 Visit the following resources to learn more:
 
-- [@article@What Are Heading Tags? & Why They're Important for SEO](https://www.semrush.com/blog/heading-tags/)
+- [@article@Heading Tags and SEO - Semrush](https://www.semrush.com/blog/heading-tags/)
 - [@article@H1-H6 headings](https://www.seobility.net/en/wiki/H1-H6_headings)
 - [@video@How to Use H1 H2 H3 Tags for SEO](https://www.youtube.com/watch?v=z62zx7aCMUg&t=221s)

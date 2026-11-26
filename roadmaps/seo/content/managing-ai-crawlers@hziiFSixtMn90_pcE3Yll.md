@@ -5,4 +5,4 @@ Managing AI crawlers involves controlling how automated bots and large language 
 Visit the following resources to learn more:
 
 - [@article@AI Crawler Management](https://www.amicited.com/glossary/ai-crawler-management/)
-- [@article@AI Crawlers: The List of AI Bots & How to Control Them](https://geotoolbox.ai/blog/ai-crawlers)
+- [@article@AI Crawlers: List of AI Bots & How to Control Them](https://geotoolbox.ai/blog/ai-crawlers)

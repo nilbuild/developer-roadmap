@@ -4,7 +4,7 @@ Search intent is the underlying goal behind a search query, such as wanting to b
 
 Visit the following resources to learn more:
 
-- [@article@What Is Search Intent? How to Identify It & Optimize for It](https://www.semrush.com/blog/search-intent/)
+- [@article@What Is Search Intent - Semrush](https://www.semrush.com/blog/search-intent/)
 - [@article@What Is Search Intent and Why Does It Matter?](https://moz.com/learn/seo/search-intent)
 - [@video@What is Search Intent in SEO, Explained!](https://www.youtube.com/watch?v=_7KfMyBDc1o)
-- [@video@Keyword Research Pt 1: How to Analyze Searcher Intent](https://www.youtube.com/watch?v=zXPZ0L2cOw4)
+- [@video@Analyzing Searcher Intent - Ahrefs](https://www.youtube.com/watch?v=zXPZ0L2cOw4)

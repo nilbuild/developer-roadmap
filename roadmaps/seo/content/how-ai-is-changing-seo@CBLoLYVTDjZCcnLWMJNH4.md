@@ -5,6 +5,6 @@ AI systems are changing how people find information, moving some search behavior
 Visit the following resources to learn more:
 
 - [@official@AI Features and Your Website](https://developers.google.com/search/docs/appearance/ai-features)
-- [@official@Top ways to ensure your content performs well in Google's AI experiences on Search](https://developers.google.com/search/blog/2025/05/succeeding-in-ai-search)
+- [@official@Performing Well in Google's AI Experiences](https://developers.google.com/search/blog/2025/05/succeeding-in-ai-search)
 - [@article@What AI Means for SEO](https://ahrefs.com/blog/what-ai-means-for-seo)
-- [@article@The Complete AI Visibility Guide for SEOs, Marketers, and Site Owners](https://ahrefs.com/blog/ai-visibility/)
+- [@article@The AI Visibility Guide - Ahrefs](https://ahrefs.com/blog/ai-visibility/)

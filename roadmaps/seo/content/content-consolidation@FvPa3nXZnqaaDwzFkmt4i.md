@@ -4,6 +4,6 @@ Content consolidation is the process of combining multiple low-performing or red
 
 Visit the following resources to learn more:
 
-- [@official@How to Specify a Canonical with rel="canonical" and Other Methods](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls)
+- [@official@Specify a Canonical with rel=canonical - Google](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls)
 - [@article@Can Content Consolidation Help Drive Performance?](https://seerinteractive.com/insights/content-consolidation)
-- [@article@Keyword Cannibalization: What It (Really) Is & How to Fix It](https://ahrefs.com/blog/keyword-cannibalization/)
+- [@article@Keyword Cannibalization - Ahrefs](https://ahrefs.com/blog/keyword-cannibalization/)

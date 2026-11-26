@@ -4,8 +4,8 @@ Google AI Mode is a search experience that generates a conversational, AI-writte
 
 Visit the following resources to learn more:
 
-- [@official@Get AI-powered responses with AI Mode in Google Search](https://support.google.com/websearch/answer/16011537)
+- [@official@AI Mode in Google Search - Google](https://support.google.com/websearch/answer/16011537)
 - [@official@AI Features and Your Website](https://developers.google.com/search/docs/appearance/ai-features)
-- [@article@What Is Google AI Mode? (+ How to Optimize for It in 2026)](https://www.semrush.com/blog/google-ai-mode/)
+- [@article@What Is Google AI Mode? - Semrush](https://www.semrush.com/blog/google-ai-mode/)
 - [@article@Google AI Mode: All You Need to Know](https://ahrefs.com/blog/google-ai-mode/)
 - [@video@How to Rank in Google's AI Mode](https://www.youtube.com/watch?v=qxPjkOIyrJs)

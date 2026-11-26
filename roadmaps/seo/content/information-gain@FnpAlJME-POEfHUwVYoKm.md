@@ -4,6 +4,6 @@ Information gain is whether a piece of content adds something genuinely new, suc
 
 Visit the following resources to learn more:
 
-- [@article@What Is Information Gain in SEO? (and How To Add It to Your Content)](https://ahrefs.com/blog/information-gain/)
+- [@article@What Is Information Gain in SEO - Ahrefs](https://ahrefs.com/blog/information-gain/)
 - [@article@Information Gain](https://searchos.io/knowledge/information-gain)
-- [@video@Information Gain In SEO (This Is How You Beat AI Content)](https://www.youtube.com/watch?v=BiINEmEmisE)
+- [@video@Information Gain in SEO - FatJoe](https://www.youtube.com/watch?v=BiINEmEmisE)

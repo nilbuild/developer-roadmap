@@ -5,4 +5,4 @@ Google Business Profile is a free listing that shows a business's hours, photos,
 Visit the following resources to learn more:
 
 - [@official@Tips to improve your local ranking on Google](https://support.google.com/business/answer/7091)
-- [@article@The Ultimate Guide to Google Business Profile Optimization](https://whitespark.ca/google-business-profile-guide/)
+- [@article@Google Business Profile Guide - Whitespark](https://whitespark.ca/google-business-profile-guide/)

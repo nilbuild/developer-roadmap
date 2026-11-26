@@ -5,4 +5,4 @@ Community presence is a brand or individual's activity and reputation within onl
 Visit the following resources to learn more:
 
 - [@article@How to Use Reddit for SEO (The Right Way)](https://ahrefs.com/blog/reddit-seo/)
-- [@article@Reddit Marketing: How to Do It Right (+ 7 Tips to Get Results)](https://www.semrush.com/blog/reddit-marketing-guide/)
+- [@article@Reddit Marketing Done Right - Semrush](https://www.semrush.com/blog/reddit-marketing-guide/)

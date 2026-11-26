@@ -4,4 +4,4 @@ MarketMuse is a content planning and optimization tool that uses AI to identify 
 
 Visit the following resources to learn more:
 
-- [@official@Topic clusters and topical authority: How to build real search coverage](https://blog.marketmuse.com/building-topic-clusters-with-marketmuse/)
+- [@official@Topic Clusters and Topical Authority - MarketMuse](https://blog.marketmuse.com/building-topic-clusters-with-marketmuse/)

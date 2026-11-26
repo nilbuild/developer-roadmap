@@ -5,6 +5,6 @@ AI Overviews are AI-generated summaries that Google shows directly at the top of
 Visit the following resources to learn more:
 
 - [@article@AI Overviews Google](https://search.google/ways-to-search/ai-overviews/)
-- [@article@AI Overviews: What Are They & How to Optimize for Them](https://www.semrush.com/blog/ai-overviews/)
+- [@article@AI Overviews and How to Optimize - Semrush](https://www.semrush.com/blog/ai-overviews/)
 - [@video@Google AI Overviews & SEO: What's gonna change?](https://www.youtube.com/watch?v=xUyGAbwuTas)
-- [@video@Google Just Expanded AI Overviews: This Is What Still Gets Clicked](https://www.youtube.com/watch?v=jL8Q2C4E3RI)
+- [@video@What Still Gets Clicked in AI Overviews](https://www.youtube.com/watch?v=jL8Q2C4E3RI)

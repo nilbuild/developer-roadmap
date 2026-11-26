@@ -4,5 +4,5 @@ A proprietary dataset is information only you have access to, such as internal u
 
 Visit the following resources to learn more:
 
-- [@article@The SEO Advantage of Proprietary Data (And Why Google Rewards It)](https://www.brafton.com/blog/seo/the-seo-advantage-of-proprietary-data-and-why-google-rewards-it/)
-- [@article@Why Proprietary Research Data Is Key to Brand Differentiation](https://thriveagency.com/news/why-proprietary-research-data-is-key-to-brand-differentiation/)
+- [@article@The SEO Advantage of Proprietary Data](https://www.brafton.com/blog/seo/the-seo-advantage-of-proprietary-data-and-why-google-rewards-it/)
+- [@article@Proprietary Research and Brand Differentiation](https://thriveagency.com/news/why-proprietary-research-data-is-key-to-brand-differentiation/)

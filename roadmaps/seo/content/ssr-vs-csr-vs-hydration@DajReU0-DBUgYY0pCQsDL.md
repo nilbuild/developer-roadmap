@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@article@Server-Side Rendering vs Client-Side Rendering](https://strapi.io/blog/server-side-rendering-vs-client-side-rendering)
 - [@article@Hydration and SEO: How it works and why it matters](https://searchengineland.com/hydration-seo-481671)
-- [@video@What are Server Side Rendering (SSR) & Client Side Rendering (CSR)](https://www.youtube.com/watch?v=ObrSuDYMl1s)
+- [@video@Server Side vs Client Side Rendering - Smoljames](https://www.youtube.com/watch?v=ObrSuDYMl1s)
 - [@video@Hydration Explained](https://www.youtube.com/watch?v=kZG3izJu7qE)

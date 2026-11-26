@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@What Is Scaled Content Abuse?](https://www.layer3labs.io/guides/scaled-content-abuse)
 - [@article@Scaled Content Abuse: Do's and Don'ts for SEO](https://www.contentpowered.com/blog/scaled-content/)
-- [@video@Google’s War on Scaled AI Content: The Rise and Fall of AInvest](https://www.youtube.com/watch?v=RpgOKUO_SyI)
+- [@video@Google's War on Scaled AI Content - Edward Sturm](https://www.youtube.com/watch?v=RpgOKUO_SyI)

@@ -4,5 +4,5 @@ Prompt coverage measures how often a brand appears across a representative set o
 
 Visit the following resources to learn more:
 
-- [@article@Prompt tracking methodology to measure AI visibility](https://www.semrush.com/blog/ai-prompt-tracking-methodology/)
-- [@article@Prompt Tracking: How to Find (and Fix) Your AI Visibility Gaps](https://backlinko.com/llm-prompt-tracking)
+- [@article@AI Prompt Tracking Methodology - Semrush](https://www.semrush.com/blog/ai-prompt-tracking-methodology/)
+- [@article@Prompt Tracking for AI Visibility Gaps - Backlinko](https://backlinko.com/llm-prompt-tracking)

@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Original Research & Studies](https://www.semrush.com/blog/category/news/original-research-and-studies/)
 - [@article@How to Build a Killer SEO Case Study](https://contentfac.com/seo-case-study/#)
-- [@article@Six reasons why case studies are crucial for digital marketing success](https://cose.org/blog/cose-resources/six-reasons-why-case-studies-are-crucial-for-digital-marketing-success/)
+- [@article@Why Case Studies Matter for Digital Marketing](https://cose.org/blog/cose-resources/six-reasons-why-case-studies-are-crucial-for-digital-marketing-success/)

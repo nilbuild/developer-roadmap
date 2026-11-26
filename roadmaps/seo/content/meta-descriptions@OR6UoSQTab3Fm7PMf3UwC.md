@@ -4,7 +4,7 @@ A meta description is a short summary in a page's HTML that search engines often
 
 Visit the following resources to learn more:
 
-- [@article@Best practices for creating quality meta descriptions](https://developers.google.com/search/docs/appearance/snippet#meta-descriptions)
+- [@article@Quality Meta Descriptions - Google](https://developers.google.com/search/docs/appearance/snippet#meta-descriptions)
 - [@article@What Is a Meta Description? (+ Examples & Tips)](https://www.semrush.com/blog/meta-description/)
-- [@video@How To Write Perfect* Page Titles and Meta Descriptions for SEO](https://www.youtube.com/watch?v=rzxnwSR3i8A)
+- [@video@Page Titles and Meta Descriptions for SEO](https://www.youtube.com/watch?v=rzxnwSR3i8A)
 - [@video@How Google Wants You to Create Meta Descriptions](https://www.youtube.com/watch?v=9LMc75qLKXc)

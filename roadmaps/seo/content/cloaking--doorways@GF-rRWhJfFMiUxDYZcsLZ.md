@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@article@Cloaking](https://www.seobility.net/en/wiki/Cloaking)
 - [@article@Doorway Page](https://rankmath.com/seo-glossary/doorway-page/)
-- [@video@What is cloaking in SEO? | Black Hat SEO Technique Explained](https://www.youtube.com/watch?v=16C1vW6YNAc)
-- [@video@Doorway Pages vs. Programmatic SEO: How to Avoid a Google Penalty](https://www.youtube.com/watch?v=gZxw7Cmr0LM)
+- [@video@What Is Cloaking in SEO - The SEO Button](https://www.youtube.com/watch?v=16C1vW6YNAc)
+- [@video@Doorway Pages vs. Programmatic SEO - Edward Sturm](https://www.youtube.com/watch?v=gZxw7Cmr0LM)

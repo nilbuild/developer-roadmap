@@ -5,4 +5,4 @@ The nofollow attribute tells search engines not to pass ranking credit through a
 Visit the following resources to learn more:
 
 - [@official@Qualify Outbound Links for SEO](https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links)
-- [@official@Evolving "nofollow" – new ways to identify the nature of links](https://developers.google.com/search/blog/2019/09/evolving-nofollow-new-ways-to-identify)
+- [@official@Evolving nofollow Link Attributes - Google](https://developers.google.com/search/blog/2019/09/evolving-nofollow-new-ways-to-identify)

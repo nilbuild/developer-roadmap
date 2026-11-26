@@ -5,4 +5,4 @@ Local links are backlinks from other websites that are relevant to a specific ge
 Visit the following resources to learn more:
 
 - [@article@9 Easy Local Link Building Tactics](https://ahrefs.com/blog/local-link-building/)
-- [@article@13 Local Link Building Tactics to Boost Your Visibility](https://www.brightlocal.com/learn/local-seo/local-link-building/)
+- [@article@13 Local Link Building Tactics - BrightLocal](https://www.brightlocal.com/learn/local-seo/local-link-building/)

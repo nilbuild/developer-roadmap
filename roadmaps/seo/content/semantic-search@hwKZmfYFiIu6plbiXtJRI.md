@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@article@What is semantic search?](https://www.elastic.co/what-is/semantic-search)
 - [@article@What is semantic search? - Google](https://cloud.google.com/discover/what-is-semantic-search?hl=en)
-- [@video@What is a Vector Database? Powering Semantic Search & AI Applications](https://www.youtube.com/watch?v=gl1r1XV0SLw)
+- [@video@What Is a Vector Database? - IBM Technology](https://www.youtube.com/watch?v=gl1r1XV0SLw)
 - [@video@What is semantic search?](https://www.youtube.com/watch?v=o3XN4dImESE)

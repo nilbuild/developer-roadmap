@@ -4,5 +4,5 @@ LLM referral traffic is website visits that originate specifically from a link c
 
 Visit the following resources to learn more:
 
-- [@article@The ChatGPT Traffic Playbook: How to Track, Measure, and Grow](https://ahrefs.com/blog/chat-gpt-traffic/)
-- [@article@How to Track, Measure, and Boost AI Referral Traffic](https://www.semrush.com/blog/ai-referral-traffic/)
+- [@article@The ChatGPT Traffic Playbook - Ahrefs](https://ahrefs.com/blog/chat-gpt-traffic/)
+- [@article@Tracking AI Referral Traffic - Semrush](https://www.semrush.com/blog/ai-referral-traffic/)

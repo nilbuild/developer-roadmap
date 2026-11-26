@@ -5,4 +5,4 @@ A ccTLD is a country-specific domain ending, like .de for Germany, giving the st
 Visit the following resources to learn more:
 
 - [@official@Managing Multi-Regional and Multilingual Sites](https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites)
-- [@article@International sites: the best domain structure for SEO](https://yoast.com/domain-structures-for-international-and-multilingual-seo/)
+- [@article@Domain Structure for International SEO - Yoast](https://yoast.com/domain-structures-for-international-and-multilingual-seo/)

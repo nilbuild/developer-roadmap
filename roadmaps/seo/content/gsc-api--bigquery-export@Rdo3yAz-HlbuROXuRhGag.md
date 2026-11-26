@@ -5,6 +5,6 @@ The Google Search Console API allows programmatic access to search performance d
 Visit the following resources to learn more:
 
 - [@official@Query your Google Search analytics data](https://developers.google.com/webmaster-tools/v1/how-tos/search_analytics)
-- [@official@Bulk data export: a new and powerful way to access your Search Console data](https://developers.google.com/search/blog/2023/02/bulk-data-export)
+- [@official@Search Console Bulk Data Export - Google](https://developers.google.com/search/blog/2023/02/bulk-data-export)
 - [@official@Start a new bulk data export](https://support.google.com/webmasters/answer/12917675)
-- [@official@BigQuery efficiency tips for Search Console bulk data exports](https://developers.google.com/search/blog/2023/06/bigquery-efficiency-tips)
+- [@official@BigQuery Efficiency Tips for Search Console](https://developers.google.com/search/blog/2023/06/bigquery-efficiency-tips)

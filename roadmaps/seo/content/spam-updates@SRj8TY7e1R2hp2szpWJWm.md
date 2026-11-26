@@ -4,5 +4,5 @@ A spam update is a change specifically targeting spam and manipulative practices
 
 Visit the following resources to learn more:
 
-- [@article@Google Finishes Rolling Out The August 2026 Spam Update](https://www.searchenginejournal.com/google-begins-rolling-out-the-august-2026-spam-update/586301/)
-- [@article@Google's spam update caused exceptional search disruption, with dramatic ranking losses across 20 industries, according to SE Ranking data.](http://searchengineland.com/google-august-2026-spam-update-done-rolling-out-485471)
+- [@article@Google Finishes August 2026 Spam Update](https://www.searchenginejournal.com/google-begins-rolling-out-the-august-2026-spam-update/586301/)
+- [@article@Google Spam Update Disruption - Search Engine Land](http://searchengineland.com/google-august-2026-spam-update-done-rolling-out-485471)

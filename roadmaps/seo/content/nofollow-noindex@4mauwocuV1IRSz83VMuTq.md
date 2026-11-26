@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@article@Noindex, Nofollow & Disallow](https://www.lumar.io/blog/best-practice/noindex-disallow-nofollow/)
 - [@article@SEO: noindex vs. nofollow](https://help.siteimprove.com/support/solutions/articles/80000448137-seo-noindex-vs-nofollow)
-- [@article@Noindex vs. Nofollow vs. Disallow: When to Use Each One](https://www.matthewedgar.net/noindex-vs-nofollow-vs-disallow/)
-- [@video@Tech SEO: What is the difference between Noindex, Nofollow, and Disallow?](https://www.youtube.com/watch?v=-iUEUaf2Bao)
+- [@article@Noindex vs. Nofollow vs. Disallow - Matthew Edgar](https://www.matthewedgar.net/noindex-vs-nofollow-vs-disallow/)
+- [@video@Noindex vs. Nofollow vs. Disallow - Elementive](https://www.youtube.com/watch?v=-iUEUaf2Bao)

@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Block Search Indexing with noindex](https://developers.google.com/search/docs/crawling-indexing/block-indexing)
 - [@article@Content Pruning: Why It Works, and How to Do It](https://ahrefs.com/blog/content-pruning/)
-- [@article@Content Pruning: A Step-by-Step Guide to Improving Your SEO](https://www.semrush.com/blog/content-pruning/)
+- [@article@Content Pruning Guide - Semrush](https://www.semrush.com/blog/content-pruning/)

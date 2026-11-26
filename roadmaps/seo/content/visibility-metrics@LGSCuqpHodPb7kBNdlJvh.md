@@ -4,4 +4,4 @@ Visibility metrics are the core numbers used to describe how visible a website i
 
 Visit the following resources to learn more:
 
-- [@official@Performance report (Search results): Overview and basic setup](https://support.google.com/webmasters/answer/7576553)
+- [@official@Search Console Performance Report - Google](https://support.google.com/webmasters/answer/7576553)

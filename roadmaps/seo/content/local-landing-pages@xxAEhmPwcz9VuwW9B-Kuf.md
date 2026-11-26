@@ -5,5 +5,5 @@ Local landing pages are dedicated pages for each location or service area a busi
 Visit the following resources to learn more:
 
 - [@official@Local business structured data](https://developers.google.com/search/docs/appearance/structured-data/local-business)
-- [@article@Local Landing Pages: How to Build Pages That Rank and Convert for Every Location](https://www.webtonic.io/blog/local-landing-pages)
+- [@article@Local Landing Pages That Rank and Convert](https://www.webtonic.io/blog/local-landing-pages)
 - [@article@Local Landing Pages: The Complete SEO Guide](https://www.flento.io/blog/location-pages-local-seo)

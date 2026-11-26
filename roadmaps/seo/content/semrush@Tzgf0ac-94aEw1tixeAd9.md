@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@course@Beginner SEO with Semrush](https://www.semrush.com/academy/courses/seo-essentials-with-semrush/)
 - [@course@Getting Started with Semrush](https://www.semrush.com/academy/courses/getting-started-with-semrush/)
-- [@article@Getting Started with Semrush: A Tutorial for Navigating the Essentials](https://www.semrush.com/blog/semrush-getting-started-guide/)
+- [@article@Getting Started with Semrush Tutorial](https://www.semrush.com/blog/semrush-getting-started-guide/)

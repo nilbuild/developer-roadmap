@@ -5,4 +5,4 @@ MCP, or Model Context Protocol, is a standard that lets AI systems connect to ex
 Visit the following resources to learn more:
 
 - [@official@What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/getting-started/intro)
-- [@article@The Future of AI: How to Make Your Website Agent-Ready with NLWeb and MCP](https://techcommunity.microsoft.com/blog/aiplatformblog/-/4434189)
+- [@article@Agent-Ready Websites with NLWeb and MCP](https://techcommunity.microsoft.com/blog/aiplatformblog/-/4434189)

@@ -4,6 +4,6 @@ Mobile friendliness is whether a website works properly on a phone screen, inclu
 
 Visit the following resources to learn more:
 
-- [@article@The Complete Guide to Mobile SEO: 9 Tips & Best Practices](https://www.semrush.com/blog/mobile-seo/)
+- [@article@Complete Guide to Mobile SEO - Semrush](https://www.semrush.com/blog/mobile-seo/)
 - [@article@How to Make Your Site Mobile Friendly for SEO](https://www.woorank.com/en/edu/seo-guides/mobile-friendliness)
 - [@video@SEO For Beginners - Mobile Friendliness](https://www.youtube.com/watch?v=p9Ny9nLRAnA)

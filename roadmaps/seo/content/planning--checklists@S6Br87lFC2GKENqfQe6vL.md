@@ -4,5 +4,5 @@ This is the preparation phase of a site migration, involving documenting the cur
 
 Visit the following resources to learn more:
 
-- [@article@The Complete Website Migration Checklist \[SEO-Friendly\]](https://www.semrush.com/blog/website-migration-checklist/)
-- [@article@A 6-step guide to building a website migration plan](https://webflow.com/blog/website-migration)
+- [@article@Website Migration Checklist - Semrush](https://www.semrush.com/blog/website-migration-checklist/)
+- [@article@Building a Website Migration Plan - Webflow](https://webflow.com/blog/website-migration)

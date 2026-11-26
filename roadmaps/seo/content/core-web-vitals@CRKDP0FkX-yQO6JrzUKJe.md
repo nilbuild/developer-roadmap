@@ -4,7 +4,7 @@ Core Web Vitals are a specific set of metrics Google uses to measure user experi
 
 Visit the following resources to learn more:
 
-- [@article@Understanding Core Web Vitals and Google search results](https://developers.google.com/search/docs/appearance/core-web-vitals)
-- [@article@Core Web Vitals: What They Are & How to Improve Them](https://www.semrush.com/blog/core-web-vitals/)
-- [@video@Google Core Web Vitals: A Complete Guide For Beginners](https://www.youtube.com/watch?v=4pI8nBt98ys)
-- [@video@What are Core Web Vitals? | Core Web Vitals explained in 7 minutes](https://www.youtube.com/watch?v=pTswmgVWSH8)
+- [@article@Core Web Vitals - Google](https://developers.google.com/search/docs/appearance/core-web-vitals)
+- [@article@Core Web Vitals and How to Improve Them - Semrush](https://www.semrush.com/blog/core-web-vitals/)
+- [@video@Google Core Web Vitals for Beginners - DebugBear](https://www.youtube.com/watch?v=4pI8nBt98ys)
+- [@video@Core Web Vitals Explained - Sematext](https://www.youtube.com/watch?v=pTswmgVWSH8)

@@ -4,6 +4,6 @@ Entity consistency is how uniformly a brand or person's identity appears across 
 
 Visit the following resources to learn more:
 
-- [@article@Google's Knowledge Graph Explained: How It Influences SEO & AI Search](https://ahrefs.com/blog/google-knowledge-graph/)
+- [@article@Google's Knowledge Graph Explained - Ahrefs](https://ahrefs.com/blog/google-knowledge-graph/)
 - [@article@What Are Entities & Why Do They Matter for SEO?](https://www.semrush.com/blog/entity-based-seo-strategy/)
-- [@video@Brand Entity SEO Explained for Business Owners (James Dooley Interviews Jason Barnard)](https://www.youtube.com/watch?v=mQ4ZhYJ14k0)
+- [@video@Brand Entity SEO with Jason Barnard](https://www.youtube.com/watch?v=mQ4ZhYJ14k0)

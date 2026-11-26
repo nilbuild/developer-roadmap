@@ -4,7 +4,7 @@ URL parameters are the extra pieces of a URL that follow a question mark, such a
 
 Visit the following resources to learn more:
 
-- [@article@What are URL parameters? A guide on how to use them](https://www.semrush.com/blog/url-parameters/)
+- [@article@URL Parameters - Semrush](https://www.semrush.com/blog/url-parameters/)
 - [@article@The Expert SEO Guide To URL Parameter Handling](https://www.searchenginejournal.com/technical-seo/url-parameter-handling/)
 - [@article@The Complete Guide to URL Parameters](https://seranking.com/blog/url-parameters/)
 - [@video@How to Handle URL Parameters for SEO](https://www.youtube.com/watch?v=wrsf8DYEgwM)

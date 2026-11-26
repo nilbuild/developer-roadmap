@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@What Are Entities & Why Do They Matter for SEO?](https://www.semrush.com/blog/entity-based-seo-strategy/)
 - [@article@What is Entity-Based SEO?](https://ahrefs.com/seo/glossary/entity-based-seo)
-- [@video@Entity SEO Explained (With Tactics You Can Actually Use)](https://www.youtube.com/watch?v=XBGhmgor_S4)
+- [@video@Entity SEO Explained - SE Ranking](https://www.youtube.com/watch?v=XBGhmgor_S4)

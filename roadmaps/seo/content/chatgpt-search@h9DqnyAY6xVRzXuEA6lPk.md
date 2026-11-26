@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Introducing ChatGPT search](https://openai.com/index/introducing-chatgpt-search/)
 - [@official@Searching the web with ChatGPT](https://help.openai.com/en/articles/9237897-chatgpt-search)
-- [@article@How to rank in ChatGPT search: 8 steps to improve visibility](https://www.semrush.com/blog/chatgpt-search/)
+- [@article@Ranking in ChatGPT Search - Semrush](https://www.semrush.com/blog/chatgpt-search/)

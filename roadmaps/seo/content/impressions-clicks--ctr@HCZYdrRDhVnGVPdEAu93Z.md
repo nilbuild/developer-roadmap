@@ -4,5 +4,5 @@ Impressions are how often a page appears in search results for a query, whether 
 
 Visit the following resources to learn more:
 
-- [@official@Performance report (Search results): Overview and basic setup](https://support.google.com/webmasters/answer/7576553)
+- [@official@Search Console Performance Report - Google](https://support.google.com/webmasters/answer/7576553)
 - [@article@How to Use Google Search Console to Improve SEO](https://ahrefs.com/blog/google-search-console/)
