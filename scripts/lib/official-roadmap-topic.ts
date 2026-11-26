@@ -42,7 +42,11 @@ export function escapeMarkdownLinkText(text: string) {
     .replace(/</g, '\\<')
     .replace(/>/g, '\\>')
     .replace(/\[/g, '\\[')
-    .replace(/\]/g, '\\]');
+    .replace(/\]/g, '\\]')
+    .replace(/`/g, '\\`')
+    .replace(/\*/g, '\\*')
+    .replace(/_/g, '\\_')
+    .replace(/~/g, '\\~');
 }
 
 export function formatOfficialRoadmapTopicResourceLink(
