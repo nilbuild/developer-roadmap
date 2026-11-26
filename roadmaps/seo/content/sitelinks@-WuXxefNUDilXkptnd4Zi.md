@@ -5,4 +5,5 @@ Sitelinks are additional links shown beneath a main search result, pointing to o
 Visit the following resources to learn more:
 
 - [@article@Sitelinks - Semrush](https://www.semrush.com/blog/sitelinks/)
+- [@video@How to Get Google Sitelinks - Clicks to Clients](https://www.youtube.com/watch?v=TYSkh30VFeU)
 - [@video@How to get sitelinks](https://yoast.com/video/ask-yoast-how-to-get-sitelinks/)
