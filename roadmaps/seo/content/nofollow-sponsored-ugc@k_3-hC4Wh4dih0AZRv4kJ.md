@@ -1,3 +1,8 @@
 # Nofollow, Sponsored, UGC
 
 The nofollow attribute tells search engines not to pass ranking credit through a link. The sponsored attribute specifically marks a link as paid or part of an advertising arrangement. The UGC, or user-generated content, attribute marks links found in content like comments or forum posts, which a site owner did not personally place or endorse.
+
+Visit the following resources to learn more:
+
+- [@official@Qualify Outbound Links for SEO](https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links)
+- [@official@Evolving "nofollow" – new ways to identify the nature of links](https://developers.google.com/search/blog/2019/09/evolving-nofollow-new-ways-to-identify)
