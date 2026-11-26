@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@article@Lexical Search vs. Vector Search](https://manticoresearch.com/blog/lexical-search-vs-vector-search/)
 - [@article@Vector Databases vs Lexical Models in AI Search](https://jumpcloud.com/it-index/vector-databases-vs-lexical-models-in-ai-search)
-- [@video@What Is Vector Search? Difference Between Vector & Semantic Search Explained](https://www.youtube.com/watch?v=BKbScJ2P2P0)
-- [@video@Lexical Search vs Semantic Search. What's the difference?](https://www.youtube.com/watch?v=yeSvB3EqbjU)
+- [@video@What Is Vector Search - Elastic](https://www.youtube.com/watch?v=BKbScJ2P2P0)
+- [@video@Lexical vs Semantic Search - Amazon OpenSearch](https://www.youtube.com/watch?v=yeSvB3EqbjU)

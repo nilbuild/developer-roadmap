@@ -4,6 +4,6 @@ Log file analysis is examining a website's raw server logs to see exactly how se
 
 Visit the following resources to learn more:
 
-- [@article@Log file analysis for SEO: Find crawl issues & fix them fast](https://searchengineland.com/guide/log-file-analysis)
+- [@article@Log File Analysis for SEO - Search Engine Land](https://searchengineland.com/guide/log-file-analysis)
 - [@article@Log File Analysis](https://www.crawlvision.com/glossary/log-file-analysis/)
 - [@video@Server Log Analysis | Find and Fix SEO Errors](https://www.youtube.com/watch?v=9YOo5zDOsP8)

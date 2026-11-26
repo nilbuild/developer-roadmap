@@ -4,6 +4,6 @@ Competitor benchmarking is the practice of comparing a website's search and AI v
 
 Visit the following resources to learn more:
 
-- [@article@How to Do an SEO Competitor Analysis [With Template]](https://ahrefs.com/blog/seo-competitor-analysis/)
-- [@article@SEO Benchmarking: What It Is & How to Track 10 Key Benchmarks](https://www.semrush.com/blog/benchmark-seo/)
-- [@article@How to Compare Your AI Visibility Against Your Competitors](https://ahrefs.com/blog/ai-search-competitor-analysis/)
+- [@article@SEO Competitor Analysis - Ahrefs](https://ahrefs.com/blog/seo-competitor-analysis/)
+- [@article@SEO Benchmarking - Semrush](https://www.semrush.com/blog/benchmark-seo/)
+- [@article@Comparing AI Visibility to Competitors - Ahrefs](https://ahrefs.com/blog/ai-search-competitor-analysis/)

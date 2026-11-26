@@ -4,6 +4,6 @@ Average position is where a page typically ranks for a given query. Share of sea
 
 Visit the following resources to learn more:
 
-- [@official@Performance report (Search results): Overview and basic setup](https://support.google.com/webmasters/answer/7576553)
-- [@article@Share of Search: How to Calculate, Use, And Improve It](https://ahrefs.com/blog/share-of-search/)
+- [@official@Search Console Performance Report - Google](https://support.google.com/webmasters/answer/7576553)
+- [@article@Share of Search - Ahrefs](https://ahrefs.com/blog/share-of-search/)
 - [@article@What Is Share of Search? & How to Calculate It](https://www.semrush.com/blog/share-of-search/)

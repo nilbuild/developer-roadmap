@@ -4,6 +4,6 @@ Content freshness is whether a piece of content still reads as current and up to
 
 Visit the following resources to learn more:
 
-- [@article@What Is Content Decay? (And How to Fix It Before It Tanks Your Traffic)](https://ahrefs.com/blog/content-decay/)
-- [@article@Fresh Content: Why Publish Dates Make or Break Rankings and AI Visibility](https://ahrefs.com/blog/fresh-content/)
+- [@article@What Is Content Decay? - Ahrefs](https://ahrefs.com/blog/content-decay/)
+- [@article@Fresh Content and Publish Dates - Ahrefs](https://ahrefs.com/blog/fresh-content/)
 - [@article@Keep your content fresh and up to date!](https://yoast.com/keep-your-content-fresh-and-up-to-date/)

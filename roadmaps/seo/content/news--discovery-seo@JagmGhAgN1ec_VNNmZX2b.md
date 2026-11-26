@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Get on Google Discover](https://developers.google.com/search/docs/appearance/google-discover)
 - [@article@News SEO basics guide for publishers](https://newsdashboard.com/en/resources/news-seo-basics/)
-- [@article@How to Rank a News Website in Google: 9 Proven Strategies for 2026](https://newsensepvtltd.com/how-to-rank-a-news-website-in-google-strategies/)
-- [@video@Unlock Google Discover for Unlimited Traffic in 2026 🚀](https://www.youtube.com/watch?v=6aJrlNNFrxI)
+- [@article@How to Rank a News Website in Google](https://newsensepvtltd.com/how-to-rank-a-news-website-in-google-strategies/)
+- [@video@Unlock Google Discover - NERD UP](https://www.youtube.com/watch?v=6aJrlNNFrxI)

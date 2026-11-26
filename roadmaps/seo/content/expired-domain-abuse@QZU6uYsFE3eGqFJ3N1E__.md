@@ -4,5 +4,5 @@ Expired domain abuse is buying a domain that previously had an established reput
 
 Visit the following resources to learn more:
 
-- [@article@Expired Domains: What Still Works, What's Spam, and How to Rebuild Safely](https://www.dynadot.com/blog/expired-domains-google-spam-update)
-- [@video@How I Find Expired Domains with Backlink Goldmines (and When They’re Worth It)](https://www.youtube.com/watch?v=mHkLfhpVYqc)
+- [@article@Expired Domains: What Still Works - Dynadot](https://www.dynadot.com/blog/expired-domains-google-spam-update)
+- [@video@Finding Expired Domains with Backlinks - Frey Chu](https://www.youtube.com/watch?v=mHkLfhpVYqc)

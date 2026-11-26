@@ -4,6 +4,6 @@ A link scheme is any pattern of link building designed to manipulate rankings ra
 
 Visit the following resources to learn more:
 
-- [@article@What Is a Link Scheme in SEO? How Google Detects It](https://www.backlink-tool.org/en/what-is-a-link-scheme-in-seo/)
+- [@article@What Is a Link Scheme in SEO? - Backlink Tool](https://www.backlink-tool.org/en/what-is-a-link-scheme-in-seo/)
 - [@article@Link spam](https://www.linkbuilding.wiki/wiki/link-spam/)
 - [@video@Combating Link Spam - Intro to Computer Science](https://www.youtube.com/watch?v=hP-UDkuUL0o)

@@ -5,4 +5,4 @@ Review velocity is how steadily new customer reviews come in over time, not just
 Visit the following resources to learn more:
 
 - [@official@Tips to get more reviews](https://support.google.com/business/answer/3474122)
-- [@article@Google Reviews Study: How Many Reviews Do Businesses Need?](https://www.brightlocal.com/learn/google-reviews/)
+- [@article@Google Reviews Study - BrightLocal](https://www.brightlocal.com/learn/google-reviews/)

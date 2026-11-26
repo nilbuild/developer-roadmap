@@ -4,7 +4,7 @@ Robots.txt is a text file placed at the root of a website that tells crawlers wh
 
 Visit the following resources to learn more:
 
-- [@article@What Is A Robots.txt File? A Guide to Best Practices and Syntax](https://moz.com/learn/seo/robotstxt)
+- [@article@What Is a Robots.txt File - Moz](https://moz.com/learn/seo/robotstxt)
 - [@article@Introduction to robots.txt](https://developers.google.com/search/docs/crawling-indexing/robots/intro)
 - [@video@How Robots.txt Works](https://www.youtube.com/watch?v=IXNEVt9rZG8&t=17s)
 - [@video@SEO Tutorial - The role of robots.txt files](https://www.youtube.com/watch?v=AyPAfzcVn2c)

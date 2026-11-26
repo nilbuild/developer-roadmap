@@ -5,4 +5,4 @@ Algorithm updates are changes search engines make to how they evaluate and rank 
 Visit the following resources to learn more:
 
 - [@article@What Are Algorithm Updates in SEO?](https://atiquequreshi.com/blog/what-are-algorithm-updates-in-seo)
-- [@video@How to Recover From Any Google Algorithm Update (And Protect Your Site From Future Updates)](https://www.youtube.com/watch?v=DuEf4Wma-Yg)
+- [@video@Recover From Any Google Algorithm Update](https://www.youtube.com/watch?v=DuEf4Wma-Yg)

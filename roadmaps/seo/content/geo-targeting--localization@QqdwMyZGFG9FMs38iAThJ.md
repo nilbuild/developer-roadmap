@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Localized versions of your pages](https://developers.google.com/search/docs/specialty/international/localized-versions)
 - [@official@Managing multi-regional and multilingual sites](https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites)
-- [@article@Geo-Targeting SEO: A Game-Changer for Local Businesses](https://www.semrush.com/blog/geo-targeting-seo/)
+- [@article@Geo-Targeting SEO - Semrush](https://www.semrush.com/blog/geo-targeting-seo/)
 - [@article@Simple guide to SEO localization](https://lokalise.com/blog/seo-localization/)

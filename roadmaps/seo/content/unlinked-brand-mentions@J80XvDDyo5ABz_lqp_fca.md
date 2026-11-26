@@ -4,5 +4,5 @@ An unlinked brand mention is when a brand name is referenced somewhere online wi
 
 Visit the following resources to learn more:
 
-- [@article@A Simple Guide to Turning (Unlinked) Brand Mentions into Links](https://ahrefs.com/blog/unlinked-mentions/)
-- [@article@How to Find Unlinked Mentions and Turn Them Into Backlinks](https://www.semrush.com/blog/unlinked-mentions/)
+- [@article@Unlinked Brand Mentions Into Links - Ahrefs](https://ahrefs.com/blog/unlinked-mentions/)
+- [@article@Find Unlinked Mentions and Get Backlinks - Semrush](https://www.semrush.com/blog/unlinked-mentions/)

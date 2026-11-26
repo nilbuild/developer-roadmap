@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Manual actions report](https://support.google.com/webmasters/answer/9044175?hl=en)
 - [@article@What is Manual Action?](https://www.clickrank.ai/seo-glossary/m/what-is-manual-action/)
-- [@video@Manual Actions report in Search Console - Google Search Console Training](https://www.youtube.com/watch?v=-AR-pU_1SuI&t=139s)
+- [@video@Manual Actions Report - Google Search Central](https://www.youtube.com/watch?v=-AR-pU_1SuI&t=139s)

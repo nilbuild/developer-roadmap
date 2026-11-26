@@ -4,4 +4,4 @@ A knowledge graph is a database that stores entities and the relationships betwe
 
 Visit the following resources to learn more:
 
-- [@article@Google's Knowledge Graph Explained: How It Influences SEO & AI Search](https://ahrefs.com/blog/google-knowledge-graph/)
+- [@article@Google's Knowledge Graph Explained - Ahrefs](https://ahrefs.com/blog/google-knowledge-graph/)

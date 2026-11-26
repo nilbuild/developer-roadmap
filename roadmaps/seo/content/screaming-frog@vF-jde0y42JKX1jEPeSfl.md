@@ -5,4 +5,4 @@ Screaming Frog is a desktop crawler tool that simulates how a search engine bot 
 Visit the following resources to learn more:
 
 - [@official@Getting Started Guide](https://www.screamingfrog.co.uk/seo-spider/tutorials/quick-start-guide/)
-- [@video@Screaming Frog SEO Spider Tutorial - How To Do An SEO Audit](https://www.youtube.com/watch?v=jTPNZFj7s4M)
+- [@video@Screaming Frog SEO Spider Tutorial: SEO Audit](https://www.youtube.com/watch?v=jTPNZFj7s4M)

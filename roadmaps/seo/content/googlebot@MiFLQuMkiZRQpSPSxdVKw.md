@@ -5,6 +5,6 @@ Googlebot is the web crawler Google uses to discover and read pages across the i
 Visit the following resources to learn more:
 
 - [@official@Googlebot](https://developers.google.com/search/docs/crawling-indexing/googlebot)
-- [@article@Googlebot: What it is, how it works & how to optimize](https://searchengineland.com/guide/what-is-googlebot)
+- [@article@Googlebot - Search Engine Land](https://searchengineland.com/guide/what-is-googlebot)
 - [@video@How Google Search crawls pages](https://www.youtube.com/watch?v=JuK7NnfyEuc&t=129s)
 - [@video@How Googlebot Crawls the Web](https://www.youtube.com/watch?v=iGguggoNZ1E)

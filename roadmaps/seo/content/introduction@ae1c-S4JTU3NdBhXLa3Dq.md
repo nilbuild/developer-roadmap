@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@SEO Starter Guide - Google](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
 - [@article@What Is SEO and Why is it Important?](https://digitalmarketinginstitute.com/blog/what-is-seo-and-why-is-it-important)
-- [@video@The Complete SEO & AI SEO Course for 2026 (Full Beginner’s Guide)](https://www.youtube.com/watch?v=7DRO4rEIHDk)
+- [@video@The Complete SEO & AI SEO Course - Surfer Academy](https://www.youtube.com/watch?v=7DRO4rEIHDk)

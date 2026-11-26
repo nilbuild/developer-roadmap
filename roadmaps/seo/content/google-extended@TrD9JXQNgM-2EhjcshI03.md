@@ -4,6 +4,6 @@ Google-Extended is a specific crawler control that lets a website choose whether
 
 Visit the following resources to learn more:
 
-- [@official@Overview of Google crawlers and fetchers (user agents)](https://developers.google.com/crawling/docs/crawlers-fetchers/overview-google-crawlers)
+- [@official@Google Crawlers and Fetchers Overview - Google](https://developers.google.com/crawling/docs/crawlers-fetchers/overview-google-crawlers)
 - [@article@What is Google-Extended?](https://datadome.co/bots/google-extended/)
-- [@article@Google-Extended: What It Does and Should You Block It?](https://www.amicited.com/blog/google-extended-what-it-does-should-you-block-it/)
+- [@article@Google-Extended - Amicited](https://www.amicited.com/blog/google-extended-what-it-does-should-you-block-it/)

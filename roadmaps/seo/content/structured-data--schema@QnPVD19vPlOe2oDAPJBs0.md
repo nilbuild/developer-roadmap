@@ -7,4 +7,4 @@ Visit the following resources to learn more:
 - [@official@Intro to How Structured Data Markup Works](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)
 - [@official@Structured Data Markup that Google Search Supports](https://developers.google.com/search/docs/appearance/structured-data/search-gallery)
 - [@article@What is Structured Data?](https://ahrefs.com/seo/glossary/structured-data)
-- [@video@How to Use Schema Markup for Your SEO Strategy | How Structured Data Works](https://www.youtube.com/watch?v=1z4X2TTy7e0)
+- [@video@How to Use Schema Markup for SEO - WebFX](https://www.youtube.com/watch?v=1z4X2TTy7e0)

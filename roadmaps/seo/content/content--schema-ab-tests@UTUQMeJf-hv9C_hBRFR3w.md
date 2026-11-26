@@ -5,4 +5,4 @@ This is testing two versions of a page's content or structured data against each
 Visit the following resources to learn more:
 
 - [@article@SEO Testing: A Simple (But Complete) Guide](https://ahrefs.com/blog/seo-testing/)
-- [@article@What is SEO A/B testing? How to set up, design and run SEO split tests](https://www.searchpilot.com/resources/blog/what-is-seo-split-testing)
+- [@article@What Is SEO A/B Testing? - Searchpilot](https://www.searchpilot.com/resources/blog/what-is-seo-split-testing)

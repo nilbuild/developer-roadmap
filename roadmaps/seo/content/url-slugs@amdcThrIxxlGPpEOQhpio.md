@@ -4,6 +4,6 @@ A URL slug is the specific, readable part of a URL that identifies a particular 
 
 Visit the following resources to learn more:
 
-- [@article@What Is a Slug? URL Slugs and Why They Matter for SEO](https://www.semrush.com/blog/what-is-a-url-slug/)
+- [@article@What Is a URL Slug - Semrush](https://www.semrush.com/blog/what-is-a-url-slug/)
 - [@article@What is a URL slug and how does it affect SEO?](https://mangools.com/blog/seo-slug/)
-- [@video@The Perfect URL Structure for SEO! Best Practices For Improved Ranking](https://www.youtube.com/watch?v=GIZKm91Dkqo)
+- [@video@The Perfect URL Structure for SEO - FatJoe](https://www.youtube.com/watch?v=GIZKm91Dkqo)

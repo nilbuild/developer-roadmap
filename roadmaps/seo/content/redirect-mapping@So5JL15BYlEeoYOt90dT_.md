@@ -4,6 +4,6 @@ Redirect mapping is the process of creating a complete list matching every old U
 
 Visit the following resources to learn more:
 
-- [@article@Complete redirect mapping guide for website migrations](https://www.urllo.com/resources/learn/redirect-mapping-guide-migrations)
-- [@article@Manage redirects during a website migration: What works](https://www.siteimprove.com/blog/manage-redirects-during-website-migration/)
-- [@video@301 Redirects: The Ultimate Guide To Website Migration (SEO)](https://www.youtube.com/watch?v=_PJ1hrpoy7g)
+- [@article@Redirect Mapping Guide for Migrations - URLlo](https://www.urllo.com/resources/learn/redirect-mapping-guide-migrations)
+- [@article@Redirects in a Website Migration - Siteimprove](https://www.siteimprove.com/blog/manage-redirects-during-website-migration/)
+- [@video@301 Redirects and Website Migration](https://www.youtube.com/watch?v=_PJ1hrpoy7g)

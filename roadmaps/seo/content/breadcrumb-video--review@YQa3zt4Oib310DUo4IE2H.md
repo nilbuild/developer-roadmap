@@ -5,5 +5,5 @@ Breadcrumb schema marks up the navigational path shown above a page's title, suc
 Visit the following resources to learn more:
 
 - [@official@How To Add Breadcrumb (BreadcrumbList) Markup](https://developers.google.com/search/docs/appearance/structured-data/breadcrumb)
-- [@official@Video (VideoObject, Clip, BroadcastEvent) Schema Markup](https://developers.google.com/search/docs/appearance/structured-data/video)
-- [@official@Review Snippet (Review, AggregateRating) Structured Data](https://developers.google.com/search/docs/appearance/structured-data/review-snippet)
+- [@official@VideoObject, Clip, BroadcastEvent Schema - Google](https://developers.google.com/search/docs/appearance/structured-data/video)
+- [@official@Review Snippet Structured Data - Google](https://developers.google.com/search/docs/appearance/structured-data/review-snippet)

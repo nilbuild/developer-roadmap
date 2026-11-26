@@ -4,4 +4,4 @@ This tracks whether an AI system correctly associates a brand with the right top
 
 Visit the following resources to learn more:
 
-- [@article@AI Sentiment Analysis for Brands: How to Track and Improve What AI Says About You](https://ahrefs.com/blog/ai-sentiment-analysis/)
+- [@article@AI Sentiment Analysis for Brands - Ahrefs](https://ahrefs.com/blog/ai-sentiment-analysis/)

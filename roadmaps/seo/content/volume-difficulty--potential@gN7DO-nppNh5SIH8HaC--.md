@@ -5,5 +5,5 @@ Search volume is an estimate of how many times a keyword is searched over a give
 Visit the following resources to learn more:
 
 - [@article@Keywords 101: Difficulty, Volume, and Segmentation](https://daedtech.com/keywords-101-difficulty-volume-and-segmentation/)
-- [@article@At a Glance: Keyword Volume vs. Keyword Difficulty vs. Search Intent](https://keyword.com/blog/keyword-volume-vs-difficulty-vs-search-intent/)
-- [@article@The Fundamentals of SEO-Keyword Volume and Difficulty](https://mobiteam.de/en/the-fundamentals-of-seo-keyword-volume-and-difficulty/)
+- [@article@Keyword Volume vs Difficulty vs Intent](https://keyword.com/blog/keyword-volume-vs-difficulty-vs-search-intent/)
+- [@article@SEO Keyword Volume and Difficulty - Mobiteam](https://mobiteam.de/en/the-fundamentals-of-seo-keyword-volume-and-difficulty/)

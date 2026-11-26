@@ -5,4 +5,4 @@ The SameAs property in schema markup links a page's entity to that same entity's
 Visit the following resources to learn more:
 
 - [@official@Organization Schema Markup](https://developers.google.com/search/docs/appearance/structured-data/organization)
-- [@article@Google's Knowledge Graph Explained: How It Influences SEO & AI Search](https://ahrefs.com/blog/google-knowledge-graph/)
+- [@article@Google's Knowledge Graph Explained - Ahrefs](https://ahrefs.com/blog/google-knowledge-graph/)

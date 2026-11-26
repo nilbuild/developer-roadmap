@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Claude Code Roadmap](https://roadmap.sh/claude-code)
 - [@article@What is ClaudeBot?](https://datadome.co/bots/claudebot/)
-- [@article@What is ClaudeBot? (The Web Crawler Behind Claude AI)](https://www.pepper.inc/blog/claudebot/)
+- [@article@What Is ClaudeBot? - Pepper](https://www.pepper.inc/blog/claudebot/)

@@ -5,4 +5,4 @@ This means running the same set of AI prompts before and after making a change t
 Visit the following resources to learn more:
 
 - [@article@Is GEO Working? How to Get Beyond Prompt Tracking](https://www.searchpilot.com/resources/blog/is-geo-working-how-to-get-beyond-prompt-tracking)
-- [@article@Prompt tracking methodology to measure AI visibility](https://www.semrush.com/blog/ai-prompt-tracking-methodology/)
+- [@article@AI Prompt Tracking Methodology - Semrush](https://www.semrush.com/blog/ai-prompt-tracking-methodology/)

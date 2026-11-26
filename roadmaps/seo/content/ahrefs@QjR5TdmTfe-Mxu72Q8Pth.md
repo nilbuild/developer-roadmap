@@ -5,5 +5,5 @@ Ahrefs is an SEO platform widely used for backlink analysis, keyword research, a
 Visit the following resources to learn more:
 
 - [@course@How to Use Ahrefs](https://ahrefs.com/academy/how-to-use-ahrefs)
-- [@official@The Official Ahrefs Tutorial: How to Use Ahrefs to Improve SEO](https://ahrefs.com/blog/ahrefs-tutorial/)
+- [@official@The Official Ahrefs Tutorial - Ahrefs](https://ahrefs.com/blog/ahrefs-tutorial/)
 - [@video@SEO Course for Beginners (by Ahrefs)](https://www.youtube.com/playlist?list=PLvJ_dXFSpd2vk6rQ4Rta5MhDIRmakFbp6)

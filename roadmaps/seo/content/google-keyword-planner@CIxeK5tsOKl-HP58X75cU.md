@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Google Keyword Planner](https://business.google.com/en-all/ad-tools/keyword-planner/)
 - [@article@How to Use Google Keyword Planner](https://www.coursera.org/articles/google-keyword-planner)
-- [@video@How to Use Google Keyword Planner for SEO (It's FREE!)](https://www.youtube.com/watch?v=iTMZ3ldUOiA)
-- [@video@How to Use Google Keyword Planner (How the Top 1% Find Profitable Keywords)](https://www.youtube.com/watch?v=uddjACabpl0)
+- [@video@Google Keyword Planner for SEO - BKA Content](https://www.youtube.com/watch?v=iTMZ3ldUOiA)
+- [@video@Using Google Keyword Planner](https://www.youtube.com/watch?v=uddjACabpl0)

@@ -5,4 +5,4 @@ A knowledge panel is a box that appears in search results, usually on the right 
 Visit the following resources to learn more:
 
 - [@official@Organization Schema Markup](https://developers.google.com/search/docs/appearance/structured-data/organization)
-- [@article@Google Knowledge Panel: What Is It & How to Get One](https://www.semrush.com/blog/google-knowledge-panel)
+- [@article@Google Knowledge Panel - Semrush](https://www.semrush.com/blog/google-knowledge-panel)

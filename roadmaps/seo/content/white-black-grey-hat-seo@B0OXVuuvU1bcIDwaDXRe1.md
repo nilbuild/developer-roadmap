@@ -4,6 +4,6 @@ White hat SEO follows search engine guidelines and focuses on genuinely improvin
 
 Visit the following resources to learn more:
 
-- [@article@White Hat vs. Black Hat vs. Gray Hat SEO Techniques : Explained](https://www.iconnectdm.com/blog/white-hat-vs-black-hat-vs-gray-hat-seo/)
+- [@article@White Hat vs. Black Hat vs. Gray Hat SEO](https://www.iconnectdm.com/blog/white-hat-vs-black-hat-vs-gray-hat-seo/)
 - [@article@What is white hat SEO?](https://taismo.de/en/what-is/white-hat-seo/)
-- [@video@White Hat, Grey Hat and Black Hat SEO - SEO Beginner's Guide \[Part 7\]](https://www.youtube.com/watch?v=Leh7AWFlRfc)
+- [@video@White Hat, Grey Hat and Black Hat SEO](https://www.youtube.com/watch?v=Leh7AWFlRfc)

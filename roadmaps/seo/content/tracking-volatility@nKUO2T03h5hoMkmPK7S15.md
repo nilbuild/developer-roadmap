@@ -4,5 +4,5 @@ Tracking volatility means monitoring sudden, unexplained shifts in search rankin
 
 Visit the following resources to learn more:
 
-- [@article@SERP Volatility: How to Detect, Measure, and Respond to Ranking Swings](https://nightwatch.io/blog/serp-volatility-tracking/)
+- [@article@SERP Volatility: Detect, Measure, Respond](https://nightwatch.io/blog/serp-volatility-tracking/)
 - [@video@Semrush Sensor - Checking SERP Volatility](https://www.youtube.com/watch?v=z4v9oqgi3Pg)

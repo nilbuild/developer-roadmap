@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Dense Retrieval - Cohere](https://cohere.com/llmu/dense-retrieval)
 - [@article@Dense Retrieval](https://www.maximem.ai/glossary/dense-retrieval)
-- [@video@Top 3 RAG Retrieval Strategies: Sparse, Dense, & Hybrid Explained](https://www.youtube.com/watch?v=r0Dciuq0knU)
+- [@video@Top 3 RAG Retrieval Strategies Explained](https://www.youtube.com/watch?v=r0Dciuq0knU)

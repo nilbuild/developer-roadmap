@@ -4,5 +4,5 @@ Citation Flow is a metric from Majestic that estimates the raw link popularity o
 
 Visit the following resources to learn more:
 
-- [@official@Trust Flow and Citation Flow will change the way you look at links](https://blog.majestic.com/development/flow-metrics/)
+- [@official@Trust Flow and Citation Flow - Majestic](https://blog.majestic.com/development/flow-metrics/)
 - [@official@Flow Metric Scores](https://majestic.com/flow-metric-scores)

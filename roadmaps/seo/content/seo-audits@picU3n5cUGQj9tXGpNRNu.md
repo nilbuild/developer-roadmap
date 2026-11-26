@@ -4,6 +4,6 @@ An SEO audit is a structured review of a website's technical health, content qua
 
 Visit the following resources to learn more:
 
-- [@article@How to Do an SEO Audit in 13 Easy Steps (With Checklist)](https://ahrefs.com/blog/seo-audit/)
+- [@article@How to Do an SEO Audit in 13 Steps - Ahrefs](https://ahrefs.com/blog/seo-audit/)
 - [@article@How to perform an SEO audit (with checklist)](https://yoast.com/seo-audit/)
 - [@video@How to Do an SEO Audit (in 20 Minutes or Less)](https://www.youtube.com/watch?v=vdFm0J-tizI)

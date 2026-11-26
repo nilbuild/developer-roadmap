@@ -4,7 +4,7 @@ Keyword research is the process of finding the actual words and phrases people u
 
 Visit the following resources to learn more:
 
-- [@article@How to Do Keyword Research for SEO (Start to Finish)](https://ahrefs.com/seo/keyword-research)
-- [@article@Keyword Research for SEO in 2026: Step-by-Step Tutorial](https://www.youtube.com/watch?v=VPDe8XL7Mh8)
-- [@article@Primary Keywords: The Most Critical Part of Your SEO Strategy?](https://www.semrush.com/blog/primary-keywords/)
+- [@article@Keyword Research for SEO - Ahrefs](https://ahrefs.com/seo/keyword-research)
+- [@article@Keyword Research for SEO Tutorial - Metics Media](https://www.youtube.com/watch?v=VPDe8XL7Mh8)
+- [@article@Primary Keywords in SEO Strategy - Semrush](https://www.semrush.com/blog/primary-keywords/)
 - [@video@Keyword Research Tutorial for Google and AI SEO](https://www.youtube.com/watch?v=KjK5-L-wDVg)

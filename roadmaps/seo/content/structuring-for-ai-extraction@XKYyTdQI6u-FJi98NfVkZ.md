@@ -5,4 +5,4 @@ This is the practice of formatting content so an AI system can easily pull out a
 Visit the following resources to learn more:
 
 - [@article@Content Chunking: What Is It & Should You Care?](https://www.semrush.com/blog/content-chunking/)
-- [@article@How to Optimize Content for AI Search Engines [2026 Guide]](https://www.semrush.com/blog/how-to-optimize-content-for-ai-search-engines/)
+- [@article@Optimizing Content for AI Search - Semrush](https://www.semrush.com/blog/how-to-optimize-content-for-ai-search-engines/)

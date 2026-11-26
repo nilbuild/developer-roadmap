@@ -4,4 +4,4 @@ Domain Authority is a score developed by Moz that estimates how likely an entire
 
 Visit the following resources to learn more:
 
-- [@official@Domain Authority: What is it and how is it calculated](https://moz.com/learn/seo/domain-authority)
+- [@official@Domain Authority Explained - Moz](https://moz.com/learn/seo/domain-authority)

@@ -4,7 +4,7 @@ Training data is the information an AI model learned from during its initial tra
 
 Visit the following resources to learn more:
 
-- [@article@Training vs. Grounding in LLMs: Understanding Two Fundamental Approaches to AI Knowledge](https://sweepr.com/training-vs-grounding-in-llms-understanding-two-fundamental-approaches-to-ai-knowledge/)
-- [@article@Training Data vs Live Search: How AI Systems Access Information](https://www.amicited.com/faq/what-is-difference-training-data-live-search/)
-- [@video@What’s the difference between live web retrieval and training data?](https://www.youtube.com/watch?v=t8xm-ZIx-UU)
-- [@video@Ground Truth: The Foundation of Accurate AI & Machine Learning Models](https://www.youtube.com/watch?v=ya92bJbl0jc)
+- [@article@Training vs. Grounding in LLMs - Sweepr](https://sweepr.com/training-vs-grounding-in-llms-understanding-two-fundamental-approaches-to-ai-knowledge/)
+- [@article@Training Data vs Live Search - Amicited](https://www.amicited.com/faq/what-is-difference-training-data-live-search/)
+- [@video@Live Web Retrieval vs Training Data - Geeky Tech](https://www.youtube.com/watch?v=t8xm-ZIx-UU)
+- [@video@Ground Truth in AI & Machine Learning - IBM](https://www.youtube.com/watch?v=ya92bJbl0jc)

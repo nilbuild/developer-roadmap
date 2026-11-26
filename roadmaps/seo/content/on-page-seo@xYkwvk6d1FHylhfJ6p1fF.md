@@ -7,4 +7,4 @@ Visit the following resources to learn more:
 - [@article@What Is On-Page SEO? And How to Do It](https://www.semrush.com/blog/on-page-seo/)
 - [@article@What Is On-Page SEO? How To Optimize A Page](https://moz.com/learn/seo/on-site-seo)
 - [@video@What is On-Page SEO - 2.1. SEO Course by Ahrefs](https://www.youtube.com/watch?v=lu9-GvQGZAE)
-- [@video@What Is On-Page SEO? Everything You Need to Know In 2025](https://www.youtube.com/watch?v=psjpUs8d7vw)
+- [@video@What Is On-Page SEO? - Semrush](https://www.youtube.com/watch?v=psjpUs8d7vw)

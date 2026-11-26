@@ -4,6 +4,6 @@ A title tag is the HTML element that defines the clickable headline shown in sea
 
 Visit the following resources to learn more:
 
-- [@article@What Is a Title Tag? How to Optimize Your SEO Titles](https://www.semrush.com/blog/title-tag/)
-- [@article@SEO title tags: What they are and how to write great ones](https://webflow.com/blog/seo-title-tags)
+- [@article@Title Tags - Semrush](https://www.semrush.com/blog/title-tag/)
+- [@article@SEO Title Tags and How to Write Them - Webflow](https://webflow.com/blog/seo-title-tags)
 - [@video@17 Secrets of SEO Title Tags](https://www.youtube.com/watch?v=B76c7fAOWp8)

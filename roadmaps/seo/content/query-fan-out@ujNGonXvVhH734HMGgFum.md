@@ -5,6 +5,6 @@ Query fan-out is when an AI system breaks a single user question into several sm
 Visit the following resources to learn more:
 
 - [@article@What is Query Fan-Out?](https://ahrefs.com/blog/query-fan-out/)
-- [@article@What is query fan-out? How to find & optimize for subqueries](https://www.semrush.com/blog/query-fan-out/)
+- [@article@What Is Query Fan-Out - Semrush](https://www.semrush.com/blog/query-fan-out/)
 - [@video@The Query-Fan Out AI SEO System is INSANE](https://www.youtube.com/watch?v=rszIeAbuZHA)
-- [@video@How to Use Query Fan-Out To Rank Content FAST in AI Search](https://www.youtube.com/watch?v=dNt-24ETcT4)
+- [@video@Query Fan-Out for AI Search - BKA Content](https://www.youtube.com/watch?v=dNt-24ETcT4)

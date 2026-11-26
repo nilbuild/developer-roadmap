@@ -5,5 +5,5 @@ Copilot is Microsoft's AI assistant, integrated into Bing search and other Micro
 Visit the following resources to learn more:
 
 - [@official@AI Features and Your Website](https://developers.google.com/search/docs/appearance/ai-features)
-- [@official@Google's Guide to Optimizing for Generative AI Features on Google Search](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide)
-- [@official@Introducing AI Performance in Bing Webmaster Tools Public Preview](https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview)
+- [@official@Optimizing for Generative AI Features - Google](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide)
+- [@official@AI Performance in Bing Webmaster Tools - Bing](https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview)

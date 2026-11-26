@@ -5,6 +5,6 @@ A site migration is any major change to a website's structure, domain, or platfo
 Visit the following resources to learn more:
 
 - [@article@How to move a site](https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes)
-- [@article@The Complete Website Migration Checklist \[SEO-Friendly\]](https://www.semrush.com/blog/website-migration-checklist/)
-- [@article@The Complete Beginner’s Guide To SEO Website Migrations](https://www.directom.com/seo-website-migration-beginners-guide/)
+- [@article@Website Migration Checklist - Semrush](https://www.semrush.com/blog/website-migration-checklist/)
+- [@article@Beginner's Guide to SEO Website Migrations](https://www.directom.com/seo-website-migration-beginners-guide/)
 - [@video@Site Migrations: SEO Mythbusting](https://www.youtube.com/watch?v=bGPB-rtxt-I)

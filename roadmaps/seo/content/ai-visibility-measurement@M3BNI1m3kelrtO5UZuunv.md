@@ -5,5 +5,5 @@ AI visibility measurement is the set of metrics used to track how visible a bran
 Visit the following resources to learn more:
 
 - [@official@AI Visibility Metrics](https://www.semrush.com/kb/1594-ai-seo-metrics)
-- [@article@The Complete AI Visibility Guide for SEOs, Marketers, and Site Owners](https://ahrefs.com/blog/ai-visibility/)
-- [@article@How to measure AI search visibility: KPIs & reporting](https://www.semrush.com/blog/measure-ai-visibility/)
+- [@article@The AI Visibility Guide - Ahrefs](https://ahrefs.com/blog/ai-visibility/)
+- [@article@Measuring AI Search Visibility - Semrush](https://www.semrush.com/blog/measure-ai-visibility/)

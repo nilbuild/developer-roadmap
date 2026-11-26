@@ -4,4 +4,4 @@ Query coverage is how many relevant search queries a site actually appears for, 
 
 Visit the following resources to learn more:
 
-- [@article@Topical Authority: What It Is, How Google Measures It, and How to Build It](https://ahrefs.com/blog/topical-authority/)
+- [@article@Topical Authority Explained - Ahrefs](https://ahrefs.com/blog/topical-authority/)
