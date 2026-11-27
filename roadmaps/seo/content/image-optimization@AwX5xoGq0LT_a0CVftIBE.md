@@ -1,6 +1,6 @@
 # Image Optimisation
 
-Image optimisation is the practice of preparing images so they load quickly and remain accessible and understandable to both users and search engines, covering how images are described, named, compressed, and formatted.
+Image optimization is the work of preparing images so they load fast and are easy to understand for users and search engines. It includes writing clear alt text, using descriptive file names, compressing files, and choosing the right format, such as WebP or JPEG. Smaller, well-described images improve page speed and accessibility, and they can appear in image search results.
 
 Visit the following resources to learn more:
 

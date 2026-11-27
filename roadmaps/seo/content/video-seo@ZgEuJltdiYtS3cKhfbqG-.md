@@ -1,6 +1,6 @@
 # Video SEO
 
-Video SEO is the practice of optimizing video content and its surrounding metadata so it can be found through search, both on platforms like YouTube and within traditional search engine results.
+Video SEO is the process of preparing video content so search engines can find, understand, and show it. It uses titles, descriptions, thumbnails, captions, transcripts, and structured data to describe what the video contains. A video sitemap helps Google discover videos hosted on a website. The goal is to get views from video platforms like YouTube and from video results in regular web search.
 
 Visit the following resources to learn more:
 

@@ -5,3 +5,5 @@ Multi-location SEO covers strategies specific to businesses with more than one p
 Visit the following resources to learn more:
 
 - [@article@Master Local SEO for Multi-location Businesses](https://www.brightlocal.com/learn/local-seo/multi-location-seo/)
+- [@article@Multi-Location SEO Strategy - Search Engine Land](https://searchengineland.com/multi-location-seo-one-strategy-every-location-502611)
+- [@video@Local SEO Masterclass with Greg Gifford](https://www.youtube.com/watch?v=u0-p90Ys5AY)

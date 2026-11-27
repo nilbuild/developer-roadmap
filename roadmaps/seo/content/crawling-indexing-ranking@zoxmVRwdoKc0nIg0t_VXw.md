@@ -5,4 +5,5 @@ Search engines function by using automated programs called spiders or crawlers t
 Visit the following resources to learn more:
 
 - [@article@Website Crawling, Indexing, and Ranking Explained](https://dogwd.com/website-crawling-indexing-and-ranking/)
+- [@article@How Google Search Works - Google](https://developers.google.com/search/docs/fundamentals/how-search-works)
 - [@video@SEO Basics: Crawling, Indexing, and Ranking](https://www.youtube.com/watch?v=K5qOuoj_dwA)

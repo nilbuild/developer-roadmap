@@ -1,6 +1,6 @@
 # Google Analytics
 
-Google Analytics is a free web analytics platform that tracks website traffic, including where visitors come from, which pages they view, and whether they complete meaningful actions like purchases or sign-ups.
+Google Analytics is a free web analytics platform from Google that collects data about website traffic. It shows where visitors come from, which pages they view, and whether they complete actions like purchases or sign-ups. The current version is Google Analytics 4, which uses an event-based model. SEO professionals use it to measure organic traffic and see which pages bring useful visits.
 
 Visit the following resources to learn more:
 

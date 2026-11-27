@@ -1,6 +1,6 @@
 # Google Data Studio
 
-Google Data Studio, now known as Looker Studio, is a free tool for building custom dashboards and reports by pulling data from sources like Google Analytics and Search Console into a single visual interface.
+Google Data Studio, now called Looker Studio, is a free tool for building custom dashboards and reports. It connects to data sources like Google Analytics and Search Console and puts the data in one visual interface. Users add charts, tables, and filters, then share the reports with others. In SEO, it is often used to track performance and report results to clients or teams.
 
 Visit the following resources to learn more:
 

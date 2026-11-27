@@ -1,6 +1,6 @@
 # How AI is Changing SEO
 
-AI systems are changing how people find information, moving some search behavior away from typing keywords into a search bar and toward asking questions directly to a chat interface. This shift means content now needs to work for two audiences: traditional search crawlers and AI systems that retrieve and summarize information. The technical mechanics behind this shift, such as how AI models process and retrieve text, are covered in more depth in the AI Engineer roadmap.
+AI is changing how people look for information. Many users now ask questions in a chat interface or read AI-generated summaries in search results, instead of typing keywords and clicking links. Content has to work for two audiences: traditional search crawlers and AI systems that retrieve, quote, and summarize pages. SEO work now includes making content clear, accurate, and easy to cite, and tracking how often a site appears in AI answers.
 
 Visit the following resources to learn more:
 

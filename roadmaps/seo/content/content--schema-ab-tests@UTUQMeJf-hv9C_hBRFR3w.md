@@ -1,6 +1,6 @@
 # Content & Schema A/B Tests
 
-This is testing two versions of a page's content or structured data against each other to see which one performs better in search or AI visibility, rather than assuming a change is an improvement without checking.
+Content and schema A/B tests compare two versions of a page's text or structured data to see which one performs better in search results or AI answers. A group of similar pages is split in two: one group gets the change, the other stays the same. Traffic, rankings, or citations are then measured for both groups over time. This way, a change is kept only when the data shows it helps, and not because it seemed like a good idea.
 
 Visit the following resources to learn more:
 

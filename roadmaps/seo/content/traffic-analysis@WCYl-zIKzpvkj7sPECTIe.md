@@ -1,6 +1,6 @@
 # Traffic Analysis
 
-Traffic analysis is the practice of understanding what visitors actually do once they land on a website, including where they came from, which pages they visit, and how they interact with the page.
+Traffic analysis is the study of what visitors do after they arrive on a website. It looks at where they come from, such as organic search, social media, or direct visits, which pages they open, and how they interact with them. Tools like Google Analytics collect this data. The results show which content attracts and keeps visitors, and which pages need improvement.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # Ahrefs Brand Radar
 
-Ahrefs Brand Radar is a feature that tracks how often and how prominently a brand appears within AI-generated answers, extending Ahrefs' existing tracking capabilities from traditional search into AI visibility.
+Ahrefs Brand Radar is a tool inside Ahrefs that tracks how often a brand is mentioned in AI-generated answers. It shows where the brand appears, how prominently, and which sources are cited. Users can also look at other brands, so they can compare their AI visibility with competitors. It extends the tracking Ahrefs already does for traditional search results.
 
 Visit the following resources to learn more:
 

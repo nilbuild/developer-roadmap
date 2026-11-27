@@ -1,6 +1,6 @@
 # Local Pack & Maps
 
-The Local Pack is the block of three business listings, shown alongside a map, that appears at the top of Google's results for local searches such as "coffee shop near me." Appearing in this block depends on a combination of Google Business Profile completeness, reviews, and local relevance.
+The Local Pack is the group of three business listings shown with a map at the top of Google results for local searches, such as "coffee shop near me". Maps results are the listings shown in Google Maps for the same kind of search. Ranking in them depends mainly on relevance, distance from the searcher, and prominence. A complete Google Business Profile, good reviews, and consistent business information across the web help a business appear.
 
 Visit the following resources to learn more:
 

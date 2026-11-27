@@ -5,3 +5,5 @@ Local search covers the baseline setup required to appear in local search result
 Visit the following resources to learn more:
 
 - [@article@Drivers of Local AI Visibility](https://searchengineland.com/the-drivers-of-local-ai-visibility-for-multi-location-brands-500689?mkt_tok=NzI3LVpRRS0wNDQAAAGlaQcdmSQFg-ru20buRUJw1rTOwSazzIAcXvtva4jrltLRK7xpqvFvRruCuypQ_L-CjDc8kBCms4MYAiX9WQFsbv1yl-17D181p_RhoLQviyRAITk)
+- [@article@What Is Local Search Marketing? - Moz](https://moz.com/what-is-local-search-marketing-seo)
+- [@video@6 Local SEO Hacks for 2026 - Sterling Sky](https://www.youtube.com/watch?v=9WtVKVBjaMs)

@@ -4,6 +4,6 @@ Forums and communities, such as Reddit and Quora, are places where people ask qu
 
 Visit the following resources to learn more:
 
-- [@course@Quora](https://www.quora.com/)
 - [@official@Reddit](https://www.reddit.com/)
-- [@official@Stack Overllow](https://stackoverflow.com/questions)
+- [@official@Stack Overflow](https://stackoverflow.com/questions)
+- [@official@Quora](https://www.quora.com/)

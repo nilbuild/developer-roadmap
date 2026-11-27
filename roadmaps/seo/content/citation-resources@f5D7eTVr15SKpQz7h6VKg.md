@@ -4,4 +4,5 @@ Citation sources are the specific websites and platforms that AI systems most fr
 
 Visit the following resources to learn more:
 
+- [@article@50 Most-Cited Websites in AI Overviews - Ahrefs](https://ahrefs.com/blog/most-cited-domains-ai-overviews/)
 - [@article@The Most-Cited Domains in AI: A 3-Month Study](https://www.semrush.com/blog/most-cited-domains-ai/)

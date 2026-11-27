@@ -1,6 +1,6 @@
 # Planning & Checklists
 
-This is the preparation phase of a site migration, involving documenting the current site's structure, deciding what will change, and building a checklist to make sure nothing gets missed during the transition.
+Planning and checklists make up the preparation phase of a site migration. This phase documents the current site structure, lists what will change, such as URLs, design, or platform, and sets the goals for the move. A checklist is built from this information so that each task, like redirect mapping, content review, and tracking setup, is done in the right order and nothing is missed.
 
 Visit the following resources to learn more:
 

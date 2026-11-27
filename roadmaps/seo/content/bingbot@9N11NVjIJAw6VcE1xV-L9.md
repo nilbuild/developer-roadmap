@@ -5,3 +5,5 @@ Bingbot is the web crawler used by Microsoft's Bing search engine to discover an
 Visit the following resources to learn more:
 
 - [@article@Bingbot](https://rankmath.com/seo-glossary/bingbot/)
+- [@article@Bingbot - Seobility](https://www.seobility.net/en/wiki/Bingbot)
+- [@article@What Is Bingbot - LLMPulse](https://llmpulse.ai/ai-crawler-index/bingbot)

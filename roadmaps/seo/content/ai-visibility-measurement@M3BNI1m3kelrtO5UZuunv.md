@@ -1,6 +1,6 @@
 # AI Visibility Measurement
 
-AI visibility measurement is the set of metrics used to track how visible a brand is inside AI-generated answers, covering how often it appears across a set of representative prompts, how often and how prominently it gets cited, how it compares to competitors, and whether it is associated with positive or neutral sentiment.
+AI visibility measurement is the set of metrics used to check how visible a brand is in AI-generated answers. It looks at how often the brand appears across a group of representative prompts, how often and how prominently it is cited, and how it compares with competitors. It also checks whether the mentions carry positive, neutral, or negative sentiment. These numbers help teams see progress over time and find gaps in their content.
 
 Visit the following resources to learn more:
 

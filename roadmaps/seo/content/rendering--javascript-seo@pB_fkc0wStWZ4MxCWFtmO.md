@@ -1,6 +1,6 @@
 # Rendering & JavaScript SEO
 
-Some websites build their content using JavaScript that runs in the browser, instead of sending fully formed HTML. If a crawler cannot execute that JavaScript properly, it may see a blank or incomplete page instead of the finished content. This node covers making sure what a crawler receives actually matches what a real visitor sees.
+Rendering is the process of turning a page's code into the final content that a visitor sees. Some websites build their content with JavaScript in the browser and send only a small HTML shell from the server. A crawler that cannot run this JavaScript well may see an empty or partial page and miss the real content. JavaScript SEO checks that the content and links a search engine receives match what a real user sees. Common solutions are server-side rendering, pre-rendering, and placing clean links and metadata in the initial HTML.
 
 Visit the following resources to learn more:
 
