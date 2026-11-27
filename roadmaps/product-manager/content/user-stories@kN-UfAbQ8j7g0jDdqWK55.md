@@ -4,6 +4,6 @@ User stories are short descriptions of a feature from the user's perspective, ty
 
 Visit the following resources to learn more:
 
-- [@article@User Stories With Examples and a Template - Atlassian](https://www.atlassian.com/agile/project-management/user-stories)
+- [@article@User Stories With Examples and a Template](https://www.atlassian.com/agile/project-management/user-stories)
 - [@article@User Story - ProductPlan](https://productplan.com/glossary/user-story)
-- [@article@User Stories and User Story Examples - Mountain Goat Software](https://www.mountaingoatsoftware.com/agile/user-stories)
+- [@article@User Stories and Examples - Mountain Goat Software](https://www.mountaingoatsoftware.com/agile/user-stories)

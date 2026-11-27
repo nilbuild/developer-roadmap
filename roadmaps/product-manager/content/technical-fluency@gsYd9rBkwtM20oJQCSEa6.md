@@ -4,5 +4,5 @@ Technical fluency is knowing enough about how software is built to work well wit
 
 Visit the following resources to learn more:
 
-- [@article@5 Technical Concepts for the Non-Technical Product Manager - ProductPlan](https://www.productplan.com/learn/non-technical-product-manager)
-- [@article@Understanding tech basics for non-technical product managers - LogRocket Blog](https://blog.logrocket.com/product-management/understanding-tech-basics-for-non-technical-product-managers/)
+- [@article@5 Technical Concepts for the Non-Technical PM](https://www.productplan.com/learn/non-technical-product-manager)
+- [@article@Understanding tech basics for non-technical PMs](https://blog.logrocket.com/product-management/understanding-tech-basics-for-non-technical-product-managers/)

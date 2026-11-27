@@ -4,6 +4,6 @@ Identifying market needs means finding gaps between what customers want and what
 
 Visit the following resources to learn more:
 
-- [@article@The Definitive Guide to Product Discovery and Frameworks - Product School](https://productschool.com/blog/product-fundamentals/what-is-product-discovery)
-- [@article@How to Identify Market Needs and Create Products to Meet Them - UXtweak](https://blog.uxtweak.com/market-needs/)
-- [@article@6 Ways to Identify Unmet Customer Needs - Step Change](https://blog.hellostepchange.com/blog/6-ways-to-identify-unmet-customer-needs)
+- [@article@Product Discovery and Frameworks - Product School](https://productschool.com/blog/product-fundamentals/what-is-product-discovery)
+- [@article@Identify Market Needs and Create Products - UXtweak](https://blog.uxtweak.com/market-needs/)
+- [@article@6 Ways to Identify Unmet Customer Needs](https://blog.hellostepchange.com/blog/6-ways-to-identify-unmet-customer-needs)

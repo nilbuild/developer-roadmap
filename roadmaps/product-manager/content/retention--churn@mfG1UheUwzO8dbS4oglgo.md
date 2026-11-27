@@ -4,6 +4,6 @@ Retention rate measures the percentage of users who continue using a product ove
 
 Visit the following resources to learn more:
 
-- [@article@7 Ways to Improve User Retention Rate - Product School](https://productschool.com/blog/product-strategy/user-retention)
-- [@article@10 Best Customer Retention Metrics for Product Managers - Product Led Alliance](https://www.productledalliance.com/10-best-customer-retention-metrics-for-product-managers/)
-- [@article@Customer Retention Rate: Measuring and Improving - Monday.com](https://monday.com/blog/crm-and-sales/retention-rate/)
+- [@article@7 Ways to Improve User Retention Rate](https://productschool.com/blog/product-strategy/user-retention)
+- [@article@10 Best Customer Retention Metrics for PMs](https://www.productledalliance.com/10-best-customer-retention-metrics-for-product-managers/)
+- [@article@Customer Retention Rate: Measuring and Improving](https://monday.com/blog/crm-and-sales/retention-rate/)

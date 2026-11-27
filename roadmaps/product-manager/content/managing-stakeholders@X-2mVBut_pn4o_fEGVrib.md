@@ -4,6 +4,6 @@ Managing stakeholders means identifying who has an interest in or influence over
 
 Visit the following resources to learn more:
 
-- [@article@A Product Manager's Guide To Stakeholder Management - mambo.io](https://mambo.io/blog/stakeholder-management)
+- [@article@A Product Manager's Guide To Stakeholder Management](https://mambo.io/blog/stakeholder-management)
 - [@article@Stakeholder Management - SVPG](https://www.svpg.com/stakeholder-management/)
 - [@article@Stakeholder Management - ProductPlan](https://www.productplan.com/glossary/stakeholder-management)

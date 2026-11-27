@@ -4,6 +4,6 @@ Influencing without authority is the ability to shape decisions and drive action
 
 Visit the following resources to learn more:
 
-- [@article@Product Leadership Skills: Influence Without Authority - Product School](https://productschool.com/blog/skills/influence-without-authority-product-manager)
-- [@article@How Negotiation Skills Make You a Better Product Leader - Mind the Product](https://www.mindtheproduct.com/how-negotiation-skills-make-you-a-better-product-leader/)
-- [@article@4 Unexpected People Skills Every Product Manager Needs - Aha!](https://www.aha.io/blog/4-unexpected-people-skills-every-product-manager-needs)
+- [@article@Influence Without Authority - Product School](https://productschool.com/blog/skills/influence-without-authority-product-manager)
+- [@article@How Negotiation Skills Make You a Better Product Leader](https://www.mindtheproduct.com/how-negotiation-skills-make-you-a-better-product-leader/)
+- [@article@4 Unexpected People Skills Every PM Needs - Aha!](https://www.aha.io/blog/4-unexpected-people-skills-every-product-manager-needs)

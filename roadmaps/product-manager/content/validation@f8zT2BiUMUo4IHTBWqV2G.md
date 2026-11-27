@@ -4,6 +4,6 @@ Validation is checking that a product idea, feature, or assumption is correct be
 
 Visit the following resources to learn more:
 
-- [@article@What is Product Validation? Overview and Guide - Productboard](https://www.productboard.com/blog/understanding-product-validation/)
+- [@article@What is Product Validation? - Productboard](https://www.productboard.com/blog/understanding-product-validation/)
 - [@article@What is Product Validation - Optimizely](https://www.optimizely.com/optimization-glossary/product-validation/)
-- [@article@How To Fix Validating Your Idea At The Wrong Stage - ITONICS](https://www.itonics-innovation.com/blog/product-validation)
+- [@article@Validating Your Idea at the Wrong Stage - ITONICS](https://www.itonics-innovation.com/blog/product-validation)

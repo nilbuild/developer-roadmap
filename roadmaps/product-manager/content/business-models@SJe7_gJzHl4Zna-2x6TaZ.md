@@ -4,6 +4,6 @@ A business model describes how a product creates value for customers and earns m
 
 Visit the following resources to learn more:
 
-- [@article@How to describe your business as an equation - Lenny's Newsletter](https://www.lennysnewsletter.com/p/the-math-formula-behind-your-business)
+- [@article@Describe your business as an equation - Lenny's](https://www.lennysnewsletter.com/p/the-math-formula-behind-your-business)
 - [@article@Business Model Archetypes - Mind the Product](https://www.mindtheproduct.com/business-model-archetypes)
-- [@article@Business Fundamentals for Product Managers - Product Leaders](https://www.productleaders.blog/blog/business-fundamentals-for-product-managers)
+- [@article@Business Fundamentals for Product Managers](https://www.productleaders.blog/blog/business-fundamentals-for-product-managers)

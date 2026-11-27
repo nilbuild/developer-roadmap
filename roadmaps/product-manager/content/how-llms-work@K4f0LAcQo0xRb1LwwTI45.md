@@ -4,6 +4,6 @@ A large language model (LLM) predicts the next piece of text, called a token, ba
 
 Visit the following resources to learn more:
 
-- [@video@[1hr Talk] Intro to Large Language Models - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-- [@article@How Does ChatGPT Work? A Guide for the Rest of Us - Product Talk](https://www.producttalk.org/how-does-chatgpt-work/)
+- [@article@How Does ChatGPT Work? - Product Talk](https://www.producttalk.org/how-does-chatgpt-work/)
 - [@article@What is a context window? - IBM](https://www.ibm.com/think/topics/context-window)
+- [@video@Intro to Large Language Models - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)

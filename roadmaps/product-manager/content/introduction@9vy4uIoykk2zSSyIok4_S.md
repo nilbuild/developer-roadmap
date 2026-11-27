@@ -4,6 +4,6 @@ Product management is the discipline of guiding a product from concept to market
 
 Visit the following resources to learn more:
 
-- [@article@The Ultimate Product Management Guide - Product School](https://productschool.com/blog/product-fundamentals/ultimate-product-management-guide)
+- [@article@Product Management Guide - Product School](https://productschool.com/blog/product-fundamentals/ultimate-product-management-guide)
 - [@article@How to Become a Product Manager - Product School](https://productschool.com/blog/career-development/become-product-manager)
-- [@article@Product Strategy: How a Clear One Leads to Success - Aha](https://www.aha.io/roadmapping/guide/product-strategy)
+- [@article@Product Strategy: How a Clear One Leads to Success](https://www.aha.io/roadmapping/guide/product-strategy)

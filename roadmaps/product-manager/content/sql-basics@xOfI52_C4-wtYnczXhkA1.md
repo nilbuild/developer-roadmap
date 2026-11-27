@@ -4,5 +4,5 @@ SQL is the language used to ask questions of a database. A PM with basic SQL can
 
 Visit the following resources to learn more:
 
-- [@article@SQL Basics for Non Technical Product Managers - The Product Notebook](https://theproductnotebook.substack.com/p/sql-basics-for-non-technical-product)
+- [@article@SQL Basics for Non Technical PMs - Product Notebook](https://theproductnotebook.substack.com/p/sql-basics-for-non-technical-product)
 - [@article@SQL for product managers: what to learn - Basedash](https://www.basedash.com/blog/sql-for-product-managers-the-queries-that-actually-matter)

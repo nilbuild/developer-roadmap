@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Latency optimization - OpenAI API](https://developers.openai.com/api/docs/guides/latency-optimization)
 - [@official@Reducing latency - Claude Platform Docs](https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-latency)
-- [@article@AI Cost Considerations Every Engineer Should Know - Vantage](https://www.vantage.sh/blog/ai-llm-pricing-dimensions)
+- [@article@AI Cost Considerations Every Engineer Should Know](https://www.vantage.sh/blog/ai-llm-pricing-dimensions)

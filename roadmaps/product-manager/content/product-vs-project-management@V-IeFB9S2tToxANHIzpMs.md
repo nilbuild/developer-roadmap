@@ -5,5 +5,5 @@ Product management focuses on what to build and why, with ongoing responsibility
 Visit the following resources to learn more:
 
 - [@article@Product vs Project Manager - Coursera](https://www.coursera.org/gb/articles/product-manager-vs-project-manager)
-- [@article@Product Manager vs. Project Manager: Key Differences Explained - Atlassian](https://www.atlassian.com/agile/project-management/product-vs-project-management)
+- [@article@Product Manager vs. Project Manager - Atlassian](https://www.atlassian.com/agile/project-management/product-vs-project-management)
 - [@video@Product Manager vs Project Manager](https://www.youtube.com/watch?v=nPR6HsUO_XY)

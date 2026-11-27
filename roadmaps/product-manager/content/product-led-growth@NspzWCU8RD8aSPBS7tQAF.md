@@ -5,5 +5,5 @@ Product-led growth (PLG) is a strategy where the product itself drives sign-ups,
 Visit the following resources to learn more:
 
 - [@article@What Is Product-Led Growth? - Atlassian](https://www.atlassian.com/agile/product-management/product-led-growth)
-- [@article@Product-Led Growth Strategy for Product Managers - Product School](https://productschool.com/blog/product-strategy/product-led-growth-strategy)
-- [@video@Four Steps To Product Led Growth: Walk Through by Kyle Poyar, OpenView - SaaS Camp](https://www.youtube.com/watch?v=FKlZHy7ERHg)
+- [@article@Four Steps To Product Led Growth - Kyle Poyar](https://productschool.com/blog/product-strategy/product-led-growth-strategy)
+- [@video@Four Steps To Product Led Growth - SaaS Camp](https://www.youtube.com/watch?v=FKlZHy7ERHg)

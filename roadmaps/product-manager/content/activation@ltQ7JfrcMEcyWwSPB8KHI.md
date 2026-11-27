@@ -4,6 +4,6 @@ Activation is the moment a new user first gets real value from a product, such a
 
 Visit the following resources to learn more:
 
-- [@article@Understanding the "Aha" Moments in Your Product - Intercom](https://www.intercom.com/blog/understanding-your-aha-moments-and-putting-them-to-work/)
-- [@article@Aha moment examples: How to find and design yours in SaaS - Appcues](https://www.appcues.com/blog/aha-moment-examples)
-- [@article@What Is an Aha Moment? Examples + 5 Steps to Find Yours - Userpilot](https://userpilot.com/blog/aha-moment/)
+- [@article@Understanding the "Aha" Moments in Your Product](https://www.intercom.com/blog/understanding-your-aha-moments-and-putting-them-to-work/)
+- [@article@Aha moment examples: Find and design yours - Appcues](https://www.appcues.com/blog/aha-moment-examples)
+- [@article@What Is an Aha Moment? 5 Steps to Find Yours](https://userpilot.com/blog/aha-moment/)

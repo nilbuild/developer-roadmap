@@ -4,6 +4,6 @@ AI output can look confident and still be wrong, with invented facts, wrong numb
 
 Visit the following resources to learn more:
 
-- [@article@AI Hallucinations: How to Check Facts and Sources - TechRepublic](https://www.techrepublic.com/article/news-ai-hallucinations-check-facts-quotes-sources/)
-- [@article@Before You Paste Anything Into ChatGPT, Check This List - TechRepublic](https://www.techrepublic.com/article/news-what-not-to-share-chatgpt-ai-chatbots/)
-- [@article@Building verification loops in Claude Code with skills - Anthropic](https://claude.com/blog/building-verification-loops-in-claude-code-with-skills)
+- [@article@AI Hallucinations: How to Check Facts and Sources](https://www.techrepublic.com/article/news-ai-hallucinations-check-facts-quotes-sources/)
+- [@article@Before You Paste Anything Into ChatGPT, Check This](https://www.techrepublic.com/article/news-what-not-to-share-chatgpt-ai-chatbots/)
+- [@article@Building verification loops in Claude Code](https://claude.com/blog/building-verification-loops-in-claude-code-with-skills)

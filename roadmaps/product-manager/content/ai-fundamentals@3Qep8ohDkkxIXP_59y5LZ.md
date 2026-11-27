@@ -4,6 +4,6 @@ AI fundamentals are the minimum technical knowledge a PM needs to work on produc
 
 Visit the following resources to learn more:
 
-- [@article@AI for Product Managers: The Complete 101 Guide - JAPM](https://japm.substack.com/p/ai-for-product-managers-the-complete)
-- [@article@AI Product Management: Why Software Product Managers Need to Understand AI and Machine Learning - ProductPlan](https://www.productplan.com/learn/ai-for-product-managers)
-- [@article@AI Product Manager: Real Role or Buzzword? - Product School](https://productschool.com/blog/artificial-intelligence/guide-ai-product-manager)
+- [@article@AI for Product Managers: The 101 Guide - JAPM](https://japm.substack.com/p/ai-for-product-managers-the-complete)
+- [@article@Why Product Managers Need to Understand AI](https://www.productplan.com/learn/ai-for-product-managers)
+- [@article@AI Product Manager: Real Role or Buzzword?](https://productschool.com/blog/artificial-intelligence/guide-ai-product-manager)

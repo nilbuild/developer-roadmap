@@ -4,6 +4,6 @@ Job stories are an alternative to user stories that focus on the context and mot
 
 Visit the following resources to learn more:
 
-- [@article@Jobs to be Done for Product Managers - Mind the Product](https://www.mindtheproduct.com/jobs-to-be-done-for-product-managers/)
-- [@article@Job Stories Offer a Viable Alternative to User Stories - Mountain Goat Software](https://www.mountaingoatsoftware.com/blog/job-stories-offer-a-viable-alternative-to-user-stories)
+- [@article@Jobs to be Done for Product Managers](https://www.mindtheproduct.com/jobs-to-be-done-for-product-managers/)
+- [@article@Job Stories: Alternative to User Stories](https://www.mountaingoatsoftware.com/blog/job-stories-offer-a-viable-alternative-to-user-stories)
 - [@article@Job Story (JTBD) - Learning Loop](https://learningloop.io/glossary/job-stories-jtbd)

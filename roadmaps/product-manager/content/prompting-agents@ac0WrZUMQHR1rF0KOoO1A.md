@@ -5,5 +5,5 @@ Prompting an agent means giving it instructions that are clear enough to get use
 Visit the following resources to learn more:
 
 - [@official@Best practices for Claude Code - Claude Code Docs](https://code.claude.com/docs/en/best-practices)
-- [@article@Prompt engineering best practices for 2026 - Anthropic](https://claude.com/blog/best-practices-for-prompt-engineering)
-- [@video@Claude Code for product managers: research, writing, context libraries, custom to-do system, more - How I AI](https://youtu.be/oBho3hZ7MHM)
+- [@article@Prompt engineering best practices - Anthropic](https://claude.com/blog/best-practices-for-prompt-engineering)
+- [@video@Claude Code for product managers - How I AI](https://youtu.be/oBho3hZ7MHM)

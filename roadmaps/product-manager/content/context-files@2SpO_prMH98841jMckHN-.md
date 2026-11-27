@@ -4,6 +4,6 @@ Context files are documents that give an AI agent lasting knowledge about your p
 
 Visit the following resources to learn more:
 
-- [@article@AGENTS.md for Product Managers: Free Template (2026) - Product Management World](https://www.prodmgmt.world/resources/claude-code/agents-md)
+- [@article@AGENTS.md for Product Managers: Free Template](https://www.prodmgmt.world/resources/claude-code/agents-md)
 - [@article@Writing a good CLAUDE.md - HumanLayer](https://humanlayer.com/blog/writing-a-good-claude-md)
-- [@article@How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents - freeCodeCamp](https://freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output)
+- [@article@How to Manage Context Files in Your Codebase](https://freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output)

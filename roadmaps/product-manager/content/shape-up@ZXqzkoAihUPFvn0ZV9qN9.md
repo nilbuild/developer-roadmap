@@ -4,6 +4,6 @@ Shape Up is a product development method from Basecamp. Work runs in fixed six-w
 
 Visit the following resources to learn more:
 
-- [@official@Shape Up: Stop Running in Circles and Ship Work that Matters - Basecamp](https://basecamp.com/shapeup)
+- [@official@Shape Up: Stop Running in Circles - Basecamp](https://basecamp.com/shapeup)
 - [@official@The Betting Table - Shape Up](https://basecamp.com/shapeup/2.2-chapter-08)
 - [@video@Shaping in a Nutshell - Ryan Singer](https://www.youtube.com/watch?v=h_8M23wVjXk)

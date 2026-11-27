@@ -4,6 +4,6 @@ Active listening is the practice of fully concentrating on a speaker, processing
 
 Visit the following resources to learn more:
 
-- [@article@Why Great Product Managers Think Like Therapists - Mind the Product](https://www.mindtheproduct.com/why-great-product-managers-think-like-therapists/)
-- [@article@Wanted: Product Manager With Superb Listening Skills - Aha!](https://www.aha.io/blog/wanted-product-manager-with-superb-listening-skills)
-- [@article@Why Listening is Crucial to Product – and How to Do It Better - Mind the Product](https://www.mindtheproduct.com/why-listening-is-crucial-to-product-and-how-to-do-it-better/)
+- [@article@Why Great PMs Think Like Therapists - Mind the Product](https://www.mindtheproduct.com/why-great-product-managers-think-like-therapists/)
+- [@article@Product Manager With Superb Listening Skills - Aha!](https://www.aha.io/blog/wanted-product-manager-with-superb-listening-skills)
+- [@article@Why Listening is Crucial to Product - Mind the Product](https://www.mindtheproduct.com/why-listening-is-crucial-to-product-and-how-to-do-it-better/)

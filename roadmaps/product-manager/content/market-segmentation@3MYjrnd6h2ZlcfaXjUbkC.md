@@ -4,6 +4,6 @@ Market segmentation is the process of dividing a broad target audience into smal
 
 Visit the following resources to learn more:
 
-- [@article@Market Segmentation Tips for Product People - Roman Pichler](https://www.romanpichler.com/blog/market-segmentation-tips-for-product-managers/)
-- [@article@How User Segmentation Helps PMs Improve Products - GoPractice](https://gopractice.io/skills/user-segmentation-in-product-management/)
+- [@article@Market Segmentation Tips - Roman Pichler](https://www.romanpichler.com/blog/market-segmentation-tips-for-product-managers/)
+- [@article@How User Segmentation Helps PMs - GoPractice](https://gopractice.io/skills/user-segmentation-in-product-management/)
 - [@article@Product Management 101: User Segmentation - Pendo](https://www.pendo.io/pendo-blog/product-management-101-user-segmentation/)

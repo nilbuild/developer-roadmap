@@ -4,6 +4,6 @@ Privacy and compliance cover the laws and rules about how a product collects, st
 
 Visit the following resources to learn more:
 
-- [@article@What is GDPR, the EU's new data protection law? - GDPR.eu](https://gdpr.eu/what-is-gdpr/)
 - [@official@Guidance on AI and data protection - ICO](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/)
-- [@article@AI data privacy: A new product essential - Mind the Product](https://www.mindtheproduct.com/ai-data-privacy-a-new-product-essential)
+- [@article@What is GDPR, the EU's data protection law?](https://gdpr.eu/what-is-gdpr/)
+- [@article@AI data privacy: A new product essential](https://www.mindtheproduct.com/ai-data-privacy-a-new-product-essential)

@@ -4,6 +4,6 @@ User story mapping is a technique for organizing user stories along two dimensio
 
 Visit the following resources to learn more:
 
-- [@article@Product Management Skills: User Story Mapping - Product School](https://productschool.com/blog/product-fundamentals/product-management-skills-user-story-mapping)
+- [@article@Product Management Skills: User Story Mapping](https://productschool.com/blog/product-fundamentals/product-management-skills-user-story-mapping)
 - [@article@User Story Mapping: A Step-by-Step Guide - Aha!](https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping)
 - [@article@Story Mapping - ProductPlan](https://productplan.com/glossary/story-mapping)

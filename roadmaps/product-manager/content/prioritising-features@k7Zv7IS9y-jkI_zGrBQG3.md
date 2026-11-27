@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@How to Prioritize the Right Features - Aha!](https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features)
 - [@article@Prioritization Frameworks - Atlassian](https://www.atlassian.com/agile/product-management/prioritization-framework)
-- [@article@Prioritize Your Roadmap with 4D Roadmapping - Reforge](https://www.reforge.com/guides/prioritize-your-roadmap-with-4d-roadmapping)
+- [@article@Prioritize Your Roadmap with 4D Roadmapping](https://www.reforge.com/guides/prioritize-your-roadmap-with-4d-roadmapping)

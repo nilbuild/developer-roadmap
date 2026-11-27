@@ -4,6 +4,6 @@ RAG (retrieval-augmented generation) is a technique where a system first searche
 
 Visit the following resources to learn more:
 
-- [@article@RAG for Product Managers: Your Competitive Weapon - Product School](https://productschool.com/blog/artificial-intelligence/rag-product-managers)
-- [@article@RAG (Retrieval Augmented Generation) for Product Management - Paragon](https://www.useparagon.com/blog/comprehensive-guide-to-rag-for-product-managers)
-- [@article@What is RAG And How Product Managers Should Use It - JAPM](https://japm.substack.com/p/fundamentals-of-ai-part-2-rag-and)
+- [@article@RAG for Product Managers - Product School](https://productschool.com/blog/artificial-intelligence/rag-product-managers)
+- [@article@RAG for Product Management - Paragon](https://www.useparagon.com/blog/comprehensive-guide-to-rag-for-product-managers)
+- [@article@What is RAG And How PMs Should Use It - JAPM](https://japm.substack.com/p/fundamentals-of-ai-part-2-rag-and)

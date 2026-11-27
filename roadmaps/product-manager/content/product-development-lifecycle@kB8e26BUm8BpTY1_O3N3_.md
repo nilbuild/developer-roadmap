@@ -5,5 +5,5 @@ The product development lifecycle is the structured process a product goes throu
 Visit the following resources to learn more:
 
 - [@article@Product Development Lifecycle - MailChimp](https://mailchimp.com/resources/product-life-cycle/)
-- [@article@The 7 Strategic Phases of the Product Development Lifecycle - ProductPlan](https://www.productplan.com/learn/strategic-phases-product-planning-process)
-- [@article@Product Development Process: 10 Stages Every Team Should Follow - Aha!](https://www.aha.io/roadmapping/guide/stages-of-product-development)
+- [@article@7 Strategic Phases of Product Development - ProductPlan](https://www.productplan.com/learn/strategic-phases-product-planning-process)
+- [@article@Product Development Process: 10 Stages - Aha!](https://www.aha.io/roadmapping/guide/stages-of-product-development)

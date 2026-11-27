@@ -4,7 +4,7 @@ A hallucination is when an AI model produces something false but presents it as 
 
 Visit the following resources to learn more:
 
-- [@article@What Are AI Hallucinations? - Nielsen Norman Group](https://www.nngroup.com/articles/ai-hallucinations/)
 - [@official@Why language models hallucinate - OpenAI](https://openai.com/index/why-language-models-hallucinate/)
 - [@official@Reduce hallucinations - Anthropic](https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)
-- [@article@Hallucination | Definition and Overview - Product Talk](https://www.producttalk.org/glossary-ai-hallucination/)
+- [@article@What Are AI Hallucinations? - Nielsen Norman Group](https://www.nngroup.com/articles/ai-hallucinations/)
+- [@article@Hallucination - Product Talk](https://www.producttalk.org/glossary-ai-hallucination/)

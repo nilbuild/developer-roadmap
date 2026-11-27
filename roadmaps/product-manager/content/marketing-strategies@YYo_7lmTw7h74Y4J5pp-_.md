@@ -4,6 +4,6 @@ A Product Manager's job involves more than just overseeing the development of a 
 
 Visit the following resources to learn more:
 
-- [@article@Demystifying Product Marketing for Product Managers - ProductPlan](https://www.productplan.com/learn/product-marketing-for-product-managers)
-- [@article@Product Management in Marketing: Strategies & Best Practices - Voltage Control](https://voltagecontrol.com/articles/product-management-in-marketing-strategies-best-practices/)
-- [@article@What is Product Marketing? The 2026 Guide - Product Marketing Alliance](https://www.productmarketingalliance.com/what-is-product-marketing/)
+- [@article@Demystifying Product Marketing for PMs - ProductPlan](https://www.productplan.com/learn/product-marketing-for-product-managers)
+- [@article@Product Management in Marketing: Strategies](https://voltagecontrol.com/articles/product-management-in-marketing-strategies-best-practices/)
+- [@article@What is Product Marketing? - PMA](https://www.productmarketingalliance.com/what-is-product-marketing/)

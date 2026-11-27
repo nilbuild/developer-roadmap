@@ -4,6 +4,6 @@ Showing impact means communicating the results of product work in terms that mat
 
 Visit the following resources to learn more:
 
-- [@article@Product Value: How to Define, Measure, and Grow - Product School](https://productschool.com/blog/analytics/product-value)
-- [@article@Product Success: 13 Metrics That Measure What Matters - Product School](https://productschool.com/blog/analytics/product-success)
-- [@article@Product Scorecard: What It Is and Why It's So Important - Product School](https://productschool.com/blog/analytics/product-scorecard)
+- [@article@Product Value: Define, Measure, Grow - Product School](https://productschool.com/blog/analytics/product-value)
+- [@article@13 Product Success Metrics - Product School](https://productschool.com/blog/analytics/product-success)
+- [@article@Product Scorecard: What It Is and Why - Product School](https://productschool.com/blog/analytics/product-scorecard)

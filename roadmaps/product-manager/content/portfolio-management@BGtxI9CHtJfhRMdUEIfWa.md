@@ -4,6 +4,6 @@ Portfolio management in a product context involves overseeing multiple products 
 
 Visit the following resources to learn more:
 
-- [@article@Product Portfolio Management: Success at Scale - Mind the Product](https://www.mindtheproduct.com/product-portfolio-management-success-scale/)
-- [@article@The Product Manager vs. the Product Portfolio Manager - Aha](https://www.aha.io/blog/the-product-manager-vs-the-product-portfolio-manager)
-- [@article@The Product Management Crossroads: Skills to Shape Your Product Journey - Mind the Product](https://www.mindtheproduct.com/the-product-management-crossroads-skills-to-shape-your-product-journey/)
+- [@article@Product Portfolio Management - Mind the Product](https://www.mindtheproduct.com/product-portfolio-management-success-scale/)
+- [@article@Product Manager vs. Product Portfolio Manager - Aha](https://www.aha.io/blog/the-product-manager-vs-the-product-portfolio-manager)
+- [@article@The Product Management Crossroads](https://www.mindtheproduct.com/the-product-management-crossroads-skills-to-shape-your-product-journey/)
