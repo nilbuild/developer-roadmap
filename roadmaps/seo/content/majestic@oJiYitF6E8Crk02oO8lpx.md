@@ -1,6 +1,6 @@
 # Majestic
 
-Majestic is a backlink analysis tool best known for producing the Trust Flow and Citation Flow metrics, which estimate the quality and quantity of links pointing to a website.
+Majestic is a backlink analysis tool with its own index of links across the web. It is best known for two metrics: Trust Flow, which estimates the quality of links pointing to a site, and Citation Flow, which estimates their quantity. SEO professionals use it to study a site's link profile, compare competitors, and find link opportunities.
 
 Visit the following resources to learn more:
 

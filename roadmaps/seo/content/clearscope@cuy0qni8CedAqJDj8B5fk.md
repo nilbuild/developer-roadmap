@@ -1,6 +1,6 @@
 # Clearscope
 
-Clearscope is a content optimization tool that grades a piece of writing against top-performing content for a given topic, suggesting relevant terms and concepts that may be missing.
+Clearscope is a content optimization tool that grades a piece of writing against top-performing content for a given topic. It suggests relevant terms and concepts that may be missing from the draft. Teams also use it to build content briefs and outlines, and to organize reports for their writing projects.
 
 Visit the following resources to learn more:
 

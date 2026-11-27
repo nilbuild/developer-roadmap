@@ -1,6 +1,6 @@
 # Microsoft Clarity
 
-Microsoft Clarity is a free analytics tool that provides heatmaps and session recordings, showing how visitors actually move through and interact with a page, rather than just reporting traffic numbers.
+Microsoft Clarity is a free analytics tool that shows how visitors behave on a page. It offers heatmaps for clicks and scrolling, and session recordings that replay a visit step by step. These views help find confusing layouts, broken elements, and places where users leave. It works alongside traffic tools, which only report numbers.
 
 Visit the following resources to learn more:
 

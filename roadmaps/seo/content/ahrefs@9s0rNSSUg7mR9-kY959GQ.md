@@ -4,5 +4,5 @@ Ahrefs is an all-in-one software suite that provides data on backlinks, keyword 
 
 Visit the following resources to learn more:
 
-- [@course@How to Use Ahrefs](https://ahrefs.com/academy/how-to-use-ahrefs)
 - [@official@The Official Ahrefs Tutorial - Ahrefs](https://ahrefs.com/blog/ahrefs-tutorial/)
+- [@course@How to Use Ahrefs](https://ahrefs.com/academy/how-to-use-ahrefs)

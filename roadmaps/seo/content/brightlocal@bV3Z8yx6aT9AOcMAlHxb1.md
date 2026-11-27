@@ -1,6 +1,6 @@
 # BrightLocal
 
-BrightLocal is a local SEO platform used for tracking local rankings, auditing citation consistency, and managing reviews across multiple business locations.
+BrightLocal is a local SEO platform for businesses and agencies that manage many locations. It tracks local search rankings, checks if citations are consistent across directories, and collects and manages customer reviews. Users also get audit reports and Google Business Profile data in one dashboard.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # Content Lifecycle
 
-The content lifecycle covers everything that happens to a piece of content after it is first published, including planning its production, monitoring how it performs over time, deciding whether to refresh, rewrite, merge, or remove it, and formally deindexing pages that no longer serve a purpose.
+The content lifecycle is the full path of a piece of content, from planning and publishing to long-term care. After publication, the page is monitored to see how it performs over time. When results drop, the owner decides to refresh, rewrite, merge, or remove it, and pages that no longer have a purpose are deindexed.
 
 Visit the following resources to learn more:
 

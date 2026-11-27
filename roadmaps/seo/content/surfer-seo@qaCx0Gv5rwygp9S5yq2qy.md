@@ -1,6 +1,6 @@
 # Surfer SEO
 
-Surfer SEO is a content optimization tool that analyzes top-ranking pages for a target keyword and suggests changes to a draft, such as related terms to include or an appropriate content length, based on what is already performing well.
+Surfer SEO is a content optimization tool that compares a draft with the pages already ranking for a target keyword. Its Content Editor gives a score and suggests related terms, headings, and an appropriate length for the text. Writers use these suggestions to edit their content so it matches what search engines already reward for that query.
 
 Visit the following resources to learn more:
 

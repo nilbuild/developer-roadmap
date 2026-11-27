@@ -1,6 +1,6 @@
 # Ecommerce SEO
 
-Ecommerce SEO is the practice of optimizing an online store's product and category pages so they rank well in search, addressing challenges specific to retail sites like large product catalogs and complex filtering systems.
+E-commerce SEO is the practice of improving an online store so its product and category pages appear higher in search results. Online stores have special problems, such as thousands of pages, duplicate content from filters and variants, and products that go out of stock. Common tasks include clear URL structure, unique product descriptions, internal linking, and product structured data. The aim is to bring in shoppers who search for products they want to buy.
 
 Visit the following resources to learn more:
 

@@ -1,6 +1,6 @@
 # Digital PR
 
-Digital PR is the practice of earning media coverage and links from real publications by pitching journalists newsworthy stories, data, or angles, rather than directly requesting a link.
+Digital PR is a way to earn media coverage and backlinks from real publications. Practitioners pitch journalists with newsworthy stories, original data, or useful angles, and they do not ask for a link directly. The coverage brings referral traffic, brand mentions, and links from trusted sites, which can improve search visibility.
 
 Visit the following resources to learn more:
 

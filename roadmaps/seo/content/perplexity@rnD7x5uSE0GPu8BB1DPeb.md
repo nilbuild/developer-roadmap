@@ -1,6 +1,6 @@
 # Perplexity
 
-Perplexity is an AI-powered search product built specifically to answer questions directly, retrieving information from the web and presenting a synthesized response with citations, rather than showing a traditional list of links to click through.
+Perplexity is an AI search product that answers questions directly. It retrieves information from the web and writes a combined response with citations to its sources, instead of showing only a list of links. It uses its own crawlers to access pages, so site owners can work to have their content found and cited in its answers.
 
 Visit the following resources to learn more:
 

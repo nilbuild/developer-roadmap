@@ -5,3 +5,5 @@ Domain Authority is a score developed by Moz that estimates how likely an entire
 Visit the following resources to learn more:
 
 - [@official@Domain Authority Explained - Moz](https://moz.com/learn/seo/domain-authority)
+- [@article@What Is Domain Authority? - Semrush](https://www.semrush.com/blog/what-is-domain-authority-and-how-does-it-impact-seo/)
+- [@video@What Is Domain Authority? - Torie Mathis](https://www.youtube.com/watch?v=heZ8nd3ODxg)

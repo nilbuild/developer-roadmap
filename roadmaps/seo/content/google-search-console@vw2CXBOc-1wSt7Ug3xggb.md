@@ -1,6 +1,6 @@
 # Google Search Console
 
-Google Search Console is a free tool from Google that shows exactly how a website performs in Google's own search results, including which queries it appears for, click-through rates, indexing errors, and manual penalties.
+Google Search Console is a free tool from Google that shows how a website performs in Google Search. It reports which queries bring impressions and clicks, the average position and click-through rate of pages, and which pages are indexed. It also shows errors such as crawl problems, mobile usability issues, and manual actions. Site owners verify their site in the tool and can submit sitemaps and request indexing of URLs. For news and discovery content, it also helps track traffic from features like Google News and Discover.
 
 Visit the following resources to learn more:
 
