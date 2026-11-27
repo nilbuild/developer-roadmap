@@ -42,13 +42,19 @@ export function escapeMarkdownLinkText(text: string) {
     .replace(/</g, '\\<')
     .replace(/>/g, '\\>')
     .replace(/\[/g, '\\[')
-    .replace(/\]/g, '\\]');
+    .replace(/\]/g, '\\]')
+    .replace(/`/g, '\\`')
+    .replace(/\*/g, '\\*')
+    .replace(/_/g, '\\_')
+    .replace(/~/g, '\\~');
 }
 
 export function formatOfficialRoadmapTopicResourceLink(
   resource: Pick<OfficialRoadmapTopicResource, 'type' | 'title' | 'url'>,
 ) {
-  return `- [@${resource.type}@${escapeMarkdownLinkText(resource.title)}](${resource.url})`;
+  // Parentheses in URLs must not terminate or unbalance the Markdown destination.
+  const url = resource.url.replace(/([\\()])/g, '\\$1');
+  return `- [@${resource.type}@${escapeMarkdownLinkText(resource.title)}](${url})`;
 }
 
 export function prepareOfficialRoadmapTopicContent(
