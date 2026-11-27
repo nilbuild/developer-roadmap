@@ -5,3 +5,4 @@ Branded queries are searches that contain a company's name, such as "Nike runnin
 Visit the following resources to learn more:
 
 - [@article@Branded vs. Non-Branded Search - Ahrefs](https://ahrefs.com/blog/branded-search/)
+- [@video@Branded vs Non-Branded Search - Jared McKinney](https://www.youtube.com/watch?v=Q7-zvFmzZdY)
