@@ -7,6 +7,8 @@ import { markdownToHtml } from './lib/markdown';
 import { htmlToMarkdown } from './lib/html';
 import {
   allowedOfficialRoadmapTopicResourceType,
+  isTopicLabelLine,
+  resolveTopicHeading,
   type AllowedOfficialRoadmapTopicResourceType,
   type SyncToDatabaseTopicContent,
 } from './lib/official-roadmap-topic';
@@ -144,6 +146,12 @@ try {
       continue;
     }
 
+    const label = node?.data?.label as string;
+    if (!label) {
+      console.error(`🚨 Label is required: ${file}`);
+      continue;
+    }
+
     const filePath = path.join(
       ROADMAP_CONTENT_DIR,
       roadmapSlug,
@@ -217,6 +225,16 @@ try {
     ulWithLinks?.remove();
     title?.remove();
 
+    if (!title) {
+      console.warn(`⚠️ Missing "# Heading", using node label: ${file}`);
+      // A heading written without `#` renders as a plain first paragraph.
+      // Drop it so the label is not repeated at the top of the description.
+      const firstParagraph = rootHtml.querySelector('p');
+      if (isTopicLabelLine(firstParagraph?.textContent, label)) {
+        firstParagraph?.remove();
+      }
+    }
+
     const allParagraphs = rootHtml.querySelectorAll('p');
     if (listLinks.length > 0 && allParagraphs.length > 0) {
       // to remove the view more see more from the description
@@ -227,14 +245,8 @@ try {
     const htmlStringWithoutLinks = rootHtml.toString();
     const description = htmlToMarkdown(htmlStringWithoutLinks);
 
-    const updatedDescription =
-      `# ${title?.textContent}\n\n${description}`.trim();
-
-    const label = node?.data?.label as string;
-    if (!label) {
-      console.error(`🚨 Label is required: ${file}`);
-      continue;
-    }
+    const heading = resolveTopicHeading(title?.textContent, label);
+    const updatedDescription = `# ${heading}\n\n${description}`.trim();
 
     topics.push({
       roadmapSlug,
