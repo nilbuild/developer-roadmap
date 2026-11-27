@@ -4,6 +4,6 @@ A moat is an advantage that keeps competitors from copying a product easily. Com
 
 Visit the following resources to learn more:
 
-- [@article@Why AI Moats Still Matter (And How They've Changed) - a16z](https://a16z.com/podcast/why-ai-moats-still-matter-and-how-theyve-changed/)
-- [@article@Revenge of the GPT Wrappers: Defensibility in a world of commoditized AI models - Andrew Chen](https://andrewchen.substack.com/p/revenge-of-the-gpt-wrappers-defensibility)
+- [@article@Why AI Moats Still Matter - a16z](https://a16z.com/podcast/why-ai-moats-still-matter-and-how-theyve-changed/)
+- [@article@Revenge of the GPT Wrappers - Andrew Chen](https://andrewchen.substack.com/p/revenge-of-the-gpt-wrappers-defensibility)
 - [@article@How AI Companies Will Build Real Defensibility - NFX](https://nfx.com/post/ai-defensibility)

@@ -5,5 +5,5 @@ A critical aspect of a Product Manager's role is to understand, define and commu
 Visit the following resources to learn more:
 
 - [@article@Product Vision vs. Mission - SVPG](https://www.svpg.com/product-vision-vs-mission/)
-- [@article@Product Vision: How to Create One for Success - Product School](https://productschool.com/blog/product-strategy/product-vision)
+- [@article@Product Vision: How to Create One for Success](https://productschool.com/blog/product-strategy/product-vision)
 - [@article@10 Great Product Vision Examples - ProdPad](https://www.prodpad.com/blog/product-vision-examples/)

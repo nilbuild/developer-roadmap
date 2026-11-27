@@ -4,6 +4,6 @@ AI app builders are tools that create working web apps from a text description. 
 
 Visit the following resources to learn more:
 
-- [@article@The 2026 Guide to AI Prototyping for Product Managers - Builder.io](https://www.builder.io/blog/ai-prototyping-product-managers)
-- [@article@How AI prototyping tools are changing PM workflows - LogRocket Blog](https://blog.logrocket.com/product-management/how-ai-prototyping-tools-are-changing-pm-workflows/)
-- [@article@Prototyping Prompts to Ship Better MVPs in Days - Product School](https://productschool.com/blog/artificial-intelligence/prototyping-prompts)
+- [@article@Guide to AI Prototyping for Product Managers](https://www.builder.io/blog/ai-prototyping-product-managers)
+- [@article@How AI prototyping tools are changing PM workflows](https://blog.logrocket.com/product-management/how-ai-prototyping-tools-are-changing-pm-workflows/)
+- [@article@Prototyping Prompts to Ship Better MVPs in Days](https://productschool.com/blog/artificial-intelligence/prototyping-prompts)

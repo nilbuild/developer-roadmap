@@ -5,5 +5,5 @@ A phased rollout is a release strategy where a new feature is made available to 
 Visit the following resources to learn more:
 
 - [@article@Phased Rollout - Statsig](https://www.statsig.com/glossary/phased-rollout)
-- [@article@Release Management Guide for Product Managers - AB Tasty](https://www.abtasty.com/resources/release-management-guide-for-product-managers/)
+- [@article@Release Management Guide for PMs - AB Tasty](https://www.abtasty.com/resources/release-management-guide-for-product-managers/)
 - [@article@Release Management Strategies - Unleash](https://www.getunleash.io/blog/release-management-strategies)

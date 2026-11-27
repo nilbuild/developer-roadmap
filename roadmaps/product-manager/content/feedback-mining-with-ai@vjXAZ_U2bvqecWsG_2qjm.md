@@ -4,6 +4,6 @@ Feedback mining means using an AI model to read large amounts of raw customer fe
 
 Visit the following resources to learn more:
 
-- [@article@Customer Interview Analysis - All Things Product Podcast - Product Talk](https://www.producttalk.org/customer-interview-analysis-all-things-product-podcast-with-teresa-torres-petra-wille/)
-- [@article@Revolutionising Customer Feedback: Harnessing Large Language Models for Retail Insights and Intelligence - Microsoft Frontier Engineering](https://devblogs.microsoft.com/ise/?p=16017)
-- [@article@Large language models can help professionals identify customer needs - MIT Sloan](https://mitsloan.mit.edu/node/50716)
+- [@article@Customer Interview Analysis - Product Talk](https://www.producttalk.org/customer-interview-analysis-all-things-product-podcast-with-teresa-torres-petra-wille/)
+- [@article@Harnessing Large Language Models for Retail Insights](https://devblogs.microsoft.com/ise/?p=16017)
+- [@article@LLMs can help professionals identify customer needs](https://mitsloan.mit.edu/node/50716)

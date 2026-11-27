@@ -4,6 +4,6 @@ Data-driven decision making means using quantitative and qualitative evidence to
 
 Visit the following resources to learn more:
 
-- [@article@Data-Driven Product Management: Using Analytics To Make Better Decisions - Product School](https://productschool.com/blog/analytics/using-analytics-to-make-product-decisions)
-- [@article@Data-Driven Product Management: An Essential Guide - Aha!](https://www.aha.io/roadmapping/guide/product-strategy/data-driven-product-management-an-essential-guide)
-- [@article@You Cannot Be Data Driven Without Experimentation - Reforge](https://www.reforge.com/blog/you-cannot-be-data-driven-without-experimentation)
+- [@article@Data-Driven Product Management - Product School](https://productschool.com/blog/analytics/using-analytics-to-make-product-decisions)
+- [@article@Data-Driven Product Management - Aha!](https://www.aha.io/roadmapping/guide/product-strategy/data-driven-product-management-an-essential-guide)
+- [@article@You Cannot Be Data Driven Without Experimentation](https://www.reforge.com/blog/you-cannot-be-data-driven-without-experimentation)

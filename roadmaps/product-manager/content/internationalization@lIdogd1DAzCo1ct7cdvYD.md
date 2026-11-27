@@ -4,6 +4,6 @@ Internationalization in product management refers to designing a product in a wa
 
 Visit the following resources to learn more:
 
-- [@article@Product Management for International Markets — What You Need to Know - Product School](https://productschool.com/blog/career-development/product-management-international-markets)
-- [@article@Product Localization & Internationalization Strategy - BLEND](https://www.getblend.com/blog/experts-guide-how-to-successfully-launch-a-multimarket-product/)
-- [@article@What is Internationalization? An Essential Guide - Localize](https://localizejs.com/articles/what-is-internationalization-an-essential-guide)
+- [@article@Product Management for International Markets](https://productschool.com/blog/career-development/product-management-international-markets)
+- [@article@Product Localization & Internationalization - BLEND](https://www.getblend.com/blog/experts-guide-how-to-successfully-launch-a-multimarket-product/)
+- [@article@What is Internationalization? - Localize](https://localizejs.com/articles/what-is-internationalization-an-essential-guide)

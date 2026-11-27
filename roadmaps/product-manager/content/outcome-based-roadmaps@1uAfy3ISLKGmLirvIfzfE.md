@@ -4,6 +4,6 @@ Outcome-based roadmaps organize priorities around the results the team is trying
 
 Visit the following resources to learn more:
 
-- [@article@How to Get Started with Outcome-Based Product Roadmaps - Roman Pichler](https://www.romanpichler.com/blog/how-to-get-started-with-outcome-based-product-roadmaps/)
-- [@article@Outcome-Driven Roadmapping: The Secret to a Focused Product Strategy - ProductPlan](https://productplan.com/learn/outcome-driven-roadmaps)
-- [@article@Outcome-Based Roadmaps: Mapping Impact, Not Features - Product School](https://productschool.com/blog/product-strategy/outcome-based-roadmap)
+- [@article@Outcome-Based Product Roadmaps - Roman Pichler](https://www.romanpichler.com/blog/how-to-get-started-with-outcome-based-product-roadmaps/)
+- [@article@Outcome-Driven Roadmapping - ProductPlan](https://productplan.com/learn/outcome-driven-roadmaps)
+- [@article@Outcome-Based Roadmaps - Product School](https://productschool.com/blog/product-strategy/outcome-based-roadmap)

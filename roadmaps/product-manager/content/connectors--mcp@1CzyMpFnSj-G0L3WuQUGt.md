@@ -4,6 +4,6 @@ Connectors let an AI tool read from and act in your real work apps, such as Jira
 
 Visit the following resources to learn more:
 
-- [@article@What is Model Context Protocol? Connect AI to your world - Anthropic](https://claude.com/blog/what-is-model-context-protocol)
-- [@official@What is the Model Context Protocol (MCP)? - Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
-- [@video@Introduction to Model Context Protocol (MCP) - Microsoft Developer](https://www.youtube.com/watch?v=agBbdiOPLQA)
+- [@official@What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [@article@What is Model Context Protocol? - Anthropic](https://claude.com/blog/what-is-model-context-protocol)
+- [@video@Introduction to Model Context Protocol (MCP)](https://www.youtube.com/watch?v=agBbdiOPLQA)

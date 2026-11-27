@@ -4,6 +4,6 @@ As a product manager, understanding, defining, and communicating your product's 
 
 Visit the following resources to learn more:
 
-- [@article@How Product Managers Can Write More Compelling Value Propositions - ProductPlan](https://www.productplan.com/learn/write-compelling-value-propositions)
+- [@article@Writing Compelling Value Propositions - ProductPlan](https://www.productplan.com/learn/write-compelling-value-propositions)
 - [@article@Product Value: Core Concepts for PMs - Aha!](https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value)
-- [@article@4 Value Proposition Models for Product Managers - Tempo.io](https://www.tempo.io/guides/product-value-proposition-models-for-product-managers)
+- [@article@4 Value Proposition Models for PMs - Tempo.io](https://www.tempo.io/guides/product-value-proposition-models-for-product-managers)

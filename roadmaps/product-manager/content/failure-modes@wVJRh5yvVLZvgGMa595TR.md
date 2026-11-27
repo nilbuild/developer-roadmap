@@ -4,5 +4,5 @@ Failure modes are the specific ways an AI feature can go wrong. Examples are wro
 
 Visit the following resources to learn more:
 
-- [@official@Errors + Graceful Failure - Google People + AI Guidebook](https://pair.withgoogle.com/chapter/errors-failing/)
+- [@official@Errors + Graceful Failure - Google PAIR Guidebook](https://pair.withgoogle.com/chapter/errors-failing/)
 - [@article@What Are AI Hallucinations? - Nielsen Norman Group](https://www.nngroup.com/articles/ai-hallucinations/)

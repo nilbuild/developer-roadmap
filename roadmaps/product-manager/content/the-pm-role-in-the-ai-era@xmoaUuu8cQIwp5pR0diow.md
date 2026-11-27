@@ -4,6 +4,6 @@ AI tools now handle a large part of the routine work in product management, such
 
 Visit the following resources to learn more:
 
-- [@article@Why PMs are best positioned to thrive in an AI world - Lenny's Newsletter](https://www.lennysnewsletter.com/p/why-pms-are-best-positioned-to-thrive)
-- [@article@AI Product Manager: Real Role or Buzzword? - Product School](https://productschool.com/blog/artificial-intelligence/guide-ai-product-manager)
-- [@article@AI Product Manager: A Guide to AI/ML Strategy - Scaled Agile](https://scaledagile.com/blog/ai-ml-product-managers-guide/)
+- [@article@Why PMs are best positioned to thrive in AI](https://www.lennysnewsletter.com/p/why-pms-are-best-positioned-to-thrive)
+- [@article@AI Product Manager: Real Role or Buzzword?](https://productschool.com/blog/artificial-intelligence/guide-ai-product-manager)
+- [@article@AI Product Manager: A Guide to AI/ML Strategy](https://scaledagile.com/blog/ai-ml-product-managers-guide/)

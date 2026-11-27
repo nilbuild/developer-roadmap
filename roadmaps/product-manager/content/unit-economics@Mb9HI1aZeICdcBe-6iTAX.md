@@ -4,6 +4,6 @@ Unit economics measure whether a business makes money on a single customer. They
 
 Visit the following resources to learn more:
 
-- [@article@Unit Economics for Startups: Why It Matters and How To Calculate It - Visible.vc](https://visible.vc/blog/good-unit-economics-essential-business)
-- [@article@The Complete Guide to Customer Acquisition Cost - Amplitude](https://amplitude.com/explore/metrics/guide-to-customer-acquisition-cost)
-- [@video@The Ultimate SaaS Unit Economics Tutorial - Eric Andrews](https://www.youtube.com/watch?v=8eHInIdNfa0)
+- [@article@Unit Economics for Startups - Visible.vc](https://visible.vc/blog/good-unit-economics-essential-business)
+- [@article@Customer Acquisition Cost - Amplitude](https://amplitude.com/explore/metrics/guide-to-customer-acquisition-cost)
+- [@video@SaaS Unit Economics Tutorial - Eric Andrews](https://www.youtube.com/watch?v=8eHInIdNfa0)

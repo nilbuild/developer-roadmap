@@ -4,6 +4,6 @@ Positioning defines how a product is perceived relative to competitors in the mi
 
 Visit the following resources to learn more:
 
-- [@article@Product Positioning 101: Expert Insights, Examples, and Tips - Product School](https://productschool.com/blog/product-fundamentals/product-positioning)
-- [@article@Product Positioning: Finding the Right Approach - Aha!](https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning)
-- [@article@What Is Product Positioning Strategy? - Productside](https://productside.com/what-is-product-positioning-strategy/)
+- [@article@Product Positioning 101 - Product School](https://productschool.com/blog/product-fundamentals/product-positioning)
+- [@article@Product Positioning: Finding the Right Approach](https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning)
+- [@article@What Is Product Positioning Strategy?](https://productside.com/what-is-product-positioning-strategy/)

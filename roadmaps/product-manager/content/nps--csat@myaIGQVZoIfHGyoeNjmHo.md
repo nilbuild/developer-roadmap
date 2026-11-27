@@ -4,6 +4,6 @@ Net Promoter Score (NPS) asks customers how likely they are to recommend a produ
 
 Visit the following resources to learn more:
 
-- [@article@CSAT vs NPS: Which Customer Satisfaction Metric Is Best? - Qualtrics](https://www.qualtrics.com/experience-management/customer/csat-vs-nps/)
-- [@article@Measuring happiness: What's the difference between CSAT and NPS? - Zendesk](https://www.zendesk.com/blog/customer-service/satisfaction/csat-vs-nps/)
-- [@article@CSAT vs NPS: which customer satisfaction metric to use - SurveyMonkey](https://www.surveymonkey.com/learn/customer-feedback/csat-vs-nps-similarities-and-differences/)
+- [@article@CSAT vs NPS - Qualtrics](https://www.qualtrics.com/experience-management/customer/csat-vs-nps/)
+- [@article@What's the difference between CSAT and NPS?](https://www.zendesk.com/blog/customer-service/satisfaction/csat-vs-nps/)
+- [@article@CSAT vs NPS - SurveyMonkey](https://www.surveymonkey.com/learn/customer-feedback/csat-vs-nps-similarities-and-differences/)

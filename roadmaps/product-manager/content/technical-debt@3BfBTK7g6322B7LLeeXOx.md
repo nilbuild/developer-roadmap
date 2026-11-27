@@ -4,6 +4,6 @@ Technical debt is the extra cost that builds up when a team chooses a quick solu
 
 Visit the following resources to learn more:
 
-- [@article@6 Ways Product Managers Can Help Manage Technical Debt - ProductPlan](https://www.productplan.com/learn/manage-technical-debt)
-- [@article@What is technical debt? How to prioritize and avoid with examples - LogRocket Blog](https://blog.logrocket.com/product-management/what-is-technical-debt-examples-prioritize-avoid)
+- [@article@6 Ways PMs Can Help Manage Technical Debt](https://www.productplan.com/learn/manage-technical-debt)
+- [@article@What is technical debt? - LogRocket Blog](https://blog.logrocket.com/product-management/what-is-technical-debt-examples-prioritize-avoid)
 - [@article@How to manage technical debt - Mind the Product](https://mindtheproduct.com/how-to-manage-technical-debt)

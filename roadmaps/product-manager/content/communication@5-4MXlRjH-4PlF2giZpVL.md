@@ -4,6 +4,6 @@ Communication skills are the ability to convey information clearly and appropria
 
 Visit the following resources to learn more:
 
-- [@article@The Most Common Skill Gap in Aspiring Product Managers - Mind the Product](https://www.mindtheproduct.com/the-most-common-skill-gap-in-product-managers-and-how-to-fix-it/)
-- [@article@Your Product Team's Communication is Making or Breaking Your Product - ProductPlan](https://www.productplan.com/blog/product-team-communication)
-- [@article@Product Management Skills: 10 Essential Ones To Succeed - Aha!](https://www.aha.io/roadmapping/guide/product-management/what-skills-are-required-to-be-a-product-manager)
+- [@article@Common Skill Gap in Aspiring PMs - Mind the Product](https://www.mindtheproduct.com/the-most-common-skill-gap-in-product-managers-and-how-to-fix-it/)
+- [@article@Your Product Team's Communication - ProductPlan](https://www.productplan.com/blog/product-team-communication)
+- [@article@Product Management Skills: 10 Essential Ones - Aha!](https://www.aha.io/roadmapping/guide/product-management/what-skills-are-required-to-be-a-product-manager)

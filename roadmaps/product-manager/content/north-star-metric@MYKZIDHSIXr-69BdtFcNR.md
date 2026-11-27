@@ -4,6 +4,6 @@ The North Star Metric is a pivotal element of product management, providing a gu
 
 Visit the following resources to learn more:
 
-- [@article@Every Product Needs a North Star Metric: Here's How to Find Yours - Amplitude](https://amplitude.com/blog/product-north-star-metric)
-- [@article@How to Choose & Measure North Star Metrics - Reforge](https://www.reforge.com/blog/north-star-metrics)
+- [@article@Every Product Needs a North Star Metric - Amplitude](https://amplitude.com/blog/product-north-star-metric)
+- [@article@How to Choose & Measure North Star Metrics](https://www.reforge.com/blog/north-star-metrics)
 - [@article@What is a North Star Metric? - Mixpanel](https://mixpanel.com/blog/north-star-metric/)

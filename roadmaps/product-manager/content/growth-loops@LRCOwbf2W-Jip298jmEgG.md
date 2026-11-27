@@ -5,5 +5,5 @@ A growth loop is a cycle where the output of one step becomes the input of the n
 Visit the following resources to learn more:
 
 - [@article@Growth Loops are the New Funnels - Reforge](https://www.reforge.com/blog/growth-loops)
-- [@article@Growth Loops: A Builder's Guide to Compounding Growth - Amplitude](https://amplitude.com/explore/product/growth-loops)
-- [@article@When it comes to product growth, the traditional funnel model is no longer enough - Mind the Product](https://www.mindtheproduct.com/when-it-comes-to-product-growth-the-traditional-funnel-model-is-no-longer-enough)
+- [@article@Growth Loops: A Builder's Guide - Amplitude](https://amplitude.com/explore/product/growth-loops)
+- [@article@Product growth: the traditional funnel model](https://www.mindtheproduct.com/when-it-comes-to-product-growth-the-traditional-funnel-model-is-no-longer-enough)

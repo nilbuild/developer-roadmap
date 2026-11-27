@@ -4,6 +4,6 @@ Continuous discovery is the habit of talking to customers every week instead of 
 
 Visit the following resources to learn more:
 
-- [@article@Continuous Discovery: Definition and Overview - Product Talk](https://www.producttalk.org/glossary-discovery-continuous-discovery/)
-- [@article@Everyone Can Do Continuous Discovery, Even You! Here's How - Product Talk](https://www.producttalk.org/getting-started-with-discovery/)
-- [@video@Adopting Continuous Product Discovery Practices by Teresa Torres at Front 2017](https://www.youtube.com/watch?v=a2HidFrzYIA)
+- [@article@Continuous Discovery: Definition - Product Talk](https://www.producttalk.org/glossary-discovery-continuous-discovery/)
+- [@article@Everyone Can Do Continuous Discovery - Product Talk](https://www.producttalk.org/getting-started-with-discovery/)
+- [@video@Continuous Product Discovery by Teresa Torres](https://www.youtube.com/watch?v=a2HidFrzYIA)

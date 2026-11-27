@@ -4,6 +4,6 @@ Cohort Analysis is a valuable tool in a Product manager's data-driven decision-m
 
 Visit the following resources to learn more:
 
-- [@article@Ultimate Guide to Cohort Analysis: How to Reduce Churn and Boost Retention - Mixpanel](https://mixpanel.com/blog/cohort-analysis/)
-- [@article@3 Ways to Use Cohort Analysis (Beyond Improving Retention) - Amplitude](https://amplitude.com/blog/cohort-analysis)
-- [@article@Basics of Cohort Analysis: User Engagement and Churn - Reforge](https://www.reforge.com/guides/basics-of-cohort-analysis-user-engagement-and-churn)
+- [@article@Guide to Cohort Analysis - Mixpanel](https://mixpanel.com/blog/cohort-analysis/)
+- [@article@3 Ways to Use Cohort Analysis - Amplitude](https://amplitude.com/blog/cohort-analysis)
+- [@article@Basics of Cohort Analysis - Reforge](https://www.reforge.com/guides/basics-of-cohort-analysis-user-engagement-and-churn)

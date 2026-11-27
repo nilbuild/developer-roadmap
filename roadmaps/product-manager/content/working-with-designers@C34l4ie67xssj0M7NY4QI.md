@@ -4,6 +4,6 @@ A PM and a designer share ownership of the product experience. The PM brings the
 
 Visit the following resources to learn more:
 
-- [@article@The Product Triad: Design's Role - Nielsen Norman Group](https://www.nngroup.com/articles/the-product-triad-designs-role/)
-- [@article@Product Manager and Product Designer Collaboration - Reforge](https://www.reforge.com/blog/product-manager-product-designer-collaboration)
-- [@article@Product and UX design - effective ways to work together - Mind the Product](https://mindtheproduct.com/product-and-ux-design-effective-ways-to-work-together)
+- [@article@The Product Triad: Design's Role - NN/g](https://www.nngroup.com/articles/the-product-triad-designs-role/)
+- [@article@PM and Product Designer Collaboration - Reforge](https://www.reforge.com/blog/product-manager-product-designer-collaboration)
+- [@article@Product and UX design: ways to work together](https://mindtheproduct.com/product-and-ux-design-effective-ways-to-work-together)

@@ -5,5 +5,5 @@ Analyzing data with AI means giving a model a spreadsheet, export, or database c
 Visit the following resources to learn more:
 
 - [@official@Analyzing data with ChatGPT - OpenAI](https://openai.com/academy/data-analysis)
-- [@official@Introducing the analysis tool in Claude.ai - Anthropic](https://anthropic.com/news/analysis-tool)
-- [@official@Chart your data in conversation with Claude before you commit to a reading - Claude Academy](https://academy.claude.com/use-cases/chart-your-data-before-you-commit)
+- [@official@Introducing the analysis tool in Claude.ai](https://anthropic.com/news/analysis-tool)
+- [@official@Chart your data in conversation with Claude](https://academy.claude.com/use-cases/chart-your-data-before-you-commit)

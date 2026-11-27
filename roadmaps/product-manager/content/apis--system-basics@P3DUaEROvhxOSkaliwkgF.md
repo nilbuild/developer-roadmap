@@ -4,5 +4,5 @@ An API (application programming interface) is a way for one piece of software to
 
 Visit the following resources to learn more:
 
-- [@article@APIs Explained for Product Managers - Department of Product](https://departmentofproduct.com/blog/apis-explained-for-product-managers)
-- [@article@Understanding API-Based Platforms: A Guide For Product Managers - Smashing Magazine](https://www.smashingmagazine.com/2019/01/api-based-platforms-product-managers)
+- [@article@APIs Explained for Product Managers](https://departmentofproduct.com/blog/apis-explained-for-product-managers)
+- [@article@Understanding API-Based Platforms - Smashing Magazine](https://www.smashingmagazine.com/2019/01/api-based-platforms-product-managers)

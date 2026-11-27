@@ -4,6 +4,6 @@ For a Product Manager, understanding the significance of DAU or Daily Active Use
 
 Visit the following resources to learn more:
 
-- [@article@You're Measuring Daily Active Users Wrong - Amplitude](https://amplitude.com/blog/measuring-active-users)
+- [@article@You're Measuring Daily Active Users Wrong](https://amplitude.com/blog/measuring-active-users)
 - [@article@What are Daily Active Users (DAU)? - Amplitude](https://amplitude.com/glossary/terms/daily-active-users)
-- [@article@DAU/MAU is an Important Metric but Here's Where It Fails - Andrew Chen](https://andrewchen.com/dau-mau-is-an-important-metric-but-heres-where-it-fails/)
+- [@article@DAU/MAU is an Important Metric but Fails - Andrew Chen](https://andrewchen.com/dau-mau-is-an-important-metric-but-heres-where-it-fails/)

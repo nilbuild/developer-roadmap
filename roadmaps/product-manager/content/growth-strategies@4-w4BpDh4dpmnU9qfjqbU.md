@@ -4,6 +4,6 @@ Growth strategies are the approaches a product team uses to expand its user base
 
 Visit the following resources to learn more:
 
-- [@article@4 Product Growth Strategies + A Framework Teams Can Follow - Contentsquare](https://contentsquare.com/guides/growth-product-management/strategy/)
-- [@article@10 Steps to a Killer Product Strategy Framework - ProductPlan](https://www.productplan.com/learn/product-strategy-framework)
-- [@article@What Is a Growth Strategy? Key Steps and Examples - Reforge](https://www.reforge.com/blog/growth-strategy-templates)
+- [@article@4 Product Growth Strategies + A Framework](https://contentsquare.com/guides/growth-product-management/strategy/)
+- [@article@10 Steps to a Killer Product Strategy Framework](https://www.productplan.com/learn/product-strategy-framework)
+- [@article@What Is a Growth Strategy? - Reforge](https://www.reforge.com/blog/growth-strategy-templates)

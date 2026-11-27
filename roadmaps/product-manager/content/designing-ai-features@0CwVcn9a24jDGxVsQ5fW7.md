@@ -5,5 +5,5 @@ Designing an AI feature is different from designing regular software because the
 Visit the following resources to learn more:
 
 - [@official@People + AI Guidebook - Google PAIR](https://pair.withgoogle.com/guidebook/)
-- [@article@Designing AI Products and Features: Study Guide - Nielsen Norman Group](https://www.nngroup.com/articles/designing-ai-study-guide/)
 - [@official@Mental Models - Google People + AI Guidebook](https://pair.withgoogle.com/chapter/mental-models/)
+- [@article@Designing AI Products and Features - NN/g](https://www.nngroup.com/articles/designing-ai-study-guide/)

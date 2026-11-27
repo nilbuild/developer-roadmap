@@ -5,5 +5,5 @@ Kanban is a workflow method that shows work as cards moving across columns such 
 Visit the following resources to learn more:
 
 - [@article@What is Kanban? - Atlassian](https://www.atlassian.com/agile/kanban)
-- [@article@4 Kanban Principles for Agile Project Management - Atlassian](https://www.atlassian.com/agile/project-management/kanban-principles)
+- [@article@4 Kanban Principles for Agile Project Management](https://www.atlassian.com/agile/project-management/kanban-principles)
 - [@article@What is a Kanban Board? - Atlassian](https://www.atlassian.com/agile/kanban/boards)

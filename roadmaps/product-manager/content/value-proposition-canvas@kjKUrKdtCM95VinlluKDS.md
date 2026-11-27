@@ -4,6 +4,6 @@ The Value Proposition Canvas is an essential tool for Product Managers. It aids 
 
 Visit the following resources to learn more:
 
-- [@article@Value Proposition Canvas – Download the Official Template - Strategyzer](https://www.strategyzer.com/library/the-value-proposition-canvas)
+- [@article@Value Proposition Canvas Template - Strategyzer](https://www.strategyzer.com/library/the-value-proposition-canvas)
 - [@article@What is The Value Proposition Canvas - IxDF](https://ixdf.org/literature/topics/value-proposition-canvas)
-- [@article@Value Proposition Canvas: A Tool To Understand What Customers Really Want - Strategyzer](https://www.strategyzer.com/library/value-proposition-canvas-a-tool-to-understand-what-customers-really-want)
+- [@article@Value Proposition Canvas - Strategyzer](https://www.strategyzer.com/library/value-proposition-canvas-a-tool-to-understand-what-customers-really-want)

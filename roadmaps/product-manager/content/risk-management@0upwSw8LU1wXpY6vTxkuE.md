@@ -4,5 +4,5 @@ Risk management is spotting what could go wrong with a product and deciding what
 
 Visit the following resources to learn more:
 
-- [@article@Design Risks: How to Assess, Mitigate, and Manage Them](https://www.nngroup.com/articles/design-risk-management/)
+- [@article@Design Risks: Assess, Mitigate, and Manage Them](https://www.nngroup.com/articles/design-risk-management/)
 - [@article@What Is Risk Identification? Definition and Tools](https://www.indeed.com/career-advice/career-development/risk-identification)

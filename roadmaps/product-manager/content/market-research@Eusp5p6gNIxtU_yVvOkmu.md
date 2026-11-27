@@ -4,6 +4,6 @@ Market analysis is the process of assessing the size, structure, and dynamics of
 
 Visit the following resources to learn more:
 
-- [@article@Product Management Skills: Market Research - Product School](https://productschool.com/blog/skills/product-management-skills-market-research)
-- [@article@Market Research Techniques: A Comprehensive Guide for Product Managers - Maven](https://maven.com/articles/product-managers-guide-market-research)
-- [@article@Competitive Analysis for Product Managers: A Complete Guide - Plane](https://plane.so/blog/competitive-analysis-for-product-managers-a-complete-guide)
+- [@article@Market Research Skills - Product School](https://productschool.com/blog/skills/product-management-skills-market-research)
+- [@article@Market Research Techniques - Maven](https://maven.com/articles/product-managers-guide-market-research)
+- [@article@Competitive Analysis for PMs - Plane](https://plane.so/blog/competitive-analysis-for-product-managers-a-complete-guide)

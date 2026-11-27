@@ -4,6 +4,6 @@ Pricing is the decision of how much to charge and in which form, such as per sea
 
 Visit the following resources to learn more:
 
-- [@article@The AI pricing and monetization playbook - Bessemer Venture Partners](https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook)
+- [@article@The AI pricing and monetization playbook - Bessemer](https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook)
 - [@article@The "alien" economics of AI monetization - Stripe](https://stripe.com/blog/economics-of-ai-monetization)
 - [@article@How to Price Your AI Product or Feature - Reforge](https://www.reforge.com/blog/how-to-price-your-ai-product)

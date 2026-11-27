@@ -4,6 +4,6 @@ Alignment means ensuring that key stakeholders share a common understanding of p
 
 Visit the following resources to learn more:
 
-- [@article@Justify Your Product Decisions and Get Stakeholder Buy-In - Mind the Product](https://www.mindtheproduct.com/justify-your-product-decisions-and-get-stakeholder-buy-in-by-teresa-torres/)
-- [@article@How to Get Buy-In From Stakeholders in 7 Steps - Product School](https://productschool.com/blog/leadership/how-get-buy-in-from-stakeholders)
-- [@article@How Product Managers Achieve Stakeholder Alignment - Aha!](https://www.aha.io/roadmapping/guide/product-management/how-product-managers-achieve-stakeholder-alignment)
+- [@article@Justify Product Decisions and Get Stakeholder Buy-In](https://www.mindtheproduct.com/justify-your-product-decisions-and-get-stakeholder-buy-in-by-teresa-torres/)
+- [@article@How to Get Buy-In From Stakeholders in 7 Steps](https://productschool.com/blog/leadership/how-get-buy-in-from-stakeholders)
+- [@article@How Product Managers Achieve Stakeholder Alignment](https://www.aha.io/roadmapping/guide/product-management/how-product-managers-achieve-stakeholder-alignment)

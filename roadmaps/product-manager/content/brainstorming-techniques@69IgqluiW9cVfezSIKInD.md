@@ -5,5 +5,5 @@ Brainstorming techniques are structured methods for generating a large number of
 Visit the following resources to learn more:
 
 - [@article@Brainstorming Techniques for Product Builders - Aha!](https://www.aha.io/roadmapping/guide/brainstorming-techniques-for-product-builders)
-- [@article@What is Brainstorming? Techniques and Methods - Miro](https://miro.com/brainstorming/what-is-brainstorming/)
-- [@article@10 Brainstorming Techniques for Idea Generation - Mural](https://www.mural.co/blog/brainstorming-techniques)
+- [@article@What is Brainstorming? Techniques and Methods](https://miro.com/brainstorming/what-is-brainstorming/)
+- [@article@10 Brainstorming Techniques for Idea Generation](https://www.mural.co/blog/brainstorming-techniques)

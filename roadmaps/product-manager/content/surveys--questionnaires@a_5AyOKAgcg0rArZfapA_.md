@@ -4,6 +4,6 @@ For a product manager, understanding the needs, wants, and experiences of users 
 
 Visit the following resources to learn more:
 
-- [@article@How to Run Surveys at Every Stage of the Design Cycle - NN/g](https://www.nngroup.com/articles/surveys-design-cycle/)
-- [@article@Ask, Analyze, Action: Your Guide to UX Surveys - Maze](https://maze.co/guides/ux-surveys/)
+- [@article@How to Run Surveys at Every Stage of Design - NN/g](https://www.nngroup.com/articles/surveys-design-cycle/)
+- [@article@Ask, Analyze, Action: Your Guide to UX Surveys](https://maze.co/guides/ux-surveys/)
 - [@article@Should You Run a Survey? - NN/g](https://www.nngroup.com/articles/should-you-run-a-survey/)

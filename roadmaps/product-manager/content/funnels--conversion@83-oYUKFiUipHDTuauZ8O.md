@@ -4,6 +4,6 @@ A funnel is the sequence of steps a user takes toward a goal, such as visiting a
 
 Visit the following resources to learn more:
 
-- [@article@What is Conversion Rate Optimization (CRO)? - Amplitude](https://amplitude.com/explore/experiment/conversion-rate-optimization)
+- [@article@What is Conversion Rate Optimization (CRO)?](https://amplitude.com/explore/experiment/conversion-rate-optimization)
 - [@article@Conversion Rate Optimization Tips - Mixpanel](https://mixpanel.com/blog/conversion-rate-optimization-tips/)
-- [@article@Conversion Rate Optimization: Complete Guide - Mouseflow](https://mouseflow.com/topics/conversion-rate-optimization/)
+- [@article@Conversion Rate Optimization - Mouseflow](https://mouseflow.com/topics/conversion-rate-optimization/)

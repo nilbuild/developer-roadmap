@@ -4,6 +4,6 @@ A/B testing is a controlled experiment where two variants of a product element a
 
 Visit the following resources to learn more:
 
-- [@article@Product Management Skills: A/B Testing - Product School](https://productschool.com/blog/skills/product-management-skills-a-b-testing)
-- [@article@When to Use A/B Testing in Product Management - Hustle Badger](https://www.hustlebadger.com/metrics/intro-a-b-testing-in-product-management/)
-- [@article@What Is A/B Testing in Product Management and When to Apply It - Savio](https://www.savio.io/blog/what-is-ab-testing-in-product-management-and-when-to-apply-it/)
+- [@article@Product Management Skills: A/B Testing](https://productschool.com/blog/skills/product-management-skills-a-b-testing)
+- [@article@When to Use A/B Testing in Product Management](https://www.hustlebadger.com/metrics/intro-a-b-testing-in-product-management/)
+- [@article@What Is A/B Testing in Product Management - Savio](https://www.savio.io/blog/what-is-ab-testing-in-product-management-and-when-to-apply-it/)

@@ -5,5 +5,5 @@ A product manager's core responsibilities include defining the product vision, w
 Visit the following resources to learn more:
 
 - [@article@Product Manager Roles & Responsibilities](https://www.productside.com/product-manager-roles-and-responsibilities-keytask/)
-- [@article@Product Manager: Role and Best Practices for Beginners - Atlassian](https://www.atlassian.com/agile/product-management/product-manager)
-- [@article@What Does a Product Manager Actually Do? Daily Life as a PM - Product School](https://productschool.com/blog/career-development/what-does-product-manager-do)
+- [@article@Product Manager: Role and Best Practices - Atlassian](https://www.atlassian.com/agile/product-management/product-manager)
+- [@article@What Does a Product Manager Do? - Product School](https://productschool.com/blog/career-development/what-does-product-manager-do)

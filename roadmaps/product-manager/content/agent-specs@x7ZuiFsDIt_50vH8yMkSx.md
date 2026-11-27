@@ -4,6 +4,6 @@ A spec for an agent is a requirements document written so an AI agent can build 
 
 Visit the following resources to learn more:
 
-- [@article@Spec-driven development with AI: Get started with a new open source toolkit - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
 - [@official@Review the Spec-Driven Development Methodology - Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/spec-driven-development-github-spec-kit-enterprise-developers/2-review-spec-driven-development-approach)
+- [@article@Spec-driven development with AI - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
 - [@article@What is spec-driven development? - Vercel](https://vercel.com/i/spec-driven-development)

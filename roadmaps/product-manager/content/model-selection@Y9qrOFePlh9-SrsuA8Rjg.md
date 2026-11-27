@@ -5,5 +5,5 @@ Model selection is choosing which AI model powers a feature. Most teams use mode
 Visit the following resources to learn more:
 
 - [@official@Model selection - OpenAI](https://developers.openai.com/api/docs/guides/model-selection)
-- [@official@Choose the Right AI Model for Your Workload - Microsoft Learn](https://learn.microsoft.com/azure/architecture/ai-ml/guide/choose-ai-model)
-- [@article@The AI Model Selection Triangle: Balancing Quality, Latency, and Cost - AWS Builder Center](https://builder.aws.com/content/3KWrY2sLr4ELQ0K7T9ndExc69lp/the-ai-model-selection-triangle-a-practical-framework-for-balancing-quality-latency-and-cost)
+- [@official@Choose the Right AI Model for Your Workload](https://learn.microsoft.com/azure/architecture/ai-ml/guide/choose-ai-model)
+- [@article@The AI Model Selection Triangle - AWS](https://builder.aws.com/content/3KWrY2sLr4ELQ0K7T9ndExc69lp/the-ai-model-selection-triangle-a-practical-framework-for-balancing-quality-latency-and-cost)

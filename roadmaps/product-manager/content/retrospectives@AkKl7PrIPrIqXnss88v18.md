@@ -5,5 +5,5 @@ Retrospectives, also known as "retros", play an essential role in the life of a 
 Visit the following resources to learn more:
 
 - [@article@What Are Agile Retrospectives? - Atlassian](https://www.atlassian.com/agile/scrum/retrospectives)
-- [@article@Agile Retrospective: A Look Back to Move Forward - Product School](https://productschool.com/blog/product-strategy/agile-retrospective)
-- [@article@Broken Retrospectives and How to Fix Them - Mind the Product](https://www.mindtheproduct.com/broken-retrospectives-and-how-to-fix-them/)
+- [@article@Agile Retrospective - Product School](https://productschool.com/blog/product-strategy/agile-retrospective)
+- [@article@Broken Retrospectives and How to Fix Them](https://www.mindtheproduct.com/broken-retrospectives-and-how-to-fix-them/)

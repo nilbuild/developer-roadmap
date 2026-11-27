@@ -4,6 +4,6 @@ Key Product Metrics are essential parameters that Product Managers use to measur
 
 Visit the following resources to learn more:
 
-- [@article@20+ Key Metrics for Product Management - Product School](https://productschool.com/blog/analytics/metrics-product-management)
+- [@article@20+ Key Metrics for Product Management](https://productschool.com/blog/analytics/metrics-product-management)
 - [@article@What Product Metrics Matter? - ProductPlan](https://productplan.com/learn/product-metrics-matter)
 - [@article@What Are Product Metrics? - Aha!](https://www.aha.io/roadmapping/guide/what-are-product-metrics)

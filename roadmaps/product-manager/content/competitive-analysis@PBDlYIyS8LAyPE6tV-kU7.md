@@ -4,6 +4,6 @@ Competitive analysis is the structured review of competing products to understan
 
 Visit the following resources to learn more:
 
-- [@article@Product Manager's Power Move: Competitor Analysis - Product School](https://productschool.com/blog/skills/product-manager-competitive-analysis)
-- [@article@Conduct an Effective Competitive Analysis Every Time - ProductPlan](https://www.productplan.com/learn/competitive-analysis-how-to/)
-- [@article@The Role of Competitive Analysis in Effective Product Strategy - Airfocus](https://airfocus.com/blog/competitive-analysis-in-product-strategy/)
+- [@article@Competitor Analysis - Product School](https://productschool.com/blog/skills/product-manager-competitive-analysis)
+- [@article@Conduct an Effective Competitive Analysis - ProductPlan](https://www.productplan.com/learn/competitive-analysis-how-to/)
+- [@article@Competitive Analysis in Product Strategy - Airfocus](https://airfocus.com/blog/competitive-analysis-in-product-strategy/)
