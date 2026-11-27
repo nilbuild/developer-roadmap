@@ -8,11 +8,11 @@ Before writing a patch, you should identify an issue in PostgreSQL that needs fi
 
 ### Step 2: Familiarize Yourself with the Codebase
 
-To write a patch, you must have a good understanding of the PostgreSQL source code. The code is available on the [official website](https://www.postgresql.org/developer/sourcecode/) and is organized into different modules. Familiarize yourself with the coding conventions, coding style, and the appropriate module where your patch will be applied.
+To write a patch, you must have a good understanding of the PostgreSQL source code. The code is available on the [official website](https://www.postgresql.org/docs/current/git.html) and is organized into different modules. Familiarize yourself with the coding conventions, coding style, and the appropriate module where your patch will be applied.
 
 ### Step 3: Set up the Development Environment
 
-To create a patch, you need a development environment with the required tools, such as Git, GCC, and Bison. Follow the instructions in the [PostgreSQL Developer Setup Guide](https://wiki.postgresql.org/wiki/Developer_Setup) to set up your environment.
+To create a patch, you need a development environment with the required tools, such as Git, GCC, and Bison. Follow the instructions in the [PostgreSQL Developer FAQ](https://wiki.postgresql.org/wiki/Developer_FAQ#What_development_environment_is_required_to_develop_code.3F) to set up your environment.
 
 ### Step 4: Write the Patch
 
