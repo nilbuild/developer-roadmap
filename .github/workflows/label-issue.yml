@@ -3,7 +3,11 @@ name: Label Issue
 on:
   issues:
     types: [ opened, edited ]
-  
+
+permissions:
+  contents: read
+  issues: write
+
 jobs:
   label-topic-change-issue:
     runs-on: ubuntu-latest
@@ -14,27 +18,52 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const issue = context.payload.issue;
-            const roadmapUrl = issue.body.match(/https?:\/\/roadmap.sh\/[^ ]+/);
+            const { owner, repo } = context.repo;
 
-            // if the issue is labeled as a topic-change, add the roadmap slug as a label
-            if (issue.labels.some(label => label.name === 'topic-change')) {
-              if (roadmapUrl) {
-                const roadmapSlug = new URL(roadmapUrl[0]).pathname.replace(/\//, '');
-                github.rest.issues.addLabels({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  issue_number: issue.number,
-                  labels: [roadmapSlug]
-                });
-              }
-            
-              // Close the issue if it has no roadmap URL
-              if (!roadmapUrl) {
-                github.rest.issues.update({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  issue_number: issue.number,
-                  state: 'closed'
-                });
-              }
+            // Only topic-change issues are labelled by roadmap.
+            if (!issue.labels.some((label) => label.name === 'topic-change')) {
+              return;
             }
+
+            // Find the first roadmap.sh link, with or without the protocol or "www.",
+            // and take only its first path segment: the roadmap slug. This ignores
+            // trailing slashes, topic sub-pages, query strings and closing brackets.
+            const body = issue.body || '';
+            const match = body.match(
+              /(?:https?:\/\/)?(?:www\.)?roadmap\.sh\/([a-z0-9-]+)/i,
+            );
+            const roadmapSlug = match?.[1]?.toLowerCase();
+
+            // Close the issue if it has no roadmap URL.
+            if (!roadmapSlug) {
+              await github.rest.issues.update({
+                owner,
+                repo,
+                issue_number: issue.number,
+                state: 'closed',
+              });
+              return;
+            }
+
+            // Only add the label if a roadmap with this slug exists in the repo, so a
+            // link to a non-roadmap page doesn't create a new, unrelated label.
+            try {
+              await github.rest.repos.getContent({
+                owner,
+                repo,
+                path: `roadmaps/${roadmapSlug}`,
+              });
+            } catch (error) {
+              if (error.status === 404) {
+                core.info(`No roadmap found for "${roadmapSlug}", not adding a label`);
+                return;
+              }
+              throw error;
+            }
+
+            await github.rest.issues.addLabels({
+              owner,
+              repo,
+              issue_number: issue.number,
+              labels: [roadmapSlug],
+            });
