@@ -69,12 +69,18 @@ async function getRoadmapSlugs(): Promise<string[]> {
 
 function parseContentFilename(
   filename: string,
-): { slug: string; nodeId: string } | null {
-  const match = filename.match(/^(.+)@([^.]+)\.md$/);
+): { slug: string; nodeId: string; hasExtraExtension: boolean } | null {
+  // Also accept names with a repeated extension (e.g. `topic@id.md.md`) so
+  // they are cleaned up instead of being silently skipped.
+  const match = filename.match(/^(.+)@([^.]+)((?:\.md)+)$/);
   if (!match) {
     return null;
   }
-  return { slug: match[1], nodeId: match[2] };
+  return {
+    slug: match[1],
+    nodeId: match[2],
+    hasExtraExtension: match[3] !== '.md',
+  };
 }
 
 async function cleanupRoadmap(slug: string): Promise<OrphanEntry[]> {
@@ -118,6 +124,7 @@ async function cleanupRoadmap(slug: string): Promise<OrphanEntry[]> {
       continue;
     }
     if (
+      !parsed.hasExtraExtension &&
       validNodeIds.has(parsed.nodeId) &&
       nodeIdToExpectedSlug.get(parsed.nodeId) === parsed.slug
     ) {
@@ -131,28 +138,33 @@ async function cleanupRoadmap(slug: string): Promise<OrphanEntry[]> {
       continue;
     }
 
-    const { slug: fileSlug, nodeId } = parsed;
+    const { slug: fileSlug, nodeId, hasExtraExtension } = parsed;
 
     if (validNodeIds.has(nodeId)) {
       const expectedSlug = nodeIdToExpectedSlug.get(nodeId)!;
-      if (fileSlug === expectedSlug) {
+      if (fileSlug === expectedSlug && !hasExtraExtension) {
         continue;
       }
 
+      const reason = hasExtraExtension
+        ? 'Repeated .md extension'
+        : 'Same nodeId, old slug';
       const correctFile = `${expectedSlug}@${nodeId}.md`;
-      const correctFileExists = files.includes(correctFile);
+      const correctFileExists =
+        files.includes(correctFile) ||
+        orphans.some((orphan) => orphan.renamedTo === correctFile);
 
       if (correctFileExists) {
         orphans.push({
           file,
-          reason: 'Same nodeId, old slug',
+          reason,
           duplicateOf: correctFile,
           action: 'deleted',
         });
       } else {
         orphans.push({
           file,
-          reason: 'Same nodeId, old slug',
+          reason,
           duplicateOf: correctFile,
           action: 'renamed',
           renamedTo: correctFile,
