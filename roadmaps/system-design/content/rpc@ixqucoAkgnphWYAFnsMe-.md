@@ -5,3 +5,4 @@ Remote Procedure Call, or RPC, lets a program call a function on a remote server
 Visit the following resources to learn more:
 
 - [@opensource@What Is RPC?](https://github.com/donnemartin/system-design-primer#remote-procedure-call-rpc)
+- [@article@Tracing an RPC call and handling a deadline](https://www.systemtutor.com/courses/system-design/docs/api/rpc)
